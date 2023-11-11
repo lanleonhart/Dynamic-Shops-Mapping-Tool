@@ -32,6 +32,7 @@ def write_to_text(tag_entries, output_folder='shopmapper'):
         with open(output_text_path, 'w') as text_file:
             for tag, entries in sorted(tags.items()):
                 text_file.write(f'Tag: {tag}\n')
+                text_file.write('-' * 27 + '\n')  # Row of '-'
                 for entry in entries:
                     text_file.write(entry + '\n')
                 text_file.write('\n')

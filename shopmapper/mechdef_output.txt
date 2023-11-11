@@ -1,5227 +1,5135 @@
 Tag: mechdef_NovaCat_NCT-A
+---------------------------
   File: itemCollection_faction_ClanNovaCat.csv
 
 Tag: mechdef_NovaCat_NCT-B
+---------------------------
   File: itemCollection_faction_ClanNovaCat.csv
 
 Tag: mechdef_NovaCat_NCT-C
+---------------------------
   File: itemCollection_faction_ClanNovaCat.csv
 
 Tag: mechdef_NovaCat_NCT-CC
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_NovaCat_NCT-D
+---------------------------
   File: itemCollection_faction_ClanNovaCat.csv
 
 Tag: mechdef_NovaCat_NCT-E
+---------------------------
   File: itemCollection_faction_ClanNovaCat.csv
 
 Tag: mechdef_NovaCat_NCT-M
+---------------------------
   File: itemCollection_faction_ClanNovaCat.csv
 
 Tag: mechdef_NovaCat_NCT-Prime
+---------------------------
   File: itemCollection_faction_ClanNovaCat.csv
 
 Tag: mechdef_adder_ADR-CN
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_adder_ADR-E
+---------------------------
   File: BTA_List_ArcRoyal_Clan.csv
 
 Tag: mechdef_adder_ADR-Prime
+---------------------------
+  File: itemCollection_systemStores_MechParts_ClanNovaCat_Light.csv
   File: BTA_List_Outreach_Clan.csv
 
-Tag: mechdef_adder_ADR-Prime
-  File: itemCollection_systemStores_MechParts_ClanNovaCat_Light.csv
-
 Tag: mechdef_albatross_ALB-3U
+---------------------------
   File: BTA_List_Irian.csv
 
 Tag: mechdef_albatross_ALB-4U
+---------------------------
   File: BTA_List_Irian.csv
 
 Tag: mechdef_anubis_ABS-2L
+---------------------------
   File: BTA_List_Detroit.csv
 
 Tag: mechdef_anubis_ABS-3L
+---------------------------
   File: BTA_List_Detroit.csv
-
-Tag: mechdef_anubis_ABS-3L
   File: itemCollection_systemStores_MechParts_Liao_Light.csv
 
 Tag: mechdef_anubis_ABS-3R
+---------------------------
   File: BTA_List_Detroit.csv
 
 Tag: mechdef_anubis_ABS-3T
+---------------------------
   File: BTA_List_Detroit.csv
 
 Tag: mechdef_anubis_ABS-TZ
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_anvil_ANV-3M
+---------------------------
   File: BTA_List_Gibson.csv
 
 Tag: mechdef_anvil_ANV-3R
+---------------------------
   File: BTA_List_Gibson.csv
 
 Tag: mechdef_anvil_ANV-5M
+---------------------------
   File: BTA_List_Gibson.csv
-
-Tag: mechdef_anvil_ANV-5M
   File: itemCollection_systemStores_MechParts_Marik_Light.csv
 
 Tag: mechdef_anvil_ANV-5Q
+---------------------------
   File: BTA_List_Gibson.csv
 
 Tag: mechdef_archangel_C-ANG-CONDITUS
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
-
-Tag: mechdef_archangel_C-ANG-CONDITUS
+  File: itemCollection_faction_WoB.csv
   File: itemCollection_Mechs_faction_WoB.csv
 
-Tag: mechdef_archangel_C-ANG-CONDITUS
-  File: itemCollection_faction_WoB.csv
-
 Tag: mechdef_archangel_C-ANG-DEICIO
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
 
 Tag: mechdef_archangel_C-ANG-LATERIS
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
 
 Tag: mechdef_archangel_C-ANG-RAPTUS
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
 
 Tag: mechdef_arcticcheetah_ACH-SH
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_arcticwolf_ACW-1
+---------------------------
   File: BTA_List_ArcRoyal_Clan.csv
 
 Tag: mechdef_arcticwolf_ACW-2
+---------------------------
   File: BTA_List_ArcRoyal_Clan.csv
 
 Tag: mechdef_arcticwolf_ACW-BK
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_argus_AGS-2D
+---------------------------
   File: BTA_List_NewAvalon.csv
 
 Tag: mechdef_argus_AGS-3M
+---------------------------
   File: BTA_List_Robinson.csv
 
 Tag: mechdef_argus_AGS-4D
+---------------------------
   File: BTA_List_NewAvalon.csv
-
-Tag: mechdef_argus_AGS-4D
   File: BTA_List_Robinson.csv
-
-Tag: mechdef_argus_AGS-4D
   File: itemCollection_systemStores_MechParts_Davion_Light.csv
 
 Tag: mechdef_assassin_ASN-30
+---------------------------
   File: itemCollection_HM_careerStarter_pack_Mechs.csv
 
 Tag: mechdef_atlas_AS7-BH
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_atlas_AS7-C
+---------------------------
   File: BTA_List_AlNair.csv
-
-Tag: mechdef_atlas_AS7-C
   File: BTA_List_Quentin.csv
 
 Tag: mechdef_atlas_AS7-CM
+---------------------------
   File: BTA_List_AlNair.csv
-
-Tag: mechdef_atlas_AS7-CM
   File: BTA_List_Quentin.csv
 
 Tag: mechdef_atlas_AS7-D-H
+---------------------------
   File: BTA_SLDF_Mechs.csv
-
-Tag: mechdef_atlas_AS7-D-H
   File: BTA_SLDF_MechsParts.csv
-
-Tag: mechdef_atlas_AS7-D-H
   File: itemCollection_MechParts_SLDF.csv
 
 Tag: mechdef_atlas_AS7-D-H2
+---------------------------
   File: itemCollection_MechParts_SLDF.csv
 
 Tag: mechdef_atlas_AS7-S
+---------------------------
   File: itemCollection_systemStores_MechParts_Steiner_Light.csv
 
 Tag: mechdef_atlas_AS7-S2
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
 
 Tag: mechdef_atlas_AS7_C
+---------------------------
   File: BTAClan_Mechs_Rare_Convoy.csv
 
 Tag: mechdef_avatar_AV1-0
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_avatar_AV1-0
   File: BTA_List_Luthien.csv
-
-Tag: mechdef_avatar_AV1-0
   File: BTA_List_Marduk.csv
-
-Tag: mechdef_avatar_AV1-0
   File: BTA_List_NewValencia.csv
-
-Tag: mechdef_avatar_AV1-0
   File: itemCollection_systemStores_MechParts_Kurita_Heavy.csv
-
-Tag: mechdef_avatar_AV1-0
   File: itemCollection_systemStores_MechParts_Kurita_Light.csv
-
-Tag: mechdef_avatar_AV1-0
   File: itemCollection_systemStores_Mechs_Kurita_Heavy.csv
 
 Tag: mechdef_avatar_AV1-AT
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_awesome_AWS-8Q
+---------------------------
   File: itemCollection_MechParts_Steiner_rare.csv
 
 Tag: mechdef_awesome_AWS-8T
+---------------------------
   File: itemCollection_MechParts_Steiner_rare.csv
 
 Tag: mechdef_awesome_AWS-9M
+---------------------------
   File: BTA_List_Irian.csv
-
-Tag: mechdef_awesome_AWS-9M
   File: BTA_List_Savannah.csv
-
-Tag: mechdef_awesome_AWS-9M
   File: itemCollection_systemStores_MechParts_Marik_Assault.csv
-
-Tag: mechdef_awesome_AWS-9M
   File: itemCollection_systemStores_Mechs_Marik_Assault.csv
 
 Tag: mechdef_awesome_AWS-9Q
+---------------------------
+  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
   File: BTA_List_Irian.csv
-
-Tag: mechdef_awesome_AWS-9Q
   File: BTA_List_Savannah.csv
-
-Tag: mechdef_awesome_AWS-9Q
   File: itemCollection_systemStores_MechParts_Marik_Light.csv
 
-Tag: mechdef_awesome_AWS-9Q
-  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
-
 Tag: mechdef_awesome_AWS-PB
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_ba_achilles
+---------------------------
   File: BTA_Battle_Armor.csv
-
-Tag: mechdef_ba_achilles
   File: BTA_List_BA.csv
 
 Tag: mechdef_ba_asterion
+---------------------------
   File: BTA_List_BA.csv
-
-Tag: mechdef_ba_asterion
   File: BTA_List_MacLeod.csv
-
-Tag: mechdef_ba_asterion
   File: BTA_List_Sterope.csv
-
-Tag: mechdef_ba_asterion
   File: itemCollection_faction_TaurianConcordat.csv
 
 Tag: mechdef_ba_elemental
+---------------------------
   File: BTAClan_BA.csv
-
-Tag: mechdef_ba_elemental
   File: BTA_List_BA_Clan.csv
-
-Tag: mechdef_ba_elemental
   File: itemCollection_faction_ClanNovaCat.csv
-
-Tag: mechdef_ba_elemental
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: mechdef_ba_fashih
+---------------------------
   File: BTA_List_BA_Rare.csv
-
-Tag: mechdef_ba_fashih
   File: BTA_List_Capella.csv
-
-Tag: mechdef_ba_fashih
   File: BTA_List_Sian.csv
-
-Tag: mechdef_ba_fashih
   File: itemCollection_faction_Liao.csv
 
 Tag: mechdef_ba_gnome
+---------------------------
   File: BTAClan_BA.csv
-
-Tag: mechdef_ba_gnome
   File: BTA_List_BA_Clan.csv
 
 Tag: mechdef_ba_golem
+---------------------------
   File: BTAClan_BA.csv
-
-Tag: mechdef_ba_golem
   File: BTA_List_BA_Clan.csv
 
 Tag: mechdef_ba_grenadier
+---------------------------
   File: BTA_List_BA_Rare.csv
-
-Tag: mechdef_ba_grenadier
   File: BTA_List_Talcott.csv
-
-Tag: mechdef_ba_grenadier
   File: itemCollection_faction_Davion.csv
 
 Tag: mechdef_ba_infiltratormkii
+---------------------------
   File: BTA_List_BA_Rare.csv
-
-Tag: mechdef_ba_infiltratormkii
   File: BTA_List_NewAvalon.csv
-
-Tag: mechdef_ba_infiltratormkii
   File: BTA_List_Tharkad.csv
-
-Tag: mechdef_ba_infiltratormkii
   File: itemCollection_faction_Davion.csv
-
-Tag: mechdef_ba_infiltratormkii
   File: itemCollection_faction_Steiner.csv
 
 Tag: mechdef_ba_is_standard
+---------------------------
   File: BTA_Battle_Armor.csv
-
-Tag: mechdef_ba_is_standard
   File: BTA_List_BA.csv
-
-Tag: mechdef_ba_is_standard
   File: BTA_List_Capella.csv
-
-Tag: mechdef_ba_is_standard
   File: BTA_List_Furillo.csv
-
-Tag: mechdef_ba_is_standard
   File: BTA_List_Gibson.csv
-
-Tag: mechdef_ba_is_standard
   File: BTA_List_Irian.csv
-
-Tag: mechdef_ba_is_standard
   File: BTA_List_Kalidasa.csv
-
-Tag: mechdef_ba_is_standard
   File: BTA_List_Luthien.csv
-
-Tag: mechdef_ba_is_standard
   File: BTA_List_Sian.csv
-
-Tag: mechdef_ba_is_standard
   File: BTA_List_Tharkad.csv
 
 Tag: mechdef_ba_kanazuchi
+---------------------------
   File: BTA_List_BA_Rare.csv
-
-Tag: mechdef_ba_kanazuchi
   File: BTA_List_Luthien.csv
-
-Tag: mechdef_ba_kanazuchi
   File: itemCollection_faction_Kurita.csv
 
 Tag: mechdef_ba_krupp
+---------------------------
   File: BTA_List_BA_Rare.csv
-
-Tag: mechdef_ba_krupp
   File: itemCollection_faction_Rasalhague.csv
 
 Tag: mechdef_ba_marauder
+---------------------------
   File: BTA_List_BA_Rare.csv
-
-Tag: mechdef_ba_marauder
   File: itemCollection_faction_Marian.csv
 
 Tag: mechdef_ba_phalanx
+---------------------------
   File: BTA_List_BA_Rare.csv
-
-Tag: mechdef_ba_phalanx
   File: BTA_List_Gibson.csv
-
-Tag: mechdef_ba_phalanx
   File: BTA_List_Irian.csv
-
-Tag: mechdef_ba_phalanx
   File: itemCollection_faction_Marik.csv
 
 Tag: mechdef_ba_raiden
+---------------------------
   File: BTA_List_BA_Rare.csv
-
-Tag: mechdef_ba_raiden
   File: BTA_List_Luthien.csv
-
-Tag: mechdef_ba_raiden
   File: BTA_List_NewSamarkand.csv
-
-Tag: mechdef_ba_raiden
   File: itemCollection_faction_Kurita.csv
 
 Tag: mechdef_ba_ravager
+---------------------------
   File: BTA_List_BA_Rare.csv
-
-Tag: mechdef_ba_ravager
   File: itemCollection_faction_Marian.csv
 
 Tag: mechdef_ba_rottweiler
+---------------------------
   File: BTA_List_BA_Rare.csv
-
-Tag: mechdef_ba_rottweiler
   File: BTA_List_Tharkad.csv
-
-Tag: mechdef_ba_rottweiler
   File: itemCollection_faction_Steiner.csv
 
 Tag: mechdef_ba_salamander
+---------------------------
   File: BTAClan_BA.csv
-
-Tag: mechdef_ba_salamander
   File: BTA_List_BA_Clan.csv
-
-Tag: mechdef_ba_salamander
   File: itemCollection_faction_ClanNovaCat.csv
 
 Tag: mechdef_ba_simo
+---------------------------
   File: itemCollection_faction_Liao.csv
 
 Tag: mechdef_ba_sloth
+---------------------------
   File: BTA_List_BA_Rare.csv
-
-Tag: mechdef_ba_sloth
   File: itemCollection_faction_Steiner.csv
 
 Tag: mechdef_ba_tengu
+---------------------------
   File: BTA_List_BA_Rare.csv
-
-Tag: mechdef_ba_tengu
   File: itemCollection_faction_WoB.csv
 
 Tag: mechdef_ba_theseus
+---------------------------
   File: BTA_List_BA.csv
-
-Tag: mechdef_ba_theseus
   File: BTA_List_Detroit.csv
-
-Tag: mechdef_ba_theseus
   File: itemCollection_faction_MagistracyOfCanopus.csv
 
 Tag: mechdef_ba_void
+---------------------------
   File: BTA_List_BA_Rare.csv
-
-Tag: mechdef_ba_void
   File: itemCollection_faction_Kurita.csv
 
 Tag: mechdef_ba_yinglong
+---------------------------
   File: BTA_List_BA.csv
-
-Tag: mechdef_ba_yinglong
   File: BTA_List_Capella.csv
-
-Tag: mechdef_ba_yinglong
   File: itemCollection_faction_Liao.csv
 
 Tag: mechdef_bane_BNE-DD
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_banshee_BNC-1E
+---------------------------
   File: BTA_List_Antwerp.csv
 
 Tag: mechdef_banshee_BNC-3E
+---------------------------
   File: itemCollection_systemStores_MechParts_BlackMarket_Assault.csv
-
-Tag: mechdef_banshee_BNC-3E
   File: itemCollection_systemStores_Mechs_BlackMarket_Assault.csv
 
 Tag: mechdef_banshee_BNC-5S
+---------------------------
+  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
   File: itemCollection_systemStores_MechParts_Steiner_Light.csv
 
-Tag: mechdef_banshee_BNC-5S
-  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
-
 Tag: mechdef_banshee_BNC-6S
+---------------------------
   File: BTA_List_HesperusII.csv
 
 Tag: mechdef_banshee_BNC-7S
+---------------------------
   File: BTA_List_HesperusII.csv
 
 Tag: mechdef_banshee_BNC-SR
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_barghest_BGS-1T
+---------------------------
   File: BTA_List_Tharkad.csv
-
-Tag: mechdef_barghest_BGS-1T
   File: itemCollection_systemStores_MechParts_Steiner_Light.csv
 
 Tag: mechdef_barghest_BGS-2T
+---------------------------
   File: BTA_List_Tharkad.csv
 
 Tag: mechdef_barghest_BGS-3T
+---------------------------
   File: BTA_List_Tharkad.csv
 
 Tag: mechdef_battleaxe_BKX-8K
+---------------------------
   File: BTA_List_NewAvalon.csv
-
-Tag: mechdef_battleaxe_BKX-8K
   File: itemCollection_systemStores_MechParts_Davion_Light.csv
 
 Tag: mechdef_battlemaster_BLR-1G
+---------------------------
   File: itemCollection_MechParts_Liao_rare.csv
 
 Tag: mechdef_battlemaster_BLR-1G-DC
+---------------------------
   File: itemCollection_faction_Ives.csv
 
 Tag: mechdef_battlemaster_BLR-1GB
+---------------------------
   File: BTA_SLDF_Mechs.csv
-
-Tag: mechdef_battlemaster_BLR-1GB
   File: BTA_SLDF_MechsParts.csv
-
-Tag: mechdef_battlemaster_BLR-1GB
   File: itemCollection_MechParts_SLDF.csv
 
 Tag: mechdef_battlemaster_BLR-1GHE
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_battlemaster_BLR-3M
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
 
 Tag: mechdef_battlemaster_BLR-4S
+---------------------------
   File: BTA_List_Storfors.csv
 
 Tag: mechdef_battlemaster_BLR-5K
+---------------------------
   File: BTA_List_Soul.csv
 
 Tag: mechdef_battlemaster_BLR-5M
+---------------------------
   File: BTA_List_Keystone.csv
 
 Tag: mechdef_battlemaster_BLR-K3
+---------------------------
   File: BTA_List_Soul.csv
 
 Tag: mechdef_behemoth_BM-1
+---------------------------
   File: BTA_List_Outreach_Clan.csv
 
 Tag: mechdef_bellerophon_BEL-2S
+---------------------------
   File: BTA_List_HesperusII.csv
-
-Tag: mechdef_bellerophon_BEL-2S
   File: itemCollection_systemStores_MechParts_Steiner_Light.csv
 
 Tag: mechdef_bellerophon_BEL-3S
+---------------------------
   File: BTA_List_HesperusII.csv
-
-Tag: mechdef_bellerophon_BEL-3S
   File: itemCollection_systemStores_MechParts_Steiner_Light.csv
 
 Tag: mechdef_bellerophon_BEL-4S
+---------------------------
   File: itemCollection_systemStores_MechParts_Steiner_Light.csv
 
 Tag: mechdef_bellerophon_BEL-BH
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_berserker_BRZ-A3
+---------------------------
   File: BTA_List_HesperusII.csv
-
-Tag: mechdef_berserker_BRZ-A3
   File: itemCollection_systemStores_MechParts_Steiner_Light.csv
 
 Tag: mechdef_berserker_BRZ-B3
+---------------------------
   File: BTA_List_HesperusII.csv
 
 Tag: mechdef_berserker_BRZ-C3
+---------------------------
   File: BTA_List_HesperusII.csv
 
 Tag: mechdef_blackhawkku_BHKU-O
+---------------------------
   File: BTA_List_Coventry.csv
-
-Tag: mechdef_blackhawkku_BHKU-O
   File: BTA_List_Luthien.csv
-
-Tag: mechdef_blackhawkku_BHKU-O
   File: BTA_List_Marduk.csv
-
-Tag: mechdef_blackhawkku_BHKU-O
   File: BTA_List_NewAvalon.csv
-
-Tag: mechdef_blackhawkku_BHKU-O
   File: itemCollection_systemStores_MechParts_Kurita_Light.csv
 
 Tag: mechdef_blackjack_BJ-1
-  File: itemCollection_MechParts_Davion_uncommon.csv
-
-Tag: mechdef_blackjack_BJ-1
-  File: itemCollection_systemStores_MechParts_common_Light.csv
-
-Tag: mechdef_blackjack_BJ-1
-  File: itemCollection_systemStores_MechParts_common_Medium.csv
-
-Tag: mechdef_blackjack_BJ-1
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_GreatHouse.csv
-
-Tag: mechdef_blackjack_BJ-1
+  File: itemCollection_MechParts_Davion_uncommon.csv
+  File: itemCollection_systemStores_MechParts_common_Light.csv
+  File: itemCollection_systemStores_MechParts_common_Medium.csv
   File: itemCollection_systemStores_Mechs_common_Medium.csv
 
 Tag: mechdef_blackjack_BJ-3
+---------------------------
+  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
   File: BTA_List_StIves.csv
 
-Tag: mechdef_blackjack_BJ-3
-  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
-
 Tag: mechdef_blackjack_BJ-5
+---------------------------
   File: BTA_List_Talcott.csv
 
 Tag: mechdef_blackjack_BJ-A
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_blackjack_BJ2-O-PRIME
+---------------------------
   File: BTA_List_Irian.csv
-
-Tag: mechdef_blackjack_BJ2-O-PRIME
   File: BTA_List_Luthien.csv
-
-Tag: mechdef_blackjack_BJ2-O-PRIME
   File: BTA_List_NewValencia.csv
-
-Tag: mechdef_blackjack_BJ2-O-PRIME
   File: BTA_List_Shiro.csv
-
-Tag: mechdef_blackjack_BJ2-O-PRIME
   File: BTA_List_Warlock.csv
-
-Tag: mechdef_blackjack_BJ2-O-PRIME
   File: itemCollection_systemStores_MechParts_Kurita_Light.csv
-
-Tag: mechdef_blackjack_BJ2-O-PRIME
   File: itemCollection_systemStores_MechParts_Kurita_Medium.csv
-
-Tag: mechdef_blackjack_BJ2-O-PRIME
   File: itemCollection_systemStores_Mechs_Kurita_Medium.csv
 
 Tag: mechdef_blackknight_BL-6-KNT
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_blackknight_BL-6-KNT
   File: BTA_List_Connaugh.csv
-
-Tag: mechdef_blackknight_BL-6-KNT
   File: itemCollection_MechParts_Kurita_rare.csv
 
 Tag: mechdef_blackknight_BL-6b-KNT
+---------------------------
   File: itemCollection_MechParts_SLDF.csv
 
 Tag: mechdef_blackknight_BL-7-KNT
+---------------------------
   File: BTA_List_Robinson.csv
 
 Tag: mechdef_blackknight_BL-7-KNT-L
+---------------------------
   File: itemCollection_systemStores_MechParts_Marik_Heavy.csv
-
-Tag: mechdef_blackknight_BL-7-KNT-L
   File: itemCollection_systemStores_MechParts_Marik_Light.csv
-
-Tag: mechdef_blackknight_BL-7-KNT-L
   File: itemCollection_systemStores_Mechs_Marik_Heavy.csv
 
 Tag: mechdef_blackknight_BL-9-KNT
+---------------------------
+  File: itemCollection_faction_ComStar.csv
   File: itemCollection_Mechs_faction_ComStar.csv
 
-Tag: mechdef_blackknight_BL-9-KNT
-  File: itemCollection_faction_ComStar.csv
-
 Tag: mechdef_blackknight_BL-P-KNT
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_blackknight_BL-X-KNT
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_blacklanner_BKL-BL
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_blackpython_BP-1
+---------------------------
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: mechdef_blackpython_BP-2
+---------------------------
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: mechdef_blackpython_BP-5
+---------------------------
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: mechdef_blackpython_BP-5A
+---------------------------
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: mechdef_blaze_BLZ-3D
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_blaze_BLZ-3D
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_blaze_BLZ-3M
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_blaze_BLZ-3M
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_blaze_BLZ-3X
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_blaze_BLZ-3X
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_blaze_BLZ-4L
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_blaze_BLZ-4L
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_blitzkrieg_BTZ-3F
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_blitzkrieg_BTZ-3F
   File: BTA_List_Coventry.csv
-
-Tag: mechdef_blitzkrieg_BTZ-3F
   File: itemCollection_systemStores_MechParts_Steiner_Light.csv
 
 Tag: mechdef_blitzkrieg_BTZ-5F
+---------------------------
   File: BTA_List_Coventry.csv
 
 Tag: mechdef_blitzkrieg_BTZ-6F
+---------------------------
   File: BTA_List_Coventry.csv
 
 Tag: mechdef_bloodasp_RA
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_bombard_BMB-010
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_bombard_BMB-013
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
-
-Tag: mechdef_bombard_BMB-013
   File: itemCollection_table_eventHellOfADeal.csv
 
 Tag: mechdef_bombard_BMB-018
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_bombard_BMB-020
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_bombard_BMB-TB
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_bombardier_BMB-10D
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_Periphery.csv
 
 Tag: mechdef_bombardier_BMB-12D
+---------------------------
   File: BTA_List_Mitchella.csv
 
 Tag: mechdef_bombardier_BMB-PRK
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_brigand_LDT-1
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_brigand_LDT-1
+  File: itemCollection_faction_Tortuga.csv
   File: BTA_List_Tortuga_Prime.csv
 
-Tag: mechdef_brigand_LDT-1
-  File: itemCollection_faction_Tortuga.csv
-
 Tag: mechdef_brigand_LDT-AB
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_brigand_LDT-X1
-  File: BTA_List_Tortuga_Prime.csv
-
-Tag: mechdef_brigand_LDT-X1
+---------------------------
   File: itemCollection_faction_Tortuga.csv
-
-Tag: mechdef_brigand_LDT-X2
   File: BTA_List_Tortuga_Prime.csv
 
 Tag: mechdef_brigand_LDT-X2
+---------------------------
   File: itemCollection_faction_Tortuga.csv
+  File: BTA_List_Tortuga_Prime.csv
 
 Tag: mechdef_buccaneer_BCN-3R
+---------------------------
   File: BTA_List_Gibson.csv
 
 Tag: mechdef_bushwacker_BSW-HR
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_bushwacker_BSW-L1
+---------------------------
   File: BTA_List_Tharkad.csv
 
 Tag: mechdef_bushwacker_BSW-S2
+---------------------------
   File: BTA_List_Tharkad.csv
 
 Tag: mechdef_bushwacker_BSW-X1
+---------------------------
   File: itemCollection_systemStores_MechParts_Davion_Light.csv
 
 Tag: mechdef_cataphract_CTF-1X
+---------------------------
   File: itemCollection_MechParts_Liao_rare.csv
 
 Tag: mechdef_cataphract_CTF-3AA
+---------------------------
   File: BTA_List_Tikonov.csv
 
 Tag: mechdef_cataphract_CTF-3L
-  File: itemCollection_systemStores_MechParts_Liao_Heavy.csv
-
-Tag: mechdef_cataphract_CTF-3L
-  File: itemCollection_systemStores_MechParts_Liao_Light.csv
-
-Tag: mechdef_cataphract_CTF-3L
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
-
-Tag: mechdef_cataphract_CTF-3L
+  File: itemCollection_systemStores_MechParts_Liao_Heavy.csv
+  File: itemCollection_systemStores_MechParts_Liao_Light.csv
   File: itemCollection_systemStores_Mechs_Liao_Heavy.csv
 
 Tag: mechdef_cataphract_CTF-4L
+---------------------------
   File: BTA_List_GrandBase.csv
-
-Tag: mechdef_cataphract_CTF-4L
   File: BTA_List_Tikonov.csv
 
 Tag: mechdef_cataphract_CTF-FR
+---------------------------
   File: itemCollection_BTA_Throwdown_Mechs.csv
 
 Tag: mechdef_cataphract_CTF-IM
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_catapult_CPLT-BB
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_catapult_CPLT-C1
+---------------------------
   File: itemCollection_MechParts_Kurita_rare.csv
 
 Tag: mechdef_catapult_CPLT-C1b
+---------------------------
   File: BTA_SLDF_Mechs.csv
-
-Tag: mechdef_catapult_CPLT-C1b
   File: BTA_SLDF_MechsParts.csv
-
-Tag: mechdef_catapult_CPLT-C1b
   File: itemCollection_MechParts_SLDF.csv
 
 Tag: mechdef_catapult_CPLT-C2
+---------------------------
   File: itemCollection_systemStores_MechParts_Liao_Light.csv
 
 Tag: mechdef_catapult_CPLT-C4C
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
 
 Tag: mechdef_catapult_CPLT-C5
+---------------------------
   File: BTA_List_Corey.csv
 
 Tag: mechdef_catapult_CPLT-K2
+---------------------------
   File: itemCollection_MechParts_Kurita_rare.csv
 
 Tag: mechdef_catapult_CPLT-K3
+---------------------------
   File: itemCollection_systemStores_MechParts_Liao_Heavy.csv
-
-Tag: mechdef_catapult_CPLT-K3
   File: itemCollection_systemStores_Mechs_Liao_Heavy.csv
 
 Tag: mechdef_catapult_CPLT-K5
+---------------------------
   File: BTA_List_AlNair.csv
 
 Tag: mechdef_catapult_CPLT-S1
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_catapult_CPLT-S2
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_catapult_CPLT-S3
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_catapult_CPLT-S4
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_centurion_CN10-B
+---------------------------
   File: BTA_List_Panpour.csv
 
 Tag: mechdef_centurion_CN10-D
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
 
 Tag: mechdef_centurion_CN9-A
+---------------------------
   File: itemCollection_MechParts_Davion_uncommon.csv
-
-Tag: mechdef_centurion_CN9-A
   File: itemCollection_systemStores_MechParts_Directorate_Light.csv
-
-Tag: mechdef_centurion_CN9-A
   File: itemCollection_systemStores_MechParts_Directorate_Medium.csv
-
-Tag: mechdef_centurion_CN9-A
   File: itemCollection_systemStores_Mechs_Directorate_Medium.csv
 
 Tag: mechdef_centurion_CN9-AL
+---------------------------
   File: itemCollection_MechParts_Davion_uncommon.csv
 
 Tag: mechdef_centurion_CN9-D
+---------------------------
+  File: itemCollection_systemStores_MechParts_Generic_GreatHouse.csv
   File: BTA_List_NewAvalon.csv
-
-Tag: mechdef_centurion_CN9-D
   File: BTA_List_Panpour.csv
 
-Tag: mechdef_centurion_CN9-D
-  File: itemCollection_systemStores_MechParts_Generic_GreatHouse.csv
-
 Tag: mechdef_centurion_CN9-D5
+---------------------------
   File: BTA_List_NewAvalon.csv
 
 Tag: mechdef_centurion_CN9-H
+---------------------------
   File: itemCollection_faction_Marian.csv
 
 Tag: mechdef_centurion_CN9-YLW2
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_chameleon_CLN-7V
+---------------------------
   File: BTA_List_Storfors.csv
 
 Tag: mechdef_chameleon_CLN-7W
+---------------------------
   File: BTA_List_Storfors.csv
 
 Tag: mechdef_chameleon_CLN-7Z
+---------------------------
   File: BTA_List_Storfors.csv
 
 Tag: mechdef_chameleon_TRC-4B
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_GreatHouse.csv
 
 Tag: mechdef_champion_CHP-1N
+---------------------------
   File: BTA_List_NewEarth.csv
 
 Tag: mechdef_champion_CHP-1Nb
+---------------------------
   File: BTA_SLDF_Mechs.csv
-
-Tag: mechdef_champion_CHP-1Nb
   File: BTA_SLDF_MechsParts.csv
-
-Tag: mechdef_champion_CHP-1Nb
   File: itemCollection_MechParts_SLDF.csv
 
 Tag: mechdef_champion_CHP-3N
+---------------------------
+  File: itemCollection_faction_ComStar.csv
   File: itemCollection_Mechs_faction_ComStar.csv
 
-Tag: mechdef_champion_CHP-3N
-  File: itemCollection_faction_ComStar.csv
-
 Tag: mechdef_champion_CHP-3P
+---------------------------
+  File: itemCollection_faction_WoB.csv
   File: itemCollection_Mechs_faction_WoB.csv
 
-Tag: mechdef_champion_CHP-3P
-  File: itemCollection_faction_WoB.csv
-
 Tag: mechdef_champion_CHP-INV
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_championlam_CPN-1X1
+---------------------------
   File: BTA_List_NewDallas.csv
 
 Tag: mechdef_charger_CGR-1A5
+---------------------------
   File: itemCollection_systemStores_MechParts_Magistracy_Light.csv
 
 Tag: mechdef_charger_CGR-1A9
+---------------------------
   File: BTA_List_Ramora.csv
-
-Tag: mechdef_charger_CGR-1A9
   File: itemCollection_systemStores_MechParts_BlackMarket_Assault.csv
-
-Tag: mechdef_charger_CGR-1A9
   File: itemCollection_systemStores_Mechs_BlackMarket_Assault.csv
 
 Tag: mechdef_charger_CGR-2A2
+---------------------------
   File: BTA_List_Ramora.csv
 
 Tag: mechdef_charger_CGR-3K
+---------------------------
   File: BTA_List_Luthien.csv
 
 Tag: mechdef_charger_CGR-N7
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_charger_CGR-SA5
+---------------------------
   File: BTA_List_HesperusII.csv
-
-Tag: mechdef_charger_CGR-SA5
   File: BTA_List_Shimonita.csv
 
 Tag: mechdef_cheetah_CHE-4F
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_cheetah_CHE-4F
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_cheetah_CHE-4M
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_cheetah_CHE-4M
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_cheetah_CHE-5F
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_cheetah_CHE-5F
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_cheetah_CHE-6G
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_cheetah_CHE-6G
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_chimera_CMA-1S
-  File: BTA_List_EpsilonEridani.csv
-
-Tag: mechdef_chimera_CMA-1S
-  File: BTA_List_Oliver.csv
-
-Tag: mechdef_chimera_CMA-1S
-  File: BTA_List_Quentin.csv
-
-Tag: mechdef_chimera_CMA-1S
+---------------------------
   File: itemCollection_HM_careerStarter_pack_Mechs.csv
-
-Tag: mechdef_chimera_CMA-1S
+  File: BTA_List_EpsilonEridani.csv
+  File: BTA_List_Oliver.csv
+  File: BTA_List_Quentin.csv
   File: itemCollection_systemStores_MechParts_Davion_Light.csv
 
 Tag: mechdef_chimera_CMA-C
+---------------------------
   File: BTA_List_EpsilonEridani.csv
-
-Tag: mechdef_chimera_CMA-C
   File: BTA_List_Oliver.csv
-
-Tag: mechdef_chimera_CMA-C
   File: BTA_List_Quentin.csv
 
 Tag: mechdef_cicada_CDA-2A
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_Periphery.csv
 
 Tag: mechdef_cicada_CDA-2B
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_DeepPeriphery.csv
 
 Tag: mechdef_cicada_CDA-3F
+---------------------------
   File: BTA_List_Gibson.csv
 
 Tag: mechdef_cicada_CDA-3G
-  File: BTA_List_Gibson.csv
-
-Tag: mechdef_cicada_CDA-3G
+---------------------------
   File: itemCollection_HM_careerStarter_pack_Mechs.csv
-
-Tag: mechdef_cicada_CDA-3G
   File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
+  File: BTA_List_Gibson.csv
 
 Tag: mechdef_cicada_CDA-3M
+---------------------------
   File: BTA_List_Gibson.csv
 
 Tag: mechdef_cicada_CDA-4G
+---------------------------
   File: itemCollection_systemStores_MechParts_Marik_Light.csv
 
 Tag: mechdef_cicada_CDA-X5
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_clint_CLNT-2-3T
+---------------------------
   File: itemCollection_faction_Ives.csv
-
-Tag: mechdef_clint_CLNT-2-3T
-  File: itemCollection_systemStores_MechParts_Taurian_Medium.csv
-
-Tag: mechdef_clint_CLNT-2-3T
   File: itemCollection_systemStores_Mechs_Generic_Periphery.csv
-
-Tag: mechdef_clint_CLNT-2-3T
+  File: itemCollection_systemStores_MechParts_Taurian_Medium.csv
   File: itemCollection_systemStores_Mechs_Taurian_Medium.csv
 
 Tag: mechdef_clint_CLNT-2-3U
+---------------------------
   File: itemCollection_HM_careerStarter_pack_Mechs.csv
 
 Tag: mechdef_clint_CLNT-2-4U
+---------------------------
   File: itemCollection_systemStores_MechParts_Taurian_Light.csv
 
 Tag: mechdef_clint_CLNT-3-3T
+---------------------------
   File: BTA_List_MacLeod.csv
 
 Tag: mechdef_clint_CLNT-5U
+---------------------------
   File: BTA_List_Furillo.csv
 
 Tag: mechdef_clint_CLNT-IIC
+---------------------------
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: mechdef_commando_COM-1A
+---------------------------
   File: BTA_List_Antwerp.csv
 
 Tag: mechdef_commando_COM-2D
+---------------------------
+  File: itemCollection_systemStores_MechParts_Generic_Periphery.csv
+  File: itemCollection_systemStores_Mechs_Generic_GreatHouse.csv
   File: BTA_List_Illiushin.csv
 
-Tag: mechdef_commando_COM-2D
-  File: itemCollection_systemStores_MechParts_Generic_Periphery.csv
-
-Tag: mechdef_commando_COM-2D
-  File: itemCollection_systemStores_Mechs_Generic_GreatHouse.csv
-
 Tag: mechdef_commando_COM-2G
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
 
 Tag: mechdef_commando_COM-2P
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
 
 Tag: mechdef_commando_COM-2S
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
 
 Tag: mechdef_commando_COM-2V
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
 
 Tag: mechdef_commando_COM-4H
+---------------------------
+  File: itemCollection_faction_Marian.csv
   File: BTA_List_Alphard_Marian.csv
 
-Tag: mechdef_commando_COM-4H
-  File: itemCollection_faction_Marian.csv
-
 Tag: mechdef_commando_COM-5S
-  File: itemCollection_systemStores_MechParts_Steiner_Light.csv
-
-Tag: mechdef_commando_COM-5S
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
-
-Tag: mechdef_commando_COM-5S
+  File: itemCollection_systemStores_MechParts_Steiner_Light.csv
   File: itemCollection_systemStores_Mechs_Steiner_Light.csv
 
 Tag: mechdef_commando_COM-7S
+---------------------------
   File: BTA_List_Coventry.csv
 
 Tag: mechdef_commando_COM-TDK
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_conjurer_WVR-IIC
+---------------------------
   File: BTA_List_Irece.csv
 
 Tag: mechdef_conjurer_WVR-IIC-2
+---------------------------
   File: BTA_List_Irece.csv
 
 Tag: mechdef_corsair_COR-4A
+---------------------------
   File: BTA_BlackMarket_Mechs_Corsairs.csv
 
 Tag: mechdef_corsair_COR-4R
+---------------------------
   File: BTA_BlackMarket_Mechs_Corsairs.csv
-
-Tag: mechdef_corsair_COR-4R
   File: BTA_List_Tortuga_Prime.csv
 
 Tag: mechdef_corsair_COR-5R
+---------------------------
   File: BTA_BlackMarket_Mechs_Corsairs.csv
-
-Tag: mechdef_corsair_COR-5R
-  File: BTA_List_Tortuga_Prime.csv
-
-Tag: mechdef_corsair_COR-5R
   File: itemCollection_faction_Tortuga.csv
-
-Tag: mechdef_corsair_COR-5R
+  File: BTA_List_Tortuga_Prime.csv
   File: itemCollection_systemStores_MechParts_BlackMarket_Assault.csv
-
-Tag: mechdef_corsair_COR-5R
   File: itemCollection_systemStores_Mechs_BlackMarket_Assault.csv
 
 Tag: mechdef_corsair_COR-5T
+---------------------------
   File: BTA_BlackMarket_Mechs_Corsairs.csv
-
-Tag: mechdef_corsair_COR-5T
   File: itemCollection_faction_Tortuga.csv
 
 Tag: mechdef_corsair_COR-6R
+---------------------------
   File: BTA_BlackMarket_Mechs_Corsairs.csv
-
-Tag: mechdef_corsair_COR-6R
   File: itemCollection_faction_Tortuga.csv
 
 Tag: mechdef_corsair_COR-7A
+---------------------------
   File: BTA_BlackMarket_Mechs_Corsairs.csv
-
-Tag: mechdef_corsair_COR-7A
   File: itemCollection_faction_Tortuga.csv
 
 Tag: mechdef_corsair_COR-7R
+---------------------------
   File: BTA_BlackMarket_Mechs_Corsairs.csv
-
-Tag: mechdef_corsair_COR-7R
   File: itemCollection_faction_Tortuga.csv
 
 Tag: mechdef_corsair_COR-8R
+---------------------------
   File: BTA_BlackMarket_Mechs_Corsairs.csv
 
 Tag: mechdef_corsair_COR-RA
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_corsair_COR-TB
+---------------------------
   File: itemCollection_BTA_Throwdown_Mechs.csv
 
 Tag: mechdef_cossack_C-SK1
+---------------------------
   File: BTA_List_Warlock.csv
 
 Tag: mechdef_cougar_COU-BA
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_crabrauder_CRB-MAD-1X
+---------------------------
   File: itemCollection_loot_eventTheIronPrice.csv
 
 Tag: mechdef_crockett_CRK-5003-3
+---------------------------
   File: BTA_List_Terra_Mechs.csv
 
 Tag: mechdef_crockett_CRK-5004-1
-  File: BTA_List_Grumium.csv
-
-Tag: mechdef_crockett_CRK-5004-1
-  File: BTA_List_Terra_Mechs.csv
-
-Tag: mechdef_crockett_CRK-5004-1
-  File: itemCollection_Mechs_faction_ComStar.csv
-
-Tag: mechdef_crockett_CRK-5004-1
+---------------------------
   File: itemCollection_faction_ComStar.csv
+  File: itemCollection_Mechs_faction_ComStar.csv
+  File: BTA_List_Grumium.csv
+  File: BTA_List_Terra_Mechs.csv
 
 Tag: mechdef_crosscut_ED-X2
-  File: BTA_List_Rondane.csv
-
-Tag: mechdef_crosscut_ED-X2
+---------------------------
   File: itemCollection_faction_Chainelane.csv
-
-Tag: mechdef_crosscut_ED-X2
   File: itemCollection_systemStores_Mechs_Generic_DeepPeriphery.csv
-
-Tag: mechdef_crosscut_ED-X4D
   File: BTA_List_Rondane.csv
 
 Tag: mechdef_crosscut_ED-X4D
+---------------------------
   File: itemCollection_faction_Chainelane.csv
+  File: BTA_List_Rondane.csv
 
 Tag: mechdef_crosscut_ED-X6
+---------------------------
   File: itemCollection_faction_Chainelane.csv
 
 Tag: mechdef_crosscut_ED-X7
+---------------------------
   File: itemCollection_faction_Chainelane.csv
 
 Tag: mechdef_crusader_CRD-2R
+---------------------------
   File: BTA_SLDF_Mechs.csv
-
-Tag: mechdef_crusader_CRD-2R
   File: BTA_SLDF_MechsParts.csv
 
 Tag: mechdef_crusader_CRD-3L
+---------------------------
   File: itemCollection_faction_Ives.csv
 
 Tag: mechdef_crusader_CRD-3R
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_GreatHouse.csv
 
 Tag: mechdef_crusader_CRD-4K
+---------------------------
   File: itemCollection_systemStores_MechParts_Kurita_Heavy.csv
-
-Tag: mechdef_crusader_CRD-4K
   File: itemCollection_systemStores_Mechs_Kurita_Heavy.csv
 
 Tag: mechdef_crusader_CRD-5M
+---------------------------
   File: BTA_List_Asuncion.csv
-
-Tag: mechdef_crusader_CRD-5M
   File: BTA_List_Bernardo.csv
-
-Tag: mechdef_crusader_CRD-5M
   File: BTA_List_Oliver.csv
 
 Tag: mechdef_crusader_CRD-7L
+---------------------------
   File: BTA_List_Styk.csv
 
 Tag: mechdef_crusader_CRD-7MK
+---------------------------
   File: BTA_List_Vega.csv
 
 Tag: mechdef_crusader_CRD-8S
+---------------------------
   File: BTA_List_Tharkad.csv
 
 Tag: mechdef_crusader_CRD-SC
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_crusher_CRH-Y4
+---------------------------
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_crusher_CRH-Y6
+---------------------------
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_crusher_CRH-Z4
+---------------------------
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_crusher_CRH-Z8
+---------------------------
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_cyclone_CYC-A1
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_cyclone_CYC-A1
   File: BTA_List_Corey.csv
 
 Tag: mechdef_cyclone_CYC-C1
+---------------------------
   File: BTA_List_Corey.csv
 
 Tag: mechdef_dagoth_DGH-BM02
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_dagoth_DGH-FR18
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_dagoth_DGH-GY03
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_dagoth_DGH-HR20
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_dagoth_DGH-TB02
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_dagoth_DGH-UR02
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_decimator_DCI-2X
+---------------------------
   File: BTA_List_Grumium.csv
-
-Tag: mechdef_decimator_DCI-2X
   File: BTA_List_Tukayyid.csv
 
 Tag: mechdef_dervish_DV-10A
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
 
 Tag: mechdef_dervish_DV-10K
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
 
 Tag: mechdef_dervish_DV-10L
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
 
 Tag: mechdef_dervish_DV-10M
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
 
 Tag: mechdef_dervish_DV-10V
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
 
 Tag: mechdef_dervish_DV-1S
+---------------------------
   File: BTA_List_Antwerp.csv
 
 Tag: mechdef_dervish_DV-6M
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_GreatHouse.csv
 
 Tag: mechdef_dervish_DV-7D
+---------------------------
   File: BTA_List_NewAvalon.csv
-
-Tag: mechdef_dervish_DV-7D
   File: itemCollection_systemStores_MechParts_Davion_Light.csv
-
-Tag: mechdef_dervish_DV-7D
   File: itemCollection_systemStores_MechParts_Davion_Medium.csv
-
-Tag: mechdef_dervish_DV-7D
   File: itemCollection_systemStores_Mechs_Davion_Medium.csv
-
-Tag: mechdef_dervish_DV-7D
   File: itemCollection_table_eventHellOfADeal.csv
 
 Tag: mechdef_dervish_DV-8D
+---------------------------
   File: BTA_List_NewAvalon.csv
 
 Tag: mechdef_dervish_DV-FR
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_deva_X-DVA-O-CONDITUS
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
-
-Tag: mechdef_deva_X-DVA-O-CONDITUS
   File: itemCollection_faction_WoB.csv
 
 Tag: mechdef_deva_X-DVA-O-DEICIO
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
 
 Tag: mechdef_deva_X-DVA-O-LATERUS
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
 
 Tag: mechdef_deva_X-DVA-O-RAPTUS
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
 
 Tag: mechdef_devastator_DVS-1D
+---------------------------
   File: itemCollection_systemStores_MechParts_Taurian_Light.csv
 
 Tag: mechdef_devastator_DVS-2
+---------------------------
   File: BTA_List_Loxley.csv
 
 Tag: mechdef_devastator_DVS-3
+---------------------------
   File: BTA_List_Loxley.csv
 
 Tag: mechdef_digking_RCL-1
+---------------------------
+  File: itemCollection_systemStores_Mechs_Generic_DeepPeriphery.csv
   File: BTA_List_Rondane.csv
 
-Tag: mechdef_digking_RCL-1
-  File: itemCollection_systemStores_Mechs_Generic_DeepPeriphery.csv
-
 Tag: mechdef_direwolf_DW-UV
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_direwolf_DW-W
+---------------------------
   File: BTA_List_Outreach_Clan.csv
 
 Tag: mechdef_dragon_DRG-1N
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_Periphery.csv
 
 Tag: mechdef_dragon_DRG-5N
+---------------------------
   File: itemCollection_systemStores_MechParts_Directorate_Heavy.csv
-
-Tag: mechdef_dragon_DRG-5N
   File: itemCollection_systemStores_MechParts_Directorate_Light.csv
-
-Tag: mechdef_dragon_DRG-5N
   File: itemCollection_systemStores_MechParts_Kurita_Light.csv
-
-Tag: mechdef_dragon_DRG-5N
   File: itemCollection_systemStores_Mechs_Directorate_Heavy.csv
 
 Tag: mechdef_dragon_DRG-FLAME
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_dragonfire_DGR-3F
+---------------------------
   File: itemCollection_systemStores_MechParts_Kurita_Light.csv
 
 Tag: mechdef_dragonfire_DGR-4F
+---------------------------
   File: BTA_List_Storfors.csv
 
 Tag: mechdef_dragoon_AEM-002
+---------------------------
   File: itemCollection_faction_Rim.csv
 
 Tag: mechdef_dragoon_AEM-003
+---------------------------
   File: itemCollection_faction_Rim.csv
 
 Tag: mechdef_dragoon_AEM-004
+---------------------------
   File: itemCollection_faction_Rim.csv
 
 Tag: mechdef_dragoon_AEM-01
+---------------------------
   File: itemCollection_faction_Rim.csv
 
 Tag: mechdef_ebonjaguar_EBJ-EC
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_embrasure_EMB-7D
+---------------------------
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_embrasure_EMB-7M
+---------------------------
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_embrasure_EMB-8S
+---------------------------
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_embrasure_EMB-8W
+---------------------------
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_emperor_EMP-1A
+---------------------------
   File: BTA_List_Antwerp.csv
 
 Tag: mechdef_emperor_EMP-6A
-  File: BTA_List_Crofton.csv
-
-Tag: mechdef_emperor_EMP-6A
-  File: BTA_List_Menke.csv
-
-Tag: mechdef_emperor_EMP-6A
-  File: BTA_List_SonHoa.csv
-
-Tag: mechdef_emperor_EMP-6A
-  File: BTA_List_StIves.csv
-
-Tag: mechdef_emperor_EMP-6A
+---------------------------
   File: BTA_SLDF_Mechs.csv
-
-Tag: mechdef_emperor_EMP-6A
   File: BTA_SLDF_MechsParts.csv
-
-Tag: mechdef_emperor_EMP-6A
   File: itemCollection_faction_Ives.csv
-
-Tag: mechdef_emperor_EMP-6A
+  File: BTA_List_Crofton.csv
+  File: BTA_List_Menke.csv
+  File: BTA_List_SonHoa.csv
+  File: BTA_List_StIves.csv
   File: itemCollection_systemStores_MechParts_Liao_Assault.csv
-
-Tag: mechdef_emperor_EMP-6A
   File: itemCollection_systemStores_MechParts_Liao_Light.csv
-
-Tag: mechdef_emperor_EMP-6A
   File: itemCollection_systemStores_Mechs_Liao_Assault.csv
 
 Tag: mechdef_emperor_EMP-6M
+---------------------------
   File: BTA_List_Emris.csv
-
-Tag: mechdef_emperor_EMP-6M
   File: BTA_List_Terra_Mechs.csv
 
 Tag: mechdef_emperor_EMP-7AIV
+---------------------------
   File: BTA_List_StIves.csv
 
 Tag: mechdef_emperor_EMP-7G
+---------------------------
   File: BTA_List_Menke.csv
 
 Tag: mechdef_emperor_EMP-MC
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_emperorcrab_MPC-010x
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
 
 Tag: mechdef_enfield_END-6J
+---------------------------
   File: BTA_List_Inarcs.csv
 
 Tag: mechdef_enfield_END-6Q
+---------------------------
   File: BTA_List_Inarcs.csv
-
-Tag: mechdef_enfield_END-6Q
   File: itemCollection_systemStores_MechParts_Davion_Light.csv
-
-Tag: mechdef_enfield_END-6Q
   File: itemCollection_systemStores_MechParts_Steiner_Light.csv
 
 Tag: mechdef_enforcer_ENF-4AS
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
 
 Tag: mechdef_enforcer_ENF-4R
+---------------------------
   File: itemCollection_MechParts_Davion_uncommon.csv
 
 Tag: mechdef_enforcer_ENF-5D
+---------------------------
   File: BTA_List_HesperusII.csv
-
-Tag: mechdef_enforcer_ENF-5D
   File: itemCollection_systemStores_MechParts_Davion_Medium.csv
-
-Tag: mechdef_enforcer_ENF-5D
   File: itemCollection_systemStores_Mechs_Davion_Medium.csv
 
 Tag: mechdef_enforcer_ENF-GH
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_enforceriii_ENF-6G
+---------------------------
   File: BTA_List_NewAvalon.csv
-
-Tag: mechdef_enforceriii_ENF-6G
   File: BTA_List_Wernke.csv
 
 Tag: mechdef_enforceriii_ENF-6H
+---------------------------
   File: BTA_List_NewAvalon.csv
 
 Tag: mechdef_enforceriii_ENF-6M
+---------------------------
   File: BTA_List_NewAvalon.csv
-
-Tag: mechdef_enforceriii_ENF-6M
   File: BTA_List_Wernke.csv
 
 Tag: mechdef_enforceriii_ENF-6T
+---------------------------
   File: BTA_List_NewAvalon.csv
-
-Tag: mechdef_enforceriii_ENF-6T
   File: BTA_List_Wernke.csv
 
 Tag: mechdef_ettin_ETT-1N
+---------------------------
   File: itemCollection_loot_eventTwoHeads.csv
 
 Tag: mechdef_excavatormech_EXV-1X
+---------------------------
+  File: itemCollection_faction_Delphi.csv
   File: BTA_List_Ingvolstand.csv
 
-Tag: mechdef_excavatormech_EXV-1X
-  File: itemCollection_faction_Delphi.csv
-
 Tag: mechdef_excavatormech_EXV-4K
+---------------------------
   File: itemCollection_faction_Delphi.csv
 
 Tag: mechdef_excavatormech_EXV-5K
+---------------------------
   File: itemCollection_faction_Delphi.csv
 
 Tag: mechdef_executioner_CH
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_executioner_D
+---------------------------
   File: BTA_List_Outreach_Clan.csv
 
 Tag: mechdef_exterminator_EXT-4A
+---------------------------
   File: BTA_List_Thermopolis.csv
 
 Tag: mechdef_exterminator_EXT-4C
+---------------------------
   File: itemCollection_faction_ComStar.csv
 
 Tag: mechdef_exterminator_EXT-5E
+---------------------------
   File: BTA_List_Thermopolis.csv
 
 Tag: mechdef_fafnir_FNR-5
+---------------------------
   File: BTA_List_HesperusII.csv
-
-Tag: mechdef_fafnir_FNR-5
   File: itemCollection_systemStores_MechParts_Steiner_Light.csv
 
 Tag: mechdef_fafnir_FNR-5B
+---------------------------
   File: BTA_List_HesperusII.csv
 
 Tag: mechdef_fafnir_FNR-WR
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_falcon_FLC-4N
+---------------------------
+  File: itemCollection_faction_ComStar.csv
   File: itemCollection_Mechs_faction_ComStar.csv
 
-Tag: mechdef_falcon_FLC-4N
-  File: itemCollection_faction_ComStar.csv
-
 Tag: mechdef_falcon_FLC-4Nb
+---------------------------
   File: itemCollection_systemStores_MechParts_WoB_Light.csv
 
 Tag: mechdef_falcon_FLC-4P
+---------------------------
   File: BTA_List_Outreach_IS.csv
 
 Tag: mechdef_falcon_FLC-5P
+---------------------------
   File: BTA_List_Outreach_IS.csv
 
 Tag: mechdef_falcon_FLC-6C
+---------------------------
   File: BTA_List_Outreach_IS.csv
 
 Tag: mechdef_fireball_ALM-7D
+---------------------------
   File: BTA_List_NewAvalon.csv
 
 Tag: mechdef_fireball_ALM-8D
+---------------------------
   File: BTA_List_NewAvalon.csv
-
-Tag: mechdef_fireball_ALM-8D
   File: itemCollection_systemStores_MechParts_Davion_Light.csv
 
 Tag: mechdef_fireball_ALM-9D
+---------------------------
   File: BTA_List_NewAvalon.csv
 
 Tag: mechdef_firebee_FRB-2E
+---------------------------
   File: itemCollection_systemStores_MechParts_Liao_Light.csv
-
-Tag: mechdef_firebee_FRB-2E
   File: itemCollection_systemStores_Mechs_Liao_Light.csv
-
-Tag: mechdef_firebee_FRB-2E
   File: itemCollection_table_eventHellOfADeal.csv
 
 Tag: mechdef_firebee_FRB-2S
+---------------------------
   File: BTA_List_Sian.csv
 
 Tag: mechdef_firefly_FFL-4B
+---------------------------
   File: BTA_List_Outreach_IS.csv
 
 Tag: mechdef_firemoth_FM-C
+---------------------------
   File: BTA_List_Outreach_Clan.csv
 
 Tag: mechdef_firemoth_FM-MO
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_firestarter_FS10-H
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
 
 Tag: mechdef_firestarter_FS10-M
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
 
 Tag: mechdef_firestarter_FS10-N
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
 
 Tag: mechdef_firestarter_FS10-V
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
 
 Tag: mechdef_firestarter_FS9-E
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_firestarter_FS9-H
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_GreatHouse.csv
 
 Tag: mechdef_firestarter_FS9-M
+---------------------------
   File: itemCollection_systemStores_MechParts_Directorate_Light.csv
-
-Tag: mechdef_firestarter_FS9-M
   File: itemCollection_systemStores_Mechs_Directorate_Light.csv
 
 Tag: mechdef_firestarter_FS9-S
+---------------------------
+  File: itemCollection_systemStores_MechParts_Generic_GreatHouse.csv
   File: BTA_List_Coventry.csv
 
-Tag: mechdef_firestarter_FS9-S
-  File: itemCollection_systemStores_MechParts_Generic_GreatHouse.csv
-
 Tag: mechdef_firestarter_FS9-S1
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
 
 Tag: mechdef_firestarter_O-PRIME
+---------------------------
   File: BTA_List_Capella.csv
-
-Tag: mechdef_firestarter_O-PRIME
   File: BTA_List_Coventry.csv
-
-Tag: mechdef_firestarter_O-PRIME
   File: BTA_List_Luthien.csv
-
-Tag: mechdef_firestarter_O-PRIME
   File: BTA_List_Marduk.csv
-
-Tag: mechdef_firestarter_O-PRIME
   File: itemCollection_systemStores_MechParts_Kurita_Light.csv
 
 Tag: mechdef_flashman_FLS-8K
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_flashman_FLS-8K
   File: BTA_List_HesperusII.csv
 
 Tag: mechdef_flashman_FLS-9C
+---------------------------
   File: BTA_List_HesperusII.csv
 
 Tag: mechdef_flashman_FLS-IN
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_fox_CS-1
+---------------------------
   File: itemCollection_major_ClanDiamondShark.csv
 
 Tag: mechdef_gargoyle_GAR-KW
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_gargoyle_GAR-PRIME
+---------------------------
   File: BTAClan_Mechs_Rare_Convoy.csv
-
-Tag: mechdef_gargoyle_GAR-PRIME
   File: BTA_List_Outreach_Clan.csv
 
 Tag: mechdef_gladiator_GLD-2R
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_Periphery.csv
 
 Tag: mechdef_gladiator_GLD-4R
+---------------------------
   File: BTA_List_Luthien.csv
-
-Tag: mechdef_gladiator_GLD-4R
   File: itemCollection_systemStores_MechParts_Kurita_Light.csv
 
 Tag: mechdef_glassspider_GLS-1
+---------------------------
   File: BTAClan_Mechs_Rare.csv
-
-Tag: mechdef_glassspider_GLS-1
   File: BTAClan_Mechs_Rare_Convoy.csv
 
 Tag: mechdef_goliath_GOL-1H
+---------------------------
   File: itemCollection_systemStores_MechParts_Liao_Light.csv
 
 Tag: mechdef_goliath_GOL-3M
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
 
 Tag: mechdef_goliath_GOL-4S
+---------------------------
   File: BTA_List_HesperusII.csv
-
-Tag: mechdef_goliath_GOL-4S
   File: BTA_List_Tharkad.csv
 
 Tag: mechdef_goliath_GOL-5D
+---------------------------
   File: BTA_List_Kathil.csv
 
 Tag: mechdef_goliath_GOL-GS
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_goliath_GOL-SS
+---------------------------
   File: BTA_SantasSack.csv
 
 Tag: mechdef_granddragon_DRG-5K
+---------------------------
   File: BTA_List_Luthien.csv
 
 Tag: mechdef_granddragon_DRG-7K
+---------------------------
+  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
   File: BTA_List_Dieron.csv
-
-Tag: mechdef_granddragon_DRG-7K
   File: BTA_List_Luthien.csv
-
-Tag: mechdef_granddragon_DRG-7K
   File: BTA_List_Yorii.csv
 
-Tag: mechdef_granddragon_DRG-7K
-  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
-
 Tag: mechdef_grandtitan_T-IT-N10M
+---------------------------
   File: BTA_List_Keystone.csv
 
 Tag: mechdef_grandtitan_T-IT-N11M
+---------------------------
   File: BTA_List_Keystone.csv
-
-Tag: mechdef_grandtitan_T-IT-N11M
   File: itemCollection_systemStores_MechParts_Marik_Light.csv
 
 Tag: mechdef_grasshopper_GHR-5H
+---------------------------
   File: BTA_List_Bryant.csv
-
-Tag: mechdef_grasshopper_GHR-5H
   File: BTA_List_Panpour.csv
-
-Tag: mechdef_grasshopper_GHR-5H
   File: itemCollection_MechParts_Davion_uncommon.csv
 
 Tag: mechdef_grasshopper_GHR-5J
+---------------------------
   File: itemCollection_systemStores_MechParts_Magistracy_Heavy.csv
-
-Tag: mechdef_grasshopper_GHR-5J
   File: itemCollection_systemStores_Mechs_Magistracy_Heavy.csv
 
 Tag: mechdef_grasshopper_GHR-6J
+---------------------------
   File: itemCollection_systemStores_MechParts_Magistracy_Light.csv
 
 Tag: mechdef_grasshopper_GHR-6K
+---------------------------
+  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
   File: BTA_List_HunHo.csv
 
-Tag: mechdef_grasshopper_GHR-6K
-  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
-
 Tag: mechdef_grasshopper_GHR-MJ
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_greatturtle_GTR-1
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_greatturtle_GTR-2
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_greatturtle_GTR-3
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_greatturtle_GTR-4
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_greatturtle_GTR-5
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_grendel_GRD-BW
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_grendel_GRD-PRIME
+---------------------------
   File: itemCollection_systemStores_MechParts_ClanNovaCat_Light.csv
 
 Tag: mechdef_griffin_GRF-1A
+---------------------------
   File: BTA_List_Antwerp.csv
 
 Tag: mechdef_griffin_GRF-1DS
+---------------------------
   File: BTA_List_Wernke.csv
 
 Tag: mechdef_griffin_GRF-1E
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_griffin_GRF-1N
+---------------------------
+  File: itemCollection_systemStores_Mechs_Generic_GreatHouse.csv
   File: BTA_List_Illiushin.csv
 
-Tag: mechdef_griffin_GRF-1N
-  File: itemCollection_systemStores_Mechs_Generic_GreatHouse.csv
-
 Tag: mechdef_griffin_GRF-2F
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
 
 Tag: mechdef_griffin_GRF-2H
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
 
 Tag: mechdef_griffin_GRF-2N
+---------------------------
   File: itemCollection_MechParts_SLDF.csv
 
 Tag: mechdef_griffin_GRF-2N-X
+---------------------------
   File: itemCollection_systemStores_MechParts_Davion_Light.csv
 
 Tag: mechdef_griffin_GRF-2S
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
 
 Tag: mechdef_griffin_GRF-2V
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
 
 Tag: mechdef_griffin_GRF-3M
+---------------------------
+  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
   File: BTA_List_Keystone.csv
-
-Tag: mechdef_griffin_GRF-3M
   File: BTA_List_Oliver.csv
 
-Tag: mechdef_griffin_GRF-3M
-  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
-
 Tag: mechdef_griffin_GRF-5M
+---------------------------
   File: BTA_List_Keystone.csv
 
 Tag: mechdef_griffin_GRF-6CS
+---------------------------
   File: BTA_List_Terra_Mechs.csv
-
-Tag: mechdef_griffin_GRF-6CS
   File: BTA_List_Tukayyid.csv
 
 Tag: mechdef_griffin_GRF-6S
+---------------------------
   File: BTA_List_HesperusII.csv
 
 Tag: mechdef_grigori_X-GRG-O-CONDITUS
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
-
-Tag: mechdef_grigori_X-GRG-O-CONDITUS
+  File: itemCollection_faction_WoB.csv
   File: itemCollection_Mechs_faction_WoB.csv
 
-Tag: mechdef_grigori_X-GRG-O-CONDITUS
-  File: itemCollection_faction_WoB.csv
-
 Tag: mechdef_grigori_X-GRG-O-DEICIO
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
 
 Tag: mechdef_grigori_X-GRG-O-LATERIS
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
 
 Tag: mechdef_grigori_X-GRG-O-RAPTUS
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
 
 Tag: mechdef_guillotine_GLT-4H
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_guillotine_GLT-4L
+---------------------------
   File: itemCollection_systemStores_MechParts_Taurian_Light.csv
 
 Tag: mechdef_guillotine_GLT-4M
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_guillotine_GLT-4N
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_guillotine_GLT-4V
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_guillotine_GLT-5M
+---------------------------
   File: BTA_List_Irian.csv
 
 Tag: mechdef_guillotine_GLT-8D
+---------------------------
   File: BTA_List_Wernke.csv
 
 Tag: mechdef_gulon_GLN-1A
+---------------------------
   File: BTA_List_Sevon.csv
 
 Tag: mechdef_gulon_GLN-1B
+---------------------------
   File: BTA_List_Sevon.csv
 
 Tag: mechdef_gulon_GLN-2A
+---------------------------
   File: BTA_List_Sevon.csv
 
 Tag: mechdef_gulon_GLN-2B
+---------------------------
   File: BTA_List_Sevon.csv
 
 Tag: mechdef_gulon_GLN-2C
+---------------------------
   File: BTA_List_Sevon.csv
 
 Tag: mechdef_gulon_GLN-3A
+---------------------------
   File: BTA_List_Sevon.csv
 
 Tag: mechdef_gunslinger_GUN-1ERD
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_gunslinger_GUN-1ERD
   File: BTA_List_HesperusII.csv
-
-Tag: mechdef_gunslinger_GUN-1ERD
   File: BTA_List_Quentin.csv
 
 Tag: mechdef_gunslinger_GUN-2ERD
+---------------------------
   File: BTA_List_HesperusII.csv
-
-Tag: mechdef_gunslinger_GUN-2ERD
   File: BTA_List_Quentin.csv
 
 Tag: mechdef_hammerhead_HHD-1
+---------------------------
   File: itemCollection_major_ClanDiamondShark.csv
 
 Tag: mechdef_hatamotochi_HTM-27T
+---------------------------
   File: BTA_List_AlNair.csv
 
 Tag: mechdef_hatamotochi_HTM-27V
+---------------------------
   File: BTA_List_AlNair.csv
 
 Tag: mechdef_hatamotochi_HTM-27W
+---------------------------
   File: BTA_List_AlNair.csv
 
 Tag: mechdef_hatamotochi_HTM-28T
+---------------------------
   File: BTA_List_Quentin.csv
-
-Tag: mechdef_hatamotochi_HTM-28T
   File: itemCollection_systemStores_MechParts_Kurita_Light.csv
 
 Tag: mechdef_hatamotochi_HTM-SG
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_hatamotohi_HTM-27U
+---------------------------
   File: BTA_List_AlNair.csv
 
 Tag: mechdef_hatamotomizo_HTM-27Y
+---------------------------
   File: BTA_List_AlNair.csv
-
-Tag: mechdef_hatamotomizo_HTM-27Y
   File: itemCollection_systemStores_MechParts_Kurita_Light.csv
 
 Tag: mechdef_hauptmann_HA1-JO
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_hauptmann_HA1-O
+---------------------------
   File: BTA_List_Coventry.csv
-
-Tag: mechdef_hauptmann_HA1-O
   File: itemCollection_systemStores_MechParts_Steiner_Light.csv
 
 Tag: mechdef_hazard_HZD-2C
+---------------------------
   File: itemCollection_faction_Circinus.csv
 
 Tag: mechdef_hazard_HZD-3C
+---------------------------
   File: itemCollection_faction_Circinus.csv
 
 Tag: mechdef_hazard_HZD-TRC
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_hazardii_HZD-2-3M
+---------------------------
   File: itemCollection_faction_Circinus.csv
 
 Tag: mechdef_hecatoncheires_HEC-4C
+---------------------------
   File: BTA_List_Bernardo.csv
 
 Tag: mechdef_hector_HOR-2B
+---------------------------
   File: BTA_List_Stewart.csv
-
-Tag: mechdef_hector_HOR-2B
   File: itemCollection_systemStores_MechParts_Marik_Light.csv
 
 Tag: mechdef_hector_HOR-3G
+---------------------------
   File: BTA_List_Stewart.csv
 
 Tag: mechdef_hectorlam_HOR-5X
+---------------------------
   File: itemCollection_systemStores_MechParts_Marik_Light.csv
 
 Tag: mechdef_helepolis_HEP-2H
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_helepolis_HEP-2H
   File: BTA_List_Terra_Mechs.csv
 
 Tag: mechdef_helepolis_HEP-5B
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_helepolis_HEP-5H
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_helepolis_HEP-5J
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_helepolis_HEP-5T
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_helepolis_HEP-BM
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_helios_HEL-3D
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_helios_HEL-3D
+  File: itemCollection_faction_Ives.csv
   File: BTA_List_Warlock.csv
 
-Tag: mechdef_helios_HEL-3D
-  File: itemCollection_faction_Ives.csv
-
 Tag: mechdef_helios_HEL-4A
+---------------------------
   File: BTA_List_Warlock.csv
 
 Tag: mechdef_helios_HEL-C
+---------------------------
   File: BTA_List_Warlock.csv
 
 Tag: mechdef_hellbringer_HBR-F
+---------------------------
   File: BTA_List_Outreach_Clan.csv
 
 Tag: mechdef_hellbringer_HBR-VI
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_hellfire_HLF-1
+---------------------------
   File: BTAClan_Mechs_Rare.csv
-
-Tag: mechdef_hellfire_HLF-1
   File: BTAClan_Mechs_Rare_Convoy.csv
 
 Tag: mechdef_hellfire_HLF-VO
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_hellhound_1
+---------------------------
   File: BTAClan_Mechs.csv
-
-Tag: mechdef_hellhound_1
   File: itemCollection_systemStores_MechParts_ClanNovaCat_Light.csv
 
 Tag: mechdef_hellhound_HLH-TM
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_hellspawn_HSN-7D2
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_hellspawn_HSN-8E
+---------------------------
   File: BTA_List_Talcott.csv
 
 Tag: mechdef_hellspawn_HSN-9F
+---------------------------
   File: BTA_List_Talcott.csv
 
 Tag: mechdef_hephaestus_HAE-O
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_hephaestus_HAE-O
   File: BTA_List_Taurus.csv
 
 Tag: mechdef_hermes_HER-1A
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_GreatHouse.csv
 
 Tag: mechdef_hermes_HER-4K
+---------------------------
   File: BTA_List_Irian.csv
 
 Tag: mechdef_hermes_HER-4M
+---------------------------
   File: BTA_List_Irian.csv
-
-Tag: mechdef_hermes_HER-4M
   File: itemCollection_systemStores_MechParts_Marik_Light.csv
 
 Tag: mechdef_hermes_HER-4S
+---------------------------
+  File: itemCollection_systemStores_MechParts_WoB_Light.csv
   File: BTA_List_Irian.csv
 
-Tag: mechdef_hermes_HER-4S
-  File: itemCollection_systemStores_MechParts_WoB_Light.csv
-
 Tag: mechdef_hermesii_HER-2S
+---------------------------
   File: itemCollection_HM_careerStarter_pack_Mechs.csv
 
 Tag: mechdef_hermesii_HER-5ME
+---------------------------
   File: BTA_List_Irian.csv
-
-Tag: mechdef_hermesii_HER-5ME
   File: BTA_List_Shiro.csv
-
-Tag: mechdef_hermesii_HER-5ME
   File: itemCollection_systemStores_MechParts_Marik_Light.csv
 
 Tag: mechdef_hermesii_HER-5S
-  File: BTA_List_Irian.csv
-
-Tag: mechdef_hermesii_HER-5S
+---------------------------
   File: itemCollection_systemStores_MechParts_Generic_GreatHouse.csv
+  File: BTA_List_Irian.csv
 
 Tag: mechdef_hermesii_HER-6D
+---------------------------
   File: BTA_List_Irian.csv
 
 Tag: mechdef_highlander_HGN-732
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_highlander_HGN-732
+  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
   File: BTA_List_Tukayyid.csv
 
-Tag: mechdef_highlander_HGN-732
-  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
-
 Tag: mechdef_highlander_HGN-732b_fixed
+---------------------------
   File: itemCollection_MechParts_SLDF.csv
 
 Tag: mechdef_highlander_HGN-733
+---------------------------
   File: itemCollection_MechParts_Liao_rare.csv
-
-Tag: mechdef_highlander_HGN-733
   File: itemCollection_MechParts_Steiner_rare.csv
-
-Tag: mechdef_highlander_HGN-733
   File: itemCollection_systemStores_MechParts_Liao_Light.csv
 
 Tag: mechdef_highlander_HGN-733P
+---------------------------
   File: itemCollection_MechParts_Liao_rare.csv
-
-Tag: mechdef_highlander_HGN-733P
   File: itemCollection_MechParts_Steiner_rare.csv
 
 Tag: mechdef_highlander_HGN-734
+---------------------------
   File: BTA_List_SonHoa.csv
 
 Tag: mechdef_highlander_HGN-736
+---------------------------
   File: BTA_List_Terra_Mechs.csv
 
 Tag: mechdef_highlander_HGN-HM
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_highlander_HGN-IIC-1
+---------------------------
   File: BTAClan_Mechs_Rare.csv
 
 Tag: mechdef_highlander_HGN-IIC-KP
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_hollander_BZK-BZ
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_hollander_BZK-F3
+---------------------------
   File: BTA_List_Coventry.csv
-
-Tag: mechdef_hollander_BZK-F3
   File: itemCollection_systemStores_MechParts_Steiner_Light.csv
-
-Tag: mechdef_hollander_BZK-F3
   File: itemCollection_systemStores_Mechs_Steiner_Light.csv
 
 Tag: mechdef_hollander_BZK-G1
+---------------------------
   File: BTA_List_Coventry.csv
-
-Tag: mechdef_hollander_BZK-G1
   File: itemCollection_table_eventHellOfADeal.csv
 
 Tag: mechdef_hollanderii_BZK-BI
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_hollanderii_BZK-F5
+---------------------------
   File: BTA_List_Coventry.csv
 
 Tag: mechdef_hollanderii_BZK-F7
+---------------------------
   File: BTA_List_Coventry.csv
-
-Tag: mechdef_hollanderii_BZK-F7
   File: itemCollection_systemStores_MechParts_Steiner_Light.csv
-
-Tag: mechdef_hollanderii_BZK-F7
   File: itemCollection_systemStores_MechParts_Steiner_Medium.csv
-
-Tag: mechdef_hollanderii_BZK-F7
   File: itemCollection_systemStores_Mechs_Steiner_Medium.csv
 
 Tag: mechdef_hoplite_HOP-4B
+---------------------------
   File: BTA_List_Outreach_IS.csv
 
 Tag: mechdef_hornet_HNT-151
+---------------------------
   File: itemCollection_systemStores_MechParts_Generic_Periphery.csv
-
-Tag: mechdef_hornet_HNT-151
   File: itemCollection_systemStores_Mechs_Generic_DeepPeriphery.csv
 
 Tag: mechdef_hornet_HNT-161
+---------------------------
   File: BTA_List_Wernke.csv
 
 Tag: mechdef_hornet_HNT-171
+---------------------------
   File: BTA_List_Wernke.csv
 
 Tag: mechdef_howler_HOW-1
+---------------------------
   File: BTAClan_Mechs.csv
 
 Tag: mechdef_hunchback_HBK-2CS4C
+---------------------------
   File: BTA_List_Tukayyid.csv
 
 Tag: mechdef_hunchback_HBK-4G
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_Periphery.csv
 
 Tag: mechdef_hunchback_HBK-4H
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_GreatHouse.csv
 
 Tag: mechdef_hunchback_HBK-4P
+---------------------------
+  File: itemCollection_systemStores_MechParts_Generic_Periphery.csv
   File: BTA_List_Kalidasa.csv
 
-Tag: mechdef_hunchback_HBK-4P
-  File: itemCollection_systemStores_MechParts_Generic_Periphery.csv
-
 Tag: mechdef_hunchback_HBK-5S
-  File: itemCollection_systemStores_MechParts_Steiner_Light.csv
-
-Tag: mechdef_hunchback_HBK-5S
-  File: itemCollection_systemStores_MechParts_Steiner_Medium.csv
-
-Tag: mechdef_hunchback_HBK-5S
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
-
-Tag: mechdef_hunchback_HBK-5S
+  File: itemCollection_systemStores_MechParts_Steiner_Light.csv
+  File: itemCollection_systemStores_MechParts_Steiner_Medium.csv
   File: itemCollection_systemStores_Mechs_Steiner_Medium.csv
 
 Tag: mechdef_hunchback_HBK-5SG
+---------------------------
   File: BTA_List_Coventry.csv
 
 Tag: mechdef_hunchback_HBK-5SS
+---------------------------
   File: BTA_List_Coventry.csv
 
 Tag: mechdef_hunchback_HBK-6N
+---------------------------
   File: BTA_List_Kalidasa.csv
 
 Tag: mechdef_hunchback_HBK-GI
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_hunchback_HBK-IIC
+---------------------------
   File: BTAClan_Mechs.csv
 
 Tag: mechdef_hunchback_HBK-IIC-DW
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_hunchback_HBK-IIC-TR
+---------------------------
   File: itemCollection_BTA_Throwdown_Mechs.csv
 
 Tag: mechdef_hunchbackii_HBK-2-4G
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
 
 Tag: mechdef_hunchbackii_HBK-2-5D
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
 
 Tag: mechdef_hunchbackii_HBK-2-5G
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
 
 Tag: mechdef_hunchbackii_HBK-2-6B
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
 
 Tag: mechdef_huntsman_HMN-PA
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_huntsman_HMN-PRIME
+---------------------------
   File: BTA_List_Avon.csv
-
-Tag: mechdef_huntsman_HMN-PRIME
   File: BTA_List_Irece.csv
 
 Tag: mechdef_huronw_HUR-WO-R4L
+---------------------------
   File: itemCollection_systemStores_MechParts_Liao_Light.csv
-
-Tag: mechdef_huronw_HUR-WO-R4L
   File: itemCollection_systemStores_MechParts_Liao_Medium.csv
-
-Tag: mechdef_huronw_HUR-WO-R4L
   File: itemCollection_systemStores_Mechs_Liao_Medium.csv
 
 Tag: mechdef_huronw_HUR-WO-R4N
+---------------------------
   File: BTA_List_Corey.csv
 
 Tag: mechdef_huronw_HUR-WO-R4O
+---------------------------
   File: BTA_List_Corey.csv
 
 Tag: mechdef_huronw_HUR-WO-R5H
+---------------------------
   File: BTA_List_Corey.csv
 
 Tag: mechdef_huronw_HUR-WO-R5X
+---------------------------
   File: BTA_List_Corey.csv
 
 Tag: mechdef_huronw_HUR-WO-WY
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_hussar_HSR-200-D
-  File: BTA_List_Coventry.csv
-
-Tag: mechdef_hussar_HSR-200-D
+---------------------------
   File: itemCollection_systemStores_MechParts_Generic_Periphery.csv
-
-Tag: mechdef_hussar_HSR-400-D
   File: BTA_List_Coventry.csv
 
 Tag: mechdef_hussar_HSR-400-D
-  File: itemCollection_Mechs_faction_ComStar.csv
-
-Tag: mechdef_hussar_HSR-400-D
+---------------------------
   File: itemCollection_faction_ComStar.csv
-
-Tag: mechdef_hussar_HSR-400-D
+  File: itemCollection_Mechs_faction_ComStar.csv
+  File: BTA_List_Coventry.csv
   File: itemCollection_table_eventHellOfADeal.csv
 
 Tag: mechdef_hussar_HSR-500-D
+---------------------------
   File: BTA_List_Terra_Mechs.csv
 
 Tag: mechdef_hyperion_HYP-K
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_icarusii_ICR-1R
+---------------------------
   File: BTA_List_Stewart.csv
 
 Tag: mechdef_icarusii_ICR-1S
+---------------------------
   File: itemCollection_HM_careerStarter_pack_Mechs.csv
-
-Tag: mechdef_icarusii_ICR-1S
-  File: itemCollection_systemStores_MechParts_Marik_Light.csv
-
-Tag: mechdef_icarusii_ICR-1S
-  File: itemCollection_systemStores_MechParts_Marik_Medium.csv
-
-Tag: mechdef_icarusii_ICR-1S
   File: itemCollection_systemStores_Mechs_Generic_DeepPeriphery.csv
-
-Tag: mechdef_icarusii_ICR-1S
+  File: itemCollection_systemStores_MechParts_Marik_Light.csv
+  File: itemCollection_systemStores_MechParts_Marik_Medium.csv
   File: itemCollection_systemStores_Mechs_Marik_Medium.csv
 
 Tag: mechdef_icarusii_ICR-2M
+---------------------------
   File: BTA_List_Stewart.csv
 
 Tag: mechdef_iceferret_IFR-B
+---------------------------
   File: BTA_List_Outreach_Clan.csv
 
 Tag: mechdef_iceferret_IFR-D
+---------------------------
   File: BTA_List_ArcRoyal_Clan.csv
 
 Tag: mechdef_iceferret_IFR-RC
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_imp_IMP-3E
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_imp_IMP-3E
   File: BTA_List_Outreach_IS.csv
 
 Tag: mechdef_incubus_1
+---------------------------
   File: BTAClan_Mechs.csv
 
 Tag: mechdef_incubus_INC-SA
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_ion_ION-2R
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_ion_ION-3R
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_ion_ION-4R
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_ion_ION-5R
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_ionraptor_ION-1R
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_ironcheetah_IC-PRIME
+---------------------------
   File: BTAClan_Mechs_Rare.csv
 
 Tag: mechdef_jackrabbit_JKR-8T
-  File: BTA_List_Otisberg.csv
-
-Tag: mechdef_jackrabbit_JKR-8T
+---------------------------
   File: itemCollection_faction_Rim.csv
-
-Tag: mechdef_jackrabbit_JKR-9R
   File: BTA_List_Otisberg.csv
 
 Tag: mechdef_jackrabbit_JKR-9R
+---------------------------
   File: itemCollection_faction_Rim.csv
+  File: BTA_List_Otisberg.csv
 
 Tag: mechdef_jagermech_JM6-A
+---------------------------
   File: itemCollection_MechParts_Davion_uncommon.csv
 
 Tag: mechdef_jagermech_JM6-DG
+---------------------------
   File: BTA_List_Quentin.csv
-
-Tag: mechdef_jagermech_JM6-DG
   File: BTA_List_Wernke.csv
 
 Tag: mechdef_jagermech_JM6-DGr
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
 
 Tag: mechdef_jagermech_JM6-FB
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_jagermech_JM6-S
+---------------------------
   File: itemCollection_MechParts_Davion_uncommon.csv
 
 Tag: mechdef_jagermechii_JM7-D
+---------------------------
   File: BTA_List_Wernke.csv
-
-Tag: mechdef_jagermechii_JM7-D
   File: itemCollection_systemStores_MechParts_Davion_Heavy.csv
-
-Tag: mechdef_jagermechii_JM7-D
   File: itemCollection_systemStores_Mechs_Davion_Heavy.csv
 
 Tag: mechdef_jagermechii_JM7-F
+---------------------------
   File: BTA_List_Wernke.csv
-
-Tag: mechdef_jagermechii_JM7-F
   File: itemCollection_systemStores_MechParts_Davion_Light.csv
 
 Tag: mechdef_jagermechiii_JM6-D3
+---------------------------
   File: BTA_List_Quentin.csv
-
-Tag: mechdef_jagermechiii_JM6-D3
   File: BTA_List_Wernke.csv
 
 Tag: mechdef_jenner_JR7-IIC
+---------------------------
   File: BTAClan_Mechs.csv
-
-Tag: mechdef_jenner_JR7-IIC
   File: BTA_List_Irece.csv
 
 Tag: mechdef_jenner_JR7-IIC-2
+---------------------------
   File: BTA_List_Irece.csv
 
 Tag: mechdef_jenner_JR7-IIC-3
+---------------------------
   File: BTA_List_Irece.csv
 
 Tag: mechdef_jenner_JR7-IIC-4
+---------------------------
   File: BTA_List_Irece.csv
 
 Tag: mechdef_jenner_JR7-IIC-FY
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_jenner_JR7-K
+---------------------------
   File: BTA_List_Luthien.csv
-
-Tag: mechdef_jenner_JR7-K
   File: itemCollection_systemStores_MechParts_Kurita_Light.csv
-
-Tag: mechdef_jenner_JR7-K
   File: itemCollection_systemStores_Mechs_Kurita_Light.csv
 
 Tag: mechdef_jenner_JR7-M
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
 
 Tag: mechdef_jenner_JR7-O
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_jotunn_JTN-4Q
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_jotunn_JTN-4Q
   File: BTA_List_NewVandenburg.csv
 
 Tag: mechdef_jotunn_JTN-5Q
+---------------------------
   File: BTA_List_NewVandenburg.csv
 
 Tag: mechdef_jotunn_JTN-6Q
+---------------------------
   File: BTA_List_NewVandenburg.csv
 
 Tag: mechdef_juggernaut_JG-R9T1
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_juggernaut_JG-R9T2
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_juggernaut_JG-R9T3
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_katana_CRK-5003-2
+---------------------------
   File: BTA_List_Soul.csv
 
 Tag: mechdef_katana_CRK-5003-C
+---------------------------
   File: BTA_List_Soul.csv
 
 Tag: mechdef_katana_CRK-5003-CM
+---------------------------
   File: BTA_List_Soul.csv
 
 Tag: mechdef_kingcrab_KGC-000b
+---------------------------
   File: BTA_SLDF_Mechs.csv
-
-Tag: mechdef_kingcrab_KGC-000b
   File: BTA_SLDF_MechsParts.csv
-
-Tag: mechdef_kingcrab_KGC-000b
+  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
   File: itemCollection_MechParts_SLDF.csv
 
-Tag: mechdef_kingcrab_KGC-000b
-  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
-
 Tag: mechdef_kingcrab_KGC-001
+---------------------------
+  File: itemCollection_faction_ComStar.csv
+  File: itemCollection_Mechs_faction_ComStar.csv
   File: BTA_List_Northwind.csv
-
-Tag: mechdef_kingcrab_KGC-001
   File: BTA_List_Terra_Mechs.csv
 
-Tag: mechdef_kingcrab_KGC-001
-  File: itemCollection_Mechs_faction_ComStar.csv
-
-Tag: mechdef_kingcrab_KGC-001
-  File: itemCollection_faction_ComStar.csv
-
 Tag: mechdef_kingcrab_KGC-BD
+---------------------------
   File: itemCollection_BTA_Throwdown_Mechs.csv
 
 Tag: mechdef_kingcrab_KGC-KJ
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_kingfisher_KNG-A
+---------------------------
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: mechdef_kingfisher_KNG-B
+---------------------------
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: mechdef_kingfisher_KNG-C
+---------------------------
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: mechdef_kingfisher_KNG-D
+---------------------------
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: mechdef_kingfisher_KNG-E
+---------------------------
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: mechdef_kingfisher_KNG-H
+---------------------------
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: mechdef_kingfisher_KNG-Prime
+---------------------------
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: mechdef_kintaro_KTO-18
+---------------------------
   File: BTA_List_Mechdur.csv
-
-Tag: mechdef_kintaro_KTO-18
   File: itemCollection_MechParts_Davion_rare.csv
-
-Tag: mechdef_kintaro_KTO-18
   File: itemCollection_MechParts_Kurita_rare.csv
-
-Tag: mechdef_kintaro_KTO-18
   File: itemCollection_systemStores_MechParts_Directorate_Light.csv
-
-Tag: mechdef_kintaro_KTO-18
   File: itemCollection_systemStores_MechParts_Directorate_Medium.csv
-
-Tag: mechdef_kintaro_KTO-18
   File: itemCollection_systemStores_Mechs_Directorate_Medium.csv
 
 Tag: mechdef_kintaro_KTO-19b
+---------------------------
   File: BTA_SLDF_Mechs.csv
-
-Tag: mechdef_kintaro_KTO-19b
   File: BTA_SLDF_MechsParts.csv
-
-Tag: mechdef_kintaro_KTO-19b
+  File: itemCollection_systemStores_MechParts_ComStar_Light.csv
   File: itemCollection_MechParts_SLDF.csv
 
-Tag: mechdef_kintaro_KTO-19b
-  File: itemCollection_systemStores_MechParts_ComStar_Light.csv
-
 Tag: mechdef_kintaro_KTO-19s
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
 
 Tag: mechdef_kintaro_KTO-21
+---------------------------
   File: BTA_List_Terra_Mechs.csv
 
 Tag: mechdef_kintaro_KTO-GB
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_kiso_K-3M-KR3
+---------------------------
   File: BTA_List_Togura.csv
 
 Tag: mechdef_kiso_K-3M-KR4
+---------------------------
   File: BTA_List_Togura.csv
 
 Tag: mechdef_kiso_K-3M-KR5
+---------------------------
   File: BTA_List_Togura.csv
 
 Tag: mechdef_kiso_K-3M-KR6
+---------------------------
   File: BTA_List_Togura.csv
 
 Tag: mechdef_kiso_K-3M-KR7
+---------------------------
   File: BTA_List_Togura.csv
 
 Tag: mechdef_kiso_K-3M-KR8
+---------------------------
   File: BTA_List_Togura.csv
 
 Tag: mechdef_kiso_K-3N-KR3
+---------------------------
   File: BTA_List_NewSamarkand.csv
 
 Tag: mechdef_kiso_K-3N-KR4
+---------------------------
   File: BTA_List_NewSamarkand.csv
 
 Tag: mechdef_kiso_K-3N-KRHQ
+---------------------------
   File: BTA_List_Dieron.csv
 
 Tag: mechdef_kitfox_KFX-BW
+---------------------------
   File: itemCollection_BTA_Throwdown_Mechs.csv
 
 Tag: mechdef_kitfox_KFX-PR
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_kitfox_W
+---------------------------
   File: BTA_List_Outreach_Clan.csv
 
 Tag: mechdef_kodiak_SB
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_koschei_KSC-4I
+---------------------------
   File: BTA_List_Tikonov.csv
-
-Tag: mechdef_koschei_KSC-4I
   File: BTA_List_Victoria.csv
 
 Tag: mechdef_koschei_KSC-4L
+---------------------------
   File: BTA_List_Tikonov.csv
-
-Tag: mechdef_koschei_KSC-4L
   File: BTA_List_Victoria.csv
 
 Tag: mechdef_koschei_KSC-5MC
+---------------------------
   File: BTA_List_Dunianshire.csv
 
 Tag: mechdef_lambda_LBD-4G
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
-
-Tag: mechdef_lambda_LBD-4G
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_lambda_LBD-4M
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
-
-Tag: mechdef_lambda_LBD-4M
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_lambda_LBD-4S
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
-
-Tag: mechdef_lambda_LBD-4S
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_lambda_LBD-5A
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
-
-Tag: mechdef_lambda_LBD-5A
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_lancelot_LNC25-01
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
 
 Tag: mechdef_lancelot_LNC25-01sl
+---------------------------
   File: itemCollection_systemStores_MechParts_WoB_Light.csv
 
 Tag: mechdef_lancelot_LNC25-02
+---------------------------
   File: itemCollection_systemStores_MechParts_Generic_Periphery.csv
-
-Tag: mechdef_lancelot_LNC25-02
   File: itemCollection_systemStores_Mechs_Generic_GreatHouse.csv
 
 Tag: mechdef_lancelot_LNC25-04
+---------------------------
+  File: itemCollection_faction_ComStar.csv
+  File: itemCollection_Mechs_faction_ComStar.csv
   File: BTA_List_Terra_Mechs.csv
 
-Tag: mechdef_lancelot_LNC25-04
-  File: itemCollection_Mechs_faction_ComStar.csv
-
-Tag: mechdef_lancelot_LNC25-04
-  File: itemCollection_faction_ComStar.csv
-
 Tag: mechdef_lancelot_LNC25-C2
+---------------------------
   File: BTAClan_Mechs_Rare_Convoy.csv
 
 Tag: mechdef_laohu_LHU-2B
+---------------------------
   File: BTA_List_Victoria.csv
-
-Tag: mechdef_laohu_LHU-2B
   File: itemCollection_systemStores_MechParts_Liao_Light.csv
 
 Tag: mechdef_laohu_LHU-3B
+---------------------------
   File: BTA_List_Victoria.csv
 
 Tag: mechdef_laohu_LHU-3C
+---------------------------
   File: BTA_List_Victoria.csv
 
 Tag: mechdef_leaper_LPR-3DB
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
-
-Tag: mechdef_leaper_LPR-3DB
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: mechdef_leaper_LPR-3K
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
-
-Tag: mechdef_leaper_LPR-3K
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: mechdef_leaper_LPR-4K
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
-
-Tag: mechdef_leaper_LPR-4K
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: mechdef_leaper_LPR-5K
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
-
-Tag: mechdef_leaper_LPR-5K
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: mechdef_legacy_LGC-01
+---------------------------
   File: BTA_List_Terra_Mechs.csv
 
 Tag: mechdef_legacy_LGC-02
+---------------------------
   File: BTA_List_Terra_Mechs.csv
 
 Tag: mechdef_liberty_LBT-O
+---------------------------
   File: BTA_List_Taurus.csv
 
 Tag: mechdef_linebacker_LBK-PRIME
+---------------------------
   File: BTA_List_ArcRoyal_Clan.csv
 
 Tag: mechdef_linebacker_LBK-RL
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_liquidator_LQD-1L
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
-
-Tag: mechdef_liquidator_LQD-1L
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: mechdef_liquidator_LQD-1R
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
-
-Tag: mechdef_liquidator_LQD-1R
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: mechdef_liquidator_LQD-2G
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
-
-Tag: mechdef_liquidator_LQD-2G
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: mechdef_liquidator_LQD-2L
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
-
-Tag: mechdef_liquidator_LQD-2L
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: mechdef_lithobolos_LTH-B0
+---------------------------
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: mechdef_lithobolos_LTH-B2
+---------------------------
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: mechdef_lithobolos_LTH-B3
+---------------------------
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: mechdef_loaderking_LDR-K-1
+---------------------------
+  File: itemCollection_faction_Hanse.csv
+  File: itemCollection_systemStores_Mechs_Generic_DeepPeriphery.csv
   File: BTA_List_Canopus.csv
 
-Tag: mechdef_loaderking_LDR-K-1
-  File: itemCollection_faction_Hanse.csv
-
-Tag: mechdef_loaderking_LDR-K-1
-  File: itemCollection_systemStores_Mechs_Generic_DeepPeriphery.csv
-
 Tag: mechdef_loaderking_LDR-K-2
+---------------------------
   File: itemCollection_faction_Hanse.csv
 
 Tag: mechdef_loaderking_LDR-K-3
+---------------------------
   File: itemCollection_faction_Hanse.csv
 
 Tag: mechdef_locust_LCT-1L
+---------------------------
   File: BTA_List_Ares.csv
 
 Tag: mechdef_locust_LCT-1V
-  File: BTA_List_Alpheratz.csv
-
-Tag: mechdef_locust_LCT-1V
-  File: BTA_List_Canopus.csv
-
-Tag: mechdef_locust_LCT-1V
-  File: BTA_List_Dunianshire.csv
-
-Tag: mechdef_locust_LCT-1V
-  File: BTA_List_Mechdur.csv
-
-Tag: mechdef_locust_LCT-1V
-  File: itemCollection_systemStores_MechParts_common_Light.csv
-
-Tag: mechdef_locust_LCT-1V
-  File: itemCollection_systemStores_MechParts_common_Light.csv
-
-Tag: mechdef_locust_LCT-1V
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_Periphery.csv
-
-Tag: mechdef_locust_LCT-1V
+  File: BTA_List_Alpheratz.csv
+  File: BTA_List_Canopus.csv
+  File: BTA_List_Dunianshire.csv
+  File: BTA_List_Mechdur.csv
+  File: itemCollection_systemStores_MechParts_common_Light.csv
+  File: itemCollection_systemStores_MechParts_common_Light.csv
   File: itemCollection_systemStores_Mechs_common_Light.csv
 
 Tag: mechdef_locust_LCT-1V2
+---------------------------
   File: BTA_List_Alphard_Marian.csv
 
 Tag: mechdef_locust_LCT-1Vb
+---------------------------
   File: itemCollection_systemStores_MechParts_ComStar_Light.csv
 
 Tag: mechdef_locust_LCT-3D
+---------------------------
   File: BTA_List_NewAvalon.csv
 
 Tag: mechdef_locust_LCT-3M
+---------------------------
   File: itemCollection_systemStores_MechParts_Generic_GreatHouse.csv
 
 Tag: mechdef_locust_LCT-3S
+---------------------------
   File: BTA_List_Furillo.csv
 
 Tag: mechdef_locust_LCT-3V
+---------------------------
   File: BTA_List_Taurus.csv
-
-Tag: mechdef_locust_LCT-3V
   File: itemCollection_systemStores_MechParts_Magistracy_Light.csv
-
-Tag: mechdef_locust_LCT-3V
   File: itemCollection_systemStores_Mechs_Magistracy_Light.csv
 
 Tag: mechdef_locust_LCT-5M
+---------------------------
+  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
   File: BTA_List_Gibson.csv
-
-Tag: mechdef_locust_LCT-5M
   File: BTA_List_NewAvalon.csv
-
-Tag: mechdef_locust_LCT-5M
   File: BTA_List_Stewart.csv
 
-Tag: mechdef_locust_LCT-5M
-  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
-
 Tag: mechdef_locust_LCT-PB
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_locustii_LCT-2-1V
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_locustii_LCT-2-1V
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: mechdef_locustii_LCT-2-2D
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_locustii_LCT-2-2D
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: mechdef_locustii_LCT-2-2L
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_locustii_LCT-2-2L
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: mechdef_locustii_LCT-2-2V
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_locustii_LCT-2-2V
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: mechdef_locustiic_LCT-IIC-1
+---------------------------
   File: BTAClan_Mechs.csv
 
 Tag: mechdef_locustiic_LCT-IIC-2
+---------------------------
   File: itemCollection_systemStores_MechParts_ClanNovaCat_Light.csv
 
 Tag: mechdef_locustiic_LCT-IIC-TT
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_longbow_LGB-0C
+---------------------------
   File: BTA_List_Antwerp.csv
 
 Tag: mechdef_longbow_LGB-12C
+---------------------------
   File: BTA_List_Crofton.csv
-
-Tag: mechdef_longbow_LGB-12C
   File: BTA_List_Emris.csv
-
-Tag: mechdef_longbow_LGB-12C
   File: BTA_List_Loburg.csv
-
-Tag: mechdef_longbow_LGB-12C
   File: BTA_List_StIves.csv
-
-Tag: mechdef_longbow_LGB-12C
   File: BTA_List_Terra_Mechs.csv
 
 Tag: mechdef_longbow_LGB-13NAIS
+---------------------------
   File: BTA_List_NewAvalon.csv
 
 Tag: mechdef_longbow_LGB-7V
+---------------------------
   File: BTA_List_Crofton.csv
-
-Tag: mechdef_longbow_LGB-7V
   File: BTA_List_Emris.csv
-
-Tag: mechdef_longbow_LGB-7V
   File: BTA_List_Loburg.csv
-
-Tag: mechdef_longbow_LGB-7V
   File: itemCollection_systemStores_MechParts_Marik_Light.csv
 
 Tag: mechdef_lupus_TB
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_lynx_LNX-9C
+---------------------------
   File: BTA_List_Midway.csv
 
 Tag: mechdef_lynx_LNX-9Q
+---------------------------
   File: BTA_List_Midway.csv
-
-Tag: mechdef_lynx_LNX-9Q
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_lynx_LNX-9R
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_mackie-5S
+---------------------------
   File: BTA_List_Antwerp.csv
 
 Tag: mechdef_mackie-9H
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_mackie-9H
   File: itemCollection_systemStores_MechParts_Taurian_Light.csv
 
 Tag: mechdef_madcatmkii_1
+---------------------------
   File: BTAClan_Mechs_Rare.csv
 
 Tag: mechdef_madcatmkii_DS
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_maddog_MDD-BA
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_maddog_PRIME
+---------------------------
   File: BTA_List_Outreach_Clan.csv
 
 Tag: mechdef_malak_C-MK-O-CONDITUS
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
 
 Tag: mechdef_malak_C-MK-O-DEICIO
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
 
 Tag: mechdef_malak_C-MK-O-LATERUS
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
 
 Tag: mechdef_malak_C-MK-O-RAPTUS
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
 
 Tag: mechdef_mantis_MTS-P
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_mantis_MTS-S
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_mantis_MTS-T
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_mantis_MTS-T2
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_mantis_MTS-T3
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_mantis_SA-MN
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_mantis_SA-MN2
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_marauderII_MAD-4HB
+---------------------------
   File: itemCollection_faction_Marian.csv
 
 Tag: mechdef_marauderII_MAD-4S
+---------------------------
   File: BTA_List_NewValencia.csv
-
-Tag: mechdef_marauderII_MAD-4S
   File: BTA_List_Outreach_IS.csv
 
 Tag: mechdef_marauderII_MAD-5A
+---------------------------
   File: BTA_List_Outreach_IS.csv
 
 Tag: mechdef_marauderII_MAD-AL
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_marauder_MAD-2R
+---------------------------
   File: BTA_SLDF_Mechs.csv
-
-Tag: mechdef_marauder_MAD-2R
   File: BTA_SLDF_MechsParts.csv
-
-Tag: mechdef_marauder_MAD-2R
   File: itemCollection_MechParts_SLDF.csv
 
 Tag: mechdef_marauder_MAD-3L
+---------------------------
   File: BTA_List_Capella.csv
 
 Tag: mechdef_marauder_MAD-3R
+---------------------------
+  File: itemCollection_systemStores_Mechs_Generic_GreatHouse.csv
+  File: itemCollection_systemStores_Mechs_Generic_Periphery.csv
   File: BTA_List_NewVandenburg.csv
-
-Tag: mechdef_marauder_MAD-3R
   File: BTA_List_Pinard.csv
-
-Tag: mechdef_marauder_MAD-3R
   File: BTA_List_Taurus.csv
 
-Tag: mechdef_marauder_MAD-3R
-  File: itemCollection_systemStores_Mechs_Generic_GreatHouse.csv
-
-Tag: mechdef_marauder_MAD-3R
-  File: itemCollection_systemStores_Mechs_Generic_Periphery.csv
-
 Tag: mechdef_marauder_MAD-3TL
+---------------------------
   File: itemCollection_BTA_Throwdown_Mechs.csv
 
 Tag: mechdef_marauder_MAD-4X
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_marauder_MAD-4X
   File: itemCollection_systemStores_MechParts_Marik_Light.csv
 
 Tag: mechdef_marauder_MAD-5CS
+---------------------------
+  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
   File: BTA_List_Gibson.csv
-
-Tag: mechdef_marauder_MAD-5CS
   File: BTA_List_Tukayyid.csv
 
-Tag: mechdef_marauder_MAD-5CS
-  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
-
 Tag: mechdef_marauder_MAD-5D
+---------------------------
   File: BTA_List_Kathil.csv
-
-Tag: mechdef_marauder_MAD-5D
   File: BTA_List_Quentin.csv
 
 Tag: mechdef_marauder_MAD-5L
+---------------------------
   File: BTA_List_Capella.csv
-
-Tag: mechdef_marauder_MAD-5L
   File: BTA_List_Warlock.csv
 
 Tag: mechdef_marauder_MAD-5M
+---------------------------
   File: BTA_List_Wallis.csv
 
 Tag: mechdef_marauder_MAD-5R
+---------------------------
   File: BTA_List_Kathil.csv
 
 Tag: mechdef_marauder_MAD-5S
+---------------------------
   File: itemCollection_systemStores_MechParts_Steiner_Heavy.csv
-
-Tag: mechdef_marauder_MAD-5S
   File: itemCollection_systemStores_MechParts_Steiner_Light.csv
-
-Tag: mechdef_marauder_MAD-5S
   File: itemCollection_systemStores_Mechs_Steiner_Heavy.csv
 
 Tag: mechdef_marauder_MAD-9S
+---------------------------
   File: BTA_List_Carlisle.csv
 
 Tag: mechdef_marauder_MAD-BH2
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_marauder_MAD_C
+---------------------------
   File: BTAClan_Mechs_Rare_Convoy.csv
 
 Tag: mechdef_marauderiic_MAD-IIC
+---------------------------
   File: BTAClan_Mechs_Rare.csv
 
 Tag: mechdef_marauderiic_MAD-IIC-SC
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_mauler_MAL-1R
+---------------------------
   File: itemCollection_systemStores_MechParts_Kurita_Light.csv
 
 Tag: mechdef_mauler_MAL-2K
+---------------------------
   File: BTA_List_NewSamarkand.csv
 
 Tag: mechdef_mauler_MAL-3R
+---------------------------
   File: BTA_List_Luthien.csv
-
-Tag: mechdef_mauler_MAL-3R
   File: BTA_List_NewSamarkand.csv
 
 Tag: mechdef_mauler_MAL-KO
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_medusa_MED-1
+---------------------------
   File: BTAClan_Mechs.csv
 
 Tag: mechdef_merlin_MLN-1A
-  File: BTA_List_Alpheratz.csv
-
-Tag: mechdef_merlin_MLN-1A
+---------------------------
   File: itemCollection_faction_Outworld.csv
-
-Tag: mechdef_merlin_MLN-1A
   File: itemCollection_systemStores_Mechs_Generic_Periphery.csv
-
-Tag: mechdef_merlin_MLN-1B
   File: BTA_List_Alpheratz.csv
 
 Tag: mechdef_merlin_MLN-1B
+---------------------------
   File: itemCollection_faction_Outworld.csv
+  File: BTA_List_Alpheratz.csv
 
 Tag: mechdef_merlin_MLN-2A
+---------------------------
   File: itemCollection_faction_Outworld.csv
 
 Tag: mechdef_merlin_MLN-2B
+---------------------------
   File: itemCollection_faction_Outworld.csv
 
 Tag: mechdef_merlin_MLN-2C
+---------------------------
   File: itemCollection_faction_Outworld.csv
 
 Tag: mechdef_minsk_MNK-101
+---------------------------
   File: BTAClan_Mechs_Rare_Convoy.csv
 
 Tag: mechdef_mistlynx_MLX-ED
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_mistlynx_MLX-P
+---------------------------
   File: BTA_List_Outreach_Clan.csv
 
 Tag: mechdef_mongoose_MON-66
-  File: BTA_List_Tukayyid.csv
-
-Tag: mechdef_mongoose_MON-66
-  File: itemCollection_Mechs_faction_ComStar.csv
-
-Tag: mechdef_mongoose_MON-66
+---------------------------
   File: itemCollection_faction_ComStar.csv
-
-Tag: mechdef_mongoose_MON-66
+  File: itemCollection_Mechs_faction_ComStar.csv
+  File: BTA_List_Tukayyid.csv
   File: itemCollection_systemStores_MechParts_Marik_Light.csv
-
-Tag: mechdef_mongoose_MON-66
   File: itemCollection_systemStores_Mechs_Marik_Light.csv
 
 Tag: mechdef_mongoose_MON-66b
+---------------------------
   File: itemCollection_systemStores_MechParts_ComStar_Light.csv
-
-Tag: mechdef_mongoose_MON-66b
   File: itemCollection_table_eventHellOfADeal.csv
 
 Tag: mechdef_mongoose_MON-67
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_GreatHouse.csv
 
 Tag: mechdef_mongoose_MON-69
+---------------------------
   File: BTA_List_AixLaChapelle.csv
 
 Tag: mechdef_mushu_MHU-2R
+---------------------------
   File: BTA_List_Mechdur.csv
-
-Tag: mechdef_mushu_MHU-2R
   File: itemCollection_faction_AuriganRestoration.csv
 
 Tag: mechdef_mushu_MHU-3R
+---------------------------
   File: itemCollection_faction_AuriganRestoration.csv
 
 Tag: mechdef_mushu_MHU-4R
+---------------------------
   File: itemCollection_faction_AuriganRestoration.csv
 
 Tag: mechdef_naginata_NG-C3A
+---------------------------
   File: BTA_List_Quentin.csv
 
 Tag: mechdef_naginata_NG-C3B
+---------------------------
   File: BTA_List_Quentin.csv
 
 Tag: mechdef_naginata_NG-C3C
+---------------------------
   File: BTA_List_Quentin.csv
 
 Tag: mechdef_nagual_S-NG-LAM
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
-
-Tag: mechdef_nagual_S-NG-LAM
+  File: itemCollection_faction_WoB.csv
   File: itemCollection_Mechs_faction_WoB.csv
 
-Tag: mechdef_nagual_S-NG-LAM
-  File: itemCollection_faction_WoB.csv
-
 Tag: mechdef_nightgyr_NTG-JK
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_nighthawk_NTK-2Q
+---------------------------
   File: BTA_List_Alpheratz.csv
-
-Tag: mechdef_nighthawk_NTK-2Q
   File: BTA_List_Vendrell.csv
-
-Tag: mechdef_nighthawk_NTK-2Q
   File: itemCollection_systemStores_MechParts_Steiner_Light.csv
 
 Tag: mechdef_nighthawk_NTK-2S
+---------------------------
   File: BTA_List_Vendrell.csv
 
 Tag: mechdef_nightstar_NSR-9FC
+---------------------------
   File: BTA_List_Kathil.csv
 
 Tag: mechdef_nightstar_NSR-9J
+---------------------------
+  File: itemCollection_faction_ComStar.csv
+  File: itemCollection_Mechs_faction_ComStar.csv
   File: BTA_List_Kathil.csv
-
-Tag: mechdef_nightstar_NSR-9J
   File: BTA_List_Solaris_Mechs.csv
 
-Tag: mechdef_nightstar_NSR-9J
-  File: itemCollection_Mechs_faction_ComStar.csv
-
-Tag: mechdef_nightstar_NSR-9J
-  File: itemCollection_faction_ComStar.csv
-
 Tag: mechdef_nightstar_NSR-WP
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_nova_BK
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_nova_PRIME
+---------------------------
   File: BTA_List_Outreach_Clan.csv
 
 Tag: mechdef_nyxprototype_NX-60
+---------------------------
   File: BTA_List_Terra_Mechs.csv
 
 Tag: mechdef_nyxprototype_NX-65
+---------------------------
   File: BTA_List_Terra_Mechs.csv
 
 Tag: mechdef_nyxprototype_NX-70
+---------------------------
   File: BTA_List_Terra_Mechs.csv
 
 Tag: mechdef_omega_SHP-X4
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
-
-Tag: mechdef_omega_SHP-X4
+  File: itemCollection_faction_WoB.csv
   File: itemCollection_Mechs_faction_WoB.csv
 
-Tag: mechdef_omega_SHP-X4
-  File: itemCollection_faction_WoB.csv
-
 Tag: mechdef_omen_OMN-1
+---------------------------
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: mechdef_orion_ON1-H
+---------------------------
   File: BTA_List_Antwerp.csv
 
 Tag: mechdef_orion_ON1-IIC-SK
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_orion_ON1-K
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_GreatHouse.csv
 
 Tag: mechdef_orion_ON1-M
+---------------------------
   File: itemCollection_systemStores_MechParts_Marik_Light.csv
 
 Tag: mechdef_orion_ON1-MB
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
 
 Tag: mechdef_orion_ON1-P
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_orion_ON2-D
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_orion_ON2-G
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_orion_ON2-K
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_orion_ON2-M
+---------------------------
   File: BTA_List_Kalidasa.csv
-
-Tag: mechdef_orion_ON2-M
   File: BTA_List_Kendall.csv
 
 Tag: mechdef_orion_ON2-S
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_osiris_OSR-3D
+---------------------------
   File: BTA_List_NewAvalon.csv
-
-Tag: mechdef_osiris_OSR-3D
   File: itemCollection_systemStores_MechParts_Davion_Light.csv
-
-Tag: mechdef_osiris_OSR-3D
   File: itemCollection_systemStores_Mechs_Davion_Light.csv
 
 Tag: mechdef_osiris_OSR-SE
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_osprey_OSP-15
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_osprey_OSP-15
   File: BTA_List_Terra_Mechs.csv
-
-Tag: mechdef_osprey_OSP-15
   File: itemCollection_MechParts_SLDF.csv
 
 Tag: mechdef_ostroc_OSR-2CB
+---------------------------
+  File: BTA_SLDF_Mechs.csv
+  File: BTA_SLDF_MechsParts.csv
   File: BTA_List_Terra_Mechs.csv
 
-Tag: mechdef_ostroc_OSR-2CB
-  File: BTA_SLDF_Mechs.csv
-
-Tag: mechdef_ostroc_OSR-2CB
-  File: BTA_SLDF_MechsParts.csv
-
 Tag: mechdef_ostroc_OSR-2L
+---------------------------
   File: itemCollection_systemStores_MechParts_Liao_Light.csv
 
 Tag: mechdef_ostroc_OSR-3G
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_ostroc_OSR-3L
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_ostroc_OSR-3M
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_ostroc_OSR-3S
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_ostroc_OSR-4C
+---------------------------
   File: BTA_List_NewVandenburg.csv
 
 Tag: mechdef_ostroc_OSR-4L
+---------------------------
   File: BTA_List_Capella.csv
-
-Tag: mechdef_ostroc_OSR-4L
   File: BTA_List_Warlock.csv
 
 Tag: mechdef_ostroc_OSR-DN
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_ostscout_OTT-7J
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_GreatHouse.csv
 
 Tag: mechdef_ostscout_OTT-9CS
+---------------------------
+  File: itemCollection_faction_ComStar.csv
+  File: itemCollection_Mechs_faction_ComStar.csv
   File: BTA_List_Orestes.csv
-
-Tag: mechdef_ostscout_OTT-9CS
   File: BTA_List_Terra_Mechs.csv
 
-Tag: mechdef_ostscout_OTT-9CS
-  File: itemCollection_Mechs_faction_ComStar.csv
-
-Tag: mechdef_ostscout_OTT-9CS
-  File: itemCollection_faction_ComStar.csv
-
 Tag: mechdef_ostscout_OTT-9S
+---------------------------
   File: BTA_List_Inarcs.csv
 
 Tag: mechdef_ostscout_OTT-OP
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_ostsol_OTL-4D
-  File: BTA_List_Robinson.csv
-
-Tag: mechdef_ostsol_OTL-4D
+---------------------------
   File: itemCollection_systemStores_MechParts_Generic_GreatHouse.csv
-
-Tag: mechdef_ostsol_OTL-4D
+  File: BTA_List_Robinson.csv
   File: itemCollection_systemStores_MechParts_Magistracy_Light.csv
 
 Tag: mechdef_ostsol_OTL-7M
+---------------------------
   File: BTA_List_Connaugh.csv
 
 Tag: mechdef_ostsol_OTL-8D
+---------------------------
   File: BTA_List_Robinson.csv
 
 Tag: mechdef_ostsol_OTL-8M
+---------------------------
   File: BTA_List_Connaugh.csv
 
 Tag: mechdef_ostwar_OWR-2M
+---------------------------
   File: BTA_List_Antwerp.csv
 
 Tag: mechdef_ostwar_OWR-2MB
+---------------------------
   File: BTA_SLDF_Mechs.csv
-
-Tag: mechdef_ostwar_OWR-2MB
   File: BTA_SLDF_MechsParts.csv
 
 Tag: mechdef_ostwar_OWR-2N
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_ostwar_OWR-2N
   File: itemCollection_systemStores_MechParts_Taurian_Light.csv
 
 Tag: mechdef_ostwar_OWR-3D
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_ostwar_OWR-3F
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_ostwar_OWR-3L
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_ostwar_OWR-3N
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_owens_OW-1-Prime
+---------------------------
   File: BTA_List_Irian.csv
-
-Tag: mechdef_owens_OW-1-Prime
   File: BTA_List_Luthien.csv
-
-Tag: mechdef_owens_OW-1-Prime
   File: itemCollection_systemStores_MechParts_Kurita_Light.csv
 
 Tag: mechdef_pallas_PLS-1X
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
 
 Tag: mechdef_panther_PNT-10K
-  File: BTA_List_NewSamarkand.csv
-
-Tag: mechdef_panther_PNT-10K
-  File: BTA_List_TokDo.csv
-
-Tag: mechdef_panther_PNT-10K
-  File: itemCollection_systemStores_MechParts_Kurita_Light.csv
-
-Tag: mechdef_panther_PNT-10K
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
-
-Tag: mechdef_panther_PNT-10K
+  File: BTA_List_NewSamarkand.csv
+  File: BTA_List_TokDo.csv
+  File: itemCollection_systemStores_MechParts_Kurita_Light.csv
   File: itemCollection_systemStores_Mechs_Kurita_Light.csv
 
 Tag: mechdef_panther_PNT-12A
+---------------------------
   File: BTA_List_NewSamarkand.csv
 
 Tag: mechdef_panther_PNT-KK
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_penetrator_PTR-4D
+---------------------------
   File: BTA_List_Wernke.csv
-
-Tag: mechdef_penetrator_PTR-4D
   File: itemCollection_systemStores_MechParts_Davion_Light.csv
 
 Tag: mechdef_penetrator_PTR-4F
+---------------------------
   File: BTA_List_Wernke.csv
 
 Tag: mechdef_penetrator_PTR-6M
+---------------------------
   File: BTA_List_Wernke.csv
 
 Tag: mechdef_penetrator_PTR-6S
+---------------------------
   File: BTA_List_Wernke.csv
 
 Tag: mechdef_penetrator_PTR-6T
+---------------------------
   File: BTA_List_Wernke.csv
 
 Tag: mechdef_penetrator_PTR-SI
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_penetrator_PTR-SL
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_perseus_P1-Prime
+---------------------------
   File: BTA_List_Kalidasa.csv
-
-Tag: mechdef_perseus_P1-Prime
   File: itemCollection_systemStores_MechParts_Marik_Heavy.csv
-
-Tag: mechdef_perseus_P1-Prime
   File: itemCollection_systemStores_MechParts_Marik_Light.csv
-
-Tag: mechdef_perseus_P1-Prime
   File: itemCollection_systemStores_Mechs_Marik_Heavy.csv
 
 Tag: mechdef_phantom_PHN-H
+---------------------------
   File: BTA_List_ArcRoyal_Clan.csv
 
 Tag: mechdef_phoenix_PX-1R
+---------------------------
   File: BTA_List_Antwerp.csv
 
 Tag: mechdef_phoenix_PX-3R
-  File: BTA_List_Otisberg.csv
-
-Tag: mechdef_phoenix_PX-3R
+---------------------------
   File: itemCollection_faction_Rim.csv
-
-Tag: mechdef_phoenix_PX-4R
   File: BTA_List_Otisberg.csv
 
 Tag: mechdef_phoenix_PX-4R
+---------------------------
   File: itemCollection_faction_Rim.csv
+  File: BTA_List_Otisberg.csv
 
 Tag: mechdef_phoenixhawk_PHX-HK1
+---------------------------
   File: itemCollection_faction_ComStar.csv
 
 Tag: mechdef_piledriver_PLD-4L
+---------------------------
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_piledriver_PLD-4R
+---------------------------
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_piledriver_PLD-5G
+---------------------------
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_piledriver_PLD-5R
+---------------------------
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_pillager_PLG-3Z
+---------------------------
   File: BTA_List_Kathil.csv
 
 Tag: mechdef_pillager_PLG-4X
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_pillager_PLG-4Z
+---------------------------
   File: BTA_List_Sian.csv
-
-Tag: mechdef_pillager_PLG-4Z
   File: BTA_List_StIves.csv
 
 Tag: mechdef_pillager_PLG-5L
+---------------------------
   File: BTA_List_StIves.csv
 
 Tag: mechdef_pillager_PLG-5Z
+---------------------------
   File: BTA_List_Sian.csv
 
 Tag: mechdef_piranha_PIR-1
+---------------------------
   File: BTAClan_Mechs.csv
 
 Tag: mechdef_piranha_PIR-CI
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_pixie_PXI-1
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
-
-Tag: mechdef_pixie_PXI-1
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_pixie_PXI-1G
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
-
-Tag: mechdef_pixie_PXI-1G
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_pixie_PXI-1L
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
-
-Tag: mechdef_pixie_PXI-1L
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_pixie_PXI-1M
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
-
-Tag: mechdef_pixie_PXI-1M
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_preta_X-PRT-O-CONDITUS
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
-
-Tag: mechdef_preta_X-PRT-O-CONDITUS
+  File: itemCollection_faction_WoB.csv
   File: itemCollection_Mechs_faction_WoB.csv
 
-Tag: mechdef_preta_X-PRT-O-CONDITUS
-  File: itemCollection_faction_WoB.csv
-
 Tag: mechdef_preta_X-PRT-O-DEICIO
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
 
 Tag: mechdef_preta_X-PRT-O-LATERIS
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
 
 Tag: mechdef_preta_X-PRT-O-RAPTUS
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
 
 Tag: mechdef_preta_X-PRT-O-SIROCCO
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_prometheus_PMTH-2
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_prometheus_PMTH-3
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_prometheus_PMTH-4
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_pulverizer_PUL-2V
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_pulverizer_PUL-2V
   File: itemCollection_faction_Outworld.csv
 
 Tag: mechdef_pulverizer_PUL-3R
+---------------------------
   File: itemCollection_faction_Outworld.csv
 
 Tag: mechdef_pulverizer_PUL-4L
+---------------------------
   File: itemCollection_faction_Outworld.csv
 
 Tag: mechdef_pulverizer_PUL-4W
+---------------------------
   File: itemCollection_faction_Outworld.csv
 
 Tag: mechdef_pulverizer_PUL-5A
+---------------------------
   File: itemCollection_faction_Outworld.csv
 
 Tag: mechdef_quickdraw_QKD-4G
+---------------------------
   File: itemCollection_systemStores_MechParts_common_Heavy.csv
-
-Tag: mechdef_quickdraw_QKD-4G
   File: itemCollection_systemStores_Mechs_common_Heavy.csv
 
 Tag: mechdef_quickdraw_QKD-4H
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_Periphery.csv
 
 Tag: mechdef_quickdraw_QKD-5A
+---------------------------
   File: BTA_List_Shiro.csv
 
 Tag: mechdef_quickdraw_QKD-5K
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
 
 Tag: mechdef_quickdraw_QKD-6M
+---------------------------
   File: BTA_List_Savannah.csv
 
 Tag: mechdef_quickdraw_QKD-8K
+---------------------------
   File: BTA_List_Luthien.csv
 
 Tag: mechdef_quickdraw_QKD-IV4
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_rakshasa_MDG-1A
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_rakshasa_MDG-1A
   File: BTA_List_Kathil.csv
 
 Tag: mechdef_rakshasa_MDG-1B
+---------------------------
   File: BTA_List_Kathil.csv
 
 Tag: mechdef_raptor_RTX1-O
-  File: BTA_List_Luthien.csv
-
-Tag: mechdef_raptor_RTX1-O
+---------------------------
   File: itemCollection_systemStores_MechParts_Generic_GreatHouse.csv
-
-Tag: mechdef_raptor_RTX1-O
+  File: BTA_List_Luthien.csv
   File: itemCollection_systemStores_MechParts_Kurita_Light.csv
 
 Tag: mechdef_rashnu_RSH-4V
+---------------------------
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_rashnu_RSH-4Z
+---------------------------
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_rashnu_RSH-5B
+---------------------------
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_rashnu_RSH-5S
+---------------------------
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_rattlesnake_JR7-31
+---------------------------
   File: BTA_List_NewValencia.csv
 
 Tag: mechdef_razorback_RZK-9S
+---------------------------
   File: BTA_List_Carlisle.csv
-
-Tag: mechdef_razorback_RZK-9S
   File: itemCollection_systemStores_MechParts_Steiner_Light.csv
 
 Tag: mechdef_razorback_RZK-9T
+---------------------------
   File: BTA_List_Carlisle.csv
 
 Tag: mechdef_reconquista_RCQ-0N
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_reconquista_RCQ-0N
   File: BTA_List_Antwerp.csv
 
 Tag: mechdef_reptar_EPT-C-1
+---------------------------
   File: BTA_List_Antwerp.csv
 
 Tag: mechdef_rifleman_RFL-IIC
+---------------------------
   File: BTAClan_Mechs_Rare.csv
-
-Tag: mechdef_rifleman_RFL-IIC
   File: BTAClan_Mechs_Rare_Convoy.csv
 
 Tag: mechdef_rifleman_RFL-IIC-2
+---------------------------
   File: itemCollection_systemStores_MechParts_ClanNovaCat_Light.csv
 
 Tag: mechdef_rifleman_RFL-IIC-CH
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_riflemaniii_RF2-A
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_riflemaniii_RF2-A
   File: itemCollection_faction_Rim.csv
 
 Tag: mechdef_riflemaniii_RF2-B
+---------------------------
   File: itemCollection_faction_Rim.csv
 
 Tag: mechdef_riflemaniii_RF2-L
+---------------------------
   File: itemCollection_faction_Rim.csv
 
 Tag: mechdef_risingstar_RSR-01
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
 
 Tag: mechdef_roughneck_RGH-1A
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_roughneck_RGH-1A
-  File: BTA_List_NewAvalon.csv
-
-Tag: mechdef_roughneck_RGH-1A
   File: itemCollection_faction_Circinus.csv
-
-Tag: mechdef_roughneck_RGH-1A
+  File: BTA_List_NewAvalon.csv
   File: itemCollection_systemStores_MechParts_Taurian_Light.csv
 
 Tag: mechdef_roughneck_RGH-1B
-  File: BTA_List_NewAvalon.csv
-
-Tag: mechdef_roughneck_RGH-1B
+---------------------------
   File: itemCollection_faction_Circinus.csv
-
-Tag: mechdef_roughneck_RGH-1B
+  File: BTA_List_NewAvalon.csv
   File: itemCollection_systemStores_MechParts_Magistracy_Light.csv
 
 Tag: mechdef_roughneck_RGH-1C
+---------------------------
+  File: itemCollection_faction_Circinus.csv
   File: BTA_List_NewAvalon.csv
 
-Tag: mechdef_roughneck_RGH-1C
-  File: itemCollection_faction_Circinus.csv
-
 Tag: mechdef_roughneck_RGH-3A
+---------------------------
   File: itemCollection_faction_Circinus.csv
 
 Tag: mechdef_roughneck_RGH-PH
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_salamander_PPR-5S
+---------------------------
   File: BTA_List_HesperusII.csv
-
-Tag: mechdef_salamander_PPR-5S
   File: itemCollection_systemStores_MechParts_Davion_Light.csv
 
 Tag: mechdef_salamander_PPR-5T
+---------------------------
   File: BTA_List_HesperusII.csv
 
 Tag: mechdef_salamander_PPR-6S
+---------------------------
   File: BTA_List_HesperusII.csv
 
 Tag: mechdef_salamander_PPR-6T
+---------------------------
   File: BTA_List_HesperusII.csv
 
 Tag: mechdef_salamander_PPR-7S
+---------------------------
   File: BTA_List_HesperusII.csv
 
 Tag: mechdef_schwerergustav_SG-1X
+---------------------------
   File: itemCollection_loot_eventComfortingThunder.csv
 
 Tag: mechdef_scorpion_SCP-12C
+---------------------------
   File: BTA_List_Oliver.csv
 
 Tag: mechdef_scorpion_SCP-12S
+---------------------------
   File: BTA_List_Furillo.csv
 
 Tag: mechdef_scorpion_SCP-1O
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
 
 Tag: mechdef_scorpion_SCP-4G
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
 
 Tag: mechdef_scorpion_SCP-4L
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
 
 Tag: mechdef_scorpion_SCP-4M
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
 
 Tag: mechdef_scorpion_SCP-4N
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
 
 Tag: mechdef_scrapper_ARP-3J
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_scrapper_ARP-3J
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: mechdef_scrapper_ARP-4J
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_scrapper_ARP-4J
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: mechdef_scrapper_ARP-4V
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_scrapper_ARP-4V
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: mechdef_scrapper_ARP-5J
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_scrapper_ARP-5J
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: mechdef_screamer_SCR-1X-LAM
+---------------------------
   File: itemCollection_faction_Rim.csv
 
 Tag: mechdef_screecher_SCRE-B4
+---------------------------
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_screecher_SCRE-H4
+---------------------------
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_screecher_SCRE-H8
+---------------------------
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_screecher_SCRE-H9
+---------------------------
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_sentinel_STN-3K
+---------------------------
   File: itemCollection_systemStores_MechParts_Steiner_Light.csv
 
 Tag: mechdef_sentinel_STN-3L
+---------------------------
+  File: itemCollection_HM_careerStarter_pack_Mechs.csv
   File: BTA_List_HesperusII.csv
 
-Tag: mechdef_sentinel_STN-3L
-  File: itemCollection_HM_careerStarter_pack_Mechs.csv
-
 Tag: mechdef_sentinel_STN-3Lb
+---------------------------
   File: itemCollection_systemStores_MechParts_WoB_Light.csv
 
 Tag: mechdef_sentinel_STN-3M
+---------------------------
   File: itemCollection_systemStores_MechParts_Kurita_Light.csv
 
 Tag: mechdef_sentinel_STN-4D
+---------------------------
   File: BTA_List_Robinson.csv
 
 Tag: mechdef_seraph_H-SER-O-CONDITUS
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
-
-Tag: mechdef_seraph_H-SER-O-CONDITUS
+  File: itemCollection_faction_WoB.csv
   File: itemCollection_Mechs_faction_WoB.csv
 
-Tag: mechdef_seraph_H-SER-O-CONDITUS
-  File: itemCollection_faction_WoB.csv
-
 Tag: mechdef_seraph_H-SER-O-DEICIO
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
 
 Tag: mechdef_seraph_H-SER-O-LATERIS
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
 
 Tag: mechdef_seraph_H-SER-O-RAPTUS
+---------------------------
   File: BTA_BlackMarket_Mechs_Blakist.csv
 
 Tag: mechdef_shadowcat_MI
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_shadowcat_PRIME
+---------------------------
   File: BTA_List_Irece.csv
 
 Tag: mechdef_shadowhawk_SHD-11CS
+---------------------------
   File: BTA_List_Terra_Mechs.csv
 
 Tag: mechdef_shadowhawk_SHD-1R
+---------------------------
   File: BTA_List_Antwerp.csv
 
 Tag: mechdef_shadowhawk_SHD-2D
+---------------------------
   File: itemCollection_systemStores_MechParts_common_Light.csv
-
-Tag: mechdef_shadowhawk_SHD-2D
   File: itemCollection_systemStores_MechParts_common_Medium.csv
-
-Tag: mechdef_shadowhawk_SHD-2D
   File: itemCollection_systemStores_Mechs_common_Medium.csv
 
 Tag: mechdef_shadowhawk_SHD-2H
-  File: itemCollection_systemStores_MechParts_Magistracy_Medium.csv
-
-Tag: mechdef_shadowhawk_SHD-2H
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_Periphery.csv
-
-Tag: mechdef_shadowhawk_SHD-2H
+  File: itemCollection_systemStores_MechParts_Magistracy_Medium.csv
   File: itemCollection_systemStores_Mechs_Magistracy_Medium.csv
 
 Tag: mechdef_shadowhawk_SHD-2Hb
+---------------------------
   File: BTA_SLDF_Mechs.csv
-
-Tag: mechdef_shadowhawk_SHD-2Hb
   File: BTA_SLDF_MechsParts.csv
-
-Tag: mechdef_shadowhawk_SHD-2Hb
   File: itemCollection_systemStores_MechParts_ComStar_Light.csv
 
 Tag: mechdef_shadowhawk_SHD-5D
+---------------------------
   File: BTA_List_Nanking.csv
 
 Tag: mechdef_shadowhawk_SHD-5M
+---------------------------
+  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
   File: BTA_List_Calloway.csv
-
-Tag: mechdef_shadowhawk_SHD-5M
   File: BTA_List_Illiushin.csv
-
-Tag: mechdef_shadowhawk_SHD-5M
   File: BTA_List_Wernke.csv
-
-Tag: mechdef_shadowhawk_SHD-5M
   File: itemCollection_systemStores_MechParts_Magistracy_Light.csv
 
-Tag: mechdef_shadowhawk_SHD-5M
-  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
-
 Tag: mechdef_shadowhawk_SHD-7CS
+---------------------------
   File: BTA_List_Orestes.csv
-
-Tag: mechdef_shadowhawk_SHD-7CS
   File: BTA_List_Terra_Mechs.csv
 
 Tag: mechdef_shadowhawk_SHD-7M
+---------------------------
   File: BTA_List_Dunianshire.csv
-
-Tag: mechdef_shadowhawk_SHD-7M
   File: BTA_List_GrandBase.csv
 
 Tag: mechdef_shadowhawk_SHD-GD
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_shadowhawkii_SHD-2-2D
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
 
 Tag: mechdef_shadowhawkii_SHD-2-2F
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
 
 Tag: mechdef_shadowhawkii_SHD-2-2H
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
 
 Tag: mechdef_shayu_SYU-2B
+---------------------------
   File: BTA_List_Sian.csv
-
-Tag: mechdef_shayu_SYU-2B
   File: itemCollection_systemStores_MechParts_Liao_Light.csv
 
 Tag: mechdef_shayu_SYU-4B
+---------------------------
   File: BTA_List_Sian.csv
 
 Tag: mechdef_shayu_SYU-SHK
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_shootist_ST-8A
+---------------------------
+  File: itemCollection_faction_ComStar.csv
+  File: itemCollection_Mechs_faction_ComStar.csv
   File: BTA_List_Terra_Mechs.csv
 
-Tag: mechdef_shootist_ST-8A
-  File: itemCollection_Mechs_faction_ComStar.csv
-
-Tag: mechdef_shootist_ST-8A
-  File: itemCollection_faction_ComStar.csv
-
 Tag: mechdef_shootist_ST-8C
+---------------------------
   File: BTA_List_Terra_Mechs.csv
 
 Tag: mechdef_shootist_ST-TW
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_shortyrifleman_RFL-SH
+---------------------------
   File: itemCollection_loot_eventBlueSuedeShoes.csv
 
 Tag: mechdef_sirocco_SRC-3C
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_sirocco_SRC-3C
   File: BTA_List_Stewart.csv
-
-Tag: mechdef_sirocco_SRC-3C
   File: itemCollection_systemStores_MechParts_Marik_Light.csv
 
 Tag: mechdef_sirocco_SRC-4X
+---------------------------
   File: itemCollection_systemStores_MechParts_Marik_Light.csv
 
 Tag: mechdef_sirocco_SRC-5C
+---------------------------
   File: BTA_List_Stewart.csv
-
-Tag: mechdef_sirocco_SRC-5C
   File: itemCollection_systemStores_MechParts_Marik_Light.csv
 
 Tag: mechdef_sorcerer_SRC-1A
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_sorcerer_SRC-1A
   File: BTA_List_Terra_Mechs.csv
 
 Tag: mechdef_sorcerer_SRC-2K
+---------------------------
   File: itemCollection_systemStores_MechParts_Kurita_Light.csv
 
 Tag: mechdef_sorcerer_SRC-FZ
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_sorcerer_SRC-IIC
+---------------------------
   File: BTAClan_Mechs_Rare.csv
 
 Tag: mechdef_spector_SPR-5F
+---------------------------
   File: BTA_List_Loxley.csv
 
 Tag: mechdef_spector_SPR-5S
+---------------------------
   File: BTA_List_Loxley.csv
 
 Tag: mechdef_spector_SPR-ST
+---------------------------
   File: BTA_List_Loxley.csv
 
 Tag: mechdef_spider_SDR-5V
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_Periphery.csv
 
 Tag: mechdef_spider_SDR-7K
+---------------------------
   File: BTA_List_Lapida.csv
 
 Tag: mechdef_spider_SDR-7M
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
 
 Tag: mechdef_spider_SDR-8M
+---------------------------
   File: BTA_List_Tematagi.csv
-
-Tag: mechdef_spider_SDR-8M
   File: itemCollection_systemStores_MechParts_Marik_Light.csv
-
-Tag: mechdef_spider_SDR-8M
   File: itemCollection_systemStores_Mechs_Marik_Light.csv
 
 Tag: mechdef_spider_SDR-A
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_stalker_STK-3F
+---------------------------
   File: itemCollection_systemStores_MechParts_Directorate_Assault.csv
-
-Tag: mechdef_stalker_STK-3F
   File: itemCollection_systemStores_MechParts_Magistracy_Assault.csv
-
-Tag: mechdef_stalker_STK-3F
   File: itemCollection_systemStores_MechParts_Magistracy_Light.csv
-
-Tag: mechdef_stalker_STK-3F
   File: itemCollection_systemStores_MechParts_Taurian_Assault.csv
-
-Tag: mechdef_stalker_STK-3F
   File: itemCollection_systemStores_Mechs_Directorate_Assault.csv
-
-Tag: mechdef_stalker_STK-3F
   File: itemCollection_systemStores_Mechs_Magistracy_Assault.csv
-
-Tag: mechdef_stalker_STK-3F
   File: itemCollection_systemStores_Mechs_Taurian_Assault.csv
 
 Tag: mechdef_stalker_STK-3Fb
+---------------------------
   File: BTA_SLDF_Mechs.csv
-
-Tag: mechdef_stalker_STK-3Fb
   File: BTA_SLDF_MechsParts.csv
-
-Tag: mechdef_stalker_STK-3Fb
   File: itemCollection_MechParts_SLDF.csv
 
 Tag: mechdef_stalker_STK-5M
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
 
 Tag: mechdef_stalker_STK-6M
+---------------------------
   File: BTA_List_Shiro.csv
 
 Tag: mechdef_stalker_STK-7D
+---------------------------
   File: BTA_List_Crofton.csv
 
 Tag: mechdef_stalker_STK-8S
+---------------------------
   File: BTA_List_Furillo.csv
 
 Tag: mechdef_stalker_STK-M
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_starslayer_STY-2C
+---------------------------
   File: itemCollection_systemStores_MechParts_Steiner_Light.csv
 
 Tag: mechdef_starslayer_STY-3C
+---------------------------
   File: BTA_List_Loxley.csv
 
 Tag: mechdef_starslayer_STY-3D
+---------------------------
   File: BTA_List_Loxley.csv
 
 Tag: mechdef_stiletto_STL-7D
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_stiletto_STL-7D
   File: BTA_List_AlNair.csv
 
 Tag: mechdef_stiletto_STL-9K
+---------------------------
   File: BTA_List_AlNair.csv
 
 Tag: mechdef_stinger_STG-3G
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_Periphery.csv
 
 Tag: mechdef_stinger_STG-3Gb
+---------------------------
   File: itemCollection_systemStores_MechParts_ComStar_Light.csv
-
-Tag: mechdef_stinger_STG-3Gb
   File: itemCollection_table_eventHellOfADeal.csv
 
 Tag: mechdef_stinger_STG-3R
+---------------------------
   File: BTA_List_Alpheratz.csv
-
-Tag: mechdef_stinger_STG-3R
   File: BTA_List_Mechdur.csv
-
-Tag: mechdef_stinger_STG-3R
   File: itemCollection_systemStores_MechParts_common_Light.csv
-
-Tag: mechdef_stinger_STG-3R
   File: itemCollection_systemStores_MechParts_common_Light.csv
-
-Tag: mechdef_stinger_STG-3R
   File: itemCollection_systemStores_Mechs_common_Light.csv
 
 Tag: mechdef_stinger_STG-5M
+---------------------------
   File: BTA_List_Calloway.csv
-
-Tag: mechdef_stinger_STG-5M
   File: BTA_List_Keystone.csv
-
-Tag: mechdef_stinger_STG-5M
   File: itemCollection_systemStores_Mechs_Taurian_Light.csv
 
 Tag: mechdef_stinger_STG-5R
+---------------------------
   File: BTA_List_MacLeod.csv
-
-Tag: mechdef_stinger_STG-5R
   File: BTA_List_NewVandenburg.csv
 
 Tag: mechdef_stinger_STG-5T
+---------------------------
   File: BTA_List_MacLeod.csv
-
-Tag: mechdef_stinger_STG-5T
   File: BTA_List_NewVandenburg.csv
 
 Tag: mechdef_stinger_STG-6L
+---------------------------
   File: BTA_List_Ares.csv
-
-Tag: mechdef_stinger_STG-6L
   File: BTA_List_Canopus.csv
-
-Tag: mechdef_stinger_STG-6L
   File: BTA_List_Detroit.csv
-
-Tag: mechdef_stinger_STG-6L
   File: BTA_List_GrandBase.csv
-
-Tag: mechdef_stinger_STG-6L
   File: BTA_List_Sian.csv
 
 Tag: mechdef_stinger_STG-6S
+---------------------------
   File: BTA_List_Coventry.csv
 
 Tag: mechdef_stinger_STG-A1
+---------------------------
   File: itemCollection_systemStores_MechParts_Kurita_Light.csv
 
 Tag: mechdef_stingerii_STG-2-3R
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_stingerii_STG-2-3R
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_stingerii_STG-2-3S
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_stingerii_STG-2-3S
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_stingerii_STG-2-4R
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_stingerii_STG-2-4R
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_stingerii_STG-2-5G
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_stingerii_STG-2-5G
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_stonerhino_STR-1
+---------------------------
   File: BTAClan_Mechs_Rare.csv
 
 Tag: mechdef_stonerhino_STR-4
+---------------------------
   File: BTAClan_Mechs_Rare_Convoy.csv
 
 Tag: mechdef_stormcrow_LC
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_stormcrow_PRIME
+---------------------------
   File: BTA_List_Outreach_Clan.csv
 
 Tag: mechdef_stormgiant_STM-1
+---------------------------
   File: BTAClan_Mechs_Rare.csv
 
 Tag: mechdef_strider_SR1-O
-  File: BTA_List_Luthien.csv
-
-Tag: mechdef_strider_SR1-O
-  File: BTA_List_Shiro.csv
-
-Tag: mechdef_strider_SR1-O
+---------------------------
   File: itemCollection_HM_careerStarter_pack_Mechs.csv
-
-Tag: mechdef_strider_SR1-O
+  File: BTA_List_Luthien.csv
+  File: BTA_List_Shiro.csv
   File: itemCollection_systemStores_MechParts_Kurita_Light.csv
 
 Tag: mechdef_summoner_A
+---------------------------
   File: BTA_List_Outreach_Clan.csv
 
 Tag: mechdef_summoner_SMN-PD
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_sunder_SD1-O
+---------------------------
   File: BTA_List_Luthien.csv
-
-Tag: mechdef_sunder_SD1-O
   File: itemCollection_systemStores_MechParts_Kurita_Light.csv
 
 Tag: mechdef_sunspider_SNS-ML
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_sunspider_SNS_PRIME
+---------------------------
   File: itemCollection_systemStores_MechParts_ClanNovaCat_Light.csv
 
 Tag: mechdef_supernova_SNV-1
+---------------------------
   File: BTAClan_Mechs_Rare.csv
-
-Tag: mechdef_supernova_SNV-1
   File: BTA_List_Irece.csv
 
 Tag: mechdef_supernova_SNV-2
+---------------------------
   File: BTA_List_Irece.csv
 
 Tag: mechdef_supernova_SNV-BR
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_swoopingfalcon_SPF-11G
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
-
-Tag: mechdef_swoopingfalcon_SPF-11G
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_swoopingfalcon_SPF-11V
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
-
-Tag: mechdef_swoopingfalcon_SPF-11V
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_swoopingfalcon_SPF-12D
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
-
-Tag: mechdef_swoopingfalcon_SPF-12D
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_swoopingfalcon_SPF-12E
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
-
-Tag: mechdef_swoopingfalcon_SPF-12E
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_swordsman_SWD-2
-  File: BTA_List_Robinson.csv
-
-Tag: mechdef_swordsman_SWD-2
+---------------------------
   File: itemCollection_HM_careerStarter_pack_Mechs.csv
-
-Tag: mechdef_swordsman_SWD-3
   File: BTA_List_Robinson.csv
 
 Tag: mechdef_swordsman_SWD-3
+---------------------------
+  File: BTA_List_Robinson.csv
   File: itemCollection_systemStores_MechParts_Davion_Light.csv
 
 Tag: mechdef_talon_TLN-5W
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_talon_TLN-5W
   File: BTA_List_Inarcs.csv
-
-Tag: mechdef_talon_TLN-5W
   File: itemCollection_systemStores_MechParts_Davion_Light.csv
 
 Tag: mechdef_talon_TLN-5Z
+---------------------------
   File: BTA_List_Inarcs.csv
 
 Tag: mechdef_talos_TLS-1B
+---------------------------
   File: itemCollection_systemStores_MechParts_Taurian_Light.csv
-
-Tag: mechdef_talos_TLS-1B
   File: itemCollection_systemStores_MechParts_Taurian_Medium.csv
-
-Tag: mechdef_talos_TLS-1B
   File: itemCollection_systemStores_Mechs_Taurian_Medium.csv
 
 Tag: mechdef_talos_TLS-1T
+---------------------------
   File: itemCollection_systemStores_MechParts_Taurian_Light.csv
 
 Tag: mechdef_talos_TLS-2B
+---------------------------
   File: BTA_List_NewVandenburg.csv
-
-Tag: mechdef_talos_TLS-2B
   File: itemCollection_systemStores_MechParts_Taurian_Light.csv
 
 Tag: mechdef_talos_TLS-3G
+---------------------------
   File: BTA_List_NewVandenburg.csv
-
-Tag: mechdef_talos_TLS-3G
   File: itemCollection_systemStores_MechParts_Taurian_Light.csv
 
 Tag: mechdef_talos_TLS-3M
+---------------------------
   File: itemCollection_systemStores_MechParts_Taurian_Light.csv
 
 Tag: mechdef_taranis_TRN-5D
+---------------------------
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_taranis_TRN-6L
+---------------------------
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_taranis_TRN-6S
+---------------------------
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_taranis_TRN-7B
+---------------------------
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: mechdef_tarantula_ZPH-2A
+---------------------------
   File: BTA_List_Stewart.csv
 
 Tag: mechdef_tarantula_ZPH-3A
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_tarantula_ZPH-3A
   File: BTA_List_Stewart.csv
 
 Tag: mechdef_tarantula_ZPH-4A
+---------------------------
   File: BTA_List_Stewart.csv
 
 Tag: mechdef_templar_TLR1-O
+---------------------------
   File: BTA_List_Wernke.csv
-
-Tag: mechdef_templar_TLR1-O
   File: itemCollection_systemStores_MechParts_Davion_Assault.csv
-
-Tag: mechdef_templar_TLR1-O
   File: itemCollection_systemStores_MechParts_Davion_Light.csv
-
-Tag: mechdef_templar_TLR1-O
   File: itemCollection_systemStores_Mechs_Davion_Assault.csv
 
 Tag: mechdef_thanatos_TNS-4S
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_thanatos_TNS-4S
   File: BTA_List_Crofton.csv
-
-Tag: mechdef_thanatos_TNS-4S
   File: BTA_List_Loburg.csv
-
-Tag: mechdef_thanatos_TNS-4S
   File: itemCollection_systemStores_MechParts_Steiner_Light.csv
 
 Tag: mechdef_thanatos_TNS-HA
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_thorn_THE-H
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
 
 Tag: mechdef_thorn_THE-L
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
 
 Tag: mechdef_thorn_THE-N
+---------------------------
   File: BTA_List_Tukayyid.csv
 
 Tag: mechdef_thorn_THE-N1
+---------------------------
   File: BTA_List_Terra_Mechs.csv
 
 Tag: mechdef_thorn_THE-Nb
-  File: itemCollection_Mechs_faction_ComStar.csv
-
-Tag: mechdef_thorn_THE-Nb
+---------------------------
   File: itemCollection_faction_ComStar.csv
-
-Tag: mechdef_thorn_THE-Nb
+  File: itemCollection_Mechs_faction_ComStar.csv
   File: itemCollection_systemStores_MechParts_WoB_Light.csv
 
 Tag: mechdef_thorn_THE-W
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
 
 Tag: mechdef_thorn_THE-W2
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
 
 Tag: mechdef_thug_THG-10E
+---------------------------
   File: itemCollection_systemStores_MechParts_Marik_Light.csv
 
 Tag: mechdef_thug_THG-11E
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
 
 Tag: mechdef_thug_THG-12E
+---------------------------
+  File: itemCollection_faction_ComStar.csv
   File: BTA_List_Errai.csv
-
-Tag: mechdef_thug_THG-12E
   File: BTA_List_Keystone.csv
 
-Tag: mechdef_thug_THG-12E
-  File: itemCollection_faction_ComStar.csv
-
 Tag: mechdef_thug_THG-DIL
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_thunder_THR-1L
+---------------------------
   File: BTA_List_StIves.csv
-
-Tag: mechdef_thunder_THR-1L
   File: itemCollection_systemStores_MechParts_Liao_Light.csv
 
 Tag: mechdef_thunder_THR-2L
+---------------------------
   File: BTA_List_Capella.csv
-
-Tag: mechdef_thunder_THR-2L
   File: BTA_List_Sian.csv
 
 Tag: mechdef_thunder_THR-3L
+---------------------------
   File: BTA_List_Capella.csv
 
 Tag: mechdef_thunderbolt_TDR-1C
+---------------------------
   File: BTA_List_Antwerp.csv
 
 Tag: mechdef_thunderbolt_TDR-3E
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_thunderbolt_TDR-3N
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_thunderbolt_TDR-3S
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_thunderbolt_TDR-4S
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_thunderbolt_TDR-5S
+---------------------------
+  File: itemCollection_systemStores_Mechs_Generic_GreatHouse.csv
   File: BTA_List_Pinard.csv
-
-Tag: mechdef_thunderbolt_TDR-5S
   File: BTA_List_Taurus.csv
 
-Tag: mechdef_thunderbolt_TDR-5S
-  File: itemCollection_systemStores_Mechs_Generic_GreatHouse.csv
-
 Tag: mechdef_thunderbolt_TDR-5Sb
+---------------------------
   File: BTA_SLDF_Mechs.csv
-
-Tag: mechdef_thunderbolt_TDR-5Sb
   File: BTA_SLDF_MechsParts.csv
-
-Tag: mechdef_thunderbolt_TDR-5Sb
   File: itemCollection_MechParts_SLDF.csv
 
 Tag: mechdef_thunderbolt_TDR-7M
+---------------------------
+  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
   File: BTA_List_Keystone.csv
-
-Tag: mechdef_thunderbolt_TDR-7M
   File: BTA_List_Terra_Mechs.csv
 
-Tag: mechdef_thunderbolt_TDR-7M
-  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
-
 Tag: mechdef_thunderbolt_TDR-9M
+---------------------------
   File: BTA_List_Keystone.csv
 
 Tag: mechdef_thunderbolt_TDR-9NAIS
+---------------------------
   File: BTA_List_NewAvalon.csv
 
 Tag: mechdef_thunderbolt_TDR-9S
+---------------------------
   File: itemCollection_systemStores_MechParts_Steiner_Heavy.csv
-
-Tag: mechdef_thunderbolt_TDR-9S
   File: itemCollection_systemStores_Mechs_Steiner_Heavy.csv
 
 Tag: mechdef_thunderbolt_TDR-TD
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_thunderbolt_TDR_C
+---------------------------
   File: BTAClan_Mechs_Rare_Convoy.csv
 
 Tag: mechdef_thunderhammer_THM-4D
+---------------------------
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: mechdef_thunderhammer_THM-4R
+---------------------------
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: mechdef_thunderhammer_THM-4V
+---------------------------
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: mechdef_thunderhammer_THM-5R
+---------------------------
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: mechdef_thunderhawk_TDK-7KMA
+---------------------------
   File: BTA_List_Loxley.csv
 
 Tag: mechdef_thunderhawk_TDK-7S
+---------------------------
   File: BTA_List_Loxley.csv
 
 Tag: mechdef_thunderhawk_TDK-7X
+---------------------------
   File: BTA_List_Loxley.csv
 
 Tag: mechdef_thunderhawk_TDK-7Y
+---------------------------
   File: BTA_List_Loxley.csv
 
 Tag: mechdef_thunderhawk_TDK-SPH
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_timberwolf_TW-A
+---------------------------
   File: BTA_List_ArcRoyal_Clan.csv
 
 Tag: mechdef_timberwolf_TW-D
+---------------------------
   File: BTA_List_Outreach_Clan.csv
 
 Tag: mechdef_timberwolf_TW-RV
+---------------------------
   File: itemCollection_BTA_Throwdown_Mechs.csv
 
 Tag: mechdef_timberwolf_TW-WAR
+---------------------------
   File: BTA_List_HeroMechs_Heavy.csv
 
 Tag: mechdef_titanII_TI-2P
+---------------------------
+  File: itemCollection_faction_WoB.csv
   File: itemCollection_Mechs_faction_WoB.csv
 
-Tag: mechdef_titanII_TI-2P
-  File: itemCollection_faction_WoB.csv
-
 Tag: mechdef_titan_TI-1A
+---------------------------
   File: itemCollection_systemStores_MechParts_Davion_Light.csv
 
 Tag: mechdef_toro_TR-A-6
+---------------------------
   File: BTA_List_Taurus.csv
-
-Tag: mechdef_toro_TR-A-6
   File: itemCollection_systemStores_MechParts_Taurian_Light.csv
 
 Tag: mechdef_toro_TR-A-8
+---------------------------
   File: BTA_List_Taurus.csv
-
-Tag: mechdef_toro_TR-A-8
   File: itemCollection_systemStores_MechParts_Taurian_Light.csv
 
 Tag: mechdef_toyama_TYM-1A
+---------------------------
   File: BTA_List_Gibson.csv
 
 Tag: mechdef_trebuchet_TBT-5N
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_GreatHouse.csv
 
 Tag: mechdef_trebuchet_TBT-7M
+---------------------------
+  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
   File: BTA_List_Irian.csv
-
-Tag: mechdef_trebuchet_TBT-7M
   File: BTA_List_NewAvalon.csv
-
-Tag: mechdef_trebuchet_TBT-7M
   File: BTA_List_Stewart.csv
-
-Tag: mechdef_trebuchet_TBT-7M
   File: itemCollection_systemStores_MechParts_Marik_Light.csv
 
-Tag: mechdef_trebuchet_TBT-7M
-  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
-
 Tag: mechdef_trebuchet_TBT-9K
+---------------------------
   File: itemCollection_systemStores_MechParts_Kurita_Medium.csv
-
-Tag: mechdef_trebuchet_TBT-9K
   File: itemCollection_systemStores_Mechs_Kurita_Medium.csv
 
 Tag: mechdef_trebuchet_TBT-LG
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_triplefburgermech_FFF-YUM
+---------------------------
   File: BTA_HotDiggityDog.csv
 
 Tag: mechdef_urbanmech_UM-IIC
+---------------------------
   File: BTAClan_Mechs.csv
 
 Tag: mechdef_urbanmech_UM-K9
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_urbanmech_UM-LAM
+---------------------------
   File: itemCollection_systemStores_MechParts_Liao_Light.csv
 
 Tag: mechdef_urbanmech_UM-R100X
+---------------------------
   File: BTA_List_Betelgeuse.csv
 
 Tag: mechdef_urbanmech_UM-R25
+---------------------------
   File: BTA_List_Betelgeuse.csv
 
 Tag: mechdef_urbanmech_UM-R63
+---------------------------
   File: itemCollection_systemStores_Mechs_Liao_Light.csv
 
 Tag: mechdef_urbanmech_UM-R68
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
 
 Tag: mechdef_urbanmech_UM-R90
+---------------------------
   File: itemCollection_systemStores_MechParts_Directorate_Light.csv
-
-Tag: mechdef_urbanmech_UM-R90
   File: itemCollection_systemStores_Mechs_Directorate_Light.csv
 
 Tag: mechdef_uziel_UZL-2S
+---------------------------
   File: BTA_List_Furillo.csv
-
-Tag: mechdef_uziel_UZL-2S
   File: itemCollection_systemStores_MechParts_Steiner_Light.csv
 
 Tag: mechdef_uziel_UZL-3M
+---------------------------
   File: BTA_List_Furillo.csv
 
 Tag: mechdef_uziel_UZL-3S
+---------------------------
   File: BTA_List_Furillo.csv
 
 Tag: mechdef_uziel_UZL-BE
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_valiant_V4-LNT-K5
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_valiant_V4-LNT-K7
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_valiant_V4-LNT-L7
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
 
 Tag: mechdef_valiant_V4-LNT-M4
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_valiant_V4-LNT-M6
+---------------------------
   File: BTA_List_Solaris_Mechs.csv
 
 Tag: mechdef_valkyrie_VLK-QA
+---------------------------
   File: itemCollection_systemStores_MechParts_Taurian_Light.csv
-
-Tag: mechdef_valkyrie_VLK-QA
   File: itemCollection_systemStores_Mechs_Taurian_Light.csv
 
 Tag: mechdef_valkyrie_VLK-QD
+---------------------------
   File: BTA_List_Demeter.csv
-
-Tag: mechdef_valkyrie_VLK-QD
   File: BTA_List_NewAvalon.csv
-
-Tag: mechdef_valkyrie_VLK-QD
   File: itemCollection_systemStores_MechParts_Davion_Light.csv
-
-Tag: mechdef_valkyrie_VLK-QD
   File: itemCollection_systemStores_Mechs_Davion_Light.csv
 
 Tag: mechdef_valkyrie_VLK-QD1
+---------------------------
   File: BTA_List_Demeter.csv
-
-Tag: mechdef_valkyrie_VLK-QD1
   File: BTA_List_NewAvalon.csv
 
 Tag: mechdef_valkyrie_VLK-QD3
+---------------------------
   File: BTA_List_Demeter.csv
-
-Tag: mechdef_valkyrie_VLK-QD3
   File: BTA_List_NewAvalon.csv
 
 Tag: mechdef_valkyrieii_VLK-II-1A
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_valkyrieii_VLK-II-1A
   File: BTA_List_NewAvalon.csv
 
 Tag: mechdef_valkyrieii_VLK-II-2A
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_valkyrieii_VLK-II-2A
   File: BTA_List_NewAvalon.csv
-
-Tag: mechdef_valkyrieii_VLK-II-2A
   File: itemCollection_systemStores_MechParts_Davion_Heavy.csv
-
-Tag: mechdef_valkyrieii_VLK-II-2A
   File: itemCollection_systemStores_MechParts_Davion_Light.csv
-
-Tag: mechdef_valkyrieii_VLK-II-2A
   File: itemCollection_systemStores_Mechs_Davion_Heavy.csv
 
 Tag: mechdef_valkyrieii_VLK-II-SH
+---------------------------
   File: itemCollection_BTA_Throwdown_Mechs.csv
 
 Tag: mechdef_vanquisher_VQR-2A
+---------------------------
+  File: itemCollection_faction_WoB.csv
+  File: itemCollection_Mechs_faction_WoB.csv
   File: BTA_List_Terra_Mechs.csv
 
-Tag: mechdef_vanquisher_VQR-2A
-  File: itemCollection_Mechs_faction_WoB.csv
-
-Tag: mechdef_vanquisher_VQR-2A
-  File: itemCollection_faction_WoB.csv
-
 Tag: mechdef_vanquisher_VQR-2B
+---------------------------
   File: BTA_List_Terra_Mechs.csv
 
 Tag: mechdef_vaporeagle_VGL-1
+---------------------------
   File: BTAClan_Mechs.csv
 
 Tag: mechdef_vaporeagle_VGL-RI
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_victor_VTR-10D
+---------------------------
   File: BTA_List_NewValencia.csv
-
-Tag: mechdef_victor_VTR-10D
   File: BTA_List_Robinson.csv
 
 Tag: mechdef_victor_VTR-10L
+---------------------------
   File: BTA_List_StIves.csv
-
-Tag: mechdef_victor_VTR-10L
   File: BTA_List_Styk.csv
 
 Tag: mechdef_victor_VTR-11D
+---------------------------
   File: BTA_List_NewValencia.csv
 
 Tag: mechdef_victor_VTR-9B
+---------------------------
   File: itemCollection_MechParts_Davion_rare.csv
-
-Tag: mechdef_victor_VTR-9B
   File: itemCollection_MechParts_Steiner_rare.csv
-
-Tag: mechdef_victor_VTR-9B
   File: itemCollection_systemStores_MechParts_BlackMarket_Assault.csv
-
-Tag: mechdef_victor_VTR-9B
   File: itemCollection_systemStores_MechParts_common_Assault.csv
-
-Tag: mechdef_victor_VTR-9B
   File: itemCollection_systemStores_Mechs_BlackMarket_Assault.csv
-
-Tag: mechdef_victor_VTR-9B
   File: itemCollection_systemStores_Mechs_common_Assault.csv
 
 Tag: mechdef_victor_VTR-9D
+---------------------------
+  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
   File: BTA_List_NewValencia.csv
-
-Tag: mechdef_victor_VTR-9D
   File: BTA_List_Robinson.csv
 
-Tag: mechdef_victor_VTR-9D
-  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
-
 Tag: mechdef_victor_VTR-9K
+---------------------------
   File: BTA_List_Quentin.csv
-
-Tag: mechdef_victor_VTR-9K
   File: itemCollection_systemStores_MechParts_Kurita_Assault.csv
-
-Tag: mechdef_victor_VTR-9K
   File: itemCollection_systemStores_Mechs_Kurita_Assault.csv
 
 Tag: mechdef_victor_VTR-9S
+---------------------------
   File: itemCollection_MechParts_Davion_rare.csv
-
-Tag: mechdef_victor_VTR-9S
   File: itemCollection_MechParts_Steiner_rare.csv
 
 Tag: mechdef_victor_VTR-DS
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_victor_VTR_C
+---------------------------
   File: BTAClan_Mechs_Rare_Convoy.csv
 
 Tag: mechdef_viking_VKG-2F
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_viking_VKG-2F
+  File: itemCollection_faction_Rasalhague.csv
   File: BTA_List_Grumium.csv
 
-Tag: mechdef_viking_VKG-2F
-  File: itemCollection_faction_Rasalhague.csv
-
 Tag: mechdef_viking_VKG-2G
+---------------------------
   File: BTA_List_Grumium.csv
 
 Tag: mechdef_viking_VKG-2M
+---------------------------
   File: BTA_List_Grumium.csv
 
 Tag: mechdef_vindicator_VND-1AA
+---------------------------
   File: itemCollection_systemStores_MechParts_Magistracy_Medium.csv
-
-Tag: mechdef_vindicator_VND-1AA
   File: itemCollection_systemStores_Mechs_Magistracy_Medium.csv
 
 Tag: mechdef_vindicator_VND-1R
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_GreatHouse.csv
 
 Tag: mechdef_vindicator_VND-2SIB
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_vindicator_VND-2SIC
+---------------------------
   File: itemCollection_faction_Ives.csv
 
 Tag: mechdef_vindicator_VND-3L
-  File: itemCollection_systemStores_MechParts_Liao_Light.csv
-
-Tag: mechdef_vindicator_VND-3L
-  File: itemCollection_systemStores_MechParts_Liao_Medium.csv
-
-Tag: mechdef_vindicator_VND-3L
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
-
-Tag: mechdef_vindicator_VND-3L
+  File: itemCollection_systemStores_MechParts_Liao_Light.csv
+  File: itemCollection_systemStores_MechParts_Liao_Medium.csv
   File: itemCollection_systemStores_Mechs_Liao_Medium.csv
 
 Tag: mechdef_vindicator_VND-4L
+---------------------------
   File: BTA_List_Capella.csv
 
 Tag: mechdef_viper_D
+---------------------------
   File: BTA_List_Outreach_Clan.csv
 
 Tag: mechdef_viper_M
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_visionquest_VQ-1NC
+---------------------------
   File: itemCollection_faction_ClanNovaCat.csv
 
 Tag: mechdef_visionquest_VQ-1S
+---------------------------
   File: itemCollection_faction_ClanNovaCat.csv
 
 Tag: mechdef_visionquest_VQ-2NC
+---------------------------
   File: itemCollection_faction_ClanNovaCat.csv
 
 Tag: mechdef_visionquest_VQ-3NC
+---------------------------
   File: itemCollection_faction_ClanNovaCat.csv
 
 Tag: mechdef_vonrohrs_VON-4RH-5
+---------------------------
+  File: itemCollection_faction_Rasalhague.csv
   File: BTA_List_Orestes.csv
 
-Tag: mechdef_vonrohrs_VON-4RH-5
-  File: itemCollection_faction_Rasalhague.csv
-
 Tag: mechdef_vonrohrs_VON-4RH-6
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_vonrohrs_VON-4RH-6
   File: itemCollection_faction_Rasalhague.csv
 
 Tag: mechdef_vonrohrs_VON-4RH-7
+---------------------------
   File: BTA_List_Orestes.csv
 
 Tag: mechdef_vulcan_VT-5M
+---------------------------
   File: itemCollection_HM_careerStarter_pack_Mechs.csv
 
 Tag: mechdef_warhammer_WHM-4L
+---------------------------
   File: BTA_List_Menke.csv
-
-Tag: mechdef_warhammer_WHM-4L
   File: BTA_List_StIves.csv
 
 Tag: mechdef_warhammer_WHM-5G
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_warhammer_WHM-5H
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_warhammer_WHM-5R
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_warhammer_WHM-5S
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Heavy.csv
 
 Tag: mechdef_warhammer_WHM-6R
-  File: BTA_List_Pinard.csv
-
-Tag: mechdef_warhammer_WHM-6R
-  File: BTA_List_Taurus.csv
-
-Tag: mechdef_warhammer_WHM-6R
-  File: itemCollection_systemStores_MechParts_Taurian_Heavy.csv
-
-Tag: mechdef_warhammer_WHM-6R
-  File: itemCollection_systemStores_MechParts_Taurian_Light.csv
-
-Tag: mechdef_warhammer_WHM-6R
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_GreatHouse.csv
-
-Tag: mechdef_warhammer_WHM-6R
+  File: BTA_List_Pinard.csv
+  File: BTA_List_Taurus.csv
+  File: itemCollection_systemStores_MechParts_Taurian_Heavy.csv
+  File: itemCollection_systemStores_MechParts_Taurian_Light.csv
   File: itemCollection_systemStores_Mechs_Taurian_Heavy.csv
 
 Tag: mechdef_warhammer_WHM-7A
+---------------------------
   File: BTA_SLDF_Mechs.csv
-
-Tag: mechdef_warhammer_WHM-7A
   File: BTA_SLDF_MechsParts.csv
-
-Tag: mechdef_warhammer_WHM-7A
   File: itemCollection_MechParts_SLDF.csv
 
 Tag: mechdef_warhammer_WHM-7H
+---------------------------
   File: BTA_List_Crofton.csv
 
 Tag: mechdef_warhammer_WHM-7M
+---------------------------
+  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
   File: BTA_List_Emris.csv
-
-Tag: mechdef_warhammer_WHM-7M
   File: BTA_List_Terra_Mechs.csv
-
-Tag: mechdef_warhammer_WHM-7M
   File: BTA_List_Wallis.csv
 
-Tag: mechdef_warhammer_WHM-7M
-  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
-
 Tag: mechdef_warhammer_WHM-7S
+---------------------------
   File: BTA_List_SonHoa.csv
 
 Tag: mechdef_warhammer_WHM-8D
+---------------------------
   File: BTA_List_Crofton.csv
-
-Tag: mechdef_warhammer_WHM-8D
   File: BTA_List_SonHoa.csv
 
 Tag: mechdef_warhammer_WHM-9D
+---------------------------
   File: BTA_List_Crofton.csv
 
 Tag: mechdef_warhammer_WHM-9S
+---------------------------
   File: BTA_List_SonHoa.csv
-
-Tag: mechdef_warhammer_WHM-9S
   File: BTA_List_Terra_Mechs.csv
 
 Tag: mechdef_warhammer_WHM-IIC
+---------------------------
   File: BTAClan_Mechs_Rare.csv
 
 Tag: mechdef_warhammer_WHM-IIC-ML
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_warhammer_WHM_C
+---------------------------
   File: BTAClan_Mechs_Rare_Convoy.csv
 
 Tag: mechdef_warhawk_C
+---------------------------
   File: BTA_List_Outreach_Clan.csv
 
 Tag: mechdef_warhawk_WHK-NQ
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_wasp_WSP-1
+---------------------------
   File: BTA_List_Antwerp.csv
 
 Tag: mechdef_wasp_WSP-100A
+---------------------------
   File: itemCollection_systemStores_Mechs_Magistracy_Light.csv
 
 Tag: mechdef_wasp_WSP-103
+---------------------------
   File: itemCollection_systemStores_MechParts_Davion_Light.csv
 
 Tag: mechdef_wasp_WSP-1A
-  File: BTA_List_Alpheratz.csv
-
-Tag: mechdef_wasp_WSP-1A
-  File: BTA_List_Mechdur.csv
-
-Tag: mechdef_wasp_WSP-1A
-  File: BTA_List_Perdition.csv
-
-Tag: mechdef_wasp_WSP-1A
-  File: itemCollection_systemStores_MechParts_common_Light.csv
-
-Tag: mechdef_wasp_WSP-1A
-  File: itemCollection_systemStores_MechParts_common_Light.csv
-
-Tag: mechdef_wasp_WSP-1A
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_Periphery.csv
-
-Tag: mechdef_wasp_WSP-1A
+  File: BTA_List_Alpheratz.csv
+  File: BTA_List_Mechdur.csv
+  File: BTA_List_Perdition.csv
+  File: itemCollection_systemStores_MechParts_common_Light.csv
+  File: itemCollection_systemStores_MechParts_common_Light.csv
   File: itemCollection_systemStores_Mechs_common_Light.csv
 
 Tag: mechdef_wasp_WSP-1D
+---------------------------
   File: BTA_List_NewAvalon.csv
-
-Tag: mechdef_wasp_WSP-1D
   File: BTA_List_Talcott.csv
 
 Tag: mechdef_wasp_WSP-1L
+---------------------------
   File: BTA_List_Canopus.csv
 
 Tag: mechdef_wasp_WSP-1W
+---------------------------
   File: itemCollection_systemStores_MechParts_Magistracy_Light.csv
 
 Tag: mechdef_wasp_WSP-2A-X
+---------------------------
   File: itemCollection_systemStores_MechParts_Davion_Light.csv
-
-Tag: mechdef_wasp_WSP-2A-X
   File: itemCollection_table_eventHellOfADeal.csv
 
 Tag: mechdef_wasp_WSP-3L
+---------------------------
   File: BTA_List_Detroit.csv
-
-Tag: mechdef_wasp_WSP-3L
   File: BTA_List_Sian.csv
-
-Tag: mechdef_wasp_WSP-3L
   File: BTA_List_Taurus.csv
 
 Tag: mechdef_wasp_WSP-3M
+---------------------------
   File: BTA_List_Kalidasa.csv
-
-Tag: mechdef_wasp_WSP-3M
   File: BTA_List_Terra_Mechs.csv
 
 Tag: mechdef_wasp_WSP-3S
+---------------------------
   File: BTA_List_Furillo.csv
 
 Tag: mechdef_wasp_WSP-4T
+---------------------------
   File: BTA_List_Taurus.csv
 
 Tag: mechdef_waspii_WSP-2-1A
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_waspii_WSP-2-1A
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_waspii_WSP-2-1S
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_waspii_WSP-2-1S
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_waspii_WSP-2-2A
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_waspii_WSP-2-2A
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_waspii_WSP-2-3V
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Light.csv
-
-Tag: mechdef_waspii_WSP-2-3V
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: mechdef_wawkalak_WKL-4K
+---------------------------
   File: BTA_List_Oliver.csv
 
 Tag: mechdef_whitworth_WTH-1
+---------------------------
   File: itemCollection_systemStores_MechParts_Generic_Periphery.csv
-
-Tag: mechdef_whitworth_WTH-1
   File: itemCollection_systemStores_MechParts_Magistracy_Light.csv
 
 Tag: mechdef_whitworth_WTH-2
+---------------------------
+  File: itemCollection_HM_careerStarter_pack_Mechs.csv
   File: BTA_List_Benjamin.csv
 
-Tag: mechdef_whitworth_WTH-2
-  File: itemCollection_HM_careerStarter_pack_Mechs.csv
-
 Tag: mechdef_whitworth_WTH-2A
+---------------------------
   File: BTA_List_Benjamin.csv
 
 Tag: mechdef_whitworth_WTH-WW
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_wight_WGT-1LAW-SC
+---------------------------
   File: BTA_List_Luthien.csv
 
 Tag: mechdef_wight_WGT-2SC
+---------------------------
   File: BTA_List_SonHoa.csv
 
 Tag: mechdef_woden_WDN-2Y
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
 
 Tag: mechdef_woden_WDN-3Y
+---------------------------
   File: BTA_List_Circinus.csv
 
 Tag: mechdef_wolfhound_WLF-1
+---------------------------
   File: BTA_List_ArcRoyal_IS.csv
 
 Tag: mechdef_wolfhound_WLF-2
+---------------------------
   File: BTA_List_ArcRoyal_IS.csv
-
-Tag: mechdef_wolfhound_WLF-2
   File: itemCollection_systemStores_MechParts_Steiner_Light.csv
-
-Tag: mechdef_wolfhound_WLF-2
   File: itemCollection_table_eventHellOfADeal.csv
 
 Tag: mechdef_wolfhound_WLF-3S
+---------------------------
   File: BTA_List_ArcRoyal_IS.csv
-
-Tag: mechdef_wolfhound_WLF-3S
   File: BTA_List_Tharkad.csv
 
 Tag: mechdef_wolfhound_WLF-4W
+---------------------------
   File: BTA_List_ArcRoyal_IS.csv
 
 Tag: mechdef_wolfhound_WLF-IIC
+---------------------------
   File: BTA_List_HeroMechs_Light.csv
 
 Tag: mechdef_wolverine_WVR-1R
+---------------------------
   File: BTA_List_Antwerp.csv
 
 Tag: mechdef_wolverine_WVR-4D
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
 
 Tag: mechdef_wolverine_WVR-4G
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
 
 Tag: mechdef_wolverine_WVR-4R
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
 
 Tag: mechdef_wolverine_WVR-4S
+---------------------------
   File: BTA_Misc_Loot_Mechs_Sanctuary_Medium.csv
 
 Tag: mechdef_wolverine_WVR-7D
+---------------------------
+  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
   File: BTA_List_Nanking.csv
-
-Tag: mechdef_wolverine_WVR-7D
   File: BTA_List_Wernke.csv
 
-Tag: mechdef_wolverine_WVR-7D
-  File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
-
 Tag: mechdef_wolverine_WVR-7H
+---------------------------
   File: BTA_SLDF_Mechs.csv
-
-Tag: mechdef_wolverine_WVR-7H
   File: BTA_SLDF_MechsParts.csv
-
-Tag: mechdef_wolverine_WVR-7H
   File: itemCollection_MechParts_SLDF.csv
 
 Tag: mechdef_wolverine_WVR-7M
+---------------------------
   File: BTA_List_Gibson.csv
-
-Tag: mechdef_wolverine_WVR-7M
   File: BTA_List_Thermopolis.csv
-
-Tag: mechdef_wolverine_WVR-7M
   File: itemCollection_systemStores_MechParts_Marik_Light.csv
-
-Tag: mechdef_wolverine_WVR-7M
   File: itemCollection_systemStores_MechParts_Marik_Medium.csv
-
-Tag: mechdef_wolverine_WVR-7M
   File: itemCollection_systemStores_Mechs_Marik_Medium.csv
 
 Tag: mechdef_wolverine_WVR-8C
+---------------------------
   File: BTA_List_Marduk.csv
 
 Tag: mechdef_wolverine_WVR-8D
+---------------------------
   File: BTA_List_Nanking.csv
 
 Tag: mechdef_wolverine_WVR-8K
+---------------------------
   File: BTA_List_Marduk.csv
 
 Tag: mechdef_wolverine_WVR-9D
+---------------------------
   File: BTA_List_Nanking.csv
 
 Tag: mechdef_wolverine_WVR-Q
+---------------------------
   File: BTA_List_HeroMechs_Medium.csv
 
 Tag: mechdef_wraith_TR1
+---------------------------
   File: BTA_List_Paradise.csv
-
-Tag: mechdef_wraith_TR1
   File: itemCollection_systemStores_MechParts_Magistracy_Light.csv
 
 Tag: mechdef_wyvern_WVE-10N
+---------------------------
   File: BTA_List_Errai.csv
 
 Tag: mechdef_wyvern_WVE-6N
+---------------------------
   File: itemCollection_systemStores_MechParts_Magistracy_Light.csv
 
 Tag: mechdef_wyvern_WVE-9N
+---------------------------
+  File: itemCollection_faction_ComStar.csv
   File: itemCollection_Mechs_faction_ComStar.csv
 
-Tag: mechdef_wyvern_WVE-9N
-  File: itemCollection_faction_ComStar.csv
-
 Tag: mechdef_yeoman_YMN-6Y
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_yeoman_YMN-6Y
   File: BTA_List_Paradise.csv
-
-Tag: mechdef_yeoman_YMN-6Y
   File: itemCollection_systemStores_MechParts_Marik_Light.csv
 
 Tag: mechdef_ymir_BWP-2B
+---------------------------
   File: itemCollection_systemStores_MechParts_Steiner_Light.csv
 
 Tag: mechdef_ymir_BWP-3A
+---------------------------
   File: BTA_List_Coventry.csv
 
 Tag: mechdef_zeus_ZEU-6A
+---------------------------
   File: itemCollection_systemStores_MechParts_BlackMarket_Assault.csv
-
-Tag: mechdef_zeus_ZEU-6A
   File: itemCollection_systemStores_Mechs_BlackMarket_Assault.csv
 
 Tag: mechdef_zeus_ZEU-8T
+---------------------------
   File: itemCollection_systemStores_Mechs_Generic_BlackMarket.csv
 
 Tag: mechdef_zeus_ZEU-9S
+---------------------------
   File: itemCollection_systemStores_MechParts_Steiner_Assault.csv
-
-Tag: mechdef_zeus_ZEU-9S
   File: itemCollection_systemStores_Mechs_Steiner_Assault.csv
 
 Tag: mechdef_zeus_ZEU-9T
+---------------------------
   File: BTA_List_HesperusII.csv
 
 Tag: mechdef_zeus_ZEU-SK
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
 
 Tag: mechdef_zeus_ZEU-X
+---------------------------
   File: BTA_BlackMarket_Mechs.csv
-
-Tag: mechdef_zeus_ZEU-X
   File: itemCollection_systemStores_MechParts_Steiner_Light.csv
 
 Tag: mechdef_zeus_ZEU-X-OL
+---------------------------
   File: BTA_List_HeroMechs_Assault.csv
-
 

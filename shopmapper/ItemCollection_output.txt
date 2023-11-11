@@ -1,583 +1,97 @@
-Tag: itemCollection_Ammo_all
-  File: itemCollection_major_AuriganDirectorate.csv
+Tag: ItemCollection_ECoolant
+---------------------------
+  File: ItemCollection_SS_IS.csv
+  File: ItemCollection_SS_Manufacture.csv
+  File: ItemCollection_SS_Perephiry.csv
+  File: ItemCollection_SS_Primitive.csv
+  File: ItemCollection_SS_Research.csv
 
-Tag: itemCollection_Ammo_all
-  File: itemCollection_major_AuriganRestoration.csv
+Tag: ItemCollection_Internals_IS
+---------------------------
+  File: BTA_Honored_Magistracy.csv
+  File: BTA_Honored_Marian.csv
+  File: BTA_Honored_Outworld.csv
+  File: BTA_Honored_Restoration.csv
+  File: BTA_Honored_Taurian.csv
+  File: BTA_List_Battlefield.csv
+  File: ItemCollection_SS_IS.csv
+  File: ItemCollection_SS_Manufacture.csv
+  File: itemCollection_loot_careerReward_1.csv
+  File: itemCollection_loot_careerReward_2.csv
+  File: itemCollection_loot_careerReward_3.csv
 
-Tag: itemCollection_Ammo_all
-  File: itemCollection_major_Circinus.csv
+Tag: ItemCollection_Internals_IS_Rare
+---------------------------
+  File: BTA_Honored_ComStar.csv
+  File: BTA_Honored_Davion.csv
+  File: BTA_Honored_Kurita.csv
+  File: BTA_Honored_Liao.csv
+  File: BTA_Honored_Marik.csv
+  File: BTA_Honored_Rasalhague.csv
+  File: BTA_Honored_Steiner.csv
+  File: BTA_Honored_WoB.csv
+  File: BTA_List_BlackMarket.csv
+  File: BTA_standard_Major.csv
+  File: itemCollection_faction_Rezak.csv
+  File: ItemCollection_SS_Manufacture.csv
+  File: BTA_List_Solaris.csv
+  File: itemCollection_loot_careerReward_4.csv
+  File: itemCollection_loot_careerReward_5.csv
 
-Tag: itemCollection_Ammo_all
-  File: itemCollection_major_ClanWorld.csv
-
-Tag: itemCollection_Ammo_all
+Tag: ItemCollection_SS_IS
+---------------------------
+  File: BTA_List_Battlefield.csv
+  File: BTA_List_BlackMarket.csv
+  File: BTA_standard_Major.csv
   File: itemCollection_major_ComStar.csv
-
-Tag: itemCollection_Ammo_all
-  File: itemCollection_major_Davion.csv
-
-Tag: itemCollection_Ammo_all
-  File: itemCollection_major_Hanse.csv
-
-Tag: itemCollection_Ammo_all
-  File: itemCollection_major_Illyrian.csv
-
-Tag: itemCollection_Ammo_all
   File: itemCollection_major_Kurita.csv
-
-Tag: itemCollection_Ammo_all
-  File: itemCollection_major_Liao.csv
-
-Tag: itemCollection_Ammo_all
-  File: itemCollection_major_Locals.csv
-
-Tag: itemCollection_Ammo_all
-  File: itemCollection_major_Lothian.csv
-
-Tag: itemCollection_Ammo_all
-  File: itemCollection_major_MagistracyOfCanopus.csv
-
-Tag: itemCollection_Ammo_all
-  File: itemCollection_major_Marian.csv
-
-Tag: itemCollection_Ammo_all
-  File: itemCollection_major_Marik.csv
-
-Tag: itemCollection_Ammo_all
-  File: itemCollection_major_Outworld.csv
-
-Tag: itemCollection_Ammo_all
   File: itemCollection_major_Rasalhague.csv
-
-Tag: itemCollection_Ammo_all
-  File: itemCollection_major_Rim.csv
-
-Tag: itemCollection_Ammo_all
   File: itemCollection_major_Steiner.csv
+  File: itemCollection_major_WordOfBlake.csv
+  File: itemCollection_major_Davion.csv
+  File: itemCollection_major_Liao.csv
+  File: itemCollection_major_Marik.csv
+  File: itemCollection_minor_Davion.csv
+  File: itemCollection_minor_Liao.csv
+  File: itemCollection_minor_Marik.csv
 
-Tag: itemCollection_Ammo_all
+Tag: ItemCollection_SS_Manufacture
+---------------------------
+  File: BTA_Industrial.csv
+  File: BTA_standard_Major_Loot.csv
+
+Tag: ItemCollection_SS_Perephiry
+---------------------------
+  File: BTA_standard_Minor.csv
+  File: BTA_standard_Minor_Loot.csv
+  File: BTA_standard_Periphery.csv
+  File: itemCollection_major_AuriganDirectorate.csv
+  File: itemCollection_major_AuriganRestoration.csv
+  File: itemCollection_major_Locals.csv
+  File: itemCollection_major_MagistracyOfCanopus.csv
   File: itemCollection_major_TaurianConcordat.csv
+  File: itemCollection_minor_AuriganDirectorate.csv
+  File: itemCollection_minor_AuriganRestoration.csv
+  File: itemCollection_minor_Locals.csv
+  File: itemCollection_minor_MagistracyOfCanopus.csv
+  File: itemCollection_minor_TaurianConcordat.csv
 
-Tag: itemCollection_Ammo_all
+Tag: ItemCollection_SS_Primitive
+---------------------------
+  File: BTA_standard_Primitive.csv
+  File: itemCollection_major_Chainelane.csv
+  File: itemCollection_major_Circinus.csv
+  File: itemCollection_major_Delphi.csv
+  File: itemCollection_major_Hanse.csv
+  File: itemCollection_major_Illyrian.csv
+  File: itemCollection_major_JarnFolk.csv
+  File: itemCollection_major_Lothian.csv
+  File: itemCollection_major_Marian.csv
+  File: itemCollection_major_Outworld.csv
+  File: itemCollection_major_Rim.csv
   File: itemCollection_major_Tortuga.csv
 
-Tag: itemCollection_Ammo_all
-  File: itemCollection_major_WordOfBlake.csv
-
-Tag: itemCollection_Ammo_all
-  File: itemCollection_minor_AuriganDirectorate.csv
-
-Tag: itemCollection_Ammo_all
-  File: itemCollection_minor_AuriganRestoration.csv
-
-Tag: itemCollection_Ammo_all
-  File: itemCollection_minor_Davion.csv
-
-Tag: itemCollection_Ammo_all
-  File: itemCollection_minor_Liao.csv
-
-Tag: itemCollection_Ammo_all
-  File: itemCollection_minor_Locals.csv
-
-Tag: itemCollection_Ammo_all
-  File: itemCollection_minor_MagistracyOfCanopus.csv
-
-Tag: itemCollection_Ammo_all
-  File: itemCollection_minor_Marik.csv
-
-Tag: itemCollection_Ammo_all
-  File: itemCollection_minor_TaurianConcordat.csv
-
-Tag: itemCollection_BTA_Throwdown_Mechs
-  File: itemCollection_BTA_Throwdown.csv
-
-Tag: itemCollection_HM_careerStarter_pack
-  File: itemCollection_HM_careerStarter.csv
-
-Tag: itemCollection_HM_careerStarter_pack_Mechs
-  File: itemCollection_HM_careerStarter.csv
-
-Tag: itemCollection_Tanks_faction_Generic_InnerSphere
-  File: BTA_standard_Major.csv
-
-Tag: itemCollection_Tanks_faction_Generic_InnerSphere_Heavy
-  File: itemCollection_Tanks_faction_Generic_InnerSphere_overlist.csv
-
-Tag: itemCollection_Tanks_faction_Generic_Periphery
-  File: BTA_standard_Periphery.csv
-
-Tag: itemCollection_Tanks_faction_Generic_Periphery_Heavy
-  File: itemCollection_Tanks_faction_Generic_Periphery_overlist.csv
-
-Tag: itemCollection_Upgrades_ECM
-  File: BTA_Upgrades.csv
-
-Tag: itemCollection_Upgrades_ECM
-  File: ItemCollection_Internals_IS_Rare.csv
-
-Tag: itemCollection_Upgrades_SLDF
-  File: BTA_Honored_ComStar.csv
-
-Tag: itemCollection_Upgrades_SLDF
-  File: BTA_Honored_WoB.csv
-
-Tag: itemCollection_Upgrades_common
-  File: BTA_Liked_Periphery.csv
-
-Tag: itemCollection_Upgrades_common
-  File: BTA_standard_Major.csv
-
-Tag: itemCollection_Upgrades_common
-  File: BTA_standard_Major_Loot.csv
-
-Tag: itemCollection_Upgrades_common
-  File: BTA_standard_Minor.csv
-
-Tag: itemCollection_Upgrades_common
-  File: BTA_standard_Minor_Loot.csv
-
-Tag: itemCollection_Upgrades_rare
-  File: BTA_Honored_ComStar.csv
-
-Tag: itemCollection_Upgrades_rare
-  File: BTA_Honored_Davion.csv
-
-Tag: itemCollection_Upgrades_rare
-  File: BTA_Honored_Kurita.csv
-
-Tag: itemCollection_Upgrades_rare
-  File: BTA_Honored_Liao.csv
-
-Tag: itemCollection_Upgrades_rare
-  File: BTA_Honored_Marik.csv
-
-Tag: itemCollection_Upgrades_rare
-  File: BTA_Honored_Rasalhague.csv
-
-Tag: itemCollection_Upgrades_rare
-  File: BTA_Honored_Steiner.csv
-
-Tag: itemCollection_Upgrades_rare
-  File: BTA_Honored_WoB.csv
-
-Tag: itemCollection_Upgrades_rare
-  File: BTA_List_Battlefield.csv
-
-Tag: itemCollection_Upgrades_rare
-  File: BTA_List_BlackMarket.csv
-
-Tag: itemCollection_Upgrades_rare
-  File: BTA_List_Electronics.csv
-
-Tag: itemCollection_Upgrades_rare
-  File: BTA_List_Research.csv
-
-Tag: itemCollection_Upgrades_rare
-  File: BTA_List_SLDF.csv
-
-Tag: itemCollection_Upgrades_uncommon
-  File: BTA_Honored_Magistracy.csv
-
-Tag: itemCollection_Upgrades_uncommon
-  File: BTA_Honored_Marian.csv
-
-Tag: itemCollection_Upgrades_uncommon
-  File: BTA_Honored_Outworld.csv
-
-Tag: itemCollection_Upgrades_uncommon
-  File: BTA_Honored_Restoration.csv
-
-Tag: itemCollection_Upgrades_uncommon
-  File: BTA_Honored_Taurian.csv
-
-Tag: itemCollection_Upgrades_uncommon
-  File: BTA_Liked_GreatHouse.csv
-
-Tag: itemCollection_Upgrades_uncommon
-  File: BTA_List_Battlefield.csv
-
-Tag: itemCollection_Upgrades_uncommon
-  File: BTA_List_BlackMarket.csv
-
-Tag: itemCollection_Upgrades_uncommon
-  File: BTA_List_Electronics.csv
-
-Tag: itemCollection_Upgrades_uncommon
-  File: BTA_List_Research.csv
-
-Tag: itemCollection_Upgrades_uncommon
-  File: BTA_List_SLDF.csv
-
-Tag: itemCollection_Upgrades_uncommon
-  File: BTA_standard_Major.csv
-
-Tag: itemCollection_Upgrades_uncommon
-  File: BTA_standard_Major_Loot.csv
-
-Tag: itemCollection_Weapons_base
-  File: BTA_standard_Minor.csv
-
-Tag: itemCollection_Weapons_base
-  File: BTA_standard_Minor_Loot.csv
-
-Tag: itemCollection_Weapons_base
-  File: BTA_standard_Periphery.csv
-
-Tag: itemCollection_Weapons_base
-  File: BTA_standard_Primitive.csv
-
-Tag: itemCollection_Weapons_common
-  File: BTA_Liked_Periphery.csv
-
-Tag: itemCollection_Weapons_common
-  File: BTA_standard_Major.csv
-
-Tag: itemCollection_Weapons_common
-  File: BTA_standard_Major_Loot.csv
-
-Tag: itemCollection_Weapons_common
-  File: BTA_standard_Minor.csv
-
-Tag: itemCollection_Weapons_common
-  File: BTA_standard_Minor_Loot.csv
-
-Tag: itemCollection_Weapons_rare
-  File: BTA_Honored_ComStar.csv
-
-Tag: itemCollection_Weapons_rare
-  File: BTA_Honored_Davion.csv
-
-Tag: itemCollection_Weapons_rare
-  File: BTA_Honored_Kurita.csv
-
-Tag: itemCollection_Weapons_rare
-  File: BTA_Honored_Liao.csv
-
-Tag: itemCollection_Weapons_rare
-  File: BTA_Honored_Marik.csv
-
-Tag: itemCollection_Weapons_rare
-  File: BTA_Honored_Rasalhague.csv
-
-Tag: itemCollection_Weapons_rare
-  File: BTA_Honored_Steiner.csv
-
-Tag: itemCollection_Weapons_rare
-  File: BTA_Honored_WoB.csv
-
-Tag: itemCollection_Weapons_rare
-  File: BTA_Liked_GreatHouse.csv
-
-Tag: itemCollection_Weapons_rare
-  File: BTA_List_Battlefield.csv
-
-Tag: itemCollection_Weapons_rare
-  File: BTA_List_BlackMarket.csv
-
-Tag: itemCollection_Weapons_rare
-  File: BTA_List_Industrial.csv
-
-Tag: itemCollection_Weapons_rare
-  File: BTA_standard_Major.csv
-
-Tag: itemCollection_Weapons_rare
-  File: BTA_standard_Major_Loot.csv
-
-Tag: itemCollection_Weapons_uncommon
-  File: BTA_Honored_Magistracy.csv
-
-Tag: itemCollection_Weapons_uncommon
-  File: BTA_Honored_Marian.csv
-
-Tag: itemCollection_Weapons_uncommon
-  File: BTA_Honored_Outworld.csv
-
-Tag: itemCollection_Weapons_uncommon
-  File: BTA_Honored_Restoration.csv
-
-Tag: itemCollection_Weapons_uncommon
-  File: BTA_Honored_Taurian.csv
-
-Tag: itemCollection_Weapons_uncommon
-  File: BTA_Liked_GreatHouse.csv
-
-Tag: itemCollection_Weapons_uncommon
-  File: BTA_Liked_Periphery.csv
-
-Tag: itemCollection_Weapons_uncommon
-  File: BTA_List_Battlefield.csv
-
-Tag: itemCollection_Weapons_uncommon
-  File: BTA_List_BlackMarket.csv
-
-Tag: itemCollection_Weapons_uncommon
-  File: BTA_List_Industrial.csv
-
-Tag: itemCollection_Weapons_uncommon
-  File: BTA_List_Mining.csv
-
-Tag: itemCollection_Weapons_uncommon
-  File: BTA_standard_Major.csv
-
-Tag: itemCollection_Weapons_uncommon
-  File: BTA_standard_Major_Loot.csv
-
-Tag: itemCollection_Weapons_uncommon
-  File: BTA_standard_Minor.csv
-
-Tag: itemCollection_Weapons_uncommon
-  File: BTA_standard_Minor_Loot.csv
-
-Tag: itemCollection_shopItems_research
-  File: itemCollection_shop_research.csv
-
-Tag: itemCollection_systemStores_MechParts_ComStar_Light
-  File: BTA_Misc_Loot_Mechs.csv
-
-Tag: itemCollection_systemStores_MechParts_ComStar_Light
-  File: itemCollection_major_ComStar.csv
-
-Tag: itemCollection_systemStores_MechParts_Davion_Heavy
-  File: itemCollection_faction_Davion.csv
-
-Tag: itemCollection_systemStores_MechParts_Davion_Light
-  File: itemCollection_Mechs_faction_Davion.csv
-
-Tag: itemCollection_systemStores_MechParts_Davion_Light
-  File: itemCollection_faction_Davion.csv
-
-Tag: itemCollection_systemStores_MechParts_Davion_Light
-  File: itemCollection_major_Davion.csv
-
-Tag: itemCollection_systemStores_MechParts_Davion_Light
-  File: itemCollection_minor_Davion.csv
-
-Tag: itemCollection_systemStores_MechParts_Davion_Medium
-  File: itemCollection_faction_Davion.csv
-
-Tag: itemCollection_systemStores_MechParts_Directorate_Light
-  File: itemCollection_Mechs_faction_AuriganRestoration.csv
-
-Tag: itemCollection_systemStores_MechParts_Directorate_Light
-  File: itemCollection_major_AuriganDirectorate.csv
-
-Tag: itemCollection_systemStores_MechParts_Directorate_Light
-  File: itemCollection_major_AuriganRestoration.csv
-
-Tag: itemCollection_systemStores_MechParts_Directorate_Light
-  File: itemCollection_minor_AuriganDirectorate.csv
-
-Tag: itemCollection_systemStores_MechParts_Directorate_Light
-  File: itemCollection_minor_AuriganRestoration.csv
-
-Tag: itemCollection_systemStores_MechParts_Generic_GreatHouse
-  File: BTA_Misc_Loot_Mechs.csv
-
-Tag: itemCollection_systemStores_MechParts_Generic_GreatHouse
-  File: itemCollection_Mechs_faction_Generic_GreatHouse.csv
-
-Tag: itemCollection_systemStores_MechParts_Generic_Periphery
-  File: BTA_Misc_Loot_Mechs.csv
-
-Tag: itemCollection_systemStores_MechParts_Generic_Periphery
-  File: itemCollection_Mechs_faction_Generic_Periphery.csv
-
-Tag: itemCollection_systemStores_MechParts_Kurita_Heavy
-  File: itemCollection_faction_Kurita.csv
-
-Tag: itemCollection_systemStores_MechParts_Kurita_Light
-  File: itemCollection_Mechs_faction_Kurita.csv
-
-Tag: itemCollection_systemStores_MechParts_Kurita_Light
-  File: itemCollection_faction_Kurita.csv
-
-Tag: itemCollection_systemStores_MechParts_Kurita_Light
-  File: itemCollection_major_Kurita.csv
-
-Tag: itemCollection_systemStores_MechParts_Kurita_Medium
-  File: itemCollection_faction_Kurita.csv
-
-Tag: itemCollection_systemStores_MechParts_Liao_Heavy
-  File: itemCollection_faction_Liao.csv
-
-Tag: itemCollection_systemStores_MechParts_Liao_Light
-  File: itemCollection_Mechs_faction_Liao.csv
-
-Tag: itemCollection_systemStores_MechParts_Liao_Light
-  File: itemCollection_faction_Liao.csv
-
-Tag: itemCollection_systemStores_MechParts_Liao_Light
-  File: itemCollection_major_Liao.csv
-
-Tag: itemCollection_systemStores_MechParts_Liao_Light
-  File: itemCollection_minor_Liao.csv
-
-Tag: itemCollection_systemStores_MechParts_Liao_Medium
-  File: itemCollection_faction_Liao.csv
-
-Tag: itemCollection_systemStores_MechParts_Magistracy_Light
-  File: itemCollection_Mechs_faction_Magistracy.csv
-
-Tag: itemCollection_systemStores_MechParts_Magistracy_Light
-  File: itemCollection_faction_MagistracyOfCanopus.csv
-
-Tag: itemCollection_systemStores_MechParts_Magistracy_Light
-  File: itemCollection_major_MagistracyOfCanopus.csv
-
-Tag: itemCollection_systemStores_MechParts_Magistracy_Light
-  File: itemCollection_minor_MagistracyOfCanopus.csv
-
-Tag: itemCollection_systemStores_MechParts_Magistracy_Medium
-  File: itemCollection_faction_MagistracyOfCanopus.csv
-
-Tag: itemCollection_systemStores_MechParts_Marik_Heavy
-  File: itemCollection_faction_Marik.csv
-
-Tag: itemCollection_systemStores_MechParts_Marik_Light
-  File: itemCollection_Mechs_faction_Marik.csv
-
-Tag: itemCollection_systemStores_MechParts_Marik_Light
-  File: itemCollection_faction_Marik.csv
-
-Tag: itemCollection_systemStores_MechParts_Marik_Light
-  File: itemCollection_major_Marik.csv
-
-Tag: itemCollection_systemStores_MechParts_Marik_Light
-  File: itemCollection_minor_Marik.csv
-
-Tag: itemCollection_systemStores_MechParts_Marik_Medium
-  File: itemCollection_faction_Marik.csv
-
-Tag: itemCollection_systemStores_MechParts_Steiner_Heavy
-  File: itemCollection_faction_Steiner.csv
-
-Tag: itemCollection_systemStores_MechParts_Steiner_Light
-  File: itemCollection_Mechs_faction_Steiner.csv
-
-Tag: itemCollection_systemStores_MechParts_Steiner_Light
-  File: itemCollection_faction_Steiner.csv
-
-Tag: itemCollection_systemStores_MechParts_Steiner_Light
-  File: itemCollection_major_Steiner.csv
-
-Tag: itemCollection_systemStores_MechParts_Steiner_Medium
-  File: itemCollection_faction_Steiner.csv
-
-Tag: itemCollection_systemStores_MechParts_Taurian_Light
-  File: itemCollection_Mechs_faction_TaurianConcordat.csv
-
-Tag: itemCollection_systemStores_MechParts_Taurian_Light
-  File: itemCollection_faction_TaurianConcordat.csv
-
-Tag: itemCollection_systemStores_MechParts_Taurian_Light
-  File: itemCollection_major_TaurianConcordat.csv
-
-Tag: itemCollection_systemStores_MechParts_Taurian_Light
-  File: itemCollection_minor_TaurianConcordat.csv
-
-Tag: itemCollection_systemStores_MechParts_Taurian_Medium
-  File: itemCollection_faction_TaurianConcordat.csv
-
-Tag: itemCollection_systemStores_MechParts_WoB_Light
-  File: BTA_Misc_Loot_Mechs.csv
-
-Tag: itemCollection_systemStores_MechParts_WoB_Light
-  File: itemCollection_major_WordOfBlake.csv
-
-Tag: itemCollection_systemStores_MechParts_common_Light
-  File: itemCollection_faction_AuriganRestoration.csv
-
-Tag: itemCollection_systemStores_MechParts_common_Light
-  File: itemCollection_major_Hanse.csv
-
-Tag: itemCollection_systemStores_MechParts_common_Light
-  File: itemCollection_major_Illyrian.csv
-
-Tag: itemCollection_systemStores_MechParts_common_Light
-  File: itemCollection_major_JarnFolk.csv
-
-Tag: itemCollection_systemStores_MechParts_common_Light
-  File: itemCollection_major_Locals.csv
-
-Tag: itemCollection_systemStores_MechParts_common_Light
-  File: itemCollection_major_Lothian.csv
-
-Tag: itemCollection_systemStores_MechParts_common_Light
-  File: itemCollection_major_Marian.csv
-
-Tag: itemCollection_systemStores_MechParts_common_Light
-  File: itemCollection_major_Outworld.csv
-
-Tag: itemCollection_systemStores_MechParts_common_Light
-  File: itemCollection_major_Rasalhague.csv
-
-Tag: itemCollection_systemStores_MechParts_common_Light
-  File: itemCollection_major_Rim.csv
-
-Tag: itemCollection_systemStores_MechParts_common_Light
-  File: itemCollection_minor_Locals.csv
-
-Tag: itemCollection_systemStores_MechParts_common_Medium
-  File: itemCollection_faction_AuriganRestoration.csv
-
-Tag: itemCollection_systemStores_Mechs_Davion_Light
-  File: itemCollection_faction_Davion.csv
-
-Tag: itemCollection_systemStores_Mechs_Davion_Medium
-  File: itemCollection_faction_Davion.csv
-
-Tag: itemCollection_systemStores_Mechs_Generic_BlackMarket
-  File: itemCollection_faction_AuriganPirates.csv
-
-Tag: itemCollection_systemStores_Mechs_Generic_DeepPeriphery
-  File: BTA_Mechs_Standard_DeepPeriphery.csv
-
-Tag: itemCollection_systemStores_Mechs_Generic_GreatHouse
-  File: BTA_Mechs_Standard_GreatHouse.csv
-
-Tag: itemCollection_systemStores_Mechs_Generic_Periphery
-  File: BTA_Mechs_Standard_Periphery.csv
-
-Tag: itemCollection_systemStores_Mechs_Kurita_Light
-  File: itemCollection_faction_Kurita.csv
-
-Tag: itemCollection_systemStores_Mechs_Kurita_Medium
-  File: itemCollection_faction_Kurita.csv
-
-Tag: itemCollection_systemStores_Mechs_Liao_Light
-  File: itemCollection_faction_Liao.csv
-
-Tag: itemCollection_systemStores_Mechs_Liao_Medium
-  File: itemCollection_faction_Liao.csv
-
-Tag: itemCollection_systemStores_Mechs_Magistracy_Light
-  File: itemCollection_faction_MagistracyOfCanopus.csv
-
-Tag: itemCollection_systemStores_Mechs_Magistracy_Medium
-  File: itemCollection_faction_MagistracyOfCanopus.csv
-
-Tag: itemCollection_systemStores_Mechs_Marik_Light
-  File: itemCollection_faction_Marik.csv
-
-Tag: itemCollection_systemStores_Mechs_Marik_Medium
-  File: itemCollection_faction_Marik.csv
-
-Tag: itemCollection_systemStores_Mechs_Steiner_Light
-  File: itemCollection_faction_Steiner.csv
-
-Tag: itemCollection_systemStores_Mechs_Steiner_Medium
-  File: itemCollection_faction_Steiner.csv
-
-Tag: itemCollection_systemStores_Mechs_Taurian_Light
-  File: itemCollection_faction_TaurianConcordat.csv
-
-Tag: itemCollection_systemStores_Mechs_Taurian_Medium
-  File: itemCollection_faction_TaurianConcordat.csv
-
-Tag: itemCollection_systemStores_Mechs_common_Light
-  File: itemCollection_faction_AuriganRestoration.csv
-
-Tag: itemCollection_systemStores_Mechs_common_Medium
-  File: itemCollection_faction_AuriganRestoration.csv
-
+Tag: ItemCollection_SS_Research
+---------------------------
+  File: BTA_Research.csv
 

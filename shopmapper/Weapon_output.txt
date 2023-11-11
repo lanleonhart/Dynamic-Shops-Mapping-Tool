@@ -1,4066 +1,2240 @@
 Tag: Weapon_AMS
+---------------------------
   File: BTA_AMS.csv
-
-Tag: Weapon_AMS
   File: BTA_AMS_Start.csv
-
-Tag: Weapon_AMS
-  File: BTA_List_AlNair.csv
-
-Tag: Weapon_AMS
-  File: BTA_List_Coventry.csv
-
-Tag: Weapon_AMS
-  File: BTA_List_Kalidasa.csv
-
-Tag: Weapon_AMS
-  File: BTA_List_Kendall.csv
-
-Tag: Weapon_AMS
-  File: BTA_List_Keystone.csv
-
-Tag: Weapon_AMS
-  File: BTA_List_NewAvalon.csv
-
-Tag: Weapon_AMS
-  File: BTA_List_Outreach.csv
-
-Tag: Weapon_AMS
-  File: BTA_List_Stewart.csv
-
-Tag: Weapon_AMS
-  File: BTA_List_Tematagi.csv
-
-Tag: Weapon_AMS
-  File: BTA_List_Wallis.csv
-
-Tag: Weapon_AMS
   File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_AMS
+  File: BTA_List_AlNair.csv
+  File: BTA_List_Coventry.csv
+  File: BTA_List_Kalidasa.csv
+  File: BTA_List_Kendall.csv
+  File: BTA_List_Keystone.csv
+  File: BTA_List_NewAvalon.csv
+  File: BTA_List_Outreach.csv
+  File: BTA_List_Stewart.csv
+  File: BTA_List_Tematagi.csv
+  File: BTA_List_Wallis.csv
   File: itemCollection_Weapons_uncommon.csv
 
 Tag: Weapon_AMS_Sanctuary
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_AMS_Sanctuary
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: Weapon_APM_APM4
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_APM_APM4
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: Weapon_ArrowIV
+---------------------------
   File: BTA_ArrowIV.csv
-
-Tag: Weapon_ArrowIV
   File: BTA_List_Betelgeuse.csv
-
-Tag: Weapon_ArrowIV
   File: BTA_List_Emris.csv
-
-Tag: Weapon_ArrowIV
   File: BTA_List_Terra.csv
 
 Tag: Weapon_Autocannon_AC10P_0-STOCK
+---------------------------
   File: BTA_List_Antwerp.csv
 
 Tag: Weapon_Autocannon_AC10_0-STOCK
-  File: BTA_List_Betelgeuse.csv
-
-Tag: Weapon_Autocannon_AC10_0-STOCK
-  File: BTA_List_Gulkana.csv
-
-Tag: Weapon_Autocannon_AC10_0-STOCK
-  File: BTA_List_HesperusII.csv
-
-Tag: Weapon_Autocannon_AC10_0-STOCK
-  File: BTA_List_NewSamarkand.csv
-
-Tag: Weapon_Autocannon_AC10_0-STOCK
-  File: BTA_List_Otisberg.csv
-
-Tag: Weapon_Autocannon_AC10_0-STOCK
-  File: BTA_List_Terra.csv
-
-Tag: Weapon_Autocannon_AC10_0-STOCK
+---------------------------
   File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_Autocannon_AC10_0-STOCK
+  File: itemCollection_faction_Lothian.csv
+  File: BTA_List_Betelgeuse.csv
+  File: BTA_List_Gulkana.csv
+  File: BTA_List_HesperusII.csv
+  File: BTA_List_NewSamarkand.csv
+  File: BTA_List_Otisberg.csv
+  File: BTA_List_Terra.csv
+  File: itemCollection_shopItems_mining.csv
+  File: itemCollection_shopItems_miningProgression.csv
+  File: itemCollection_shopItems_munitions.csv
+  File: itemCollection_shopItems_munitionsProgression.csv
+  File: itemCollection_shopItems_weapons.csv
   File: itemCollection_Weapons_base.csv
-
-Tag: Weapon_Autocannon_AC10_0-STOCK
   File: itemCollection_Weapons_common.csv
 
-Tag: Weapon_Autocannon_AC10_0-STOCK
-  File: itemCollection_faction_Lothian.csv
-
-Tag: Weapon_Autocannon_AC10_0-STOCK
-  File: itemCollection_shopItems_mining.csv
-
-Tag: Weapon_Autocannon_AC10_0-STOCK
-  File: itemCollection_shopItems_miningProgression.csv
-
-Tag: Weapon_Autocannon_AC10_0-STOCK
-  File: itemCollection_shopItems_munitions.csv
-
-Tag: Weapon_Autocannon_AC10_0-STOCK
-  File: itemCollection_shopItems_munitionsProgression.csv
-
-Tag: Weapon_Autocannon_AC10_0-STOCK
-  File: itemCollection_shopItems_weapons.csv
-
 Tag: Weapon_Autocannon_AC10_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare.csv
-
-Tag: Weapon_Autocannon_AC10_CLAN
   File: BTAClan_Weapons_Rare_Convoy.csv
 
 Tag: Weapon_Autocannon_AC10_LBX_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare.csv
-
-Tag: Weapon_Autocannon_AC10_LBX_CLAN
   File: BTAClan_Weapons_Rare_Convoy.csv
 
 Tag: Weapon_Autocannon_AC10_MRIFLE
+---------------------------
+  File: BTA_Rifle.csv
+  File: itemCollection_faction_Chainelane.csv
   File: BTA_List_Ingvolstand.csv
 
-Tag: Weapon_Autocannon_AC10_MRIFLE
-  File: BTA_Rifle.csv
-
-Tag: Weapon_Autocannon_AC10_MRIFLE
-  File: itemCollection_faction_Chainelane.csv
-
 Tag: Weapon_Autocannon_AC20_0-STOCK
-  File: BTA_List_AlNair.csv
-
-Tag: Weapon_Autocannon_AC20_0-STOCK
-  File: BTA_List_Atreus.csv
-
-Tag: Weapon_Autocannon_AC20_0-STOCK
-  File: BTA_List_Betelgeuse.csv
-
-Tag: Weapon_Autocannon_AC20_0-STOCK
-  File: BTA_List_Bithinia.csv
-
-Tag: Weapon_Autocannon_AC20_0-STOCK
-  File: BTA_List_Gulkana.csv
-
-Tag: Weapon_Autocannon_AC20_0-STOCK
-  File: BTA_List_HesperusII.csv
-
-Tag: Weapon_Autocannon_AC20_0-STOCK
-  File: BTA_List_Indicass.csv
-
-Tag: Weapon_Autocannon_AC20_0-STOCK
-  File: BTA_List_Kalidasa.csv
-
-Tag: Weapon_Autocannon_AC20_0-STOCK
-  File: BTA_List_NewSamarkand.csv
-
-Tag: Weapon_Autocannon_AC20_0-STOCK
-  File: BTA_List_NewSyrtis.csv
-
-Tag: Weapon_Autocannon_AC20_0-STOCK
-  File: BTA_List_Northwind.csv
-
-Tag: Weapon_Autocannon_AC20_0-STOCK
-  File: BTA_List_Ramora.csv
-
-Tag: Weapon_Autocannon_AC20_0-STOCK
-  File: BTA_List_Terra.csv
-
-Tag: Weapon_Autocannon_AC20_0-STOCK
+---------------------------
   File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_Autocannon_AC20_0-STOCK
+  File: itemCollection_faction_Lothian.csv
+  File: BTA_List_AlNair.csv
+  File: BTA_List_Atreus.csv
+  File: BTA_List_Betelgeuse.csv
+  File: BTA_List_Bithinia.csv
+  File: BTA_List_Gulkana.csv
+  File: BTA_List_HesperusII.csv
+  File: BTA_List_Indicass.csv
+  File: BTA_List_Kalidasa.csv
+  File: BTA_List_NewSamarkand.csv
+  File: BTA_List_NewSyrtis.csv
+  File: BTA_List_Northwind.csv
+  File: BTA_List_Ramora.csv
+  File: BTA_List_Terra.csv
+  File: itemCollection_shopItems_mining.csv
+  File: itemCollection_shopItems_miningProgression.csv
+  File: itemCollection_shopItems_munitions.csv
+  File: itemCollection_shopItems_munitionsProgression.csv
+  File: itemCollection_shopItems_weapons.csv
   File: itemCollection_Weapons_base.csv
-
-Tag: Weapon_Autocannon_AC20_0-STOCK
   File: itemCollection_Weapons_common.csv
 
-Tag: Weapon_Autocannon_AC20_0-STOCK
-  File: itemCollection_faction_Lothian.csv
-
-Tag: Weapon_Autocannon_AC20_0-STOCK
-  File: itemCollection_shopItems_mining.csv
-
-Tag: Weapon_Autocannon_AC20_0-STOCK
-  File: itemCollection_shopItems_miningProgression.csv
-
-Tag: Weapon_Autocannon_AC20_0-STOCK
-  File: itemCollection_shopItems_munitions.csv
-
-Tag: Weapon_Autocannon_AC20_0-STOCK
-  File: itemCollection_shopItems_munitionsProgression.csv
-
-Tag: Weapon_Autocannon_AC20_0-STOCK
-  File: itemCollection_shopItems_weapons.csv
-
 Tag: Weapon_Autocannon_AC20_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare_Convoy.csv
 
 Tag: Weapon_Autocannon_AC20_HRIFLE
+---------------------------
   File: BTA_Rifle.csv
-
-Tag: Weapon_Autocannon_AC20_HRIFLE
   File: itemCollection_faction_Chainelane.csv
 
 Tag: Weapon_Autocannon_AC20_LBX_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare_Convoy.csv
 
 Tag: Weapon_Autocannon_AC2_0-STOCK
+---------------------------
+  File: itemCollection_faction_Lothian.csv
   File: BTA_List_Atreus.csv
-
-Tag: Weapon_Autocannon_AC2_0-STOCK
   File: BTA_List_Gulkana.csv
-
-Tag: Weapon_Autocannon_AC2_0-STOCK
   File: BTA_List_Nanking.csv
-
-Tag: Weapon_Autocannon_AC2_0-STOCK
+  File: itemCollection_shopItems_mining.csv
+  File: itemCollection_shopItems_miningProgression.csv
+  File: itemCollection_shopItems_munitions.csv
+  File: itemCollection_shopItems_munitionsProgression.csv
+  File: itemCollection_shopItems_weapons.csv
   File: itemCollection_Weapons_base.csv
-
-Tag: Weapon_Autocannon_AC2_0-STOCK
   File: itemCollection_Weapons_common.csv
 
-Tag: Weapon_Autocannon_AC2_0-STOCK
-  File: itemCollection_faction_Lothian.csv
-
-Tag: Weapon_Autocannon_AC2_0-STOCK
-  File: itemCollection_shopItems_mining.csv
-
-Tag: Weapon_Autocannon_AC2_0-STOCK
-  File: itemCollection_shopItems_miningProgression.csv
-
-Tag: Weapon_Autocannon_AC2_0-STOCK
-  File: itemCollection_shopItems_munitions.csv
-
-Tag: Weapon_Autocannon_AC2_0-STOCK
-  File: itemCollection_shopItems_munitionsProgression.csv
-
-Tag: Weapon_Autocannon_AC2_0-STOCK
-  File: itemCollection_shopItems_weapons.csv
-
 Tag: Weapon_Autocannon_AC2_CLAN
+---------------------------
   File: BTAClan_Weapons.csv
-
-Tag: Weapon_Autocannon_AC2_CLAN
   File: itemCollection_faction_ClanNovaCat.csv
-
-Tag: Weapon_Autocannon_AC2_CLAN
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: Weapon_Autocannon_AC2_LBX_CLAN
+---------------------------
   File: BTAClan_Weapons.csv
-
-Tag: Weapon_Autocannon_AC2_LBX_CLAN
   File: itemCollection_faction_ClanNovaCat.csv
-
-Tag: Weapon_Autocannon_AC2_LBX_CLAN
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: Weapon_Autocannon_AC5P_0-STOCK
+---------------------------
   File: BTA_List_Antwerp.csv
 
 Tag: Weapon_Autocannon_AC5_0-STOCK
+---------------------------
+  File: itemCollection_faction_Lothian.csv
   File: BTA_List_AlNair.csv
-
-Tag: Weapon_Autocannon_AC5_0-STOCK
   File: BTA_List_Bithinia.csv
-
-Tag: Weapon_Autocannon_AC5_0-STOCK
   File: BTA_List_Gulkana.csv
-
-Tag: Weapon_Autocannon_AC5_0-STOCK
   File: BTA_List_Kalidasa.csv
-
-Tag: Weapon_Autocannon_AC5_0-STOCK
   File: BTA_List_Kathil.csv
-
-Tag: Weapon_Autocannon_AC5_0-STOCK
   File: BTA_List_Loyalty.csv
-
-Tag: Weapon_Autocannon_AC5_0-STOCK
   File: BTA_List_MacLeod.csv
-
-Tag: Weapon_Autocannon_AC5_0-STOCK
   File: BTA_List_NewEarth.csv
-
-Tag: Weapon_Autocannon_AC5_0-STOCK
   File: BTA_List_Ramora.csv
-
-Tag: Weapon_Autocannon_AC5_0-STOCK
   File: BTA_List_Richvale.csv
-
-Tag: Weapon_Autocannon_AC5_0-STOCK
   File: BTA_List_Sterope.csv
-
-Tag: Weapon_Autocannon_AC5_0-STOCK
+  File: itemCollection_shopItems_mining.csv
+  File: itemCollection_shopItems_miningProgression.csv
+  File: itemCollection_shopItems_munitions.csv
+  File: itemCollection_shopItems_munitionsProgression.csv
+  File: itemCollection_shopItems_weapons.csv
   File: itemCollection_Weapons_base.csv
-
-Tag: Weapon_Autocannon_AC5_0-STOCK
   File: itemCollection_Weapons_common.csv
 
-Tag: Weapon_Autocannon_AC5_0-STOCK
-  File: itemCollection_faction_Lothian.csv
-
-Tag: Weapon_Autocannon_AC5_0-STOCK
-  File: itemCollection_shopItems_mining.csv
-
-Tag: Weapon_Autocannon_AC5_0-STOCK
-  File: itemCollection_shopItems_miningProgression.csv
-
-Tag: Weapon_Autocannon_AC5_0-STOCK
-  File: itemCollection_shopItems_munitions.csv
-
-Tag: Weapon_Autocannon_AC5_0-STOCK
-  File: itemCollection_shopItems_munitionsProgression.csv
-
-Tag: Weapon_Autocannon_AC5_0-STOCK
-  File: itemCollection_shopItems_weapons.csv
-
 Tag: Weapon_Autocannon_AC5_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare.csv
-
-Tag: Weapon_Autocannon_AC5_CLAN
   File: itemCollection_faction_ClanNovaCat.csv
-
-Tag: Weapon_Autocannon_AC5_CLAN
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: Weapon_Autocannon_AC5_LBX_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare.csv
-
-Tag: Weapon_Autocannon_AC5_LBX_CLAN
   File: itemCollection_faction_ClanNovaCat.csv
-
-Tag: Weapon_Autocannon_AC5_LBX_CLAN
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: Weapon_Autocannon_AC5_LRIFLE
+---------------------------
   File: BTA_Rifle.csv
-
-Tag: Weapon_Autocannon_AC5_LRIFLE
   File: itemCollection_faction_Chainelane.csv
 
 Tag: Weapon_Autocannon_Doublebarrel_10
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_Autocannon_Doublebarrel_10
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: Weapon_Autocannon_Doublebarrel_15
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_Autocannon_Doublebarrel_15
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: Weapon_Autocannon_Doublebarrel_20
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_Autocannon_Doublebarrel_20
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: Weapon_Autocannon_Doublebarrel_5
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_Autocannon_Doublebarrel_5
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: Weapon_Autocannon_HVAC10_0-STOCK
+---------------------------
   File: BTA_HVAC.csv
-
-Tag: Weapon_Autocannon_HVAC10_0-STOCK
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_Autocannon_HVAC10_0-STOCK
-  File: itemCollection_Weapons_rare.csv
-
-Tag: Weapon_Autocannon_HVAC10_0-STOCK
   File: itemCollection_faction_Liao.csv
-
-Tag: Weapon_Autocannon_HVAC2_0-STOCK
-  File: BTA_HVAC.csv
-
-Tag: Weapon_Autocannon_HVAC2_0-STOCK
-  File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_Autocannon_HVAC2_0-STOCK
   File: itemCollection_Weapons_rare.csv
 
 Tag: Weapon_Autocannon_HVAC2_0-STOCK
-  File: itemCollection_faction_Liao.csv
-
-Tag: Weapon_Autocannon_HVAC5_0-STOCK
+---------------------------
   File: BTA_HVAC.csv
-
-Tag: Weapon_Autocannon_HVAC5_0-STOCK
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_Autocannon_HVAC5_0-STOCK
+  File: itemCollection_faction_Liao.csv
   File: itemCollection_Weapons_rare.csv
 
 Tag: Weapon_Autocannon_HVAC5_0-STOCK
+---------------------------
+  File: BTA_HVAC.csv
+  File: BTA_List_FancyWeapons.csv
   File: itemCollection_faction_Liao.csv
+  File: itemCollection_Weapons_rare.csv
 
 Tag: Weapon_Autocannon_Heavy_Cannon
+---------------------------
   File: BTA_Rifle.csv
-
-Tag: Weapon_Autocannon_Heavy_Cannon
   File: itemCollection_faction_Chainelane.csv
 
 Tag: Weapon_Autocannon_LAC2_0-STOCK
+---------------------------
   File: BTA_LAC.csv
-
-Tag: Weapon_Autocannon_LAC2_0-STOCK
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_Autocannon_LAC2_0-STOCK
-  File: BTA_List_NewAvalon.csv
-
-Tag: Weapon_Autocannon_LAC2_0-STOCK
   File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_Autocannon_LAC2_0-STOCK
+  File: BTA_List_NewAvalon.csv
+  File: itemCollection_faction_MagistracyOfCanopus.csv
   File: itemCollection_Weapons_rare.csv
 
-Tag: Weapon_Autocannon_LAC2_0-STOCK
-  File: itemCollection_faction_MagistracyOfCanopus.csv
-
 Tag: Weapon_Autocannon_LAC5_0-STOCK
+---------------------------
   File: BTA_LAC.csv
-
-Tag: Weapon_Autocannon_LAC5_0-STOCK
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_Autocannon_LAC5_0-STOCK
+  File: BTA_Weapons_Loot.csv
   File: BTA_List_Gulkana.csv
-
-Tag: Weapon_Autocannon_LAC5_0-STOCK
   File: BTA_List_NewAvalon.csv
-
-Tag: Weapon_Autocannon_LAC5_0-STOCK
-  File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_Autocannon_LAC5_0-STOCK
-  File: itemCollection_Weapons_rare.csv
-
-Tag: Weapon_Autocannon_LAC5_0-STOCK
   File: itemCollection_faction_MagistracyOfCanopus.csv
+  File: itemCollection_Weapons_rare.csv
 
 Tag: Weapon_Autocannon_LB10XAC
+---------------------------
   File: BTA_LBXAC.csv
-
-Tag: Weapon_Autocannon_LB10XAC
   File: BTA_LBXAC_Start.csv
-
-Tag: Weapon_Autocannon_LB10XAC
+  File: itemCollection_faction_Rasalhague.csv
   File: BTA_List_Atreus.csv
-
-Tag: Weapon_Autocannon_LB10XAC
   File: BTA_List_Bithinia.csv
-
-Tag: Weapon_Autocannon_LB10XAC
   File: BTA_List_Furillo.csv
-
-Tag: Weapon_Autocannon_LB10XAC
   File: BTA_List_Grumium.csv
-
-Tag: Weapon_Autocannon_LB10XAC
   File: BTA_List_Gulkana.csv
-
-Tag: Weapon_Autocannon_LB10XAC
   File: BTA_List_HesperusII.csv
-
-Tag: Weapon_Autocannon_LB10XAC
   File: BTA_List_Kalidasa.csv
-
-Tag: Weapon_Autocannon_LB10XAC
   File: BTA_List_Kendall.csv
-
-Tag: Weapon_Autocannon_LB10XAC
   File: BTA_List_Menke.csv
-
-Tag: Weapon_Autocannon_LB10XAC
   File: BTA_List_Nanking.csv
-
-Tag: Weapon_Autocannon_LB10XAC
   File: BTA_List_Oriente.csv
-
-Tag: Weapon_Autocannon_LB10XAC
   File: BTA_List_Soul.csv
-
-Tag: Weapon_Autocannon_LB10XAC
   File: BTA_List_StIves.csv
-
-Tag: Weapon_Autocannon_LB10XAC
   File: BTA_List_Terra.csv
-
-Tag: Weapon_Autocannon_LB10XAC
   File: BTA_List_Tukayyid.csv
 
-Tag: Weapon_Autocannon_LB10XAC
-  File: itemCollection_faction_Rasalhague.csv
-
 Tag: Weapon_Autocannon_LB20XAC
+---------------------------
   File: BTA_LBXAC.csv
-
-Tag: Weapon_Autocannon_LB20XAC
   File: BTA_List_Bithinia.csv
-
-Tag: Weapon_Autocannon_LB20XAC
   File: BTA_List_HesperusII.csv
-
-Tag: Weapon_Autocannon_LB20XAC
   File: BTA_List_Soul.csv
-
-Tag: Weapon_Autocannon_LB20XAC
   File: BTA_List_Victoria.csv
 
 Tag: Weapon_Autocannon_LB2XAC
+---------------------------
   File: BTA_LBXAC.csv
-
-Tag: Weapon_Autocannon_LB2XAC
   File: BTA_List_Furillo.csv
-
-Tag: Weapon_Autocannon_LB2XAC
   File: BTA_List_Nanking.csv
-
-Tag: Weapon_Autocannon_LB2XAC
   File: BTA_List_Terra.csv
 
 Tag: Weapon_Autocannon_LB5XAC
+---------------------------
   File: BTA_LBXAC.csv
-
-Tag: Weapon_Autocannon_LB5XAC
   File: BTA_List_Furillo.csv
-
-Tag: Weapon_Autocannon_LB5XAC
   File: BTA_List_Gulkana.csv
-
-Tag: Weapon_Autocannon_LB5XAC
   File: BTA_List_Stewart.csv
-
-Tag: Weapon_Autocannon_LB5XAC
   File: BTA_List_Tikonov.csv
 
 Tag: Weapon_Autocannon_LONGTOM
+---------------------------
+  File: BTA_TubeArty.csv
+  File: itemCollection_faction_Hanse.csv
   File: BTA_List_Terra.csv
 
-Tag: Weapon_Autocannon_LONGTOM
-  File: BTA_TubeArty.csv
-
-Tag: Weapon_Autocannon_LONGTOM
-  File: itemCollection_faction_Hanse.csv
-
 Tag: Weapon_Autocannon_LONGTOM_CANNON
+---------------------------
+  File: BTA_TubeArty.csv
+  File: itemCollection_faction_Hanse.csv
   File: BTA_List_Togura.csv
 
-Tag: Weapon_Autocannon_LONGTOM_CANNON
-  File: BTA_TubeArty.csv
-
-Tag: Weapon_Autocannon_LONGTOM_CANNON
-  File: itemCollection_faction_Hanse.csv
-
 Tag: Weapon_Autocannon_Light_Cannon
+---------------------------
   File: BTA_Rifle.csv
-
-Tag: Weapon_Autocannon_Light_Cannon
   File: itemCollection_faction_Chainelane.csv
 
 Tag: Weapon_Autocannon_Medium_Cannon
+---------------------------
   File: BTA_Rifle.csv
-
-Tag: Weapon_Autocannon_Medium_Cannon
   File: itemCollection_faction_Chainelane.csv
 
 Tag: Weapon_Autocannon_PAC2_CLAN
+---------------------------
   File: BTAClan_Weapons.csv
 
 Tag: Weapon_Autocannon_PAC4_CLAN
+---------------------------
   File: BTAClan_Weapons.csv
 
 Tag: Weapon_Autocannon_PAC8_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare.csv
 
 Tag: Weapon_Autocannon_RAC2_0-Mydron
+---------------------------
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_Autocannon_RAC2_0-Mydron
-  File: BTA_List_Gulkana.csv
-
-Tag: Weapon_Autocannon_RAC2_0-Mydron
-  File: BTA_List_NewAvalon.csv
-
-Tag: Weapon_Autocannon_RAC2_0-Mydron
   File: BTA_RAC.csv
-
-Tag: Weapon_Autocannon_RAC2_0-Mydron
+  File: BTA_List_Gulkana.csv
+  File: BTA_List_NewAvalon.csv
   File: itemCollection_faction_Davion.csv
 
 Tag: Weapon_Autocannon_RAC5_0-Mydron
+---------------------------
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_Autocannon_RAC5_0-Mydron
-  File: BTA_List_Gulkana.csv
-
-Tag: Weapon_Autocannon_RAC5_0-Mydron
-  File: BTA_List_NewAvalon.csv
-
-Tag: Weapon_Autocannon_RAC5_0-Mydron
   File: BTA_RAC.csv
-
-Tag: Weapon_Autocannon_RAC5_0-Mydron
+  File: BTA_List_Gulkana.csv
+  File: BTA_List_NewAvalon.csv
   File: itemCollection_faction_Davion.csv
 
 Tag: Weapon_Autocannon_SNIPER
+---------------------------
+  File: BTA_TubeArty.csv
+  File: itemCollection_faction_Hanse.csv
   File: BTA_List_Terra.csv
 
-Tag: Weapon_Autocannon_SNIPER
-  File: BTA_TubeArty.csv
-
-Tag: Weapon_Autocannon_SNIPER
-  File: itemCollection_faction_Hanse.csv
-
 Tag: Weapon_Autocannon_SNIPER_CANNON
+---------------------------
   File: BTA_TubeArty.csv
-
-Tag: Weapon_Autocannon_SNIPER_CANNON
   File: itemCollection_faction_Hanse.csv
 
 Tag: Weapon_Autocannon_Scattergun_10
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_Autocannon_Scattergun_10
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: Weapon_Autocannon_Scattergun_15
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_Autocannon_Scattergun_15
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: Weapon_Autocannon_Scattergun_20
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_Autocannon_Scattergun_20
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: Weapon_Autocannon_Scattergun_5
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_Autocannon_Scattergun_5
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: Weapon_Autocannon_THUMPER
+---------------------------
+  File: BTA_TubeArty.csv
+  File: itemCollection_faction_Hanse.csv
   File: BTA_List_Betelgeuse.csv
-
-Tag: Weapon_Autocannon_THUMPER
   File: BTA_List_Bithinia.csv
 
-Tag: Weapon_Autocannon_THUMPER
-  File: BTA_TubeArty.csv
-
-Tag: Weapon_Autocannon_THUMPER
-  File: itemCollection_faction_Hanse.csv
-
 Tag: Weapon_Autocannon_THUMPER_CANNON
+---------------------------
   File: BTA_TubeArty.csv
-
-Tag: Weapon_Autocannon_THUMPER_CANNON
   File: itemCollection_faction_Hanse.csv
 
 Tag: Weapon_Autocannon_UAC10_0-STOCK
-  File: BTA_List_Atreus.csv
-
-Tag: Weapon_Autocannon_UAC10_0-STOCK
-  File: BTA_List_Gulkana.csv
-
-Tag: Weapon_Autocannon_UAC10_0-STOCK
-  File: BTA_List_Terra.csv
-
-Tag: Weapon_Autocannon_UAC10_0-STOCK
+---------------------------
   File: BTA_UltraAC.csv
-
-Tag: Weapon_Autocannon_UAC10_0-STOCK
+  File: BTA_List_Atreus.csv
+  File: BTA_List_Gulkana.csv
+  File: BTA_List_Terra.csv
   File: itemCollection_faction_Davion.csv
 
 Tag: Weapon_Autocannon_UAC20_0-STOCK
+---------------------------
+  File: BTA_UltraAC.csv
   File: BTA_List_Atreus.csv
-
-Tag: Weapon_Autocannon_UAC20_0-STOCK
   File: BTA_List_Gulkana.csv
-
-Tag: Weapon_Autocannon_UAC20_0-STOCK
   File: BTA_List_HesperusII.csv
-
-Tag: Weapon_Autocannon_UAC20_0-STOCK
-  File: BTA_UltraAC.csv
-
-Tag: Weapon_Autocannon_UAC20_0-STOCK
   File: itemCollection_faction_Davion.csv
 
 Tag: Weapon_Autocannon_UAC2_0-STOCK
+---------------------------
+  File: BTA_UltraAC.csv
   File: BTA_List_Gulkana.csv
-
-Tag: Weapon_Autocannon_UAC2_0-STOCK
-  File: BTA_UltraAC.csv
-
-Tag: Weapon_Autocannon_UAC2_0-STOCK
   File: itemCollection_faction_Davion.csv
 
 Tag: Weapon_Autocannon_UAC5_0-STOCK
-  File: BTA_List_Atreus.csv
-
-Tag: Weapon_Autocannon_UAC5_0-STOCK
-  File: BTA_List_Illiushin.csv
-
-Tag: Weapon_Autocannon_UAC5_0-STOCK
-  File: BTA_List_Kathil.csv
-
-Tag: Weapon_Autocannon_UAC5_0-STOCK
-  File: BTA_List_Menke.csv
-
-Tag: Weapon_Autocannon_UAC5_0-STOCK
-  File: BTA_List_Terra.csv
-
-Tag: Weapon_Autocannon_UAC5_0-STOCK
+---------------------------
   File: BTA_UltraAC.csv
-
-Tag: Weapon_Autocannon_UAC5_0-STOCK
   File: BTA_UltraAC_Start.csv
-
-Tag: Weapon_Autocannon_UAC5_0-STOCK
+  File: BTA_List_Atreus.csv
+  File: BTA_List_Illiushin.csv
+  File: BTA_List_Kathil.csv
+  File: BTA_List_Menke.csv
+  File: BTA_List_Terra.csv
   File: itemCollection_faction_Davion.csv
 
 Tag: Weapon_Avenger_Shotgun_BA_Clans
+---------------------------
   File: BTAClan_BA_Weapons.csv
-
-Tag: Weapon_Avenger_Shotgun_BA_Clans
   File: itemCollection_faction_ClanNovaCat.csv
-
-Tag: Weapon_Avenger_Shotgun_BA_Clans
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: Weapon_Bearhunter_Superheavy_AC_BA_Clan
+---------------------------
   File: BTAClan_BA_Weapons.csv
 
 Tag: Weapon_Bomb_Bay
-  File: BTA_List_NewDallas.csv
-
-Tag: Weapon_Bomb_Bay
-  File: itemCollection_faction_Davion.csv
-
-Tag: Weapon_Bomb_Bay
-  File: itemCollection_faction_Kurita.csv
-
-Tag: Weapon_Bomb_Bay
-  File: itemCollection_faction_Liao.csv
-
-Tag: Weapon_Bomb_Bay
-  File: itemCollection_faction_Marik.csv
-
-Tag: Weapon_Bomb_Bay
+---------------------------
   File: itemCollection_faction_Rim.csv
-
-Tag: Weapon_Bomb_Bay
   File: itemCollection_faction_WoB.csv
-
-Tag: Weapon_Bomb_Bay_Cluster
   File: BTA_List_NewDallas.csv
-
-Tag: Weapon_Bomb_Bay_Cluster
   File: itemCollection_faction_Davion.csv
-
-Tag: Weapon_Bomb_Bay_Cluster
   File: itemCollection_faction_Kurita.csv
-
-Tag: Weapon_Bomb_Bay_Cluster
   File: itemCollection_faction_Liao.csv
-
-Tag: Weapon_Bomb_Bay_Cluster
   File: itemCollection_faction_Marik.csv
 
 Tag: Weapon_Bomb_Bay_Cluster
+---------------------------
   File: itemCollection_faction_Rim.csv
-
-Tag: Weapon_Bomb_Bay_Cluster
   File: itemCollection_faction_WoB.csv
-
-Tag: Weapon_Bomb_Bay_Inferno
   File: BTA_List_NewDallas.csv
-
-Tag: Weapon_Bomb_Bay_Inferno
   File: itemCollection_faction_Davion.csv
-
-Tag: Weapon_Bomb_Bay_Inferno
   File: itemCollection_faction_Kurita.csv
-
-Tag: Weapon_Bomb_Bay_Inferno
   File: itemCollection_faction_Liao.csv
-
-Tag: Weapon_Bomb_Bay_Inferno
   File: itemCollection_faction_Marik.csv
 
 Tag: Weapon_Bomb_Bay_Inferno
+---------------------------
   File: itemCollection_faction_Rim.csv
-
-Tag: Weapon_Bomb_Bay_Inferno
   File: itemCollection_faction_WoB.csv
+  File: BTA_List_NewDallas.csv
+  File: itemCollection_faction_Davion.csv
+  File: itemCollection_faction_Kurita.csv
+  File: itemCollection_faction_Liao.csv
+  File: itemCollection_faction_Marik.csv
 
 Tag: Weapon_BombardCannon_12
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_BombardCannon_12
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: Weapon_BombardCannon_3
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_BombardCannon_3
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: Weapon_BombardCannon_6
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_BombardCannon_6
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: Weapon_BombardCannon_9
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_BombardCannon_9
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: Weapon_C3_Master
+---------------------------
   File: BTA_C3.csv
-
-Tag: Weapon_C3_Master
   File: itemCollection_faction_Kurita.csv
 
 Tag: Weapon_DRM_DRM2
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_DRM_DRM2
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: Weapon_DRM_DRM4
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_DRM_DRM4
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: Weapon_DRM_DRM6
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_DRM_DRM6
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: Weapon_DXR_DXR
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_DXR_DXR
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: Weapon_FLAMER_PLASMA_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare_Convoy.csv
 
 Tag: Weapon_Firedrake_Needler_BA
+---------------------------
   File: BTA_Battle_Armor_Weapons.csv
-
-Tag: Weapon_Firedrake_Needler_BA
   File: itemCollection_faction_Steiner.csv
 
 Tag: Weapon_FlamerER_Flamer_0-STOCK
+---------------------------
   File: BTA_Flamer.csv
-
-Tag: Weapon_FlamerER_Flamer_0-STOCK
-  File: itemCollection_Weapons_uncommon.csv
-
-Tag: Weapon_FlamerER_Flamer_0-STOCK
   File: itemCollection_faction_Tortuga.csv
-
-Tag: Weapon_FlamerHeavy_Flamer_0-STOCK
-  File: BTA_Flamer.csv
-
-Tag: Weapon_FlamerHeavy_Flamer_0-STOCK
   File: itemCollection_Weapons_uncommon.csv
 
 Tag: Weapon_FlamerHeavy_Flamer_0-STOCK
+---------------------------
+  File: BTA_Flamer.csv
   File: itemCollection_faction_Tortuga.csv
+  File: itemCollection_Weapons_uncommon.csv
 
 Tag: Weapon_Flamer_Flamer_0-STOCK
+---------------------------
+  File: itemCollection_faction_Chainelane.csv
+  File: itemCollection_faction_Lothian.csv
   File: BTA_List_Carlisle.csv
-
-Tag: Weapon_Flamer_Flamer_0-STOCK
   File: BTA_List_Coventry.csv
-
-Tag: Weapon_Flamer_Flamer_0-STOCK
   File: BTA_List_Furillo.csv
-
-Tag: Weapon_Flamer_Flamer_0-STOCK
   File: BTA_List_HesperusII.csv
-
-Tag: Weapon_Flamer_Flamer_0-STOCK
   File: BTA_List_Irian.csv
-
-Tag: Weapon_Flamer_Flamer_0-STOCK
   File: BTA_List_Lushann.csv
-
-Tag: Weapon_Flamer_Flamer_0-STOCK
   File: BTA_List_Orestes.csv
-
-Tag: Weapon_Flamer_Flamer_0-STOCK
   File: BTA_List_Shiro.csv
-
-Tag: Weapon_Flamer_Flamer_0-STOCK
   File: BTA_List_Sterope.csv
-
-Tag: Weapon_Flamer_Flamer_0-STOCK
   File: BTA_List_Terra.csv
-
-Tag: Weapon_Flamer_Flamer_0-STOCK
+  File: itemCollection_shopItems_chemicals.csv
+  File: itemCollection_shopItems_weapons.csv
   File: itemCollection_Weapons_base.csv
-
-Tag: Weapon_Flamer_Flamer_0-STOCK
   File: itemCollection_Weapons_common.csv
 
-Tag: Weapon_Flamer_Flamer_0-STOCK
-  File: itemCollection_faction_Chainelane.csv
-
-Tag: Weapon_Flamer_Flamer_0-STOCK
-  File: itemCollection_faction_Lothian.csv
-
-Tag: Weapon_Flamer_Flamer_0-STOCK
-  File: itemCollection_shopItems_chemicals.csv
-
-Tag: Weapon_Flamer_Flamer_0-STOCK
-  File: itemCollection_shopItems_weapons.csv
-
 Tag: Weapon_Flamer_Flamer_1-Hotshot
+---------------------------
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_Flamer_Flamer_1-Hotshot
   File: itemCollection_shopItems_chemicals.csv
-
-Tag: Weapon_Flamer_Flamer_1-Hotshot
   File: itemCollection_shopItems_chemicalsProgression.csv
 
 Tag: Weapon_Flamer_Flamer_BA
+---------------------------
   File: BTA_Battle_Armor_Weapons.csv
-
-Tag: Weapon_Flamer_Flamer_BA
   File: itemCollection_faction_Liao.csv
 
 Tag: Weapon_Flamer_Flamer_BA_Clan
+---------------------------
   File: BTAClan_BA_Weapons.csv
-
-Tag: Weapon_Flamer_Flamer_BA_Clan
   File: itemCollection_faction_ClanNovaCat.csv
 
 Tag: Weapon_Flamer_Sanctuary
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_Flamer_Sanctuary
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: Weapon_FluidGun_FluidGun_0-STOCK
+---------------------------
   File: BTA_List_Sevon.csv
 
 Tag: Weapon_FluidGun_Sprayer_0-STOCK
+---------------------------
   File: BTA_List_Sevon.csv
 
 Tag: Weapon_Gamma_Gamma
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_Gamma_Gamma
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: Weapon_Gatling_Gatling
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_Gatling_Gatling
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: Weapon_Gauss_AP_BA_Clan
+---------------------------
   File: BTAClan_BA_Weapons.csv
 
 Tag: Weapon_Gauss_Gauss_0-STOCK
-  File: BTA_List_Atreus.csv
-
-Tag: Weapon_Gauss_Gauss_0-STOCK
-  File: BTA_List_Betelgeuse.csv
-
-Tag: Weapon_Gauss_Gauss_0-STOCK
-  File: BTA_List_Bithinia.csv
-
-Tag: Weapon_Gauss_Gauss_0-STOCK
-  File: BTA_List_HesperusII.csv
-
-Tag: Weapon_Gauss_Gauss_0-STOCK
-  File: BTA_List_Kathil.csv
-
-Tag: Weapon_Gauss_Gauss_0-STOCK
-  File: BTA_List_Loxley.csv
-
-Tag: Weapon_Gauss_Gauss_0-STOCK
-  File: BTA_List_NewSyrtis.csv
-
-Tag: Weapon_Gauss_Gauss_0-STOCK
-  File: BTA_List_Northwind.csv
-
-Tag: Weapon_Gauss_Gauss_0-STOCK
-  File: BTA_List_SonHoa.csv
-
-Tag: Weapon_Gauss_Gauss_0-STOCK
-  File: BTA_List_StIves.csv
-
-Tag: Weapon_Gauss_Gauss_0-STOCK
-  File: BTA_List_Stewart.csv
-
-Tag: Weapon_Gauss_Gauss_0-STOCK
-  File: BTA_List_Terra.csv
-
-Tag: Weapon_Gauss_Gauss_0-STOCK
-  File: BTA_List_Tukayyid.csv
-
-Tag: Weapon_Gauss_Gauss_0-STOCK
-  File: BTA_List_Victoria.csv
-
-Tag: Weapon_Gauss_Gauss_0-STOCK
+---------------------------
   File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_Gauss_Gauss_0-STOCK
+  File: BTA_List_Atreus.csv
+  File: BTA_List_Betelgeuse.csv
+  File: BTA_List_Bithinia.csv
+  File: BTA_List_HesperusII.csv
+  File: BTA_List_Kathil.csv
+  File: BTA_List_Loxley.csv
+  File: BTA_List_NewSyrtis.csv
+  File: BTA_List_Northwind.csv
+  File: BTA_List_SonHoa.csv
+  File: BTA_List_Stewart.csv
+  File: BTA_List_StIves.csv
+  File: BTA_List_Terra.csv
+  File: BTA_List_Tukayyid.csv
+  File: BTA_List_Victoria.csv
+  File: itemCollection_shopItems_blackmarket_gaussandammo.csv
+  File: itemCollection_shopItems_starleague.csv
   File: itemCollection_Weapons_SLDF_rare.csv
-
-Tag: Weapon_Gauss_Gauss_0-STOCK
   File: itemCollection_Weapons_uncommon.csv
 
-Tag: Weapon_Gauss_Gauss_0-STOCK
-  File: itemCollection_shopItems_blackmarket_gaussandammo.csv
-
-Tag: Weapon_Gauss_Gauss_0-STOCK
-  File: itemCollection_shopItems_starleague.csv
-
 Tag: Weapon_Gauss_Gauss_1-M7
+---------------------------
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_Gauss_Gauss_1-M7
   File: itemCollection_shopItems_starleagueProgression.csv
 
 Tag: Weapon_Gauss_Gauss_3-Blackwell
+---------------------------
   File: BTA_Gauss.csv
 
 Tag: Weapon_Gauss_Gauss_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare.csv
-
-Tag: Weapon_Gauss_Gauss_CLAN
   File: BTAClan_Weapons_Rare_Convoy.csv
 
 Tag: Weapon_Gauss_Gauss_Silverbullet
+---------------------------
   File: BTA_Gauss.csv
-
-Tag: Weapon_Gauss_Gauss_Silverbullet
   File: itemCollection_faction_Steiner.csv
 
 Tag: Weapon_Gauss_HAG20_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare_Convoy.csv
 
 Tag: Weapon_Gauss_HAG30_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare_Convoy.csv
 
 Tag: Weapon_Gauss_HAG40_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare_Convoy.csv
 
 Tag: Weapon_Gauss_Heavy_0-STOCK
+---------------------------
   File: BTA_Gauss.csv
-
-Tag: Weapon_Gauss_Heavy_0-STOCK
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_Gauss_Heavy_0-STOCK
   File: BTA_List_HesperusII.csv
-
-Tag: Weapon_Gauss_Heavy_0-STOCK
   File: itemCollection_faction_Steiner.csv
 
 Tag: Weapon_Gauss_Heavy_Tsunami_BA
+---------------------------
   File: itemCollection_faction_Kurita.csv
 
 Tag: Weapon_Gauss_ImprovedHeavy_0-STOCK
+---------------------------
   File: itemCollection_faction_Steiner.csv
 
 Tag: Weapon_Gauss_KingDavid_BA
+---------------------------
   File: BTA_Battle_Armor_Weapons.csv
-
-Tag: Weapon_Gauss_KingDavid_BA
   File: itemCollection_faction_Marik.csv
 
 Tag: Weapon_Gauss_Light_0-STOCK
+---------------------------
   File: BTA_Gauss.csv
-
-Tag: Weapon_Gauss_Light_0-STOCK
+  File: BTA_List_FancyWeapons.csv
   File: BTA_List_Atreus.csv
-
-Tag: Weapon_Gauss_Light_0-STOCK
-  File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_Gauss_Light_0-STOCK
   File: BTA_List_GrandBase.csv
-
-Tag: Weapon_Gauss_Light_0-STOCK
   File: BTA_List_Stewart.csv
-
-Tag: Weapon_Gauss_Light_0-STOCK
   File: BTA_List_Terra.csv
-
-Tag: Weapon_Gauss_Light_0-STOCK
   File: BTA_List_Wallis.csv
-
-Tag: Weapon_Gauss_Light_0-STOCK
   File: itemCollection_faction_Marik.csv
 
 Tag: Weapon_Gauss_Magshot_0-STOCK
+---------------------------
   File: BTA_Gauss.csv
-
-Tag: Weapon_Gauss_Magshot_0-STOCK
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_Gauss_Magshot_0-STOCK
   File: BTA_List_NewAvalon.csv
-
-Tag: Weapon_Gauss_Magshot_0-STOCK
   File: BTA_List_NewSyrtis.csv
-
-Tag: Weapon_Gauss_Magshot_0-STOCK
   File: itemCollection_faction_Steiner.csv
 
 Tag: Weapon_Gauss_Magshot_BA
+---------------------------
   File: BTA_Battle_Armor_Weapons.csv
-
-Tag: Weapon_Gauss_Magshot_BA
   File: itemCollection_faction_Davion.csv
-
-Tag: Weapon_Gauss_Magshot_BA
   File: itemCollection_faction_Steiner.csv
 
 Tag: Weapon_Heavy_Recoilless_BA
+---------------------------
   File: BTA_Battle_Armor_Weapons.csv
-
-Tag: Weapon_Heavy_Recoilless_BA
   File: itemCollection_faction_Marian.csv
 
 Tag: Weapon_LBX_AC_BA
+---------------------------
   File: BTA_Battle_Armor_Weapons.csv
 
 Tag: Weapon_LRM_ATM12_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare_Convoy.csv
 
 Tag: Weapon_LRM_ATM3_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare_Convoy.csv
 
 Tag: Weapon_LRM_ATM6_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare_Convoy.csv
 
 Tag: Weapon_LRM_ATM9_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare_Convoy.csv
 
 Tag: Weapon_LRM_LRM10_0-STOCK
+---------------------------
+  File: itemCollection_faction_Lothian.csv
   File: BTA_List_Antwerp.csv
-
-Tag: Weapon_LRM_LRM10_0-STOCK
   File: BTA_List_Benjamin.csv
-
-Tag: Weapon_LRM_LRM10_0-STOCK
   File: BTA_List_Circinus.csv
-
-Tag: Weapon_LRM_LRM10_0-STOCK
   File: BTA_List_Coventry.csv
-
-Tag: Weapon_LRM_LRM10_0-STOCK
   File: BTA_List_Luthien.csv
-
-Tag: Weapon_LRM_LRM10_0-STOCK
   File: BTA_List_NewAvalon.csv
-
-Tag: Weapon_LRM_LRM10_0-STOCK
   File: BTA_List_NewEarth.csv
-
-Tag: Weapon_LRM_LRM10_0-STOCK
   File: BTA_List_NewSyrtis.csv
-
-Tag: Weapon_LRM_LRM10_0-STOCK
   File: BTA_List_Oriente.csv
-
-Tag: Weapon_LRM_LRM10_0-STOCK
   File: BTA_List_Robinson.csv
-
-Tag: Weapon_LRM_LRM10_0-STOCK
   File: BTA_List_Shiro.csv
-
-Tag: Weapon_LRM_LRM10_0-STOCK
   File: BTA_List_Sterope.csv
-
-Tag: Weapon_LRM_LRM10_0-STOCK
   File: BTA_List_Stewart.csv
-
-Tag: Weapon_LRM_LRM10_0-STOCK
   File: BTA_List_Terra.csv
-
-Tag: Weapon_LRM_LRM10_0-STOCK
   File: BTA_List_Tharkad.csv
-
-Tag: Weapon_LRM_LRM10_0-STOCK
   File: BTA_List_Victoria.csv
-
-Tag: Weapon_LRM_LRM10_0-STOCK
+  File: itemCollection_shopItems_chemicals.csv
+  File: itemCollection_shopItems_weapons.csv
   File: itemCollection_Weapons_base.csv
-
-Tag: Weapon_LRM_LRM10_0-STOCK
   File: itemCollection_Weapons_common.csv
 
-Tag: Weapon_LRM_LRM10_0-STOCK
-  File: itemCollection_faction_Lothian.csv
-
-Tag: Weapon_LRM_LRM10_0-STOCK
-  File: itemCollection_shopItems_chemicals.csv
-
-Tag: Weapon_LRM_LRM10_0-STOCK
-  File: itemCollection_shopItems_weapons.csv
-
 Tag: Weapon_LRM_LRM10_1-Delta
+---------------------------
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_LRM_LRM10_1-Delta
   File: itemCollection_shopItems_chemicals.csv
-
-Tag: Weapon_LRM_LRM10_1-Delta
   File: itemCollection_shopItems_chemicalsProgression.csv
 
 Tag: Weapon_LRM_LRM10_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare.csv
-
-Tag: Weapon_LRM_LRM10_CLAN
   File: itemCollection_faction_ClanNovaCat.csv
-
-Tag: Weapon_LRM_LRM10_CLAN
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: Weapon_LRM_LRM10_STREAK
+---------------------------
   File: BTAClan_Weapons_Rare_Convoy.csv
 
 Tag: Weapon_LRM_LRM15_0-STOCK
-  File: BTA_List_Antwerp.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: BTA_List_Coventry.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: BTA_List_Emris.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: BTA_List_Gallery.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: BTA_List_Kalidasa.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: BTA_List_Kendall.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: BTA_List_Loburg.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: BTA_List_Lopez.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: BTA_List_Luthien.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: BTA_List_NewSamarkand.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: BTA_List_Northwind.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: BTA_List_Orestes.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: BTA_List_Oriente.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: BTA_List_Outreach.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: BTA_List_Robinson.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: BTA_List_Shiro.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: BTA_List_StIves.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: BTA_List_Sterope.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: BTA_List_Stewart.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: BTA_List_Terra.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: BTA_List_Tharkad.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: BTA_List_Tukayyid.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: BTA_List_Victoria.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
+---------------------------
   File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
+  File: itemCollection_faction_Lothian.csv
+  File: BTA_List_Antwerp.csv
+  File: BTA_List_Coventry.csv
+  File: BTA_List_Emris.csv
+  File: BTA_List_Gallery.csv
+  File: BTA_List_Kalidasa.csv
+  File: BTA_List_Kendall.csv
+  File: BTA_List_Loburg.csv
+  File: BTA_List_Lopez.csv
+  File: BTA_List_Luthien.csv
+  File: BTA_List_NewSamarkand.csv
+  File: BTA_List_Northwind.csv
+  File: BTA_List_Orestes.csv
+  File: BTA_List_Oriente.csv
+  File: BTA_List_Outreach.csv
+  File: BTA_List_Robinson.csv
+  File: BTA_List_Shiro.csv
+  File: BTA_List_Sterope.csv
+  File: BTA_List_Stewart.csv
+  File: BTA_List_StIves.csv
+  File: BTA_List_Terra.csv
+  File: BTA_List_Tharkad.csv
+  File: BTA_List_Tukayyid.csv
+  File: BTA_List_Victoria.csv
+  File: itemCollection_shopItems_chemicals.csv
+  File: itemCollection_shopItems_weapons.csv
   File: itemCollection_Weapons_base.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
   File: itemCollection_Weapons_common.csv
 
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: itemCollection_faction_Lothian.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: itemCollection_shopItems_chemicals.csv
-
-Tag: Weapon_LRM_LRM15_0-STOCK
-  File: itemCollection_shopItems_weapons.csv
-
 Tag: Weapon_LRM_LRM15_1-Delta
+---------------------------
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_LRM_LRM15_1-Delta
   File: itemCollection_shopItems_chemicals.csv
-
-Tag: Weapon_LRM_LRM15_1-Delta
   File: itemCollection_shopItems_chemicalsProgression.csv
 
 Tag: Weapon_LRM_LRM15_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare.csv
 
 Tag: Weapon_LRM_LRM15_STREAK
+---------------------------
   File: BTAClan_Weapons_Rare_Convoy.csv
 
 Tag: Weapon_LRM_LRM20_0-STOCK
-  File: BTA_List_Antwerp.csv
-
-Tag: Weapon_LRM_LRM20_0-STOCK
-  File: BTA_List_Emris.csv
-
-Tag: Weapon_LRM_LRM20_0-STOCK
-  File: BTA_List_EpsilonEridani.csv
-
-Tag: Weapon_LRM_LRM20_0-STOCK
-  File: BTA_List_Gallery.csv
-
-Tag: Weapon_LRM_LRM20_0-STOCK
-  File: BTA_List_HesperusII.csv
-
-Tag: Weapon_LRM_LRM20_0-STOCK
-  File: BTA_List_Kalidasa.csv
-
-Tag: Weapon_LRM_LRM20_0-STOCK
-  File: BTA_List_Kendall.csv
-
-Tag: Weapon_LRM_LRM20_0-STOCK
-  File: BTA_List_Loburg.csv
-
-Tag: Weapon_LRM_LRM20_0-STOCK
-  File: BTA_List_Luthien.csv
-
-Tag: Weapon_LRM_LRM20_0-STOCK
-  File: BTA_List_Mitchella.csv
-
-Tag: Weapon_LRM_LRM20_0-STOCK
-  File: BTA_List_Oriente.csv
-
-Tag: Weapon_LRM_LRM20_0-STOCK
-  File: BTA_List_Outreach.csv
-
-Tag: Weapon_LRM_LRM20_0-STOCK
-  File: BTA_List_Robinson.csv
-
-Tag: Weapon_LRM_LRM20_0-STOCK
-  File: BTA_List_StIves.csv
-
-Tag: Weapon_LRM_LRM20_0-STOCK
-  File: BTA_List_Sterope.csv
-
-Tag: Weapon_LRM_LRM20_0-STOCK
-  File: BTA_List_Terra.csv
-
-Tag: Weapon_LRM_LRM20_0-STOCK
-  File: BTA_List_Tharkad.csv
-
-Tag: Weapon_LRM_LRM20_0-STOCK
-  File: BTA_List_Tukayyid.csv
-
-Tag: Weapon_LRM_LRM20_0-STOCK
+---------------------------
   File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_LRM_LRM20_0-STOCK
+  File: itemCollection_faction_Lothian.csv
+  File: BTA_List_Antwerp.csv
+  File: BTA_List_Emris.csv
+  File: BTA_List_EpsilonEridani.csv
+  File: BTA_List_Gallery.csv
+  File: BTA_List_HesperusII.csv
+  File: BTA_List_Kalidasa.csv
+  File: BTA_List_Kendall.csv
+  File: BTA_List_Loburg.csv
+  File: BTA_List_Luthien.csv
+  File: BTA_List_Mitchella.csv
+  File: BTA_List_Oriente.csv
+  File: BTA_List_Outreach.csv
+  File: BTA_List_Robinson.csv
+  File: BTA_List_Sterope.csv
+  File: BTA_List_StIves.csv
+  File: BTA_List_Terra.csv
+  File: BTA_List_Tharkad.csv
+  File: BTA_List_Tukayyid.csv
+  File: itemCollection_shopItems_chemicals.csv
+  File: itemCollection_shopItems_weapons.csv
   File: itemCollection_Weapons_base.csv
-
-Tag: Weapon_LRM_LRM20_0-STOCK
   File: itemCollection_Weapons_common.csv
 
-Tag: Weapon_LRM_LRM20_0-STOCK
-  File: itemCollection_faction_Lothian.csv
-
-Tag: Weapon_LRM_LRM20_0-STOCK
-  File: itemCollection_shopItems_chemicals.csv
-
-Tag: Weapon_LRM_LRM20_0-STOCK
-  File: itemCollection_shopItems_weapons.csv
-
 Tag: Weapon_LRM_LRM20_1-Delta
+---------------------------
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_LRM_LRM20_1-Delta
   File: itemCollection_shopItems_chemicals.csv
-
-Tag: Weapon_LRM_LRM20_1-Delta
   File: itemCollection_shopItems_chemicalsProgression.csv
-
-Tag: Weapon_LRM_LRM20_1-Delta
   File: itemCollection_table_eventDubiousIntentions.csv
 
 Tag: Weapon_LRM_LRM20_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare.csv
 
 Tag: Weapon_LRM_LRM20_STREAK
+---------------------------
   File: BTAClan_Weapons_Rare_Convoy.csv
 
 Tag: Weapon_LRM_LRM4_BA_Clan
+---------------------------
   File: BTAClan_BA_Weapons.csv
 
 Tag: Weapon_LRM_LRM5_0-STOCK
+---------------------------
+  File: itemCollection_faction_Lothian.csv
   File: BTA_List_Antwerp.csv
-
-Tag: Weapon_LRM_LRM5_0-STOCK
   File: BTA_List_Betelgeuse.csv
-
-Tag: Weapon_LRM_LRM5_0-STOCK
   File: BTA_List_Bryant.csv
-
-Tag: Weapon_LRM_LRM5_0-STOCK
   File: BTA_List_Capella.csv
-
-Tag: Weapon_LRM_LRM5_0-STOCK
   File: BTA_List_Coventry.csv
-
-Tag: Weapon_LRM_LRM5_0-STOCK
   File: BTA_List_Detroit.csv
-
-Tag: Weapon_LRM_LRM5_0-STOCK
   File: BTA_List_Emris.csv
-
-Tag: Weapon_LRM_LRM5_0-STOCK
   File: BTA_List_Gallery.csv
-
-Tag: Weapon_LRM_LRM5_0-STOCK
   File: BTA_List_Mechdur.csv
-
-Tag: Weapon_LRM_LRM5_0-STOCK
   File: BTA_List_NewAvalon.csv
-
-Tag: Weapon_LRM_LRM5_0-STOCK
   File: BTA_List_NewSamarkand.csv
-
-Tag: Weapon_LRM_LRM5_0-STOCK
   File: BTA_List_Shiro.csv
-
-Tag: Weapon_LRM_LRM5_0-STOCK
   File: BTA_List_Sian.csv
-
-Tag: Weapon_LRM_LRM5_0-STOCK
   File: BTA_List_Taurus.csv
-
-Tag: Weapon_LRM_LRM5_0-STOCK
   File: BTA_List_Terra.csv
-
-Tag: Weapon_LRM_LRM5_0-STOCK
   File: BTA_List_Tukayyid.csv
-
-Tag: Weapon_LRM_LRM5_0-STOCK
+  File: itemCollection_shopItems_chemicals.csv
+  File: itemCollection_shopItems_weapons.csv
   File: itemCollection_Weapons_base.csv
-
-Tag: Weapon_LRM_LRM5_0-STOCK
   File: itemCollection_Weapons_common.csv
 
-Tag: Weapon_LRM_LRM5_0-STOCK
-  File: itemCollection_faction_Lothian.csv
-
-Tag: Weapon_LRM_LRM5_0-STOCK
-  File: itemCollection_shopItems_chemicals.csv
-
-Tag: Weapon_LRM_LRM5_0-STOCK
-  File: itemCollection_shopItems_weapons.csv
-
 Tag: Weapon_LRM_LRM5_1-Delta
+---------------------------
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_LRM_LRM5_1-Delta
   File: itemCollection_shopItems_chemicals.csv
-
-Tag: Weapon_LRM_LRM5_1-Delta
   File: itemCollection_shopItems_chemicalsProgression.csv
 
 Tag: Weapon_LRM_LRM5_CLAN
+---------------------------
   File: BTAClan_Weapons.csv
-
-Tag: Weapon_LRM_LRM5_CLAN
   File: BTAClan_Weapons_Rare.csv
-
-Tag: Weapon_LRM_LRM5_CLAN
   File: BTAClan_Weapons_Start.csv
-
-Tag: Weapon_LRM_LRM5_CLAN
   File: itemCollection_faction_ClanNovaCat.csv
-
-Tag: Weapon_LRM_LRM5_CLAN
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: Weapon_LRM_LRM5_STREAK
+---------------------------
   File: BTAClan_Weapons_Rare_Convoy.csv
 
 Tag: Weapon_LRM_Thunderbolt10
+---------------------------
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_LRM_Thunderbolt10
   File: BTA_Thunderbolt.csv
-
-Tag: Weapon_LRM_Thunderbolt10
   File: itemCollection_faction_Marik.csv
 
 Tag: Weapon_LRM_Thunderbolt15
+---------------------------
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_LRM_Thunderbolt15
   File: BTA_Thunderbolt.csv
-
-Tag: Weapon_LRM_Thunderbolt15
   File: itemCollection_faction_Marik.csv
 
 Tag: Weapon_LRM_Thunderbolt20
+---------------------------
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_LRM_Thunderbolt20
   File: BTA_Thunderbolt.csv
-
-Tag: Weapon_LRM_Thunderbolt20
   File: itemCollection_faction_Marik.csv
 
 Tag: Weapon_LRM_Thunderbolt5
+---------------------------
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_LRM_Thunderbolt5
   File: BTA_Thunderbolt.csv
-
-Tag: Weapon_LRM_Thunderbolt5
   File: itemCollection_faction_Marik.csv
 
 Tag: Weapon_Lance_LargeLance
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_Lance_LargeLance
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: Weapon_Lance_MediumLance
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_Lance_MediumLance
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: Weapon_Lance_SmallLance
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_Lance_SmallLance
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: Weapon_Laser_AMS
+---------------------------
   File: BTA_LAMS.csv
-
-Tag: Weapon_Laser_AMS
   File: BTA_List_Keystone.csv
-
-Tag: Weapon_Laser_AMS
   File: itemCollection_Weapons_rare.csv
 
 Tag: Weapon_Laser_BinaryLaserCannon_0-STOCK
+---------------------------
   File: BTA_Blazer.csv
-
-Tag: Weapon_Laser_BinaryLaserCannon_0-STOCK
-  File: BTA_List_Circinus.csv
-
-Tag: Weapon_Laser_BinaryLaserCannon_0-STOCK
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_Laser_BinaryLaserCannon_0-STOCK
+  File: itemCollection_faction_Ives.csv
+  File: BTA_List_Circinus.csv
   File: itemCollection_Weapons_uncommon.csv
 
-Tag: Weapon_Laser_BinaryLaserCannon_0-STOCK
-  File: itemCollection_faction_Ives.csv
-
 Tag: Weapon_Laser_BinaryLaserCannon_1-Defiance
+---------------------------
   File: BTA_Blazer.csv
-
-Tag: Weapon_Laser_BinaryLaserCannon_1-Defiance
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_Laser_BinaryLaserCannon_1-Defiance
   File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_Laser_BinaryLaserCannon_1-Defiance
   File: itemCollection_faction_Ives.csv
 
 Tag: Weapon_Laser_HeavyLargeLaser_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare.csv
 
 Tag: Weapon_Laser_HeavyMediumLaser_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare.csv
 
 Tag: Weapon_Laser_HeavySmallLaser_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare.csv
 
 Tag: Weapon_Laser_LargeLaserERPulse_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare_Convoy.csv
 
 Tag: Weapon_Laser_LargeLaserER_0-STOCK
+---------------------------
   File: BTA_ERLaser.csv
-
-Tag: Weapon_Laser_LargeLaserER_0-STOCK
-  File: BTA_List_Chukchi.csv
-
-Tag: Weapon_Laser_LargeLaserER_0-STOCK
-  File: BTA_List_Delavan.csv
-
-Tag: Weapon_Laser_LargeLaserER_0-STOCK
-  File: BTA_List_Emris.csv
-
-Tag: Weapon_Laser_LargeLaserER_0-STOCK
-  File: BTA_List_HesperusII.csv
-
-Tag: Weapon_Laser_LargeLaserER_0-STOCK
-  File: BTA_List_Irian.csv
-
-Tag: Weapon_Laser_LargeLaserER_0-STOCK
-  File: BTA_List_Kessel.csv
-
-Tag: Weapon_Laser_LargeLaserER_0-STOCK
-  File: BTA_List_Lushann.csv
-
-Tag: Weapon_Laser_LargeLaserER_0-STOCK
-  File: BTA_List_Marduk.csv
-
-Tag: Weapon_Laser_LargeLaserER_0-STOCK
-  File: BTA_List_NewKyoto.csv
-
-Tag: Weapon_Laser_LargeLaserER_0-STOCK
-  File: BTA_List_NewSyrtis.csv
-
-Tag: Weapon_Laser_LargeLaserER_0-STOCK
-  File: BTA_List_Shiro.csv
-
-Tag: Weapon_Laser_LargeLaserER_0-STOCK
-  File: BTA_List_Sian.csv
-
-Tag: Weapon_Laser_LargeLaserER_0-STOCK
-  File: BTA_List_Tancredi.csv
-
-Tag: Weapon_Laser_LargeLaserER_0-STOCK
-  File: BTA_List_Terra.csv
-
-Tag: Weapon_Laser_LargeLaserER_0-STOCK
-  File: BTA_List_Tukayyid.csv
-
-Tag: Weapon_Laser_LargeLaserER_0-STOCK
-  File: BTA_List_Victoria.csv
-
-Tag: Weapon_Laser_LargeLaserER_0-STOCK
   File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_Laser_LargeLaserER_0-STOCK
+  File: BTA_List_Chukchi.csv
+  File: BTA_List_Delavan.csv
+  File: BTA_List_Emris.csv
+  File: BTA_List_HesperusII.csv
+  File: BTA_List_Irian.csv
+  File: BTA_List_Kessel.csv
+  File: BTA_List_Lushann.csv
+  File: BTA_List_Marduk.csv
+  File: BTA_List_NewKyoto.csv
+  File: BTA_List_NewSyrtis.csv
+  File: BTA_List_Shiro.csv
+  File: BTA_List_Sian.csv
+  File: BTA_List_Tancredi.csv
+  File: BTA_List_Terra.csv
+  File: BTA_List_Tukayyid.csv
+  File: BTA_List_Victoria.csv
+  File: itemCollection_shopItems_starleague.csv
   File: itemCollection_Weapons_uncommon.csv
 
-Tag: Weapon_Laser_LargeLaserER_0-STOCK
-  File: itemCollection_shopItems_starleague.csv
-
 Tag: Weapon_Laser_LargeLaserER_1-Blankenburg25
+---------------------------
   File: BTA_ERLaser.csv
-
-Tag: Weapon_Laser_LargeLaserER_1-Blankenburg25
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_Laser_LargeLaserER_1-Blankenburg25
   File: itemCollection_shopItems_electronicsProgression.csv
-
-Tag: Weapon_Laser_LargeLaserER_1-Blankenburg25
   File: itemCollection_shopItems_starleagueProgression.csv
 
 Tag: Weapon_Laser_LargeLaserER_2-BlazeFire
+---------------------------
   File: BTA_ERLaser.csv
-
-Tag: Weapon_Laser_LargeLaserER_2-BlazeFire
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_Laser_LargeLaserER_2-BlazeFire
   File: itemCollection_shopItems_electronicsProgression.csv
-
-Tag: Weapon_Laser_LargeLaserER_2-BlazeFire
   File: itemCollection_shopItems_starleagueProgression.csv
 
 Tag: Weapon_Laser_LargeLaserER_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare.csv
-
-Tag: Weapon_Laser_LargeLaserER_CLAN
   File: itemCollection_faction_ClanNovaCat.csv
-
-Tag: Weapon_Laser_LargeLaserER_CLAN
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: Weapon_Laser_LargeLaserElectro
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_Laser_LargeLaserElectro
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: Weapon_Laser_LargeLaserModal
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_Laser_LargeLaserModal
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: Weapon_Laser_LargeLaserPulse_0-STOCK
-  File: BTA_List_Betelgeuse.csv
-
-Tag: Weapon_Laser_LargeLaserPulse_0-STOCK
-  File: BTA_List_Chukchi.csv
-
-Tag: Weapon_Laser_LargeLaserPulse_0-STOCK
-  File: BTA_List_Connaugh.csv
-
-Tag: Weapon_Laser_LargeLaserPulse_0-STOCK
-  File: BTA_List_Grumium.csv
-
-Tag: Weapon_Laser_LargeLaserPulse_0-STOCK
-  File: BTA_List_Irian.csv
-
-Tag: Weapon_Laser_LargeLaserPulse_0-STOCK
-  File: BTA_List_Marduk.csv
-
-Tag: Weapon_Laser_LargeLaserPulse_0-STOCK
-  File: BTA_List_Shiro.csv
-
-Tag: Weapon_Laser_LargeLaserPulse_0-STOCK
-  File: BTA_List_Tancredi.csv
-
-Tag: Weapon_Laser_LargeLaserPulse_0-STOCK
-  File: BTA_List_Tematagi.csv
-
-Tag: Weapon_Laser_LargeLaserPulse_0-STOCK
-  File: BTA_List_Terra.csv
-
-Tag: Weapon_Laser_LargeLaserPulse_0-STOCK
-  File: BTA_List_Tharkad.csv
-
-Tag: Weapon_Laser_LargeLaserPulse_0-STOCK
+---------------------------
   File: BTA_PulseLaser.csv
-
-Tag: Weapon_Laser_LargeLaserPulse_0-STOCK
   File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_Laser_LargeLaserPulse_0-STOCK
+  File: BTA_List_Betelgeuse.csv
+  File: BTA_List_Chukchi.csv
+  File: BTA_List_Connaugh.csv
+  File: BTA_List_Grumium.csv
+  File: BTA_List_Irian.csv
+  File: BTA_List_Marduk.csv
+  File: BTA_List_Shiro.csv
+  File: BTA_List_Tancredi.csv
+  File: BTA_List_Tematagi.csv
+  File: BTA_List_Terra.csv
+  File: BTA_List_Tharkad.csv
+  File: itemCollection_shopItems_starleague.csv
   File: itemCollection_Weapons_uncommon.csv
 
-Tag: Weapon_Laser_LargeLaserPulse_0-STOCK
-  File: itemCollection_shopItems_starleague.csv
-
 Tag: Weapon_Laser_LargeLaserPulse_1-Thunderbolt12
+---------------------------
   File: BTA_PulseLaser.csv
-
-Tag: Weapon_Laser_LargeLaserPulse_1-Thunderbolt12
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_Laser_LargeLaserPulse_1-Thunderbolt12
   File: itemCollection_shopItems_electronicsProgression.csv
-
-Tag: Weapon_Laser_LargeLaserPulse_1-Thunderbolt12
   File: itemCollection_shopItems_starleagueProgression.csv
 
 Tag: Weapon_Laser_LargeLaserPulse_2-Exostar
+---------------------------
   File: BTA_PulseLaser.csv
-
-Tag: Weapon_Laser_LargeLaserPulse_2-Exostar
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_Laser_LargeLaserPulse_2-Exostar
   File: itemCollection_shopItems_electronicsProgression.csv
-
-Tag: Weapon_Laser_LargeLaserPulse_2-Exostar
   File: itemCollection_shopItems_starleagueProgression.csv
 
 Tag: Weapon_Laser_LargeLaserPulse_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare.csv
 
 Tag: Weapon_Laser_LargeLaserPulse_X
-  File: BTA_List_Connaugh.csv
-
-Tag: Weapon_Laser_LargeLaserPulse_X
+---------------------------
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_Laser_LargeLaserPulse_X
+  File: BTA_XPulseLaser.csv
+  File: BTA_List_Connaugh.csv
   File: BTA_List_Irian.csv
-
-Tag: Weapon_Laser_LargeLaserPulse_X
   File: BTA_List_Tancredi.csv
 
-Tag: Weapon_Laser_LargeLaserPulse_X
-  File: BTA_XPulseLaser.csv
-
 Tag: Weapon_Laser_LargeLaserVSPL_0-STOCK
+---------------------------
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_Laser_LargeLaserVSPL_0-STOCK
   File: BTA_VSPL.csv
-
-Tag: Weapon_Laser_LargeLaserVSPL_0-STOCK
   File: itemCollection_faction_WoB.csv
 
 Tag: Weapon_Laser_LargeLaser_-1-Tronel
+---------------------------
   File: BTA_List_Antwerp.csv
 
 Tag: Weapon_Laser_LargeLaser_0-STOCK
-  File: BTA_List_Betelgeuse.csv
-
-Tag: Weapon_Laser_LargeLaser_0-STOCK
-  File: BTA_List_Bryant.csv
-
-Tag: Weapon_Laser_LargeLaser_0-STOCK
-  File: BTA_List_Connaugh.csv
-
-Tag: Weapon_Laser_LargeLaser_0-STOCK
-  File: BTA_List_Delavan.csv
-
-Tag: Weapon_Laser_LargeLaser_0-STOCK
-  File: BTA_List_HesperusII.csv
-
-Tag: Weapon_Laser_LargeLaser_0-STOCK
-  File: BTA_List_Kessel.csv
-
-Tag: Weapon_Laser_LargeLaser_0-STOCK
-  File: BTA_List_Lopez.csv
-
-Tag: Weapon_Laser_LargeLaser_0-STOCK
-  File: BTA_List_Lushann.csv
-
-Tag: Weapon_Laser_LargeLaser_0-STOCK
-  File: BTA_List_NewAvalon.csv
-
-Tag: Weapon_Laser_LargeLaser_0-STOCK
-  File: BTA_List_NewKyoto.csv
-
-Tag: Weapon_Laser_LargeLaser_0-STOCK
-  File: BTA_List_NewSyrtis.csv
-
-Tag: Weapon_Laser_LargeLaser_0-STOCK
-  File: BTA_List_Ozawa.csv
-
-Tag: Weapon_Laser_LargeLaser_0-STOCK
-  File: BTA_List_Proserpina.csv
-
-Tag: Weapon_Laser_LargeLaser_0-STOCK
-  File: BTA_List_SonHoa.csv
-
-Tag: Weapon_Laser_LargeLaser_0-STOCK
-  File: BTA_List_Soul.csv
-
-Tag: Weapon_Laser_LargeLaser_0-STOCK
-  File: BTA_List_Sterope.csv
-
-Tag: Weapon_Laser_LargeLaser_0-STOCK
-  File: BTA_List_Tancredi.csv
-
-Tag: Weapon_Laser_LargeLaser_0-STOCK
-  File: BTA_List_Terra.csv
-
-Tag: Weapon_Laser_LargeLaser_0-STOCK
+---------------------------
   File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_Laser_LargeLaser_0-STOCK
+  File: itemCollection_faction_Lothian.csv
+  File: BTA_List_Betelgeuse.csv
+  File: BTA_List_Bryant.csv
+  File: BTA_List_Connaugh.csv
+  File: BTA_List_Delavan.csv
+  File: BTA_List_HesperusII.csv
+  File: BTA_List_Kessel.csv
+  File: BTA_List_Lopez.csv
+  File: BTA_List_Lushann.csv
+  File: BTA_List_NewAvalon.csv
+  File: BTA_List_NewKyoto.csv
+  File: BTA_List_NewSyrtis.csv
+  File: BTA_List_Ozawa.csv
+  File: BTA_List_Proserpina.csv
+  File: BTA_List_SonHoa.csv
+  File: BTA_List_Soul.csv
+  File: BTA_List_Sterope.csv
+  File: BTA_List_Tancredi.csv
+  File: BTA_List_Terra.csv
+  File: itemCollection_shopItems_electronics.csv
+  File: itemCollection_shopItems_weapons.csv
   File: itemCollection_Weapons_base.csv
-
-Tag: Weapon_Laser_LargeLaser_0-STOCK
   File: itemCollection_Weapons_common.csv
 
-Tag: Weapon_Laser_LargeLaser_0-STOCK
-  File: itemCollection_faction_Lothian.csv
-
-Tag: Weapon_Laser_LargeLaser_0-STOCK
-  File: itemCollection_shopItems_electronics.csv
-
-Tag: Weapon_Laser_LargeLaser_0-STOCK
-  File: itemCollection_shopItems_weapons.csv
-
 Tag: Weapon_Laser_LargeLaser_1-Diverse_Optics
+---------------------------
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_Laser_LargeLaser_1-Diverse_Optics
   File: itemCollection_shopItems_electronics.csv
-
-Tag: Weapon_Laser_LargeLaser_1-Diverse_Optics
   File: itemCollection_shopItems_electronicsProgression.csv
 
 Tag: Weapon_Laser_LargeLaser_1-ExoStar
+---------------------------
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_Laser_LargeLaser_1-ExoStar
   File: itemCollection_shopItems_electronics.csv
-
-Tag: Weapon_Laser_LargeLaser_1-ExoStar
   File: itemCollection_shopItems_electronicsProgression.csv
 
 Tag: Weapon_Laser_LargeLaser_Bombast
+---------------------------
   File: BTA_Bombast.csv
-
-Tag: Weapon_Laser_LargeLaser_Bombast
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_Laser_LargeLaser_Bombast
+  File: itemCollection_faction_Ives.csv
   File: BTA_List_Stewart.csv
 
-Tag: Weapon_Laser_LargeLaser_Bombast
-  File: itemCollection_faction_Ives.csv
-
 Tag: Weapon_Laser_LargeLaser_Chemical_CLAN
+---------------------------
   File: BTA_ChemLaser.csv
-
-Tag: Weapon_Laser_LargeLaser_Chemical_CLAN
   File: itemCollection_faction_AuriganRestoration.csv
 
 Tag: Weapon_Laser_MediumLaserERPulse_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare_Convoy.csv
 
 Tag: Weapon_Laser_MediumLaserER_0-STOCK
+---------------------------
   File: BTA_ERLaser.csv
-
-Tag: Weapon_Laser_MediumLaserER_0-STOCK
-  File: BTA_List_Betelgeuse.csv
-
-Tag: Weapon_Laser_MediumLaserER_0-STOCK
-  File: BTA_List_Capella.csv
-
-Tag: Weapon_Laser_MediumLaserER_0-STOCK
-  File: BTA_List_Furillo.csv
-
-Tag: Weapon_Laser_MediumLaserER_0-STOCK
-  File: BTA_List_HesperusII.csv
-
-Tag: Weapon_Laser_MediumLaserER_0-STOCK
-  File: BTA_List_Irian.csv
-
-Tag: Weapon_Laser_MediumLaserER_0-STOCK
-  File: BTA_List_Kathil.csv
-
-Tag: Weapon_Laser_MediumLaserER_0-STOCK
-  File: BTA_List_Kessel.csv
-
-Tag: Weapon_Laser_MediumLaserER_0-STOCK
-  File: BTA_List_NewKyoto.csv
-
-Tag: Weapon_Laser_MediumLaserER_0-STOCK
-  File: BTA_List_NewSyrtis.csv
-
-Tag: Weapon_Laser_MediumLaserER_0-STOCK
-  File: BTA_List_Shiro.csv
-
-Tag: Weapon_Laser_MediumLaserER_0-STOCK
-  File: BTA_List_Sian.csv
-
-Tag: Weapon_Laser_MediumLaserER_0-STOCK
-  File: BTA_List_StIves.csv
-
-Tag: Weapon_Laser_MediumLaserER_0-STOCK
-  File: BTA_List_Tancredi.csv
-
-Tag: Weapon_Laser_MediumLaserER_0-STOCK
-  File: BTA_List_Terra.csv
-
-Tag: Weapon_Laser_MediumLaserER_0-STOCK
-  File: BTA_List_Warlock.csv
-
-Tag: Weapon_Laser_MediumLaserER_0-STOCK
   File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_Laser_MediumLaserER_0-STOCK
+  File: BTA_List_Betelgeuse.csv
+  File: BTA_List_Capella.csv
+  File: BTA_List_Furillo.csv
+  File: BTA_List_HesperusII.csv
+  File: BTA_List_Irian.csv
+  File: BTA_List_Kathil.csv
+  File: BTA_List_Kessel.csv
+  File: BTA_List_NewKyoto.csv
+  File: BTA_List_NewSyrtis.csv
+  File: BTA_List_Shiro.csv
+  File: BTA_List_Sian.csv
+  File: BTA_List_StIves.csv
+  File: BTA_List_Tancredi.csv
+  File: BTA_List_Terra.csv
+  File: BTA_List_Warlock.csv
+  File: itemCollection_shopItems_starleague.csv
   File: itemCollection_Weapons_uncommon.csv
 
-Tag: Weapon_Laser_MediumLaserER_0-STOCK
-  File: itemCollection_shopItems_starleague.csv
-
 Tag: Weapon_Laser_MediumLaserER_1-MagnaVI
+---------------------------
   File: BTA_ERLaser.csv
-
-Tag: Weapon_Laser_MediumLaserER_1-MagnaVI
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_Laser_MediumLaserER_1-MagnaVI
   File: itemCollection_shopItems_electronicsProgression.csv
-
-Tag: Weapon_Laser_MediumLaserER_1-MagnaVI
   File: itemCollection_shopItems_starleagueProgression.csv
 
 Tag: Weapon_Laser_MediumLaserER_2-BrightBloom
+---------------------------
   File: BTA_ERLaser.csv
-
-Tag: Weapon_Laser_MediumLaserER_2-BrightBloom
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_Laser_MediumLaserER_2-BrightBloom
   File: itemCollection_shopItems_electronicsProgression.csv
-
-Tag: Weapon_Laser_MediumLaserER_2-BrightBloom
   File: itemCollection_shopItems_starleagueProgression.csv
 
 Tag: Weapon_Laser_MediumLaserER_CLAN
+---------------------------
   File: BTAClan_Weapons.csv
-
-Tag: Weapon_Laser_MediumLaserER_CLAN
   File: BTAClan_Weapons_Rare.csv
-
-Tag: Weapon_Laser_MediumLaserER_CLAN
   File: BTAClan_Weapons_Start.csv
-
-Tag: Weapon_Laser_MediumLaserER_CLAN
   File: itemCollection_faction_ClanNovaCat.csv
-
-Tag: Weapon_Laser_MediumLaserER_CLAN
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: Weapon_Laser_MediumLaserElectro
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_Laser_MediumLaserElectro
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: Weapon_Laser_MediumLaserModal
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_Laser_MediumLaserModal
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Betelgeuse.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Capella.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Chukchi.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Delavan.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Emris.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Furillo.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Grumium.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_HesperusII.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Irian.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Kalidasa.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Kendall.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Kessel.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Lapida.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Lopez.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Lushann.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Marduk.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_NewKyoto.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Robinson.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Shiro.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Sian.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Soul.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_StIves.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Sterope.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Tancredi.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Tematagi.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Terra.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: BTA_List_Wallis.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
+---------------------------
   File: BTA_PulseLaser.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
   File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
+  File: BTA_List_Betelgeuse.csv
+  File: BTA_List_Capella.csv
+  File: BTA_List_Chukchi.csv
+  File: BTA_List_Delavan.csv
+  File: BTA_List_Emris.csv
+  File: BTA_List_Furillo.csv
+  File: BTA_List_Grumium.csv
+  File: BTA_List_HesperusII.csv
+  File: BTA_List_Irian.csv
+  File: BTA_List_Kalidasa.csv
+  File: BTA_List_Kendall.csv
+  File: BTA_List_Kessel.csv
+  File: BTA_List_Lapida.csv
+  File: BTA_List_Lopez.csv
+  File: BTA_List_Lushann.csv
+  File: BTA_List_Marduk.csv
+  File: BTA_List_NewKyoto.csv
+  File: BTA_List_Robinson.csv
+  File: BTA_List_Shiro.csv
+  File: BTA_List_Sian.csv
+  File: BTA_List_Soul.csv
+  File: BTA_List_Sterope.csv
+  File: BTA_List_StIves.csv
+  File: BTA_List_Tancredi.csv
+  File: BTA_List_Tematagi.csv
+  File: BTA_List_Terra.csv
+  File: BTA_List_Wallis.csv
+  File: itemCollection_shopItems_starleague.csv
   File: itemCollection_Weapons_uncommon.csv
 
-Tag: Weapon_Laser_MediumLaserPulse_0-STOCK
-  File: itemCollection_shopItems_starleague.csv
-
 Tag: Weapon_Laser_MediumLaserPulse_1-RakerIV
+---------------------------
   File: BTA_PulseLaser.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_1-RakerIV
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_1-RakerIV
   File: itemCollection_shopItems_electronicsProgression.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_1-RakerIV
   File: itemCollection_shopItems_starleagueProgression.csv
 
 Tag: Weapon_Laser_MediumLaserPulse_2-Magna400P
+---------------------------
   File: BTA_PulseLaser.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_2-Magna400P
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_2-Magna400P
   File: itemCollection_shopItems_electronicsProgression.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_2-Magna400P
   File: itemCollection_shopItems_starleagueProgression.csv
 
 Tag: Weapon_Laser_MediumLaserPulse_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_CLAN
   File: BTAClan_Weapons_Start.csv
 
 Tag: Weapon_Laser_MediumLaserPulse_X
-  File: BTA_List_Delavan.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_X
+---------------------------
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_X
+  File: BTA_XPulseLaser.csv
+  File: BTA_List_Delavan.csv
   File: BTA_List_Lopez.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_X
   File: BTA_List_NewKyoto.csv
-
-Tag: Weapon_Laser_MediumLaserPulse_X
   File: BTA_List_Tancredi.csv
 
-Tag: Weapon_Laser_MediumLaserPulse_X
-  File: BTA_XPulseLaser.csv
-
 Tag: Weapon_Laser_MediumLaserVSPL_0-STOCK
+---------------------------
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_Laser_MediumLaserVSPL_0-STOCK
   File: BTA_VSPL.csv
-
-Tag: Weapon_Laser_MediumLaserVSPL_0-STOCK
   File: itemCollection_faction_WoB.csv
 
 Tag: Weapon_Laser_MediumLaser_-1-Agra
+---------------------------
   File: BTA_List_Antwerp.csv
 
 Tag: Weapon_Laser_MediumLaser_0-STOCK
+---------------------------
+  File: itemCollection_faction_Lothian.csv
   File: BTA_List_AixLaChapelle.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Alphard_Marian.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Andurien.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Antwerp.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Asuncion.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Betelgeuse.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Bryant.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Campbelton.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Canopus.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Capella.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Chukchi.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Connaugh.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Delavan.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Detroit.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Dunianshire.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Emris.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Furillo.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_HesperusII.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Irian.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Kalidasa.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Kendall.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Kessel.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Lopez.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Loxley.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Lushann.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Marduk.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Mechdur.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_NewAvalon.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_NewEarth.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_NewKyoto.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_NewSyrtis.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Orestes.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Ozawa.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Pinard.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Ramora.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Shiro.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Sian.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_SonHoa.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
-  File: BTA_List_StIves.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Sterope.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Stewart.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
+  File: BTA_List_StIves.csv
   File: BTA_List_Storfors.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Tancredi.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Terra.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Tortuga_Prime.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Tukayyid.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: BTA_List_Wallis.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
+  File: itemCollection_shopItems_electronics.csv
+  File: itemCollection_shopItems_weapons.csv
   File: itemCollection_Weapons_base.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
   File: itemCollection_Weapons_common.csv
 
-Tag: Weapon_Laser_MediumLaser_0-STOCK
-  File: itemCollection_faction_Lothian.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
-  File: itemCollection_shopItems_electronics.csv
-
-Tag: Weapon_Laser_MediumLaser_0-STOCK
-  File: itemCollection_shopItems_weapons.csv
-
 Tag: Weapon_Laser_MediumLaser_1-ExoStar
+---------------------------
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_Laser_MediumLaser_1-ExoStar
   File: itemCollection_shopItems_electronics.csv
-
-Tag: Weapon_Laser_MediumLaser_1-ExoStar
   File: itemCollection_shopItems_electronicsProgression.csv
 
 Tag: Weapon_Laser_MediumLaser_1-Intek
+---------------------------
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_Laser_MediumLaser_1-Intek
   File: itemCollection_shopItems_electronics.csv
-
-Tag: Weapon_Laser_MediumLaser_1-Intek
   File: itemCollection_shopItems_electronicsProgression.csv
 
 Tag: Weapon_Laser_MediumLaser_Chemical_CLAN
+---------------------------
   File: BTA_ChemLaser.csv
-
-Tag: Weapon_Laser_MediumLaser_Chemical_CLAN
   File: itemCollection_faction_AuriganRestoration.csv
 
 Tag: Weapon_Laser_MicroLaserER_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare.csv
 
 Tag: Weapon_Laser_MicroLaserPulse_BA_Clan
+---------------------------
   File: BTAClan_BA_Weapons.csv
 
 Tag: Weapon_Laser_MicroLaserPulse_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare.csv
 
 Tag: Weapon_Laser_SmallLaserERPulse_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare_Convoy.csv
 
 Tag: Weapon_Laser_SmallLaserER_0-STOCK
+---------------------------
   File: BTA_ERLaser.csv
-
-Tag: Weapon_Laser_SmallLaserER_0-STOCK
+  File: BTA_Weapons_Loot.csv
   File: BTA_List_Delavan.csv
-
-Tag: Weapon_Laser_SmallLaserER_0-STOCK
   File: BTA_List_Irian.csv
-
-Tag: Weapon_Laser_SmallLaserER_0-STOCK
   File: BTA_List_Kessel.csv
-
-Tag: Weapon_Laser_SmallLaserER_0-STOCK
   File: BTA_List_Lopez.csv
-
-Tag: Weapon_Laser_SmallLaserER_0-STOCK
   File: BTA_List_NewAvalon.csv
-
-Tag: Weapon_Laser_SmallLaserER_0-STOCK
   File: BTA_List_NewSyrtis.csv
-
-Tag: Weapon_Laser_SmallLaserER_0-STOCK
   File: BTA_List_Sian.csv
-
-Tag: Weapon_Laser_SmallLaserER_0-STOCK
   File: BTA_List_StIves.csv
-
-Tag: Weapon_Laser_SmallLaserER_0-STOCK
   File: BTA_List_Terra.csv
-
-Tag: Weapon_Laser_SmallLaserER_0-STOCK
-  File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_Laser_SmallLaserER_0-STOCK
+  File: itemCollection_shopItems_starleague.csv
   File: itemCollection_Weapons_uncommon.csv
 
-Tag: Weapon_Laser_SmallLaserER_0-STOCK
-  File: itemCollection_shopItems_starleague.csv
-
 Tag: Weapon_Laser_SmallLaserER_1-Diverse_Optics
+---------------------------
   File: BTA_ERLaser.csv
-
-Tag: Weapon_Laser_SmallLaserER_1-Diverse_Optics
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_Laser_SmallLaserER_1-Diverse_Optics
   File: itemCollection_shopItems_electronicsProgression.csv
-
-Tag: Weapon_Laser_SmallLaserER_1-Diverse_Optics
   File: itemCollection_shopItems_starleagueProgression.csv
 
 Tag: Weapon_Laser_SmallLaserER_2-BlazeFire
+---------------------------
   File: BTA_ERLaser.csv
-
-Tag: Weapon_Laser_SmallLaserER_2-BlazeFire
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_Laser_SmallLaserER_2-BlazeFire
   File: itemCollection_shopItems_electronicsProgression.csv
-
-Tag: Weapon_Laser_SmallLaserER_2-BlazeFire
   File: itemCollection_shopItems_starleagueProgression.csv
 
 Tag: Weapon_Laser_SmallLaserER_BA_Clan
+---------------------------
   File: BTAClan_BA_Weapons.csv
-
-Tag: Weapon_Laser_SmallLaserER_BA_Clan
   File: itemCollection_faction_ClanNovaCat.csv
-
-Tag: Weapon_Laser_SmallLaserER_BA_Clan
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: Weapon_Laser_SmallLaserER_CLAN
+---------------------------
   File: BTAClan_Weapons.csv
-
-Tag: Weapon_Laser_SmallLaserER_CLAN
   File: BTAClan_Weapons_Rare.csv
-
-Tag: Weapon_Laser_SmallLaserER_CLAN
   File: BTAClan_Weapons_Start.csv
-
-Tag: Weapon_Laser_SmallLaserER_CLAN
   File: itemCollection_faction_ClanNovaCat.csv
-
-Tag: Weapon_Laser_SmallLaserER_CLAN
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: Weapon_Laser_SmallLaserElectro
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_Laser_SmallLaserElectro
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: Weapon_Laser_SmallLaserModal
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_Laser_SmallLaserModal
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: Weapon_Laser_SmallLaserPulse_0-STOCK
-  File: BTA_List_Betelgeuse.csv
-
-Tag: Weapon_Laser_SmallLaserPulse_0-STOCK
-  File: BTA_List_Chukchi.csv
-
-Tag: Weapon_Laser_SmallLaserPulse_0-STOCK
-  File: BTA_List_Coventry.csv
-
-Tag: Weapon_Laser_SmallLaserPulse_0-STOCK
-  File: BTA_List_Delavan.csv
-
-Tag: Weapon_Laser_SmallLaserPulse_0-STOCK
-  File: BTA_List_HesperusII.csv
-
-Tag: Weapon_Laser_SmallLaserPulse_0-STOCK
-  File: BTA_List_Irian.csv
-
-Tag: Weapon_Laser_SmallLaserPulse_0-STOCK
-  File: BTA_List_Kalidasa.csv
-
-Tag: Weapon_Laser_SmallLaserPulse_0-STOCK
-  File: BTA_List_Kessel.csv
-
-Tag: Weapon_Laser_SmallLaserPulse_0-STOCK
-  File: BTA_List_Lopez.csv
-
-Tag: Weapon_Laser_SmallLaserPulse_0-STOCK
-  File: BTA_List_Tancredi.csv
-
-Tag: Weapon_Laser_SmallLaserPulse_0-STOCK
-  File: BTA_List_Terra.csv
-
-Tag: Weapon_Laser_SmallLaserPulse_0-STOCK
-  File: BTA_List_Wallis.csv
-
-Tag: Weapon_Laser_SmallLaserPulse_0-STOCK
+---------------------------
   File: BTA_PulseLaser.csv
-
-Tag: Weapon_Laser_SmallLaserPulse_0-STOCK
   File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_Laser_SmallLaserPulse_0-STOCK
+  File: BTA_List_Betelgeuse.csv
+  File: BTA_List_Chukchi.csv
+  File: BTA_List_Coventry.csv
+  File: BTA_List_Delavan.csv
+  File: BTA_List_HesperusII.csv
+  File: BTA_List_Irian.csv
+  File: BTA_List_Kalidasa.csv
+  File: BTA_List_Kessel.csv
+  File: BTA_List_Lopez.csv
+  File: BTA_List_Tancredi.csv
+  File: BTA_List_Terra.csv
+  File: BTA_List_Wallis.csv
+  File: itemCollection_shopItems_starleague.csv
   File: itemCollection_Weapons_uncommon.csv
 
-Tag: Weapon_Laser_SmallLaserPulse_0-STOCK
-  File: itemCollection_shopItems_starleague.csv
-
 Tag: Weapon_Laser_SmallLaserPulse_1-Maxell
+---------------------------
   File: BTA_PulseLaser.csv
-
-Tag: Weapon_Laser_SmallLaserPulse_1-Maxell
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_Laser_SmallLaserPulse_1-Maxell
   File: itemCollection_shopItems_electronicsProgression.csv
-
-Tag: Weapon_Laser_SmallLaserPulse_1-Maxell
   File: itemCollection_shopItems_starleagueProgression.csv
 
 Tag: Weapon_Laser_SmallLaserPulse_2-Magna200P
+---------------------------
   File: BTA_PulseLaser.csv
-
-Tag: Weapon_Laser_SmallLaserPulse_2-Magna200P
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_Laser_SmallLaserPulse_2-Magna200P
   File: itemCollection_shopItems_electronicsProgression.csv
-
-Tag: Weapon_Laser_SmallLaserPulse_2-Magna200P
   File: itemCollection_shopItems_starleagueProgression.csv
 
 Tag: Weapon_Laser_SmallLaserPulse_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare.csv
-
-Tag: Weapon_Laser_SmallLaserPulse_CLAN
   File: BTAClan_Weapons_Start.csv
 
 Tag: Weapon_Laser_SmallLaserPulse_X
+---------------------------
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_Laser_SmallLaserPulse_X
+  File: BTA_XPulseLaser.csv
   File: BTA_List_Tancredi.csv
 
-Tag: Weapon_Laser_SmallLaserPulse_X
-  File: BTA_XPulseLaser.csv
-
 Tag: Weapon_Laser_SmallLaserVSPL_0-STOCK
+---------------------------
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_Laser_SmallLaserVSPL_0-STOCK
   File: BTA_VSPL.csv
-
-Tag: Weapon_Laser_SmallLaserVSPL_0-STOCK
   File: itemCollection_faction_WoB.csv
 
 Tag: Weapon_Laser_SmallLaser_0-STOCK
+---------------------------
+  File: itemCollection_faction_Lothian.csv
   File: BTA_List_AixLaChapelle.csv
-
-Tag: Weapon_Laser_SmallLaser_0-STOCK
   File: BTA_List_Alpheratz.csv
-
-Tag: Weapon_Laser_SmallLaser_0-STOCK
   File: BTA_List_Andurien.csv
-
-Tag: Weapon_Laser_SmallLaser_0-STOCK
   File: BTA_List_Antwerp.csv
-
-Tag: Weapon_Laser_SmallLaser_0-STOCK
   File: BTA_List_Betelgeuse.csv
-
-Tag: Weapon_Laser_SmallLaser_0-STOCK
   File: BTA_List_Campbelton.csv
-
-Tag: Weapon_Laser_SmallLaser_0-STOCK
   File: BTA_List_Connaugh.csv
-
-Tag: Weapon_Laser_SmallLaser_0-STOCK
   File: BTA_List_Delavan.csv
-
-Tag: Weapon_Laser_SmallLaser_0-STOCK
   File: BTA_List_HesperusII.csv
-
-Tag: Weapon_Laser_SmallLaser_0-STOCK
   File: BTA_List_Indicass.csv
-
-Tag: Weapon_Laser_SmallLaser_0-STOCK
   File: BTA_List_Irian.csv
-
-Tag: Weapon_Laser_SmallLaser_0-STOCK
   File: BTA_List_Kendall.csv
-
-Tag: Weapon_Laser_SmallLaser_0-STOCK
   File: BTA_List_Kessel.csv
-
-Tag: Weapon_Laser_SmallLaser_0-STOCK
   File: BTA_List_Lopez.csv
-
-Tag: Weapon_Laser_SmallLaser_0-STOCK
   File: BTA_List_NewAvalon.csv
-
-Tag: Weapon_Laser_SmallLaser_0-STOCK
   File: BTA_List_Orestes.csv
-
-Tag: Weapon_Laser_SmallLaser_0-STOCK
   File: BTA_List_Stewart.csv
-
-Tag: Weapon_Laser_SmallLaser_0-STOCK
   File: BTA_List_Taurus.csv
-
-Tag: Weapon_Laser_SmallLaser_0-STOCK
   File: BTA_List_Terra.csv
-
-Tag: Weapon_Laser_SmallLaser_0-STOCK
   File: BTA_List_Wallis.csv
-
-Tag: Weapon_Laser_SmallLaser_0-STOCK
+  File: itemCollection_shopItems_electronics.csv
+  File: itemCollection_shopItems_weapons.csv
   File: itemCollection_Weapons_base.csv
-
-Tag: Weapon_Laser_SmallLaser_0-STOCK
   File: itemCollection_Weapons_common.csv
 
-Tag: Weapon_Laser_SmallLaser_0-STOCK
-  File: itemCollection_faction_Lothian.csv
-
-Tag: Weapon_Laser_SmallLaser_0-STOCK
-  File: itemCollection_shopItems_electronics.csv
-
-Tag: Weapon_Laser_SmallLaser_0-STOCK
-  File: itemCollection_shopItems_weapons.csv
-
 Tag: Weapon_Laser_SmallLaser_1-Diverse_Optics
+---------------------------
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_Laser_SmallLaser_1-Diverse_Optics
   File: itemCollection_shopItems_electronics.csv
-
-Tag: Weapon_Laser_SmallLaser_1-Diverse_Optics
   File: itemCollection_shopItems_electronicsProgression.csv
 
 Tag: Weapon_Laser_SmallLaser_1-ExoStar
+---------------------------
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_Laser_SmallLaser_1-ExoStar
   File: itemCollection_shopItems_electronics.csv
-
-Tag: Weapon_Laser_SmallLaser_1-ExoStar
   File: itemCollection_shopItems_electronicsProgression.csv
 
 Tag: Weapon_Laser_SmallLaser_BA
+---------------------------
   File: BTA_Battle_Armor_Weapons.csv
-
-Tag: Weapon_Laser_SmallLaser_BA
   File: itemCollection_faction_Steiner.csv
 
 Tag: Weapon_Laser_SmallLaser_Chemical_CLAN
+---------------------------
   File: BTA_ChemLaser.csv
-
-Tag: Weapon_Laser_SmallLaser_Chemical_CLAN
   File: itemCollection_faction_AuriganRestoration.csv
 
 Tag: Weapon_Laser_TAG
+---------------------------
   File: BTA_TAG.csv
-
-Tag: Weapon_Laser_TAG
   File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_Laser_TAG
+  File: itemCollection_faction_Outworld.csv
   File: itemCollection_Weapons_uncommon.csv
 
-Tag: Weapon_Laser_TAG
-  File: itemCollection_faction_Outworld.csv
-
 Tag: Weapon_Laser_TAGLight
+---------------------------
   File: BTA_TAG.csv
-
-Tag: Weapon_Laser_TAGLight
   File: itemCollection_faction_Outworld.csv
 
 Tag: Weapon_Laser_TAGLight_BA
+---------------------------
   File: BTA_Battle_Armor_Weapons.csv
-
-Tag: Weapon_Laser_TAGLight_BA
+  File: itemCollection_faction_Marian.csv
   File: itemCollection_faction_Liao.csv
 
-Tag: Weapon_Laser_TAGLight_BA
-  File: itemCollection_faction_Marian.csv
-
 Tag: Weapon_Laser_TwinLinkedLaser
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_Laser_TwinLinkedLaser
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: Weapon_Light_Recoilless_BA
+---------------------------
   File: BTA_Battle_Armor_Weapons.csv
-
-Tag: Weapon_Light_Recoilless_BA
+  File: itemCollection_faction_Marian.csv
   File: itemCollection_faction_Davion.csv
 
-Tag: Weapon_Light_Recoilless_BA
-  File: itemCollection_faction_Marian.csv
-
 Tag: Weapon_MECHMORTAR_1
+---------------------------
   File: BTA_Mortar.csv
-
-Tag: Weapon_MECHMORTAR_1
   File: itemCollection_faction_Chainelane.csv
 
 Tag: Weapon_MECHMORTAR_2
+---------------------------
   File: BTA_Mortar.csv
-
-Tag: Weapon_MECHMORTAR_2
   File: itemCollection_faction_Chainelane.csv
 
 Tag: Weapon_MECHMORTAR_4
+---------------------------
   File: BTA_Mortar.csv
-
-Tag: Weapon_MECHMORTAR_4
   File: itemCollection_faction_Chainelane.csv
 
 Tag: Weapon_MECHMORTAR_8
+---------------------------
   File: BTA_Mortar.csv
-
-Tag: Weapon_MECHMORTAR_8
   File: itemCollection_faction_Chainelane.csv
 
 Tag: Weapon_MML_3
+---------------------------
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_MML_3
-  File: BTA_List_Terra.csv
-
-Tag: Weapon_MML_3
   File: BTA_MML.csv
-
-Tag: Weapon_MML_3
+  File: BTA_List_Terra.csv
   File: itemCollection_Weapons_rare.csv
 
 Tag: Weapon_MML_5
+---------------------------
+  File: BTA_List_FancyWeapons.csv
+  File: BTA_MML.csv
   File: BTA_List_Crofton.csv
-
-Tag: Weapon_MML_5
   File: BTA_List_Detroit.csv
-
-Tag: Weapon_MML_5
   File: BTA_List_Emris.csv
-
-Tag: Weapon_MML_5
-  File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_MML_5
   File: BTA_List_Grumium.csv
-
-Tag: Weapon_MML_5
   File: BTA_List_Luthien.csv
-
-Tag: Weapon_MML_5
   File: BTA_List_Terra.csv
-
-Tag: Weapon_MML_5
-  File: BTA_MML.csv
-
-Tag: Weapon_MML_5
   File: itemCollection_Weapons_rare.csv
 
 Tag: Weapon_MML_7
-  File: BTA_List_Crofton.csv
-
-Tag: Weapon_MML_7
+---------------------------
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_MML_7
+  File: BTA_MML.csv
+  File: BTA_List_Crofton.csv
   File: BTA_List_Luthien.csv
-
-Tag: Weapon_MML_7
   File: BTA_List_Oriente.csv
-
-Tag: Weapon_MML_7
   File: BTA_List_Terra.csv
-
-Tag: Weapon_MML_7
-  File: BTA_MML.csv
-
-Tag: Weapon_MML_7
   File: itemCollection_Weapons_rare.csv
 
 Tag: Weapon_MML_9
-  File: BTA_List_Crofton.csv
-
-Tag: Weapon_MML_9
+---------------------------
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_MML_9
-  File: BTA_List_Grumium.csv
-
-Tag: Weapon_MML_9
-  File: BTA_List_Luthien.csv
-
-Tag: Weapon_MML_9
-  File: BTA_List_Terra.csv
-
-Tag: Weapon_MML_9
   File: BTA_MML.csv
-
-Tag: Weapon_MML_9
+  File: BTA_List_Crofton.csv
+  File: BTA_List_Grumium.csv
+  File: BTA_List_Luthien.csv
+  File: BTA_List_Terra.csv
   File: itemCollection_Weapons_rare.csv
 
 Tag: Weapon_MRM_MRM10_0-STOCK
-  File: BTA_List_Luthien.csv
-
-Tag: Weapon_MRM_MRM10_0-STOCK
+---------------------------
   File: BTA_MRM.csv
-
-Tag: Weapon_MRM_MRM10_0-STOCK
   File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_MRM_MRM10_0-STOCK
+  File: BTA_List_Luthien.csv
   File: itemCollection_faction_Kurita.csv
 
 Tag: Weapon_MRM_MRM20_0-STOCK
-  File: BTA_List_Luthien.csv
-
-Tag: Weapon_MRM_MRM20_0-STOCK
+---------------------------
   File: BTA_MRM.csv
-
-Tag: Weapon_MRM_MRM20_0-STOCK
   File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_MRM_MRM20_0-STOCK
+  File: BTA_List_Luthien.csv
   File: itemCollection_faction_Kurita.csv
 
 Tag: Weapon_MRM_MRM30_0-STOCK
-  File: BTA_List_Luthien.csv
-
-Tag: Weapon_MRM_MRM30_0-STOCK
+---------------------------
   File: BTA_MRM.csv
-
-Tag: Weapon_MRM_MRM30_0-STOCK
   File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_MRM_MRM30_0-STOCK
+  File: BTA_List_Luthien.csv
   File: itemCollection_faction_Kurita.csv
 
 Tag: Weapon_MRM_MRM40_0-STOCK
-  File: BTA_List_Luthien.csv
-
-Tag: Weapon_MRM_MRM40_0-STOCK
+---------------------------
   File: BTA_MRM.csv
-
-Tag: Weapon_MRM_MRM40_0-STOCK
   File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_MRM_MRM40_0-STOCK
+  File: BTA_List_Luthien.csv
   File: itemCollection_faction_Kurita.csv
 
 Tag: Weapon_MRM_MRM4_BA_OS
+---------------------------
   File: BTA_Battle_Armor_Weapons.csv
 
 Tag: Weapon_MRM_vMRM10_0-STOCK
+---------------------------
   File: itemCollection_faction_Kurita.csv
 
 Tag: Weapon_MRM_vMRM20_0-STOCK
+---------------------------
   File: itemCollection_faction_Kurita.csv
 
 Tag: Weapon_MRM_vMRM30_0-STOCK
+---------------------------
   File: itemCollection_faction_Kurita.csv
 
 Tag: Weapon_MRM_vMRM40_0-STOCK
+---------------------------
   File: itemCollection_faction_Kurita.csv
 
 Tag: Weapon_MachineGun_AntiInfantry_BA
+---------------------------
   File: BTA_Battle_Armor_Weapons.csv
-
-Tag: Weapon_MachineGun_AntiInfantry_BA
+  File: itemCollection_faction_WoB.csv
   File: itemCollection_faction_Davion.csv
-
-Tag: Weapon_MachineGun_AntiInfantry_BA
   File: itemCollection_faction_Liao.csv
-
-Tag: Weapon_MachineGun_AntiInfantry_BA
   File: itemCollection_faction_Steiner.csv
 
-Tag: Weapon_MachineGun_AntiInfantry_BA
-  File: itemCollection_faction_WoB.csv
-
 Tag: Weapon_MachineGun_Array_0-STOCK
+---------------------------
+  File: BTA_MachineGun.csv
+  File: BTA_Rifle.csv
+  File: itemCollection_faction_Circinus.csv
   File: BTA_List_Rondane.csv
-
-Tag: Weapon_MachineGun_Array_0-STOCK
   File: BTA_List_Sian.csv
 
-Tag: Weapon_MachineGun_Array_0-STOCK
-  File: BTA_MachineGun.csv
-
-Tag: Weapon_MachineGun_Array_0-STOCK
-  File: BTA_Rifle.csv
-
-Tag: Weapon_MachineGun_Array_0-STOCK
-  File: itemCollection_faction_Circinus.csv
-
 Tag: Weapon_MachineGun_HEAVY_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare.csv
 
 Tag: Weapon_MachineGun_HeavyMG_0-STOCK
-  File: BTA_List_Capella.csv
-
-Tag: Weapon_MachineGun_HeavyMG_0-STOCK
+---------------------------
   File: BTA_MachineGun.csv
-
-Tag: Weapon_MachineGun_HeavyMG_0-STOCK
-  File: itemCollection_Weapons_rare.csv
-
-Tag: Weapon_MachineGun_HeavyMG_0-STOCK
   File: itemCollection_faction_Circinus.csv
+  File: BTA_List_Capella.csv
+  File: itemCollection_Weapons_rare.csv
 
 Tag: Weapon_MachineGun_LIGHT_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare.csv
 
 Tag: Weapon_MachineGun_LightMG_0-STOCK
-  File: BTA_List_Coventry.csv
-
-Tag: Weapon_MachineGun_LightMG_0-STOCK
+---------------------------
   File: BTA_MachineGun.csv
-
-Tag: Weapon_MachineGun_LightMG_0-STOCK
+  File: itemCollection_faction_Circinus.csv
+  File: BTA_List_Coventry.csv
   File: itemCollection_Weapons_rare.csv
 
-Tag: Weapon_MachineGun_LightMG_0-STOCK
-  File: itemCollection_faction_Circinus.csv
-
 Tag: Weapon_MachineGun_MachineGun_0-STOCK
+---------------------------
+  File: itemCollection_faction_Lothian.csv
   File: BTA_List_Alphard_Marian.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_Antwerp.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_Bithinia.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_Canopus.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_Coventry.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_Detroit.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_Dunianshire.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_EpsilonEridani.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_GrandBase.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_Grumium.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_Ingvolstand.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_Kalidasa.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_MacLeod.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_Mechdur.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_NewAvalon.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_NewSyrtis.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_Orestes.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_Proserpina.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_Quentin.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_Ramora.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_Richvale.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_Rondane.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_Stewart.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_Storfors.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_Taurus.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_Tematagi.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_Terra.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: BTA_List_Wallis.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
+  File: itemCollection_shopItems_weapons.csv
   File: itemCollection_Weapons_base.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
   File: itemCollection_Weapons_common.csv
 
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
-  File: itemCollection_faction_Lothian.csv
-
-Tag: Weapon_MachineGun_MachineGun_0-STOCK
-  File: itemCollection_shopItems_weapons.csv
-
 Tag: Weapon_MachineGun_MachineGun_1-Brigadier
+---------------------------
   File: itemCollection_faction_Circinus.csv
-
-Tag: Weapon_MachineGun_MachineGun_1-Brigadier
   File: itemCollection_shopItems_blackmarket.csv
 
 Tag: Weapon_MachineGun_MachineGun_1-VMI
-  File: BTA_List_Togura.csv
-
-Tag: Weapon_MachineGun_MachineGun_1-VMI
+---------------------------
   File: itemCollection_faction_Circinus.csv
-
-Tag: Weapon_MachineGun_MachineGun_1-VMI
+  File: BTA_List_Togura.csv
   File: itemCollection_shopItems_blackmarket.csv
 
 Tag: Weapon_MachineGun_MachineGun_BA
+---------------------------
   File: BTA_Battle_Armor_Weapons.csv
 
 Tag: Weapon_MachineGun_MachineGun_CLAN
+---------------------------
   File: BTAClan_Weapons.csv
-
-Tag: Weapon_MachineGun_MachineGun_CLAN
   File: BTAClan_Weapons_Rare.csv
-
-Tag: Weapon_MachineGun_MachineGun_CLAN
   File: itemCollection_faction_ClanNovaCat.csv
-
-Tag: Weapon_MachineGun_MachineGun_CLAN
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: Weapon_MachineGun_Sanctuary
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_MachineGun_Sanctuary
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: Weapon_MassDriver_Heavy
+---------------------------
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: Weapon_MassDriver_Light
+---------------------------
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: Weapon_MassDriver_Medium
+---------------------------
   File: itemCollection_faction_MallardRepublic.csv
 
 Tag: Weapon_Mech_Grenade_Launcher
+---------------------------
   File: BTA_Grenade.csv
-
-Tag: Weapon_Mech_Grenade_Launcher
   File: itemCollection_faction_AuriganRestoration.csv
 
 Tag: Weapon_Mech_Taser
+---------------------------
   File: itemCollection_faction_Davion.csv
 
 Tag: Weapon_Medium_Recoilless_BA
+---------------------------
   File: BTA_Battle_Armor_Weapons.csv
-
-Tag: Weapon_Medium_Recoilless_BA
-  File: BTA_List_Detroit.csv
-
-Tag: Weapon_Medium_Recoilless_BA
-  File: itemCollection_faction_MagistracyOfCanopus.csv
-
-Tag: Weapon_Medium_Recoilless_BA
   File: itemCollection_faction_Rasalhague.csv
-
-Tag: Weapon_Medium_Recoilless_BA
+  File: BTA_List_Detroit.csv
+  File: itemCollection_faction_MagistracyOfCanopus.csv
   File: itemCollection_faction_TaurianConcordat.csv
 
 Tag: Weapon_Micro_Grenade_Launcher_BA
+---------------------------
   File: BTA_Battle_Armor_Weapons.csv
 
 Tag: Weapon_NPC_NPC
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_NPC_NPC
   File: itemCollection_faction_DaneSacellum.csv
 
 Tag: Weapon_PPC_Heavy_0-STOCK
-  File: BTA_List_Campbelton.csv
-
-Tag: Weapon_PPC_Heavy_0-STOCK
+---------------------------
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_PPC_Heavy_0-STOCK
-  File: BTA_List_Lopez.csv
-
-Tag: Weapon_PPC_Heavy_0-STOCK
-  File: BTA_List_Tancredi.csv
-
-Tag: Weapon_PPC_Heavy_0-STOCK
   File: BTA_PPC.csv
-
-Tag: Weapon_PPC_Heavy_0-STOCK
+  File: BTA_List_Campbelton.csv
+  File: BTA_List_Lopez.csv
+  File: BTA_List_Tancredi.csv
   File: itemCollection_faction_TaurianConcordat.csv
 
 Tag: Weapon_PPC_Light_0-STOCK
-  File: BTA_List_Campbelton.csv
-
-Tag: Weapon_PPC_Light_0-STOCK
+---------------------------
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_PPC_Light_0-STOCK
-  File: BTA_List_HesperusII.csv
-
-Tag: Weapon_PPC_Light_0-STOCK
-  File: BTA_List_Tancredi.csv
-
-Tag: Weapon_PPC_Light_0-STOCK
   File: BTA_PPC.csv
-
-Tag: Weapon_PPC_Light_0-STOCK
+  File: BTA_List_Campbelton.csv
+  File: BTA_List_HesperusII.csv
+  File: BTA_List_Tancredi.csv
   File: itemCollection_faction_TaurianConcordat.csv
 
 Tag: Weapon_PPC_PPCER_0-STOCK
-  File: BTA_List_AlNair.csv
-
-Tag: Weapon_PPC_PPCER_0-STOCK
-  File: BTA_List_Betelgeuse.csv
-
-Tag: Weapon_PPC_PPCER_0-STOCK
-  File: BTA_List_Campbelton.csv
-
-Tag: Weapon_PPC_PPCER_0-STOCK
-  File: BTA_List_Capella.csv
-
-Tag: Weapon_PPC_PPCER_0-STOCK
-  File: BTA_List_Furillo.csv
-
-Tag: Weapon_PPC_PPCER_0-STOCK
-  File: BTA_List_HesperusII.csv
-
-Tag: Weapon_PPC_PPCER_0-STOCK
-  File: BTA_List_Keystone.csv
-
-Tag: Weapon_PPC_PPCER_0-STOCK
-  File: BTA_List_Lopez.csv
-
-Tag: Weapon_PPC_PPCER_0-STOCK
-  File: BTA_List_NewSamarkand.csv
-
-Tag: Weapon_PPC_PPCER_0-STOCK
-  File: BTA_List_NewSyrtis.csv
-
-Tag: Weapon_PPC_PPCER_0-STOCK
-  File: BTA_List_StIves.csv
-
-Tag: Weapon_PPC_PPCER_0-STOCK
-  File: BTA_List_Tancredi.csv
-
-Tag: Weapon_PPC_PPCER_0-STOCK
-  File: BTA_List_Terra.csv
-
-Tag: Weapon_PPC_PPCER_0-STOCK
-  File: BTA_List_TokDo.csv
-
-Tag: Weapon_PPC_PPCER_0-STOCK
+---------------------------
   File: BTA_PPC.csv
-
-Tag: Weapon_PPC_PPCER_0-STOCK
   File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_PPC_PPCER_0-STOCK
+  File: BTA_List_AlNair.csv
+  File: BTA_List_Betelgeuse.csv
+  File: BTA_List_Campbelton.csv
+  File: BTA_List_Capella.csv
+  File: BTA_List_Furillo.csv
+  File: BTA_List_HesperusII.csv
+  File: BTA_List_Keystone.csv
+  File: BTA_List_Lopez.csv
+  File: BTA_List_NewSamarkand.csv
+  File: BTA_List_NewSyrtis.csv
+  File: BTA_List_StIves.csv
+  File: BTA_List_Tancredi.csv
+  File: BTA_List_Terra.csv
+  File: BTA_List_TokDo.csv
   File: itemCollection_shopItems_starleague.csv
 
 Tag: Weapon_PPC_PPCER_1-MagnaFirestar
+---------------------------
   File: BTA_PPC.csv
-
-Tag: Weapon_PPC_PPCER_1-MagnaFirestar
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_PPC_PPCER_1-MagnaFirestar
   File: itemCollection_shopItems_starleagueProgression.csv
-
-Tag: Weapon_PPC_PPCER_1-MagnaFirestar
   File: itemCollection_table_eventDubiousIntentions.csv
 
 Tag: Weapon_PPC_PPCER_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare.csv
-
-Tag: Weapon_PPC_PPCER_CLAN
   File: BTAClan_Weapons_Rare_Convoy.csv
-
-Tag: Weapon_PPC_PPCER_CLAN
   File: itemCollection_faction_ClanNovaCat.csv
-
-Tag: Weapon_PPC_PPCER_CLAN
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: Weapon_PPC_PPC_0-STOCK
+---------------------------
+  File: itemCollection_faction_Lothian.csv
   File: BTA_List_AlNair.csv
-
-Tag: Weapon_PPC_PPC_0-STOCK
   File: BTA_List_Betelgeuse.csv
-
-Tag: Weapon_PPC_PPC_0-STOCK
   File: BTA_List_Campbelton.csv
-
-Tag: Weapon_PPC_PPC_0-STOCK
   File: BTA_List_Capella.csv
-
-Tag: Weapon_PPC_PPC_0-STOCK
   File: BTA_List_Loxley.csv
-
-Tag: Weapon_PPC_PPC_0-STOCK
   File: BTA_List_Lushann.csv
-
-Tag: Weapon_PPC_PPC_0-STOCK
   File: BTA_List_NewEarth.csv
-
-Tag: Weapon_PPC_PPC_0-STOCK
   File: BTA_List_NewSamarkand.csv
-
-Tag: Weapon_PPC_PPC_0-STOCK
   File: BTA_List_NewSyrtis.csv
-
-Tag: Weapon_PPC_PPC_0-STOCK
   File: BTA_List_Otisberg.csv
-
-Tag: Weapon_PPC_PPC_0-STOCK
   File: BTA_List_Outreach.csv
-
-Tag: Weapon_PPC_PPC_0-STOCK
-  File: BTA_List_StIves.csv
-
-Tag: Weapon_PPC_PPC_0-STOCK
   File: BTA_List_Sterope.csv
-
-Tag: Weapon_PPC_PPC_0-STOCK
+  File: BTA_List_StIves.csv
   File: BTA_List_Tancredi.csv
-
-Tag: Weapon_PPC_PPC_0-STOCK
   File: BTA_List_Taurus.csv
-
-Tag: Weapon_PPC_PPC_0-STOCK
   File: BTA_List_Terra.csv
-
-Tag: Weapon_PPC_PPC_0-STOCK
   File: BTA_List_Warlock.csv
-
-Tag: Weapon_PPC_PPC_0-STOCK
+  File: itemCollection_shopItems_research.csv
+  File: itemCollection_shopItems_weapons.csv
   File: itemCollection_Weapons_base.csv
-
-Tag: Weapon_PPC_PPC_0-STOCK
   File: itemCollection_Weapons_common.csv
 
-Tag: Weapon_PPC_PPC_0-STOCK
-  File: itemCollection_faction_Lothian.csv
-
-Tag: Weapon_PPC_PPC_0-STOCK
-  File: itemCollection_shopItems_research.csv
-
-Tag: Weapon_PPC_PPC_0-STOCK
-  File: itemCollection_shopItems_weapons.csv
-
 Tag: Weapon_PPC_PPC_1-Ceres_Arms
+---------------------------
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_PPC_PPC_1-Ceres_Arms
   File: itemCollection_shopItems_research.csv
-
-Tag: Weapon_PPC_PPC_1-Ceres_Arms
   File: itemCollection_shopItems_researchProgression.csv
-
-Tag: Weapon_PPC_PPC_1-Ceres_Arms
   File: itemCollection_table_eventDubiousIntentions.csv
 
 Tag: Weapon_PPC_PPC_1-Donal
+---------------------------
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_PPC_PPC_1-Donal
   File: itemCollection_shopItems_research.csv
-
-Tag: Weapon_PPC_PPC_1-Donal
   File: itemCollection_shopItems_researchProgression.csv
 
 Tag: Weapon_PPC_PPC_SNUBNOSE
-  File: BTA_List_Campbelton.csv
-
-Tag: Weapon_PPC_PPC_SNUBNOSE
-  File: BTA_List_Capella.csv
-
-Tag: Weapon_PPC_PPC_SNUBNOSE
+---------------------------
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_PPC_PPC_SNUBNOSE
-  File: BTA_List_TokDo.csv
-
-Tag: Weapon_PPC_PPC_SNUBNOSE
   File: BTA_PPC.csv
-
-Tag: Weapon_PPC_PPC_SNUBNOSE
+  File: itemCollection_faction_Rasalhague.csv
+  File: BTA_List_Campbelton.csv
+  File: BTA_List_Capella.csv
+  File: BTA_List_TokDo.csv
+  File: itemCollection_faction_TaurianConcordat.csv
   File: itemCollection_Weapons_rare.csv
 
-Tag: Weapon_PPC_PPC_SNUBNOSE
-  File: itemCollection_faction_Rasalhague.csv
-
-Tag: Weapon_PPC_PPC_SNUBNOSE
-  File: itemCollection_faction_TaurianConcordat.csv
-
 Tag: Weapon_PPC_PPCp_0-STOCK
+---------------------------
   File: BTA_List_Antwerp.csv
 
 Tag: Weapon_PPC_Support_BA
+---------------------------
   File: BTA_Battle_Armor_Weapons.csv
-
-Tag: Weapon_PPC_Support_BA
+  File: itemCollection_faction_Marian.csv
   File: itemCollection_faction_Kurita.csv
 
-Tag: Weapon_PPC_Support_BA
-  File: itemCollection_faction_Marian.csv
-
 Tag: Weapon_Plasma_Rifle
+---------------------------
   File: BTA_List_FancyWeapons.csv
-
-Tag: Weapon_Plasma_Rifle
-  File: BTA_List_StIves.csv
-
-Tag: Weapon_Plasma_Rifle
   File: BTA_Plasma.csv
-
-Tag: Weapon_Plasma_Rifle
+  File: itemCollection_faction_Tortuga.csv
+  File: BTA_List_StIves.csv
   File: itemCollection_Weapons_rare.csv
 
-Tag: Weapon_Plasma_Rifle
-  File: itemCollection_faction_Tortuga.csv
-
 Tag: Weapon_Plasma_Rifle_BA
+---------------------------
   File: BTA_Battle_Armor_Weapons.csv
-
-Tag: Weapon_Plasma_Rifle_BA
+  File: itemCollection_faction_WoB.csv
   File: BTA_List_Capella.csv
-
-Tag: Weapon_Plasma_Rifle_BA
   File: itemCollection_faction_Liao.csv
 
-Tag: Weapon_Plasma_Rifle_BA
-  File: itemCollection_faction_WoB.csv
-
 Tag: Weapon_Pod_PodA
+---------------------------
+  File: BTA_Pods.csv
   File: BTA_List_Sian.csv
 
-Tag: Weapon_Pod_PodA
-  File: BTA_Pods.csv
-
 Tag: Weapon_RocketLauncher_RL10_0_STOCK
+---------------------------
+  File: BTA_Rocket.csv
+  File: itemCollection_faction_Marian.csv
   File: BTA_List_Alphard_Marian.csv
-
-Tag: Weapon_RocketLauncher_RL10_0_STOCK
   File: BTA_List_Sterope.csv
-
-Tag: Weapon_RocketLauncher_RL10_0_STOCK
   File: BTA_List_Tortuga_Prime.csv
 
-Tag: Weapon_RocketLauncher_RL10_0_STOCK
-  File: BTA_Rocket.csv
-
-Tag: Weapon_RocketLauncher_RL10_0_STOCK
-  File: itemCollection_faction_Marian.csv
-
 Tag: Weapon_RocketLauncher_RL10_Inferno
+---------------------------
   File: BTA_Rocket.csv
-
-Tag: Weapon_RocketLauncher_RL10_Inferno
   File: itemCollection_faction_Marian.csv
 
 Tag: Weapon_RocketLauncher_RL10_Reload
+---------------------------
   File: BTA_Rocket.csv
-
-Tag: Weapon_RocketLauncher_RL10_Reload
   File: itemCollection_faction_Marian.csv
 
 Tag: Weapon_RocketLauncher_RL15_0_STOCK
+---------------------------
+  File: BTA_Rocket.csv
+  File: itemCollection_faction_Marian.csv
   File: BTA_List_Alphard_Marian.csv
-
-Tag: Weapon_RocketLauncher_RL15_0_STOCK
   File: BTA_List_Sterope.csv
-
-Tag: Weapon_RocketLauncher_RL15_0_STOCK
   File: BTA_List_Tortuga_Prime.csv
 
-Tag: Weapon_RocketLauncher_RL15_0_STOCK
-  File: BTA_Rocket.csv
-
-Tag: Weapon_RocketLauncher_RL15_0_STOCK
-  File: itemCollection_faction_Marian.csv
-
 Tag: Weapon_RocketLauncher_RL15_Inferno
+---------------------------
   File: BTA_Rocket.csv
-
-Tag: Weapon_RocketLauncher_RL15_Inferno
   File: itemCollection_faction_Marian.csv
 
 Tag: Weapon_RocketLauncher_RL15_Reload
+---------------------------
   File: BTA_Rocket.csv
-
-Tag: Weapon_RocketLauncher_RL15_Reload
   File: itemCollection_faction_Marian.csv
 
 Tag: Weapon_RocketLauncher_RL20_0_STOCK
+---------------------------
+  File: BTA_Rocket.csv
+  File: itemCollection_faction_Marian.csv
   File: BTA_List_Alphard_Marian.csv
-
-Tag: Weapon_RocketLauncher_RL20_0_STOCK
   File: BTA_List_Ingvolstand.csv
-
-Tag: Weapon_RocketLauncher_RL20_0_STOCK
   File: BTA_List_Sterope.csv
-
-Tag: Weapon_RocketLauncher_RL20_0_STOCK
   File: BTA_List_Tortuga_Prime.csv
 
-Tag: Weapon_RocketLauncher_RL20_0_STOCK
-  File: BTA_Rocket.csv
-
-Tag: Weapon_RocketLauncher_RL20_0_STOCK
-  File: itemCollection_faction_Marian.csv
-
 Tag: Weapon_RocketLauncher_RL20_Inferno
+---------------------------
   File: BTA_Rocket.csv
-
-Tag: Weapon_RocketLauncher_RL20_Inferno
   File: itemCollection_faction_Marian.csv
 
 Tag: Weapon_RocketLauncher_RL20_Reload
+---------------------------
   File: BTA_Rocket.csv
-
-Tag: Weapon_RocketLauncher_RL20_Reload
   File: itemCollection_faction_Marian.csv
 
 Tag: Weapon_RocketLauncher_RL40_0_STOCK
+---------------------------
+  File: BTA_Rocket.csv
+  File: itemCollection_faction_Marian.csv
   File: BTA_List_Alphard_Marian.csv
 
-Tag: Weapon_RocketLauncher_RL40_0_STOCK
-  File: BTA_Rocket.csv
-
-Tag: Weapon_RocketLauncher_RL40_0_STOCK
-  File: itemCollection_faction_Marian.csv
-
 Tag: Weapon_RocketLauncher_RL40_Reload
+---------------------------
   File: BTA_Rocket.csv
-
-Tag: Weapon_RocketLauncher_RL40_Reload
   File: itemCollection_faction_Marian.csv
 
 Tag: Weapon_SRM_SRM1_Inferno_BA_Clan
+---------------------------
   File: BTAClan_BA_Weapons.csv
-
-Tag: Weapon_SRM_SRM1_Inferno_BA_Clan
   File: itemCollection_faction_ClanNovaCat.csv
 
 Tag: Weapon_SRM_SRM2_0-STOCK
+---------------------------
+  File: itemCollection_faction_Lothian.csv
   File: BTA_List_AixLaChapelle.csv
-
-Tag: Weapon_SRM_SRM2_0-STOCK
   File: BTA_List_Alphard_Marian.csv
-
-Tag: Weapon_SRM_SRM2_0-STOCK
   File: BTA_List_Antwerp.csv
-
-Tag: Weapon_SRM_SRM2_0-STOCK
   File: BTA_List_Betelgeuse.csv
-
-Tag: Weapon_SRM_SRM2_0-STOCK
   File: BTA_List_Canopus.csv
-
-Tag: Weapon_SRM_SRM2_0-STOCK
   File: BTA_List_Detroit.csv
-
-Tag: Weapon_SRM_SRM2_0-STOCK
   File: BTA_List_EpsilonEridani.csv
-
-Tag: Weapon_SRM_SRM2_0-STOCK
   File: BTA_List_Mechdur.csv
-
-Tag: Weapon_SRM_SRM2_0-STOCK
   File: BTA_List_Mitchella.csv
-
-Tag: Weapon_SRM_SRM2_0-STOCK
   File: BTA_List_NewAvalon.csv
-
-Tag: Weapon_SRM_SRM2_0-STOCK
   File: BTA_List_NewSamarkand.csv
-
-Tag: Weapon_SRM_SRM2_0-STOCK
   File: BTA_List_Otisberg.csv
-
-Tag: Weapon_SRM_SRM2_0-STOCK
   File: BTA_List_Perdition.csv
-
-Tag: Weapon_SRM_SRM2_0-STOCK
   File: BTA_List_Proserpina.csv
-
-Tag: Weapon_SRM_SRM2_0-STOCK
   File: BTA_List_Shiro.csv
-
-Tag: Weapon_SRM_SRM2_0-STOCK
   File: BTA_List_Sian.csv
-
-Tag: Weapon_SRM_SRM2_0-STOCK
   File: BTA_List_Terra.csv
-
-Tag: Weapon_SRM_SRM2_0-STOCK
+  File: itemCollection_shopItems_chemicals.csv
+  File: itemCollection_shopItems_weapons.csv
   File: itemCollection_Weapons_base.csv
-
-Tag: Weapon_SRM_SRM2_0-STOCK
   File: itemCollection_Weapons_common.csv
 
-Tag: Weapon_SRM_SRM2_0-STOCK
-  File: itemCollection_faction_Lothian.csv
-
-Tag: Weapon_SRM_SRM2_0-STOCK
-  File: itemCollection_shopItems_chemicals.csv
-
-Tag: Weapon_SRM_SRM2_0-STOCK
-  File: itemCollection_shopItems_weapons.csv
-
 Tag: Weapon_SRM_SRM2_1-Holly
+---------------------------
   File: itemCollection_faction_Tortuga.csv
-
-Tag: Weapon_SRM_SRM2_1-Holly
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_SRM_SRM2_1-Holly
   File: itemCollection_shopItems_chemicals.csv
-
-Tag: Weapon_SRM_SRM2_1-Holly
   File: itemCollection_shopItems_chemicalsProgression.csv
 
 Tag: Weapon_SRM_SRM2_1-Irian
+---------------------------
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_SRM_SRM2_1-Irian
   File: itemCollection_shopItems_chemicals.csv
-
-Tag: Weapon_SRM_SRM2_1-Irian
   File: itemCollection_shopItems_chemicalsProgression.csv
 
 Tag: Weapon_SRM_SRM2_Advanced_BA_Clan
+---------------------------
   File: BTAClan_BA_Weapons.csv
 
 Tag: Weapon_SRM_SRM2_BA_Clan
+---------------------------
   File: BTAClan_BA_Weapons.csv
-
-Tag: Weapon_SRM_SRM2_BA_Clan
   File: itemCollection_faction_ClanNovaCat.csv
-
-Tag: Weapon_SRM_SRM2_BA_Clan
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: Weapon_SRM_SRM2_BA_OS
+---------------------------
   File: BTA_Battle_Armor_Weapons.csv
-
-Tag: Weapon_SRM_SRM2_BA_OS
+  File: itemCollection_faction_Marian.csv
   File: itemCollection_faction_Kurita.csv
 
-Tag: Weapon_SRM_SRM2_BA_OS
-  File: itemCollection_faction_Marian.csv
-
 Tag: Weapon_SRM_SRM2_CLAN
+---------------------------
   File: BTAClan_Weapons.csv
-
-Tag: Weapon_SRM_SRM2_CLAN
   File: BTAClan_Weapons_Rare.csv
-
-Tag: Weapon_SRM_SRM2_CLAN
   File: BTAClan_Weapons_Start.csv
-
-Tag: Weapon_SRM_SRM2_CLAN
   File: itemCollection_faction_ClanNovaCat.csv
-
-Tag: Weapon_SRM_SRM2_CLAN
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: Weapon_SRM_SRM2_STREAK_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare_Convoy.csv
 
 Tag: Weapon_SRM_SRM4_0-STOCK
+---------------------------
+  File: itemCollection_faction_Lothian.csv
   File: BTA_List_AlNair.csv
-
-Tag: Weapon_SRM_SRM4_0-STOCK
   File: BTA_List_Antwerp.csv
-
-Tag: Weapon_SRM_SRM4_0-STOCK
   File: BTA_List_Coventry.csv
-
-Tag: Weapon_SRM_SRM4_0-STOCK
   File: BTA_List_Illiushin.csv
-
-Tag: Weapon_SRM_SRM4_0-STOCK
   File: BTA_List_Kalidasa.csv
-
-Tag: Weapon_SRM_SRM4_0-STOCK
   File: BTA_List_Kendall.csv
-
-Tag: Weapon_SRM_SRM4_0-STOCK
   File: BTA_List_Marduk.csv
-
-Tag: Weapon_SRM_SRM4_0-STOCK
   File: BTA_List_Menke.csv
-
-Tag: Weapon_SRM_SRM4_0-STOCK
   File: BTA_List_Oriente.csv
-
-Tag: Weapon_SRM_SRM4_0-STOCK
   File: BTA_List_Proserpina.csv
-
-Tag: Weapon_SRM_SRM4_0-STOCK
   File: BTA_List_Sian.csv
-
-Tag: Weapon_SRM_SRM4_0-STOCK
   File: BTA_List_Terra.csv
-
-Tag: Weapon_SRM_SRM4_0-STOCK
   File: BTA_List_Tharkad.csv
-
-Tag: Weapon_SRM_SRM4_0-STOCK
+  File: itemCollection_shopItems_chemicals.csv
+  File: itemCollection_shopItems_weapons.csv
   File: itemCollection_Weapons_base.csv
-
-Tag: Weapon_SRM_SRM4_0-STOCK
   File: itemCollection_Weapons_common.csv
 
-Tag: Weapon_SRM_SRM4_0-STOCK
-  File: itemCollection_faction_Lothian.csv
-
-Tag: Weapon_SRM_SRM4_0-STOCK
-  File: itemCollection_shopItems_chemicals.csv
-
-Tag: Weapon_SRM_SRM4_0-STOCK
-  File: itemCollection_shopItems_weapons.csv
-
 Tag: Weapon_SRM_SRM4_1-Holly
+---------------------------
   File: itemCollection_faction_Tortuga.csv
-
-Tag: Weapon_SRM_SRM4_1-Holly
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_SRM_SRM4_1-Holly
   File: itemCollection_shopItems_chemicals.csv
-
-Tag: Weapon_SRM_SRM4_1-Holly
   File: itemCollection_shopItems_chemicalsProgression.csv
 
 Tag: Weapon_SRM_SRM4_1-Irian
+---------------------------
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_SRM_SRM4_1-Irian
   File: itemCollection_shopItems_chemicals.csv
-
-Tag: Weapon_SRM_SRM4_1-Irian
   File: itemCollection_shopItems_chemicalsProgression.csv
 
 Tag: Weapon_SRM_SRM4_BA_OS
+---------------------------
   File: BTA_Battle_Armor_Weapons.csv
-
-Tag: Weapon_SRM_SRM4_BA_OS
   File: itemCollection_faction_Marik.csv
 
 Tag: Weapon_SRM_SRM4_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare.csv
-
-Tag: Weapon_SRM_SRM4_CLAN
   File: itemCollection_faction_ClanNovaCat.csv
-
-Tag: Weapon_SRM_SRM4_CLAN
   File: itemCollection_faction_ClanSnowRaven.csv
 
 Tag: Weapon_SRM_SRM4_STREAK_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare_Convoy.csv
 
 Tag: Weapon_SRM_SRM5_Advanced_BA_Clan
+---------------------------
   File: BTAClan_BA_Weapons.csv
 
 Tag: Weapon_SRM_SRM6_0-STOCK
+---------------------------
+  File: itemCollection_faction_Lothian.csv
   File: BTA_List_AlNair.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_Andurien.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_Betelgeuse.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_Coventry.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_Emris.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_EpsilonEridani.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_Errai.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_Furillo.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_Gallery.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_Illiushin.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_Irian.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_Kathil.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_Marduk.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_Mechdur.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_Menke.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_NewEarth.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_Oriente.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_Robinson.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_Shiro.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_Sian.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_Soul.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_Terra.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_Tharkad.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_Tukayyid.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: BTA_List_Wallis.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
+  File: itemCollection_shopItems_chemicals.csv
+  File: itemCollection_shopItems_weapons.csv
   File: itemCollection_Weapons_base.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
   File: itemCollection_Weapons_common.csv
 
-Tag: Weapon_SRM_SRM6_0-STOCK
-  File: itemCollection_faction_Lothian.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
-  File: itemCollection_shopItems_chemicals.csv
-
-Tag: Weapon_SRM_SRM6_0-STOCK
-  File: itemCollection_shopItems_weapons.csv
-
 Tag: Weapon_SRM_SRM6_1-Holly
+---------------------------
   File: itemCollection_faction_Tortuga.csv
-
-Tag: Weapon_SRM_SRM6_1-Holly
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_SRM_SRM6_1-Holly
   File: itemCollection_shopItems_chemicals.csv
-
-Tag: Weapon_SRM_SRM6_1-Holly
   File: itemCollection_shopItems_chemicalsProgression.csv
 
 Tag: Weapon_SRM_SRM6_1-Irian
+---------------------------
   File: itemCollection_shopItems_blackmarket.csv
-
-Tag: Weapon_SRM_SRM6_1-Irian
   File: itemCollection_shopItems_chemicals.csv
-
-Tag: Weapon_SRM_SRM6_1-Irian
   File: itemCollection_shopItems_chemicalsProgression.csv
 
 Tag: Weapon_SRM_SRM6_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare.csv
 
 Tag: Weapon_SRM_SRM6_STREAK_CLAN
+---------------------------
   File: BTAClan_Weapons_Rare_Convoy.csv
 
 Tag: Weapon_SRM_SRM_NARC
-  File: BTA_List_Capella.csv
-
-Tag: Weapon_SRM_SRM_NARC
-  File: BTA_List_HesperusII.csv
-
-Tag: Weapon_SRM_SRM_NARC
-  File: BTA_List_Irian.csv
-
-Tag: Weapon_SRM_SRM_NARC
-  File: BTA_List_Kalidasa.csv
-
-Tag: Weapon_SRM_SRM_NARC
-  File: BTA_List_Kendall.csv
-
-Tag: Weapon_SRM_SRM_NARC
-  File: BTA_List_Orestes.csv
-
-Tag: Weapon_SRM_SRM_NARC
-  File: BTA_List_Shiro.csv
-
-Tag: Weapon_SRM_SRM_NARC
-  File: BTA_List_Stewart.csv
-
-Tag: Weapon_SRM_SRM_NARC
-  File: BTA_List_Terra.csv
-
-Tag: Weapon_SRM_SRM_NARC
-  File: BTA_List_Tharkad.csv
-
-Tag: Weapon_SRM_SRM_NARC
+---------------------------
   File: BTA_Narc_Start.csv
-
-Tag: Weapon_SRM_SRM_NARC
   File: BTA_SRM.csv
-
-Tag: Weapon_SRM_SRM_NARC
-  File: itemCollection_Weapons_rare.csv
-
-Tag: Weapon_SRM_SRM_NARC
   File: itemCollection_faction_Circinus.csv
-
-Tag: Weapon_SRM_SRM_NARC
+  File: BTA_List_Capella.csv
+  File: BTA_List_HesperusII.csv
+  File: BTA_List_Irian.csv
+  File: BTA_List_Kalidasa.csv
+  File: BTA_List_Kendall.csv
+  File: BTA_List_Orestes.csv
+  File: BTA_List_Shiro.csv
+  File: BTA_List_Stewart.csv
+  File: BTA_List_Terra.csv
+  File: BTA_List_Tharkad.csv
   File: itemCollection_shopItems_blackmarket_narcandammo.csv
-
-Tag: Weapon_SRM_SSRM2_0-STOCK
-  File: BTA_List_Coventry.csv
-
-Tag: Weapon_SRM_SSRM2_0-STOCK
-  File: BTA_List_Emris.csv
-
-Tag: Weapon_SRM_SSRM2_0-STOCK
-  File: BTA_List_HesperusII.csv
-
-Tag: Weapon_SRM_SSRM2_0-STOCK
-  File: BTA_List_Irian.csv
-
-Tag: Weapon_SRM_SSRM2_0-STOCK
-  File: BTA_List_Menke.csv
-
-Tag: Weapon_SRM_SSRM2_0-STOCK
-  File: BTA_List_NewAvalon.csv
-
-Tag: Weapon_SRM_SSRM2_0-STOCK
-  File: BTA_List_Oriente.csv
-
-Tag: Weapon_SRM_SSRM2_0-STOCK
-  File: BTA_List_Perdition.csv
-
-Tag: Weapon_SRM_SSRM2_0-STOCK
-  File: BTA_List_Proserpina.csv
-
-Tag: Weapon_SRM_SSRM2_0-STOCK
-  File: BTA_List_Robinson.csv
-
-Tag: Weapon_SRM_SSRM2_0-STOCK
-  File: BTA_List_Sian.csv
-
-Tag: Weapon_SRM_SSRM2_0-STOCK
-  File: BTA_List_Terra.csv
-
-Tag: Weapon_SRM_SSRM2_0-STOCK
-  File: BTA_SRM.csv
-
-Tag: Weapon_SRM_SSRM2_0-STOCK
-  File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_SRM_SSRM2_0-STOCK
   File: itemCollection_Weapons_rare.csv
 
 Tag: Weapon_SRM_SSRM2_0-STOCK
+---------------------------
+  File: BTA_SRM.csv
+  File: BTA_Weapons_Loot.csv
   File: itemCollection_faction_Rasalhague.csv
-
-Tag: Weapon_SRM_SSRM4_0-STOCK
-  File: BTA_List_Benjamin.csv
-
-Tag: Weapon_SRM_SSRM4_0-STOCK
   File: BTA_List_Coventry.csv
-
-Tag: Weapon_SRM_SSRM4_0-STOCK
   File: BTA_List_Emris.csv
-
-Tag: Weapon_SRM_SSRM4_0-STOCK
   File: BTA_List_HesperusII.csv
-
-Tag: Weapon_SRM_SSRM4_0-STOCK
   File: BTA_List_Irian.csv
-
-Tag: Weapon_SRM_SSRM4_0-STOCK
-  File: BTA_List_Nanking.csv
-
-Tag: Weapon_SRM_SSRM4_0-STOCK
+  File: BTA_List_Menke.csv
+  File: BTA_List_NewAvalon.csv
   File: BTA_List_Oriente.csv
-
-Tag: Weapon_SRM_SSRM4_0-STOCK
+  File: BTA_List_Perdition.csv
   File: BTA_List_Proserpina.csv
-
-Tag: Weapon_SRM_SSRM4_0-STOCK
-  File: BTA_List_Terra.csv
-
-Tag: Weapon_SRM_SSRM4_0-STOCK
-  File: BTA_SRM.csv
-
-Tag: Weapon_SRM_SSRM4_0-STOCK
-  File: BTA_Weapons_Loot.csv
-
-Tag: Weapon_SRM_SSRM4_0-STOCK
-  File: itemCollection_Weapons_rare.csv
-
-Tag: Weapon_SRM_SSRM6_0-STOCK
-  File: BTA_List_Emris.csv
-
-Tag: Weapon_SRM_SSRM6_0-STOCK
-  File: BTA_List_Irian.csv
-
-Tag: Weapon_SRM_SSRM6_0-STOCK
-  File: BTA_List_Nanking.csv
-
-Tag: Weapon_SRM_SSRM6_0-STOCK
-  File: BTA_List_Oriente.csv
-
-Tag: Weapon_SRM_SSRM6_0-STOCK
-  File: BTA_List_Proserpina.csv
-
-Tag: Weapon_SRM_SSRM6_0-STOCK
+  File: BTA_List_Robinson.csv
   File: BTA_List_Sian.csv
-
-Tag: Weapon_SRM_SSRM6_0-STOCK
   File: BTA_List_Terra.csv
+  File: itemCollection_Weapons_rare.csv
 
-Tag: Weapon_SRM_SSRM6_0-STOCK
+Tag: Weapon_SRM_SSRM4_0-STOCK
+---------------------------
   File: BTA_SRM.csv
-
-Tag: Weapon_SRM_SSRM6_0-STOCK
   File: BTA_Weapons_Loot.csv
+  File: BTA_List_Benjamin.csv
+  File: BTA_List_Coventry.csv
+  File: BTA_List_Emris.csv
+  File: BTA_List_HesperusII.csv
+  File: BTA_List_Irian.csv
+  File: BTA_List_Nanking.csv
+  File: BTA_List_Oriente.csv
+  File: BTA_List_Proserpina.csv
+  File: BTA_List_Terra.csv
+  File: itemCollection_Weapons_rare.csv
 
 Tag: Weapon_SRM_SSRM6_0-STOCK
+---------------------------
+  File: BTA_SRM.csv
+  File: BTA_Weapons_Loot.csv
+  File: BTA_List_Emris.csv
+  File: BTA_List_Irian.csv
+  File: BTA_List_Nanking.csv
+  File: BTA_List_Oriente.csv
+  File: BTA_List_Proserpina.csv
+  File: BTA_List_Sian.csv
+  File: BTA_List_Terra.csv
   File: itemCollection_Weapons_rare.csv
 
 Tag: Weapon_Sirocco
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_Sirocco
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: Weapon_VRM_VRM12
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_VRM_VRM12
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: Weapon_VRM_VRM18
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_VRM_VRM18
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: Weapon_VRM_VRM24
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_VRM_VRM24
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: Weapon_VRM_VRM6
+---------------------------
   File: BTA_Weapons_Loot_Sanctuary.csv
-
-Tag: Weapon_VRM_VRM6
   File: itemCollection_faction_JacobsonHaven.csv
 
 Tag: Weapon_iMML_3
+---------------------------
   File: itemCollection_faction_Outworld.csv
 
 Tag: Weapon_iMML_5
+---------------------------
   File: itemCollection_faction_Outworld.csv
 
 Tag: Weapon_iMML_7
+---------------------------
   File: itemCollection_faction_Outworld.csv
 
 Tag: Weapon_iMML_9
+---------------------------
   File: itemCollection_faction_Outworld.csv
-
 
