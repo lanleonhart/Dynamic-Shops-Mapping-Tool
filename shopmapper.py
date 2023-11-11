@@ -3,7 +3,7 @@ import csv
 from collections import defaultdict
 
 def process_folder(root_folder):
-    tag_entries = defaultdict(list)
+    tag_entries = defaultdict(lambda: defaultdict(list))
 
     for root, dirs, files in os.walk(root_folder):
         for file in files:
@@ -18,22 +18,23 @@ def process_folder(root_folder):
                         tag = row[0] if row else None  # Assuming the tag is in the first column
                         if tag:
                             tag_prefix = tag.split('_')[0]
-                            entry = f'Tag: {tag}\n  File: {os.path.basename(file_path)}\n'
-                            tag_entries[tag_prefix].append(entry)
+                            entry = f'  File: {os.path.basename(file_path)}'
+                            tag_entries[tag_prefix][tag].append(entry)
 
     return tag_entries
 
 def write_to_text(tag_entries, output_folder='shopmapper'):
     os.makedirs(output_folder, exist_ok=True)
 
-    for tag_prefix in sorted(tag_entries.keys()):
+    for tag_prefix, tags in tag_entries.items():
         output_text_path = os.path.join(output_folder, f"{tag_prefix}_output.txt")
 
         with open(output_text_path, 'w') as text_file:
-            for entry in sorted(tag_entries[tag_prefix]):
-                text_file.write(entry)
-                text_file.write('\n')  # Add an extra line break between each entry
-            text_file.write('\n')
+            for tag, entries in sorted(tags.items()):
+                text_file.write(f'Tag: {tag}\n')
+                for entry in entries:
+                    text_file.write(entry + '\n')
+                text_file.write('\n')
 
         print(f"Text document saved to {output_text_path}")
 
