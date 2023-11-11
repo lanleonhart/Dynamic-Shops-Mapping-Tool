@@ -10,3 +10,8 @@ How to Use
 -Extract the files into the DynamicShops folder.
 -Open Command Prompt type python  COMPLETEPATHTOFOLDER\DynamicShops\shopmapper.py
 -The data will be output to the shopmapper folder in a txt
+
+
+
+![shopmapper](https://github.com/lanleonhart/Dynamic-Shops-Mapping-Tool/assets/20054743/8165c683-b146-48f2-a1f8-dfc7ca04f1c4)
+
