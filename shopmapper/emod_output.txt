@@ -1,0 +1,1906 @@
+Tag: emod_SHIELD
+  File: BTA_Upgrades_Sanctuary.csv
+
+Tag: emod_arm_part_hand
+  File: BTA_Actuators.csv
+
+Tag: emod_arm_part_lower
+  File: BTA_Actuators.csv
+
+Tag: emod_armorslots_clanferrosfibrous
+  File: BTAClan_Upgrades.csv
+
+Tag: emod_armorslots_clanferrosfibrous
+  File: BTAClan_Upgrades_Rare.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_AixLaChapelle.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_AlNair.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_Asuncion.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_Bernardo.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_Betelgeuse.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_Bristol.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_Carlisle.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_Crofton.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_Detroit.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_EpsilonEridani.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_HesperusII.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_Loxley.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_Marduk.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_Nanking.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_NewAvalon.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_NewEarth.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_NewSyrtis.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_Northwind.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_Orestes.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_Panpour.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_Quentin.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_Sian.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_Stewart.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_Storfors.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_Taurus.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_Tematagi.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_Terra.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_Thermopolis.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_Wallis.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: BTA_List_Wernke.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: ItemCollection_Internals_IS.csv
+
+Tag: emod_armorslots_ferrosfibrous
+  File: itemCollection_faction_Hanse.csv
+
+Tag: emod_armorslots_heavyferrosfibrous
+  File: ItemCollection_Internals_IS.csv
+
+Tag: emod_armorslots_lightferrosfibrous
+  File: ItemCollection_Internals_IS.csv
+
+Tag: emod_armorslots_sanctuaryferrofibrous
+  File: BTA_Upgrades_Sanctuary.csv
+
+Tag: emod_armorslots_sanctuaryferrofibrous
+  File: itemCollection_faction_DaneSacellum.csv
+
+Tag: emod_armorslots_sanctuaryferrofibrous
+  File: itemCollection_faction_JacobsonHaven.csv
+
+Tag: emod_armorslots_sanctuaryferrofibrous
+  File: itemCollection_faction_MallardRepublic.csv
+
+Tag: emod_armorslots_sanctuaryferrovanadium
+  File: BTA_Upgrades_Sanctuary.csv
+
+Tag: emod_armorslots_sanctuaryferrovanadium
+  File: itemCollection_faction_DaneSacellum.csv
+
+Tag: emod_armorslots_sanctuaryferrovanadium
+  File: itemCollection_faction_JacobsonHaven.csv
+
+Tag: emod_armorslots_sanctuaryferrovanadium
+  File: itemCollection_faction_MallardRepublic.csv
+
+Tag: emod_armorslots_stealth
+  File: BTA_List_Capella.csv
+
+Tag: emod_armorslots_stealth
+  File: BTA_List_Sian.csv
+
+Tag: emod_armorslots_stealth
+  File: BTA_List_StIves.csv
+
+Tag: emod_armorslots_stealth
+  File: ItemCollection_Internals_IS_Rare.csv
+
+Tag: emod_armorslots_stealth
+  File: itemCollection_faction_Liao.csv
+
+Tag: emod_armorslots_ultraferrofibrous
+  File: itemCollection_faction_Davion.csv
+
+Tag: emod_case
+  File: itemCollection_faction_Hanse.csv
+
+Tag: emod_case2
+  File: itemCollection_faction_Rim.csv
+
+Tag: emod_clancase2
+  File: BTAClan_Upgrades_Rare.csv
+
+Tag: emod_engine_040
+  File: BTA_List_Indicass.csv
+
+Tag: emod_engine_040
+  File: BTA_List_Kalidasa.csv
+
+Tag: emod_engine_040
+  File: BTA_List_Taurus.csv
+
+Tag: emod_engine_040
+  File: BTA_List_Terra.csv
+
+Tag: emod_engine_060
+  File: BTA_List_Ares.csv
+
+Tag: emod_engine_060
+  File: BTA_List_Betelgeuse.csv
+
+Tag: emod_engine_060
+  File: BTA_List_Kalidasa.csv
+
+Tag: emod_engine_060
+  File: BTA_List_Richvale.csv
+
+Tag: emod_engine_060
+  File: BTA_List_Sian.csv
+
+Tag: emod_engine_060
+  File: BTA_List_Terra.csv
+
+Tag: emod_engine_060
+  File: ItemCollection_Core_0_200.csv
+
+Tag: emod_engine_075
+  File: BTA_List_Kalidasa.csv
+
+Tag: emod_engine_075
+  File: BTA_List_Terra.csv
+
+Tag: emod_engine_080
+  File: BTA_List_Kalidasa.csv
+
+Tag: emod_engine_090
+  File: BTA_List_AlNair.csv
+
+Tag: emod_engine_090
+  File: BTA_List_Rondane.csv
+
+Tag: emod_engine_095
+  File: BTA_List_Antwerp.csv
+
+Tag: emod_engine_100
+  File: BTA_List_Ares.csv
+
+Tag: emod_engine_100
+  File: BTA_List_Irian.csv
+
+Tag: emod_engine_100
+  File: BTA_List_Kalidasa.csv
+
+Tag: emod_engine_100
+  File: BTA_List_Layover.csv
+
+Tag: emod_engine_100
+  File: BTA_List_Oliver.csv
+
+Tag: emod_engine_100
+  File: BTA_List_Richvale.csv
+
+Tag: emod_engine_100
+  File: BTA_List_Sian.csv
+
+Tag: emod_engine_100
+  File: BTA_List_Taurus.csv
+
+Tag: emod_engine_100
+  File: BTA_List_Terra.csv
+
+Tag: emod_engine_100
+  File: BTA_List_Wernke.csv
+
+Tag: emod_engine_100
+  File: ItemCollection_Core_0_200.csv
+
+Tag: emod_engine_105
+  File: BTA_List_AlNair.csv
+
+Tag: emod_engine_105
+  File: BTA_List_Johnsondale.csv
+
+Tag: emod_engine_105
+  File: ItemCollection_Core_0_200.csv
+
+Tag: emod_engine_110
+  File: ItemCollection_Core_0_200.csv
+
+Tag: emod_engine_115
+  File: ItemCollection_Core_0_200.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Andurien.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Antwerp.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Ares.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Asuncion.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Bernardo.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Calloway.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Canopus.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Coventry.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Detroit.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Dunianshire.csv
+
+Tag: emod_engine_120
+  File: BTA_List_GrandBase.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Kendall.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Keystone.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Layover.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Mechdur.csv
+
+Tag: emod_engine_120
+  File: BTA_List_NewAvalon.csv
+
+Tag: emod_engine_120
+  File: BTA_List_NewVandenburg.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Oliver.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Praxton.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Quentin.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Richvale.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Shiro.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Sian.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Talcott.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Terra.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Tharkad.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Tukayyid.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Victoria.csv
+
+Tag: emod_engine_120
+  File: BTA_List_Warlock.csv
+
+Tag: emod_engine_120
+  File: ItemCollection_Core_0_200.csv
+
+Tag: emod_engine_125
+  File: ItemCollection_Core_0_200.csv
+
+Tag: emod_engine_130
+  File: ItemCollection_Core_0_200.csv
+
+Tag: emod_engine_135
+  File: ItemCollection_Core_0_200.csv
+
+Tag: emod_engine_140
+  File: BTA_List_AlNair.csv
+
+Tag: emod_engine_140
+  File: BTA_List_Coventry.csv
+
+Tag: emod_engine_140
+  File: BTA_List_Indicass.csv
+
+Tag: emod_engine_140
+  File: BTA_List_Kalidasa.csv
+
+Tag: emod_engine_140
+  File: BTA_List_Luthien.csv
+
+Tag: emod_engine_140
+  File: BTA_List_NewSamarkand.csv
+
+Tag: emod_engine_140
+  File: BTA_List_Tharkad.csv
+
+Tag: emod_engine_140
+  File: ItemCollection_Core_0_200.csv
+
+Tag: emod_engine_145
+  File: BTA_List_Alphard_Marian.csv
+
+Tag: emod_engine_145
+  File: BTA_List_Crofton.csv
+
+Tag: emod_engine_145
+  File: BTA_List_Stewart.csv
+
+Tag: emod_engine_145
+  File: ItemCollection_Core_0_200.csv
+
+Tag: emod_engine_150
+  File: BTA_List_Alphard_Marian.csv
+
+Tag: emod_engine_150
+  File: BTA_List_Aur.csv
+
+Tag: emod_engine_150
+  File: BTA_List_Coventry.csv
+
+Tag: emod_engine_150
+  File: BTA_List_Demeter.csv
+
+Tag: emod_engine_150
+  File: BTA_List_Ingvolstand.csv
+
+Tag: emod_engine_150
+  File: BTA_List_NewAvalon.csv
+
+Tag: emod_engine_150
+  File: BTA_List_NewVandenburg.csv
+
+Tag: emod_engine_150
+  File: BTA_List_Outreach.csv
+
+Tag: emod_engine_150
+  File: BTA_List_Tortuga_Prime.csv
+
+Tag: emod_engine_150
+  File: ItemCollection_Core_0_200.csv
+
+Tag: emod_engine_155
+  File: ItemCollection_Core_0_200.csv
+
+Tag: emod_engine_160
+  File: BTA_List_Alphard_Marian.csv
+
+Tag: emod_engine_160
+  File: BTA_List_Ares.csv
+
+Tag: emod_engine_160
+  File: BTA_List_Benjamin.csv
+
+Tag: emod_engine_160
+  File: BTA_List_Canopus.csv
+
+Tag: emod_engine_160
+  File: BTA_List_Gibson.csv
+
+Tag: emod_engine_160
+  File: BTA_List_Mechdur.csv
+
+Tag: emod_engine_160
+  File: BTA_List_NewAvalon.csv
+
+Tag: emod_engine_160
+  File: BTA_List_Perdition.csv
+
+Tag: emod_engine_160
+  File: BTA_List_Praxton.csv
+
+Tag: emod_engine_160
+  File: BTA_List_Qandahar.csv
+
+Tag: emod_engine_160
+  File: BTA_List_Robinson.csv
+
+Tag: emod_engine_160
+  File: BTA_List_Stewart.csv
+
+Tag: emod_engine_160
+  File: BTA_List_Taurus.csv
+
+Tag: emod_engine_160
+  File: BTA_List_Tharkad.csv
+
+Tag: emod_engine_160
+  File: ItemCollection_Core_0_200.csv
+
+Tag: emod_engine_165
+  File: ItemCollection_Core_0_200.csv
+
+Tag: emod_engine_170
+  File: ItemCollection_Core_0_200.csv
+
+Tag: emod_engine_175
+  File: BTA_List_Antwerp.csv
+
+Tag: emod_engine_175
+  File: BTA_List_Coventry.csv
+
+Tag: emod_engine_175
+  File: BTA_List_Luthien.csv
+
+Tag: emod_engine_175
+  File: BTA_List_Praxton.csv
+
+Tag: emod_engine_175
+  File: BTA_List_Sian.csv
+
+Tag: emod_engine_175
+  File: BTA_List_Taurus.csv
+
+Tag: emod_engine_175
+  File: BTA_List_Terra.csv
+
+Tag: emod_engine_175
+  File: BTA_List_Tharkad.csv
+
+Tag: emod_engine_175
+  File: ItemCollection_Core_0_200.csv
+
+Tag: emod_engine_180
+  File: BTA_List_Andurien.csv
+
+Tag: emod_engine_180
+  File: BTA_List_Ares.csv
+
+Tag: emod_engine_180
+  File: BTA_List_Aur.csv
+
+Tag: emod_engine_180
+  File: BTA_List_Capella.csv
+
+Tag: emod_engine_180
+  File: BTA_List_Carlisle.csv
+
+Tag: emod_engine_180
+  File: BTA_List_Indicass.csv
+
+Tag: emod_engine_180
+  File: BTA_List_Kendall.csv
+
+Tag: emod_engine_180
+  File: BTA_List_Layover.csv
+
+Tag: emod_engine_180
+  File: BTA_List_Mechdur.csv
+
+Tag: emod_engine_180
+  File: BTA_List_Oliver.csv
+
+Tag: emod_engine_180
+  File: BTA_List_Outreach.csv
+
+Tag: emod_engine_180
+  File: BTA_List_Quentin.csv
+
+Tag: emod_engine_180
+  File: BTA_List_Richvale.csv
+
+Tag: emod_engine_180
+  File: BTA_List_StIves.csv
+
+Tag: emod_engine_180
+  File: BTA_List_Talcott.csv
+
+Tag: emod_engine_180
+  File: BTA_List_Taurus.csv
+
+Tag: emod_engine_180
+  File: BTA_List_Terra.csv
+
+Tag: emod_engine_180
+  File: ItemCollection_Core_0_200.csv
+
+Tag: emod_engine_185
+  File: BTA_List_Terra.csv
+
+Tag: emod_engine_185
+  File: ItemCollection_Core_0_200.csv
+
+Tag: emod_engine_190
+  File: BTA_List_NewEarth.csv
+
+Tag: emod_engine_190
+  File: BTA_List_Panpour.csv
+
+Tag: emod_engine_190
+  File: ItemCollection_Core_0_200.csv
+
+Tag: emod_engine_195
+  File: BTA_List_Aur.csv
+
+Tag: emod_engine_195
+  File: ItemCollection_Core_0_200.csv
+
+Tag: emod_engine_200
+  File: BTA_List_AixLaChapelle.csv
+
+Tag: emod_engine_200
+  File: BTA_List_Antwerp.csv
+
+Tag: emod_engine_200
+  File: BTA_List_Aur.csv
+
+Tag: emod_engine_200
+  File: BTA_List_Betelgeuse.csv
+
+Tag: emod_engine_200
+  File: BTA_List_Capella.csv
+
+Tag: emod_engine_200
+  File: BTA_List_Coventry.csv
+
+Tag: emod_engine_200
+  File: BTA_List_Irian.csv
+
+Tag: emod_engine_200
+  File: BTA_List_Kalidasa.csv
+
+Tag: emod_engine_200
+  File: BTA_List_Luthien.csv
+
+Tag: emod_engine_200
+  File: BTA_List_NewEarth.csv
+
+Tag: emod_engine_200
+  File: BTA_List_NewSamarkand.csv
+
+Tag: emod_engine_200
+  File: BTA_List_NewVandenburg.csv
+
+Tag: emod_engine_200
+  File: BTA_List_Oliver.csv
+
+Tag: emod_engine_200
+  File: BTA_List_Qandahar.csv
+
+Tag: emod_engine_200
+  File: BTA_List_Shiro.csv
+
+Tag: emod_engine_200
+  File: BTA_List_Stewart.csv
+
+Tag: emod_engine_200
+  File: BTA_List_Talcott.csv
+
+Tag: emod_engine_200
+  File: BTA_List_Terra.csv
+
+Tag: emod_engine_200
+  File: BTA_List_Tikonov.csv
+
+Tag: emod_engine_200
+  File: BTA_List_Tukayyid.csv
+
+Tag: emod_engine_200
+  File: BTA_List_Warlock.csv
+
+Tag: emod_engine_200
+  File: ItemCollection_Core_0_200.csv
+
+Tag: emod_engine_205
+  File: ItemCollection_Core_205_300.csv
+
+Tag: emod_engine_210
+  File: BTA_List_Corey.csv
+
+Tag: emod_engine_210
+  File: BTA_List_Coventry.csv
+
+Tag: emod_engine_210
+  File: BTA_List_GrandBase.csv
+
+Tag: emod_engine_210
+  File: BTA_List_Irian.csv
+
+Tag: emod_engine_210
+  File: BTA_List_Kendall.csv
+
+Tag: emod_engine_210
+  File: BTA_List_Sian.csv
+
+Tag: emod_engine_210
+  File: BTA_List_Talcott.csv
+
+Tag: emod_engine_210
+  File: BTA_List_Terra.csv
+
+Tag: emod_engine_210
+  File: BTA_List_Tharkad.csv
+
+Tag: emod_engine_210
+  File: BTA_List_Vendrell.csv
+
+Tag: emod_engine_210
+  File: ItemCollection_Core_205_300.csv
+
+Tag: emod_engine_215
+  File: BTA_List_Richvale.csv
+
+Tag: emod_engine_215
+  File: ItemCollection_Core_205_300.csv
+
+Tag: emod_engine_220
+  File: BTA_List_Antwerp.csv
+
+Tag: emod_engine_220
+  File: BTA_List_Luthien.csv
+
+Tag: emod_engine_220
+  File: BTA_List_NewAvalon.csv
+
+Tag: emod_engine_220
+  File: BTA_List_NewEarth.csv
+
+Tag: emod_engine_220
+  File: BTA_List_Northwind.csv
+
+Tag: emod_engine_220
+  File: BTA_List_Outreach.csv
+
+Tag: emod_engine_220
+  File: BTA_List_Proserpina.csv
+
+Tag: emod_engine_220
+  File: BTA_List_Talcott.csv
+
+Tag: emod_engine_220
+  File: BTA_List_Taurus.csv
+
+Tag: emod_engine_220
+  File: BTA_List_Terra.csv
+
+Tag: emod_engine_220
+  File: ItemCollection_Core_205_300.csv
+
+Tag: emod_engine_225
+  File: BTA_List_Antwerp.csv
+
+Tag: emod_engine_225
+  File: BTA_List_Aur.csv
+
+Tag: emod_engine_225
+  File: BTA_List_Betelgeuse.csv
+
+Tag: emod_engine_225
+  File: BTA_List_Capella.csv
+
+Tag: emod_engine_225
+  File: BTA_List_Coventry.csv
+
+Tag: emod_engine_225
+  File: BTA_List_EpsilonEridani.csv
+
+Tag: emod_engine_225
+  File: BTA_List_NewSyrtis.csv
+
+Tag: emod_engine_225
+  File: BTA_List_Talcott.csv
+
+Tag: emod_engine_225
+  File: BTA_List_Terra.csv
+
+Tag: emod_engine_225
+  File: ItemCollection_Core_205_300.csv
+
+Tag: emod_engine_230
+  File: ItemCollection_Core_205_300.csv
+
+Tag: emod_engine_235
+  File: BTA_List_Antwerp.csv
+
+Tag: emod_engine_235
+  File: ItemCollection_Core_205_300.csv
+
+Tag: emod_engine_240
+  File: BTA_List_AlNair.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Ares.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Aur.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Betelgeuse.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Capella.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Detroit.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Dunianshire.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Edasich.csv
+
+Tag: emod_engine_240
+  File: BTA_List_EpsilonEridani.csv
+
+Tag: emod_engine_240
+  File: BTA_List_GrandBase.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Irian.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Lapida.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Loyalty.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Menke.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Nanking.csv
+
+Tag: emod_engine_240
+  File: BTA_List_NewAvalon.csv
+
+Tag: emod_engine_240
+  File: BTA_List_NewSamarkand.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Oliver.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Paradise.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Proserpina.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Qandahar.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Quentin.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Savannah.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Sevon.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Shiro.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Stewart.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Talcott.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Tematagi.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Terra.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Thermopolis.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Warlock.csv
+
+Tag: emod_engine_240
+  File: BTA_List_Wernke.csv
+
+Tag: emod_engine_240
+  File: ItemCollection_Core_205_300.csv
+
+Tag: emod_engine_245
+  File: BTA_List_Aur.csv
+
+Tag: emod_engine_245
+  File: BTA_List_Loxley.csv
+
+Tag: emod_engine_245
+  File: BTA_List_Luthien.csv
+
+Tag: emod_engine_245
+  File: BTA_List_Tharkad.csv
+
+Tag: emod_engine_245
+  File: ItemCollection_Core_205_300.csv
+
+Tag: emod_engine_250
+  File: BTA_List_Aur.csv
+
+Tag: emod_engine_250
+  File: BTA_List_Corey.csv
+
+Tag: emod_engine_250
+  File: BTA_List_Inarcs.csv
+
+Tag: emod_engine_250
+  File: BTA_List_Irian.csv
+
+Tag: emod_engine_250
+  File: BTA_List_Kalidasa.csv
+
+Tag: emod_engine_250
+  File: BTA_List_Layover.csv
+
+Tag: emod_engine_250
+  File: BTA_List_Loxley.csv
+
+Tag: emod_engine_250
+  File: BTA_List_NewAvalon.csv
+
+Tag: emod_engine_250
+  File: BTA_List_NewEarth.csv
+
+Tag: emod_engine_250
+  File: BTA_List_NewVandenburg.csv
+
+Tag: emod_engine_250
+  File: BTA_List_Northwind.csv
+
+Tag: emod_engine_250
+  File: BTA_List_Orestes.csv
+
+Tag: emod_engine_250
+  File: BTA_List_Otisberg.csv
+
+Tag: emod_engine_250
+  File: BTA_List_Sevon.csv
+
+Tag: emod_engine_250
+  File: BTA_List_Sian.csv
+
+Tag: emod_engine_250
+  File: BTA_List_Stewart.csv
+
+Tag: emod_engine_250
+  File: BTA_List_Talcott.csv
+
+Tag: emod_engine_250
+  File: BTA_List_Taurus.csv
+
+Tag: emod_engine_250
+  File: BTA_List_Wernke.csv
+
+Tag: emod_engine_250
+  File: ItemCollection_Core_205_300.csv
+
+Tag: emod_engine_255
+  File: BTA_List_Antwerp.csv
+
+Tag: emod_engine_255
+  File: BTA_List_Aur.csv
+
+Tag: emod_engine_255
+  File: BTA_List_Crofton.csv
+
+Tag: emod_engine_255
+  File: BTA_List_Edasich.csv
+
+Tag: emod_engine_255
+  File: BTA_List_Emris.csv
+
+Tag: emod_engine_255
+  File: BTA_List_Grumium.csv
+
+Tag: emod_engine_255
+  File: BTA_List_Loburg.csv
+
+Tag: emod_engine_255
+  File: BTA_List_NewAvalon.csv
+
+Tag: emod_engine_255
+  File: BTA_List_Quentin.csv
+
+Tag: emod_engine_255
+  File: BTA_List_Shiro.csv
+
+Tag: emod_engine_255
+  File: BTA_List_Soul.csv
+
+Tag: emod_engine_255
+  File: BTA_List_StIves.csv
+
+Tag: emod_engine_255
+  File: BTA_List_Terra.csv
+
+Tag: emod_engine_255
+  File: ItemCollection_Core_205_300.csv
+
+Tag: emod_engine_260
+  File: BTA_List_AlNair.csv
+
+Tag: emod_engine_260
+  File: BTA_List_Asuncion.csv
+
+Tag: emod_engine_260
+  File: BTA_List_Canopus.csv
+
+Tag: emod_engine_260
+  File: BTA_List_Carlisle.csv
+
+Tag: emod_engine_260
+  File: BTA_List_Corey.csv
+
+Tag: emod_engine_260
+  File: BTA_List_Edasich.csv
+
+Tag: emod_engine_260
+  File: BTA_List_Kathil.csv
+
+Tag: emod_engine_260
+  File: BTA_List_Keystone.csv
+
+Tag: emod_engine_260
+  File: BTA_List_Oliver.csv
+
+Tag: emod_engine_260
+  File: BTA_List_Quentin.csv
+
+Tag: emod_engine_260
+  File: BTA_List_Styk.csv
+
+Tag: emod_engine_260
+  File: BTA_List_Talcott.csv
+
+Tag: emod_engine_260
+  File: BTA_List_Taurus.csv
+
+Tag: emod_engine_260
+  File: BTA_List_Terra.csv
+
+Tag: emod_engine_260
+  File: BTA_List_Tharkad.csv
+
+Tag: emod_engine_260
+  File: BTA_List_Tharkad.csv
+
+Tag: emod_engine_260
+  File: BTA_List_Vega.csv
+
+Tag: emod_engine_260
+  File: BTA_List_Wernke.csv
+
+Tag: emod_engine_260
+  File: ItemCollection_Core_205_300.csv
+
+Tag: emod_engine_265
+  File: BTA_List_NewSyrtis.csv
+
+Tag: emod_engine_265
+  File: BTA_List_Taurus.csv
+
+Tag: emod_engine_265
+  File: ItemCollection_Core_205_300.csv
+
+Tag: emod_engine_270
+  File: BTA_List_Antwerp.csv
+
+Tag: emod_engine_270
+  File: BTA_List_Coventry.csv
+
+Tag: emod_engine_270
+  File: BTA_List_Crofton.csv
+
+Tag: emod_engine_270
+  File: BTA_List_Emris.csv
+
+Tag: emod_engine_270
+  File: BTA_List_Grumium.csv
+
+Tag: emod_engine_270
+  File: BTA_List_Irian.csv
+
+Tag: emod_engine_270
+  File: BTA_List_Keystone.csv
+
+Tag: emod_engine_270
+  File: BTA_List_Luthien.csv
+
+Tag: emod_engine_270
+  File: BTA_List_Menke.csv
+
+Tag: emod_engine_270
+  File: BTA_List_Nanking.csv
+
+Tag: emod_engine_270
+  File: BTA_List_NewSamarkand.csv
+
+Tag: emod_engine_270
+  File: BTA_List_Orestes.csv
+
+Tag: emod_engine_270
+  File: BTA_List_Qandahar.csv
+
+Tag: emod_engine_270
+  File: BTA_List_SonHoa.csv
+
+Tag: emod_engine_270
+  File: BTA_List_StIves.csv
+
+Tag: emod_engine_270
+  File: BTA_List_Talcott.csv
+
+Tag: emod_engine_270
+  File: BTA_List_Terra.csv
+
+Tag: emod_engine_270
+  File: BTA_List_Tukayyid.csv
+
+Tag: emod_engine_270
+  File: ItemCollection_Core_205_300.csv
+
+Tag: emod_engine_275
+  File: BTA_List_Calloway.csv
+
+Tag: emod_engine_275
+  File: BTA_List_Gibson.csv
+
+Tag: emod_engine_275
+  File: BTA_List_GrandBase.csv
+
+Tag: emod_engine_275
+  File: BTA_List_Keystone.csv
+
+Tag: emod_engine_275
+  File: BTA_List_Mechdur.csv
+
+Tag: emod_engine_275
+  File: BTA_List_Nanking.csv
+
+Tag: emod_engine_275
+  File: BTA_List_NewAvalon.csv
+
+Tag: emod_engine_275
+  File: BTA_List_NewVandenburg.csv
+
+Tag: emod_engine_275
+  File: BTA_List_Oliver.csv
+
+Tag: emod_engine_275
+  File: BTA_List_Orestes.csv
+
+Tag: emod_engine_275
+  File: BTA_List_Outreach.csv
+
+Tag: emod_engine_275
+  File: BTA_List_Tharkad.csv
+
+Tag: emod_engine_275
+  File: BTA_List_Thermopolis.csv
+
+Tag: emod_engine_275
+  File: BTA_List_Tukayyid.csv
+
+Tag: emod_engine_275
+  File: BTA_List_Wernke.csv
+
+Tag: emod_engine_280
+  File: BTA_List_Alarion.csv
+
+Tag: emod_engine_280
+  File: BTA_List_Bryant.csv
+
+Tag: emod_engine_280
+  File: BTA_List_Calloway.csv
+
+Tag: emod_engine_280
+  File: BTA_List_Coventry.csv
+
+Tag: emod_engine_280
+  File: BTA_List_Crofton.csv
+
+Tag: emod_engine_280
+  File: BTA_List_Edasich.csv
+
+Tag: emod_engine_280
+  File: BTA_List_Emris.csv
+
+Tag: emod_engine_280
+  File: BTA_List_GrandBase.csv
+
+Tag: emod_engine_280
+  File: BTA_List_HunHo.csv
+
+Tag: emod_engine_280
+  File: BTA_List_Irian.csv
+
+Tag: emod_engine_280
+  File: BTA_List_Kathil.csv
+
+Tag: emod_engine_280
+  File: BTA_List_Luthien.csv
+
+Tag: emod_engine_280
+  File: BTA_List_Marduk.csv
+
+Tag: emod_engine_280
+  File: BTA_List_NewVandenburg.csv
+
+Tag: emod_engine_280
+  File: BTA_List_Orestes.csv
+
+Tag: emod_engine_280
+  File: BTA_List_Sian.csv
+
+Tag: emod_engine_280
+  File: BTA_List_SonHoa.csv
+
+Tag: emod_engine_280
+  File: BTA_List_Stewart.csv
+
+Tag: emod_engine_280
+  File: BTA_List_Talcott.csv
+
+Tag: emod_engine_280
+  File: BTA_List_Taurus.csv
+
+Tag: emod_engine_280
+  File: BTA_List_Terra.csv
+
+Tag: emod_engine_280
+  File: BTA_List_Tikonov.csv
+
+Tag: emod_engine_280
+  File: BTA_List_Wallis.csv
+
+Tag: emod_engine_280
+  File: BTA_List_Wernke.csv
+
+Tag: emod_engine_285
+  File: BTA_List_Aur.csv
+
+Tag: emod_engine_285
+  File: BTA_List_Coventry.csv
+
+Tag: emod_engine_285
+  File: BTA_List_Kathil.csv
+
+Tag: emod_engine_285
+  File: BTA_List_Nanking.csv
+
+Tag: emod_engine_285
+  File: BTA_List_NewEarth.csv
+
+Tag: emod_engine_285
+  File: BTA_List_NewVandenburg.csv
+
+Tag: emod_engine_285
+  File: BTA_List_Orestes.csv
+
+Tag: emod_engine_285
+  File: BTA_List_Shiro.csv
+
+Tag: emod_engine_285
+  File: BTA_List_Stewart.csv
+
+Tag: emod_engine_285
+  File: BTA_List_Terra.csv
+
+Tag: emod_engine_285
+  File: ItemCollection_Core_205_300.csv
+
+Tag: emod_engine_290
+  File: BTA_List_Antwerp.csv
+
+Tag: emod_engine_290
+  File: ItemCollection_Core_205_300.csv
+
+Tag: emod_engine_295
+  File: ItemCollection_Core_205_300.csv
+
+Tag: emod_engine_300
+  File: BTA_List_AlNair.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Antwerp.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Aur.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Carlisle.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Circinus.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Connaugh.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Edasich.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Gibson.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Irian.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Kalidasa.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Kathil.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Kendall.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Luthien.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Marduk.csv
+
+Tag: emod_engine_300
+  File: BTA_List_NewAvalon.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Northwind.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Outreach.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Qandahar.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Robinson.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Savannah.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Shiro.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Talcott.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Taurus.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Terra.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Togura.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Tukayyid.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Wallis.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Warlock.csv
+
+Tag: emod_engine_300
+  File: BTA_List_Wernke.csv
+
+Tag: emod_engine_300
+  File: ItemCollection_Core_205_300.csv
+
+Tag: emod_engine_305
+  File: ItemCollection_Core_305_400.csv
+
+Tag: emod_engine_310
+  File: ItemCollection_Core_305_400.csv
+
+Tag: emod_engine_315
+  File: BTA_List_Aur.csv
+
+Tag: emod_engine_315
+  File: ItemCollection_Core_305_400.csv
+
+Tag: emod_engine_320
+  File: BTA_List_AlNair.csv
+
+Tag: emod_engine_320
+  File: BTA_List_Aur.csv
+
+Tag: emod_engine_320
+  File: BTA_List_Bristol.csv
+
+Tag: emod_engine_320
+  File: BTA_List_Gibson.csv
+
+Tag: emod_engine_320
+  File: BTA_List_Irian.csv
+
+Tag: emod_engine_320
+  File: BTA_List_Kathil.csv
+
+Tag: emod_engine_320
+  File: BTA_List_Keystone.csv
+
+Tag: emod_engine_320
+  File: BTA_List_Luthien.csv
+
+Tag: emod_engine_320
+  File: BTA_List_Praxton.csv
+
+Tag: emod_engine_320
+  File: BTA_List_Robinson.csv
+
+Tag: emod_engine_320
+  File: BTA_List_Savannah.csv
+
+Tag: emod_engine_320
+  File: BTA_List_Stewart.csv
+
+Tag: emod_engine_320
+  File: BTA_List_Talcott.csv
+
+Tag: emod_engine_320
+  File: ItemCollection_Core_305_400.csv
+
+Tag: emod_engine_325
+  File: BTA_List_Antwerp.csv
+
+Tag: emod_engine_325
+  File: BTA_List_Quentin.csv
+
+Tag: emod_engine_325
+  File: BTA_List_Taurus.csv
+
+Tag: emod_engine_325
+  File: BTA_List_Wernke.csv
+
+Tag: emod_engine_325
+  File: ItemCollection_Core_305_400.csv
+
+Tag: emod_engine_330
+  File: BTA_List_Antwerp.csv
+
+Tag: emod_engine_330
+  File: BTA_List_Edasich.csv
+
+Tag: emod_engine_330
+  File: ItemCollection_Core_305_400.csv
+
+Tag: emod_engine_335
+  File: ItemCollection_Core_305_400.csv
+
+Tag: emod_engine_340
+  File: BTA_List_Antwerp.csv
+
+Tag: emod_engine_340
+  File: BTA_List_Aur.csv
+
+Tag: emod_engine_340
+  File: BTA_List_Crofton.csv
+
+Tag: emod_engine_340
+  File: BTA_List_Keystone.csv
+
+Tag: emod_engine_340
+  File: BTA_List_Soul.csv
+
+Tag: emod_engine_340
+  File: BTA_List_Wernke.csv
+
+Tag: emod_engine_340
+  File: ItemCollection_Core_305_400.csv
+
+Tag: emod_engine_345
+  File: ItemCollection_Core_305_400.csv
+
+Tag: emod_engine_350
+  File: BTA_List_Capella.csv
+
+Tag: emod_engine_350
+  File: BTA_List_Crofton.csv
+
+Tag: emod_engine_350
+  File: BTA_List_Sian.csv
+
+Tag: emod_engine_350
+  File: BTA_List_StIves.csv
+
+Tag: emod_engine_350
+  File: BTA_List_Tharkad.csv
+
+Tag: emod_engine_350
+  File: ItemCollection_Core_305_400.csv
+
+Tag: emod_engine_355
+  File: ItemCollection_Core_305_400.csv
+
+Tag: emod_engine_360
+  File: BTA_List_Coventry.csv
+
+Tag: emod_engine_360
+  File: BTA_List_Dieron.csv
+
+Tag: emod_engine_360
+  File: BTA_List_Grumium.csv
+
+Tag: emod_engine_360
+  File: BTA_List_Irian.csv
+
+Tag: emod_engine_360
+  File: BTA_List_Luthien.csv
+
+Tag: emod_engine_360
+  File: BTA_List_Talcott.csv
+
+Tag: emod_engine_360
+  File: BTA_List_Terra.csv
+
+Tag: emod_engine_360
+  File: BTA_List_Yorii.csv
+
+Tag: emod_engine_360
+  File: ItemCollection_Core_305_400.csv
+
+Tag: emod_engine_365
+  File: ItemCollection_Core_305_400.csv
+
+Tag: emod_engine_370
+  File: ItemCollection_Core_305_400.csv
+
+Tag: emod_engine_375
+  File: BTA_List_Crofton.csv
+
+Tag: emod_engine_375
+  File: BTA_List_Kathil.csv
+
+Tag: emod_engine_375
+  File: BTA_List_Loburg.csv
+
+Tag: emod_engine_375
+  File: BTA_List_Talcott.csv
+
+Tag: emod_engine_375
+  File: BTA_List_Tharkad.csv
+
+Tag: emod_engine_375
+  File: BTA_List_Victoria.csv
+
+Tag: emod_engine_380
+  File: BTA_List_Aur.csv
+
+Tag: emod_engine_385
+  File: BTA_List_Paradise.csv
+
+Tag: emod_engine_385
+  File: BTA_List_Wernke.csv
+
+Tag: emod_engine_385
+  File: ItemCollection_Core_305_400.csv
+
+Tag: emod_engine_390
+  File: BTA_List_Aur.csv
+
+Tag: emod_engine_390
+  File: ItemCollection_Core_305_400.csv
+
+Tag: emod_engine_395
+  File: ItemCollection_Core_305_400.csv
+
+Tag: emod_engine_400
+  File: BTA_List_Aur.csv
+
+Tag: emod_engine_400
+  File: BTA_List_Keystone.csv
+
+Tag: emod_engine_400
+  File: BTA_List_Luthien.csv
+
+Tag: emod_engine_400
+  File: ItemCollection_Core_305_400.csv
+
+Tag: emod_engine_cooling_1
+  File: ItemCollection_ECoolant.csv
+
+Tag: emod_engine_cooling_2
+  File: ItemCollection_ECoolant.csv
+
+Tag: emod_engine_cooling_3
+  File: ItemCollection_ECoolant.csv
+
+Tag: emod_engine_cooling_4
+  File: ItemCollection_ECoolant.csv
+
+Tag: emod_engine_cooling_5
+  File: ItemCollection_ECoolant.csv
+
+Tag: emod_engine_cooling_6
+  File: ItemCollection_ECoolant.csv
+
+Tag: emod_engineslots_FuelCell
+  File: BTA_List_Rondane.csv
+
+Tag: emod_engineslots_FuelCell
+  File: BTA_List_Taurus.csv
+
+Tag: emod_engineslots_FuelCell
+  File: ItemCollection_HSKit.csv
+
+Tag: emod_engineslots_FuelCell
+  File: ItemCollection_Internals_IS.csv
+
+Tag: emod_engineslots_FuelCell
+  File: ItemCollection_Internals_IS_Rare.csv
+
+Tag: emod_engineslots_ICE_center
+  File: BTA_List_Rondane.csv
+
+Tag: emod_engineslots_compact_center
+  File: BTA_List_Edasich.csv
+
+Tag: emod_engineslots_compact_center
+  File: BTA_List_Irian.csv
+
+Tag: emod_engineslots_compact_center
+  File: BTA_List_Mechdur.csv
+
+Tag: emod_engineslots_compact_center
+  File: ItemCollection_Internals_IS.csv
+
+Tag: emod_engineslots_compact_center
+  File: ItemCollection_Internals_IS_Rare.csv
+
+Tag: emod_engineslots_dense_center
+  File: itemCollection_faction_DaneSacellum.csv
+
+Tag: emod_engineslots_dense_center
+  File: itemCollection_faction_JacobsonHaven.csv
+
+Tag: emod_engineslots_dense_center
+  File: itemCollection_faction_MallardRepublic.csv
+
+Tag: emod_engineslots_light_center
+  File: BTA_List_Aur.csv
+
+Tag: emod_engineslots_light_center
+  File: BTA_List_Carlisle.csv
+
+Tag: emod_engineslots_light_center
+  File: BTA_List_Coventry.csv
+
+Tag: emod_engineslots_light_center
+  File: BTA_List_Edasich.csv
+
+Tag: emod_engineslots_light_center
+  File: BTA_List_Keystone.csv
+
+Tag: emod_engineslots_light_center
+  File: BTA_List_Lapida.csv
+
+Tag: emod_engineslots_light_center
+  File: BTA_List_Luthien.csv
+
+Tag: emod_engineslots_light_center
+  File: BTA_List_Outreach.csv
+
+Tag: emod_engineslots_light_center
+  File: BTA_List_SonHoa.csv
+
+Tag: emod_engineslots_light_center
+  File: BTA_List_Talcott.csv
+
+Tag: emod_engineslots_light_center
+  File: BTA_List_Terra.csv
+
+Tag: emod_engineslots_light_center
+  File: BTA_List_Wernke.csv
+
+Tag: emod_engineslots_light_center
+  File: ItemCollection_Internals_IS_Rare.csv
+
+Tag: emod_engineslots_sxl_center
+  File: itemCollection_faction_DaneSacellum.csv
+
+Tag: emod_engineslots_sxl_center
+  File: itemCollection_faction_JacobsonHaven.csv
+
+Tag: emod_engineslots_sxl_center
+  File: itemCollection_faction_MallardRepublic.csv
+
+Tag: emod_engineslots_xXl_center
+  File: BTA_List_Keystone.csv
+
+Tag: emod_engineslots_xXl_center
+  File: BTA_List_Wernke.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_AlNair.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Asuncion.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Aur.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Betelgeuse.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Calloway.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Capella.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Carlisle.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Corey.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Coventry.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Crofton.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Dieron.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Edasich.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Emris.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_EpsilonEridani.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Gibson.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_GrandBase.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Inarcs.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Irian.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Kalidasa.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Kathil.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Kendall.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Keystone.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Loburg.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Loxley.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Luthien.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Marduk.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Menke.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Nanking.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_NewAvalon.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_NewEarth.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_NewSamarkand.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_NewSyrtis.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Northwind.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Oliver.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Outreach.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Paradise.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Qandahar.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Quentin.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Richvale.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Savannah.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Shiro.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Sian.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_SonHoa.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Soul.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_StIves.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Stewart.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Styk.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Talcott.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Taurus.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Tematagi.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Terra.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Tharkad.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Thermopolis.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Tikonov.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Vega.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Victoria.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Wallis.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Warlock.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Wernke.csv
+
+Tag: emod_engineslots_xl_center
+  File: BTA_List_Yorii.csv
+
+Tag: emod_engineslots_xl_center
+  File: ItemCollection_HSKit.csv
+
+Tag: emod_engineslots_xl_center
+  File: ItemCollection_Internals_IS.csv
+
+Tag: emod_engineslots_xl_center
+  File: ItemCollection_Internals_IS_Rare.csv
+
+Tag: emod_engineslots_xxl_center
+  File: BTA_List_Aur.csv
+
+Tag: emod_engineslots_xxl_center
+  File: BTA_List_Irian.csv
+
+Tag: emod_engineslots_xxl_center
+  File: BTA_List_Talcott.csv
+
+Tag: emod_engineslots_xxl_center
+  File: ItemCollection_Internals_IS_Rare.csv
+
+Tag: emod_kit_dhs
+  File: ItemCollection_HSKit.csv
+
+Tag: emod_kit_dhs
+  File: ItemCollection_Internals_IS.csv
+
+Tag: emod_kit_dhs
+  File: ItemCollection_Internals_IS_Rare.csv
+
+Tag: emod_kit_dhs_proto
+  File: itemCollection_faction_Delphi.csv
+
+Tag: emod_kit_dhs_proto
+  File: itemCollection_faction_Hanse.csv
+
+Tag: emod_kit_sdhs
+  File: itemCollection_faction_DaneSacellum.csv
+
+Tag: emod_kit_sdhs
+  File: itemCollection_faction_JacobsonHaven.csv
+
+Tag: emod_kit_sdhs
+  File: itemCollection_faction_MallardRepublic.csv
+
+

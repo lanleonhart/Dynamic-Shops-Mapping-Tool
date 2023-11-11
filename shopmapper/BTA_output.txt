@@ -1,0 +1,904 @@
+Tag: BTA_AMS
+  File: BTA_Honored_Outworld.csv
+
+Tag: BTA_AMS
+  File: BTA_SLDF.csv
+
+Tag: BTA_AMS_Start
+  File: itemCollection_HM_careerStarter_pack.csv
+
+Tag: BTA_Actuators
+  File: BTA_standard_Major.csv
+
+Tag: BTA_Actuators
+  File: BTA_standard_Minor.csv
+
+Tag: BTA_Actuators
+  File: BTA_standard_Periphery.csv
+
+Tag: BTA_Actuators
+  File: BTA_standard_Primitive.csv
+
+Tag: BTA_Actuators_Melee
+  File: BTA_Industrial.csv
+
+Tag: BTA_Actuators_Melee
+  File: BTA_List_Industrial.csv
+
+Tag: BTA_Ammo_Common
+  File: BTA_List_Battlefield.csv
+
+Tag: BTA_Ammo_Common
+  File: BTA_List_Industrial.csv
+
+Tag: BTA_Ammo_Common
+  File: BTA_List_Mining.csv
+
+Tag: BTA_Ammo_Common
+  File: BTA_List_Research.csv
+
+Tag: BTA_Ammo_Common
+  File: BTA_List_SLDF.csv
+
+Tag: BTA_Ammo_Common
+  File: ItemCollection_SS_Primitive.csv
+
+Tag: BTA_Ammo_Common
+  File: itemCollection_Ammo_all.csv
+
+Tag: BTA_Ammo_Common
+  File: itemCollection_loot_careerReward_0.csv
+
+Tag: BTA_Ammo_Common
+  File: itemCollection_major_ClanWorlds.csv
+
+Tag: BTA_Ammo_Common_1
+  File: BTA_Ammo_Common.csv
+
+Tag: BTA_Ammo_Common_2
+  File: BTA_Ammo_Common.csv
+
+Tag: BTA_Ammo_Periphery
+  File: BTA_standard_Periphery.csv
+
+Tag: BTA_Ammo_Periphery
+  File: ItemCollection_SS_Perephiry.csv
+
+Tag: BTA_Ammo_Periphery
+  File: itemCollection_major_Chainelane.csv
+
+Tag: BTA_Ammo_Periphery
+  File: itemCollection_major_Delphi.csv
+
+Tag: BTA_Ammo_Periphery
+  File: itemCollection_major_JarnFolk.csv
+
+Tag: BTA_Ammo_Rare
+  File: BTA_Liked_Clan.csv
+
+Tag: BTA_Ammo_Rare
+  File: BTA_Liked_GreatHouse.csv
+
+Tag: BTA_Ammo_Rare
+  File: BTA_List_BlackMarket.csv
+
+Tag: BTA_Ammo_Rare
+  File: BTA_List_Chemicals.csv
+
+Tag: BTA_Ammo_Rare
+  File: BTA_List_Convoy_Toys.csv
+
+Tag: BTA_Ammo_Rare
+  File: BTA_List_HeroReward_Assault.csv
+
+Tag: BTA_Ammo_Rare
+  File: BTA_List_HeroReward_Heavy.csv
+
+Tag: BTA_Ammo_Rare
+  File: BTA_List_HeroReward_Light.csv
+
+Tag: BTA_Ammo_Rare
+  File: BTA_List_HeroReward_Medium.csv
+
+Tag: BTA_Ammo_Rare
+  File: BTA_List_Industrial.csv
+
+Tag: BTA_Ammo_Rare
+  File: BTA_List_Research.csv
+
+Tag: BTA_Ammo_Rare
+  File: BTA_List_SLDF.csv
+
+Tag: BTA_Ammo_Rare
+  File: BTA_List_Solaris.csv
+
+Tag: BTA_Ammo_Rare
+  File: BTA_OverlordVictory.csv
+
+Tag: BTA_Ammo_Rare
+  File: ItemCollection_SS_Manufacture.csv
+
+Tag: BTA_Ammo_Rare
+  File: itemCollection_Ammo_all.csv
+
+Tag: BTA_Ammo_Rare
+  File: itemCollection_faction_Rezak.csv
+
+Tag: BTA_Ammo_Rare_1
+  File: BTA_Ammo_Rare.csv
+
+Tag: BTA_Ammo_Rare_1
+  File: BTA_Ammo_Rare_Clan.csv
+
+Tag: BTA_Ammo_Rare_1_Sanctuary
+  File: BTA_Ammo_Rare_Sanctuary.csv
+
+Tag: BTA_Ammo_Rare_2
+  File: BTA_Ammo_Rare.csv
+
+Tag: BTA_Ammo_Rare_2
+  File: BTA_Ammo_Rare_Clan.csv
+
+Tag: BTA_Ammo_Rare_2_Sanctuary
+  File: BTA_Ammo_Rare_Sanctuary.csv
+
+Tag: BTA_Ammo_Rare_3
+  File: BTA_Ammo_Rare.csv
+
+Tag: BTA_Ammo_Rare_3
+  File: BTA_Ammo_Rare_Clan.csv
+
+Tag: BTA_Ammo_Rare_3_Sanctuary
+  File: BTA_Ammo_Rare_Sanctuary.csv
+
+Tag: BTA_Ammo_Rare_4
+  File: BTA_Ammo_Rare_Clan.csv
+
+Tag: BTA_Ammo_Rare_Clan
+  File: BTA_List_Convoy_Toys_Clan.csv
+
+Tag: BTA_Ammo_Rare_Sanctuary
+  File: BTA_List_BlackMarket.csv
+
+Tag: BTA_Ammo_Rare_Sanctuary
+  File: BTA_List_Convoy_Toys_Sanctuary.csv
+
+Tag: BTA_Ammo_Uncommon
+  File: BTA_Liked_Periphery.csv
+
+Tag: BTA_Ammo_Uncommon
+  File: BTA_List_Battlefield.csv
+
+Tag: BTA_Ammo_Uncommon
+  File: BTA_List_BlackMarket.csv
+
+Tag: BTA_Ammo_Uncommon
+  File: BTA_List_Chemicals.csv
+
+Tag: BTA_Ammo_Uncommon
+  File: BTA_List_Industrial.csv
+
+Tag: BTA_Ammo_Uncommon
+  File: BTA_List_Mining.csv
+
+Tag: BTA_Ammo_Uncommon
+  File: BTA_List_Research.csv
+
+Tag: BTA_Ammo_Uncommon
+  File: BTA_List_SLDF.csv
+
+Tag: BTA_Ammo_Uncommon
+  File: ItemCollection_SS_IS.csv
+
+Tag: BTA_Ammo_Uncommon
+  File: ItemCollection_SS_Research.csv
+
+Tag: BTA_Ammo_Uncommon
+  File: itemCollection_Ammo_all.csv
+
+Tag: BTA_Ammo_Uncommon
+  File: itemCollection_major_ClanWorlds.csv
+
+Tag: BTA_Ammo_Uncommon_1
+  File: BTA_Ammo_Uncommon.csv
+
+Tag: BTA_Ammo_Uncommon_2
+  File: BTA_Ammo_Uncommon.csv
+
+Tag: BTA_Ammo_Uncommon_3
+  File: BTA_Ammo_Uncommon.csv
+
+Tag: BTA_ArrowIV
+  File: BTA_SLDF.csv
+
+Tag: BTA_Battle_Armor
+  File: BTA_standard_Major.csv
+
+Tag: BTA_Battle_Armor_Weapons
+  File: BTA_standard_Major.csv
+
+Tag: BTA_Beacons
+  File: BTA_Contracts.csv
+
+Tag: BTA_Beacons
+  File: BTA_List_BlackMarket.csv
+
+Tag: BTA_Beacons
+  File: BTA_List_Electronics.csv
+
+Tag: BTA_Beacons
+  File: ItemCollection_SS_Manufacture.csv
+
+Tag: BTA_Beacons
+  File: itemCollection_faction_Rezak.csv
+
+Tag: BTA_BlackMarket_Mechs
+  File: BTA_List_BlackMarket.csv
+
+Tag: BTA_BlackMarket_Mechs
+  File: itemCollection_faction_Rezak.csv
+
+Tag: BTA_BlackMarket_Mechs_Blakist
+  File: BTA_BlackMarket_Mechs.csv
+
+Tag: BTA_BlackMarket_Mechs_Corsairs
+  File: BTA_BlackMarket_Mechs.csv
+
+Tag: BTA_Blazer
+  File: BTA_Honored_Marik.csv
+
+Tag: BTA_Blazer
+  File: BTA_List_Electronics.csv
+
+Tag: BTA_Blazer
+  File: BTA_Research.csv
+
+Tag: BTA_Blazer
+  File: BTA_SLDF.csv
+
+Tag: BTA_Blazer
+  File: itemCollection_faction_Rezak.csv
+
+Tag: BTA_Bombast
+  File: BTA_List_Electronics.csv
+
+Tag: BTA_Bombast
+  File: BTA_List_Solaris.csv
+
+Tag: BTA_Bombast
+  File: BTA_Research.csv
+
+Tag: BTA_BribeLocals
+  File: BTA_standard_Major.csv
+
+Tag: BTA_BribeLocals
+  File: BTA_standard_Minor.csv
+
+Tag: BTA_BribeLocals
+  File: BTA_standard_Periphery.csv
+
+Tag: BTA_BribePirates
+  File: BTA_List_BlackMarket.csv
+
+Tag: BTA_BribePirates
+  File: BTA_List_Pirates.csv
+
+Tag: BTA_BribePirates
+  File: itemCollection_faction_Rezak.csv
+
+Tag: BTA_C3
+  File: BTA_Honored_ComStar.csv
+
+Tag: BTA_C3
+  File: BTA_Honored_WoB.csv
+
+Tag: BTA_C3
+  File: BTA_Research.csv
+
+Tag: BTA_ChemLaser
+  File: BTA_Honored_Restoration.csv
+
+Tag: BTA_ChemLaser
+  File: BTA_standard_Periphery.csv
+
+Tag: BTA_Contracts
+  File: BTA_standard_Major.csv
+
+Tag: BTA_Contracts
+  File: itemCollection_faction_Rezak.csv
+
+Tag: BTA_Contracts_ASF
+  File: BTA_Contracts.csv
+
+Tag: BTA_Contracts_BattleArmor
+  File: BTA_Contracts.csv
+
+Tag: BTA_Contracts_Mechs
+  File: BTA_Contracts.csv
+
+Tag: BTA_Contracts_Mechs_Light
+  File: BTA_Contracts_Mechs.csv
+
+Tag: BTA_Contracts_Mechs_Medium
+  File: BTA_Contracts_Mechs.csv
+
+Tag: BTA_Contracts_Tanks
+  File: BTA_Contracts.csv
+
+Tag: BTA_Contracts_Tanks_Assault
+  File: BTA_Contracts_Tanks.csv
+
+Tag: BTA_Contracts_Tanks_Heavy
+  File: BTA_Contracts_Tanks.csv
+
+Tag: BTA_Contracts_Tanks_Light
+  File: BTA_Contracts_Tanks.csv
+
+Tag: BTA_Contracts_Tanks_Medium
+  File: BTA_Contracts_Tanks.csv
+
+Tag: BTA_Contracts_Turrets
+  File: BTA_Contracts.csv
+
+Tag: BTA_Contracts_Turrets_Heavy
+  File: BTA_Contracts_Turrets.csv
+
+Tag: BTA_Contracts_Turrets_Light
+  File: BTA_Contracts_Turrets.csv
+
+Tag: BTA_Contracts_Turrets_Standard
+  File: BTA_Contracts_Turrets.csv
+
+Tag: BTA_CoolantPod
+  File: BTA_List_Chemicals.csv
+
+Tag: BTA_Duels_Duo
+  File: BTA_List_Gameworld.csv
+
+Tag: BTA_Duels_Solo
+  File: BTA_List_Gameworld.csv
+
+Tag: BTA_ERLaser
+  File: BTA_List_Electronics.csv
+
+Tag: BTA_ERLaser
+  File: BTA_SLDF.csv
+
+Tag: BTA_FCS
+  File: BTA_Upgrades.csv
+
+Tag: BTA_Flamer
+  File: BTA_List_Chemicals.csv
+
+Tag: BTA_Flamer
+  File: BTA_List_Electronics.csv
+
+Tag: BTA_Gauss
+  File: BTA_Honored_Steiner.csv
+
+Tag: BTA_Gauss
+  File: BTA_Industrial.csv
+
+Tag: BTA_Grenade
+  File: BTA_standard_Periphery.csv
+
+Tag: BTA_Gyro
+  File: BTA_Upgrades.csv
+
+Tag: BTA_HVAC
+  File: BTA_Honored_Liao.csv
+
+Tag: BTA_HVAC
+  File: BTA_Industrial.csv
+
+Tag: BTA_HVAC
+  File: BTA_List_Solaris.csv
+
+Tag: BTA_HVAC
+  File: itemCollection_faction_Rezak.csv
+
+Tag: BTA_HeatSink
+  File: BTA_standard_Major.csv
+
+Tag: BTA_HeatSink
+  File: BTA_standard_Minor.csv
+
+Tag: BTA_HeatSink
+  File: BTA_standard_Periphery.csv
+
+Tag: BTA_HeatSink
+  File: BTA_standard_Primitive.csv
+
+Tag: BTA_HeatSink_Rare
+  File: ItemCollection_Internals_IS_Rare.csv
+
+Tag: BTA_Industrial
+  File: BTA_List_Industrial.csv
+
+Tag: BTA_JumpJets
+  File: BTA_standard_Major.csv
+
+Tag: BTA_JumpJets
+  File: BTA_standard_Periphery.csv
+
+Tag: BTA_JumpJetsSpecial
+  File: BTA_List_Battlefield.csv
+
+Tag: BTA_JumpJetsSpecial
+  File: BTA_List_Electronics.csv
+
+Tag: BTA_JumpJetsSpecial
+  File: BTA_List_Solaris.csv
+
+Tag: BTA_JumpJetsSpecial
+  File: itemCollection_loot_careerReward_6.csv
+
+Tag: BTA_JumpJetsSpecialImproved
+  File: BTA_JumpJetsSpecial.csv
+
+Tag: BTA_JumpJetsSpecialImproved
+  File: BTA_JumpJetsSpecial_Loot.csv
+
+Tag: BTA_JumpJetsSpecialQuad
+  File: BTA_JumpJetsSpecial.csv
+
+Tag: BTA_JumpJetsSpecialQuad
+  File: BTA_JumpJetsSpecial_Loot.csv
+
+Tag: BTA_LAC
+  File: BTA_Honored_Magistracy.csv
+
+Tag: BTA_LAC
+  File: BTA_Industrial.csv
+
+Tag: BTA_LAC
+  File: itemCollection_HM_careerStarter_pack.csv
+
+Tag: BTA_LAC
+  File: itemCollection_faction_Rezak.csv
+
+Tag: BTA_LAMS
+  File: BTA_Honored_Outworld.csv
+
+Tag: BTA_LAMS
+  File: BTA_List_Electronics.csv
+
+Tag: BTA_LAMS
+  File: BTA_List_Solaris.csv
+
+Tag: BTA_LAMS
+  File: BTA_Research.csv
+
+Tag: BTA_LAMS
+  File: itemCollection_HM_careerStarter_pack.csv
+
+Tag: BTA_LBXAC
+  File: BTA_Industrial.csv
+
+Tag: BTA_LBXAC
+  File: BTA_SLDF.csv
+
+Tag: BTA_LBXAC_Start
+  File: itemCollection_HM_careerStarter_pack.csv
+
+Tag: BTA_List_ArcRoyal_Clan
+  File: BTA_List_ArcRoyal.csv
+
+Tag: BTA_List_ArcRoyal_IS
+  File: BTA_List_ArcRoyal.csv
+
+Tag: BTA_List_BA
+  File: BTA_Misc_Loot_BA.csv
+
+Tag: BTA_List_BA_Clan
+  File: BTA_Misc_Loot_BA.csv
+
+Tag: BTA_List_BA_Clan
+  File: BTA_Misc_Loot_BA_Clan.csv
+
+Tag: BTA_List_BA_Rare
+  File: BTA_Misc_Loot_BA.csv
+
+Tag: BTA_List_Battlefield
+  File: itemCollection_Battlefield.csv
+
+Tag: BTA_List_BlackMarket
+  File: itemCollection_Smuggler.csv
+
+Tag: BTA_List_BlackMarket
+  File: itemCollection_major_Circinus.csv
+
+Tag: BTA_List_BlackMarket
+  File: itemCollection_major_Tortuga.csv
+
+Tag: BTA_List_FancyWeapons
+  File: BTA_List_HeroReward_Assault.csv
+
+Tag: BTA_List_FancyWeapons
+  File: BTA_List_HeroReward_Heavy.csv
+
+Tag: BTA_List_FancyWeapons
+  File: BTA_List_HeroReward_Light.csv
+
+Tag: BTA_List_FancyWeapons
+  File: BTA_List_HeroReward_Medium.csv
+
+Tag: BTA_List_FancyWeapons
+  File: BTA_Misc_Loot.csv
+
+Tag: BTA_List_FancyWeapons
+  File: BTA_Weapons_Loot.csv
+
+Tag: BTA_List_HeroMechs_Assault
+  File: BTA_List_HeroReward_Assault.csv
+
+Tag: BTA_List_HeroMechs_Heavy
+  File: BTA_List_HeroMechs_Loot.csv
+
+Tag: BTA_List_HeroMechs_Heavy
+  File: BTA_List_HeroReward_Heavy.csv
+
+Tag: BTA_List_HeroMechs_Light
+  File: BTA_List_HeroMechs_Loot.csv
+
+Tag: BTA_List_HeroMechs_Light
+  File: BTA_List_HeroReward_Light.csv
+
+Tag: BTA_List_HeroMechs_Loot
+  File: BTA_Misc_Loot_Mechs.csv
+
+Tag: BTA_List_HeroMechs_Medium
+  File: BTA_List_HeroMechs_Loot.csv
+
+Tag: BTA_List_HeroMechs_Medium
+  File: BTA_List_HeroReward_Medium.csv
+
+Tag: BTA_List_Industrial
+  File: itemCollection_Industrial.csv
+
+Tag: BTA_List_Outreach_Clan
+  File: BTA_List_Outreach.csv
+
+Tag: BTA_List_Outreach_IS
+  File: BTA_List_Outreach.csv
+
+Tag: BTA_List_Research
+  File: itemCollection_Research.csv
+
+Tag: BTA_List_SLDF
+  File: itemCollection_SLDF.csv
+
+Tag: BTA_List_SLDF
+  File: itemCollection_loot_careerReward_5.csv
+
+Tag: BTA_List_SLDF
+  File: itemCollection_loot_careerReward_6.csv
+
+Tag: BTA_List_Solaris_Mechs
+  File: BTA_List_Solaris.csv
+
+Tag: BTA_List_Terra_Mechs
+  File: BTA_List_Terra.csv
+
+Tag: BTA_List_Terra_Tanks
+  File: BTA_List_Terra.csv
+
+Tag: BTA_Loanshark
+  File: BTA_standard_Major.csv
+
+Tag: BTA_MML
+  File: BTA_Research.csv
+
+Tag: BTA_MML
+  File: itemCollection_HM_careerStarter_pack.csv
+
+Tag: BTA_MML
+  File: itemCollection_faction_Rezak.csv
+
+Tag: BTA_MRM
+  File: BTA_Honored_Kurita.csv
+
+Tag: BTA_MRM
+  File: BTA_List_Chemicals.csv
+
+Tag: BTA_MRM
+  File: BTA_Research.csv
+
+Tag: BTA_MachineGun
+  File: BTA_Industrial.csv
+
+Tag: BTA_Misc_Loot
+  File: BTA_List_BlackMarket.csv
+
+Tag: BTA_Misc_Loot
+  File: BTA_List_Convoy_Toys.csv
+
+Tag: BTA_Misc_Loot
+  File: BTA_OverlordVictory.csv
+
+Tag: BTA_Misc_Loot_BA
+  File: BTA_Misc_Loot.csv
+
+Tag: BTA_Misc_Loot_BA_Clan
+  File: BTA_Misc_Loot_Clan.csv
+
+Tag: BTA_Misc_Loot_Clan
+  File: BTA_List_Convoy_Toys_Clan.csv
+
+Tag: BTA_Misc_Loot_Clan_Mechs
+  File: BTA_BlackMarket_Mechs.csv
+
+Tag: BTA_Misc_Loot_Clan_Mechs
+  File: BTA_Misc_Loot_Clan.csv
+
+Tag: BTA_Misc_Loot_Mechs
+  File: BTA_Misc_Loot.csv
+
+Tag: BTA_Misc_Loot_Mechs_Sanctuary
+  File: BTA_BlackMarket_Mechs.csv
+
+Tag: BTA_Misc_Loot_Mechs_Sanctuary
+  File: BTA_Misc_Loot_Sanctuary.csv
+
+Tag: BTA_Misc_Loot_Mechs_Sanctuary_Heavy
+  File: BTA_Misc_Loot_Mechs_Sanctuary.csv
+
+Tag: BTA_Misc_Loot_Mechs_Sanctuary_Light
+  File: BTA_Misc_Loot_Mechs_Sanctuary.csv
+
+Tag: BTA_Misc_Loot_Mechs_Sanctuary_Medium
+  File: BTA_Misc_Loot_Mechs_Sanctuary.csv
+
+Tag: BTA_Misc_Loot_Sanctuary
+  File: BTA_List_Convoy_Toys_Sanctuary.csv
+
+Tag: BTA_Mortar
+  File: BTA_Industrial.csv
+
+Tag: BTA_Mortar
+  File: BTA_List_Chemicals.csv
+
+Tag: BTA_Mortar
+  File: BTA_standard_Periphery.csv
+
+Tag: BTA_Mortar
+  File: BTA_standard_Primitive.csv
+
+Tag: BTA_Narc_Start
+  File: itemCollection_HM_careerStarter_pack.csv
+
+Tag: BTA_PPC
+  File: BTA_Honored_Taurian.csv
+
+Tag: BTA_PPC
+  File: BTA_SLDF.csv
+
+Tag: BTA_Plasma
+  File: BTA_List_Chemicals.csv
+
+Tag: BTA_Plasma
+  File: BTA_List_Electronics.csv
+
+Tag: BTA_Plasma
+  File: BTA_List_Solaris.csv
+
+Tag: BTA_Plasma
+  File: itemCollection_faction_Rezak.csv
+
+Tag: BTA_Pods
+  File: BTA_List_Chemicals.csv
+
+Tag: BTA_Pods
+  File: BTA_Weapons_Loot.csv
+
+Tag: BTA_PulseLaser
+  File: BTA_List_Electronics.csv
+
+Tag: BTA_PulseLaser
+  File: BTA_SLDF.csv
+
+Tag: BTA_PulseLaser
+  File: itemCollection_faction_Rezak.csv
+
+Tag: BTA_RAC
+  File: BTA_Honored_Davion.csv
+
+Tag: BTA_RAC
+  File: BTA_Industrial.csv
+
+Tag: BTA_RAC
+  File: itemCollection_faction_Rezak.csv
+
+Tag: BTA_Research
+  File: BTA_List_Research.csv
+
+Tag: BTA_Rifle
+  File: BTA_List_Chemicals.csv
+
+Tag: BTA_Rifle
+  File: BTA_standard_Periphery.csv
+
+Tag: BTA_Rifle
+  File: BTA_standard_Primitive.csv
+
+Tag: BTA_Rocket
+  File: BTA_Honored_Marian.csv
+
+Tag: BTA_Rocket
+  File: BTA_List_Chemicals.csv
+
+Tag: BTA_Rocket
+  File: BTA_standard_Periphery.csv
+
+Tag: BTA_Rocket
+  File: BTA_standard_Primitive.csv
+
+Tag: BTA_SLDF
+  File: BTA_List_SLDF.csv
+
+Tag: BTA_SLDF
+  File: itemCollection_loot_careerReward_6.csv
+
+Tag: BTA_SLDF_Mechs
+  File: itemCollection_faction_Rezak.csv
+
+Tag: BTA_SLDF_Mechs
+  File: itemCollection_loot_careerReward_5.csv
+
+Tag: BTA_SLDF_Mechs
+  File: itemCollection_loot_careerReward_6.csv
+
+Tag: BTA_SLDF_MechsParts
+  File: BTA_Misc_Loot_Mechs.csv
+
+Tag: BTA_SRM
+  File: BTA_Research.csv
+
+Tag: BTA_SRM
+  File: BTA_SLDF.csv
+
+Tag: BTA_TAG
+  File: BTA_Research.csv
+
+Tag: BTA_TAG
+  File: itemCollection_HM_careerStarter_pack.csv
+
+Tag: BTA_Thunderbolt
+  File: BTA_List_Chemicals.csv
+
+Tag: BTA_Thunderbolt
+  File: BTA_Research.csv
+
+Tag: BTA_Thunderbolt
+  File: itemCollection_faction_Rezak.csv
+
+Tag: BTA_Tribute
+  File: itemCollection_faction_Rezak.csv
+
+Tag: BTA_TubeArty
+  File: BTA_Industrial.csv
+
+Tag: BTA_TubeArty
+  File: BTA_List_Chemicals.csv
+
+Tag: BTA_Upgrades
+  File: BTA_List_Battlefield.csv
+
+Tag: BTA_Upgrades
+  File: BTA_List_BlackMarket.csv
+
+Tag: BTA_Upgrades
+  File: BTA_List_HeroReward_Assault.csv
+
+Tag: BTA_Upgrades
+  File: BTA_List_HeroReward_Heavy.csv
+
+Tag: BTA_Upgrades
+  File: BTA_List_HeroReward_Light.csv
+
+Tag: BTA_Upgrades
+  File: BTA_List_HeroReward_Medium.csv
+
+Tag: BTA_Upgrades
+  File: BTA_List_Solaris.csv
+
+Tag: BTA_Upgrades
+  File: BTA_Misc_Loot.csv
+
+Tag: BTA_Upgrades
+  File: BTA_Research.csv
+
+Tag: BTA_Upgrades
+  File: BTA_standard_Major.csv
+
+Tag: BTA_Upgrades
+  File: itemCollection_faction_Rezak.csv
+
+Tag: BTA_Upgrades_Sanctuary
+  File: BTA_Misc_Loot_Sanctuary.csv
+
+Tag: BTA_VSPL
+  File: BTA_Honored_Rasalhague.csv
+
+Tag: BTA_VSPL
+  File: BTA_List_BlackMarket.csv
+
+Tag: BTA_VSPL
+  File: BTA_List_Solaris.csv
+
+Tag: BTA_VSPL
+  File: BTA_Research.csv
+
+Tag: BTA_VSPL
+  File: itemCollection_HM_careerStarter_pack.csv
+
+Tag: BTA_VSPL
+  File: itemCollection_faction_Rezak.csv
+
+Tag: BTA_Weapons_Loot
+  File: BTA_List_Convoy_Toys.csv
+
+Tag: BTA_Weapons_Loot
+  File: BTA_OverlordVictory.csv
+
+Tag: BTA_Weapons_Loot
+  File: itemCollection_HM_careerStarter_pack.csv
+
+Tag: BTA_Weapons_Loot_Clan
+  File: BTA_List_BlackMarket.csv
+
+Tag: BTA_Weapons_Loot_Clan
+  File: BTA_List_Convoy_Toys_Clan.csv
+
+Tag: BTA_Weapons_Loot_Sanctuary
+  File: BTA_List_BlackMarket.csv
+
+Tag: BTA_Weapons_Loot_Sanctuary
+  File: BTA_List_Convoy_Toys_Sanctuary.csv
+
+Tag: BTA_Weapons_Loot_Sanctuary
+  File: BTA_Misc_Loot_Sanctuary.csv
+
+Tag: BTA_XPulseLaser
+  File: BTA_List_Electronics.csv
+
+Tag: BTA_XPulseLaser
+  File: BTA_List_Solaris.csv
+
+Tag: BTA_XPulseLaser
+  File: BTA_Research.csv
+
+Tag: BTA_XPulseLaser
+  File: itemCollection_HM_careerStarter_pack.csv
+
+Tag: BTA_XPulseLaser
+  File: itemCollection_faction_Rezak.csv
+
+Tag: BTA_standard_Major_Loot
+  File: itemCollection_loot_careerReward_3.csv
+
+Tag: BTA_standard_Major_Loot
+  File: itemCollection_loot_careerReward_4.csv
+
+Tag: BTA_standard_Major_Loot
+  File: itemCollection_table_AdditionalLoot.csv
+
+Tag: BTA_standard_Minor_Loot
+  File: itemCollection_loot_careerReward_1.csv
+
+Tag: BTA_standard_Minor_Loot
+  File: itemCollection_loot_careerReward_2.csv
+
+Tag: BTA_standard_Minor_Loot
+  File: itemCollection_table_AdditionalLoot_uncommon.csv
+
+Tag: BTA_standard_Primitive
+  File: BTA_List_Mining.csv
+
+Tag: BTA_standard_Primitive
+  File: itemCollection_loot_careerReward_0.csv
+
+Tag: BTA_standard_Primitive
+  File: itemCollection_table_AdditionalLoot_common.csv
+
+

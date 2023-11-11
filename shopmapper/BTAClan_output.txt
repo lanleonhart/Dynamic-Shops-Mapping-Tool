@@ -1,0 +1,91 @@
+Tag: BTAClan_Ammo_Rare
+  File: itemCollection_major_ClanDiamondShark.csv
+
+Tag: BTAClan_BA
+  File: itemCollection_major_ClanDiamondShark.csv
+
+Tag: BTAClan_BA_Weapons
+  File: itemCollection_major_ClanDiamondShark.csv
+
+Tag: BTAClan_Mechs
+  File: BTA_Misc_Loot_Clan_Mechs.csv
+
+Tag: BTAClan_Mechs
+  File: itemCollection_faction_ClanWorld.csv
+
+Tag: BTAClan_Mechs
+  File: itemCollection_faction_ClanWorlds.csv
+
+Tag: BTAClan_Mechs
+  File: itemCollection_major_ClanDiamondShark.csv
+
+Tag: BTAClan_Mechs_Rare
+  File: itemCollection_major_ClanDiamondShark.csv
+
+Tag: BTAClan_Mechs_Rare_Convoy
+  File: BTA_Misc_Loot_Clan_Mechs.csv
+
+Tag: BTAClan_Upgrades
+  File: BTA_Liked_Clan.csv
+
+Tag: BTAClan_Upgrades
+  File: itemCollection_faction_ClanWorld.csv
+
+Tag: BTAClan_Upgrades
+  File: itemCollection_faction_ClanWorlds.csv
+
+Tag: BTAClan_Upgrades
+  File: itemCollection_major_ClanDiamondShark.csv
+
+Tag: BTAClan_Upgrades
+  File: itemCollection_major_ClanWorld.csv
+
+Tag: BTAClan_Upgrades
+  File: itemCollection_major_ClanWorlds.csv
+
+Tag: BTAClan_Upgrades_Rare
+  File: BTA_Honored_ClanNovaCat.csv
+
+Tag: BTAClan_Upgrades_Rare
+  File: BTA_Misc_Loot_Clan.csv
+
+Tag: BTAClan_Upgrades_Rare
+  File: itemCollection_major_ClanDiamondShark.csv
+
+Tag: BTAClan_Weapons
+  File: BTA_Liked_Clan.csv
+
+Tag: BTAClan_Weapons
+  File: BTA_Weapons_Loot_Clan.csv
+
+Tag: BTAClan_Weapons
+  File: itemCollection_faction_ClanWorld.csv
+
+Tag: BTAClan_Weapons
+  File: itemCollection_faction_ClanWorlds.csv
+
+Tag: BTAClan_Weapons
+  File: itemCollection_major_ClanDiamondShark.csv
+
+Tag: BTAClan_Weapons
+  File: itemCollection_major_ClanWorld.csv
+
+Tag: BTAClan_Weapons
+  File: itemCollection_major_ClanWorlds.csv
+
+Tag: BTAClan_Weapons_Rare
+  File: BTA_Honored_ClanNovaCat.csv
+
+Tag: BTAClan_Weapons_Rare
+  File: BTA_Weapons_Loot_Clan.csv
+
+Tag: BTAClan_Weapons_Rare
+  File: itemCollection_major_ClanDiamondShark.csv
+
+Tag: BTAClan_Weapons_Rare_Convoy
+  File: BTA_Weapons_Loot_Clan.csv
+
+Tag: BTAClan_Weapons_Start
+  File: itemCollection_HM_careerStarter_pack.csv
+
+
