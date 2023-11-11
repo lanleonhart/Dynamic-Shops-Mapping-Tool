@@ -8,7 +8,7 @@ The shoppmaper is a python script that organizes data. It organizes and outputs 
 How to Use
 
 -Extract the files into the DynamicShops folder.
--Open Command Prompt type python  COMPLETEPATHTOFOLDER\DynamicShops\shopmapper.py
+-Open Command Prompt type python  *YOURCOMPLETEPATHTOFOLDER*\DynamicShops\shopmapper.py
 -The data will be output to the shopmapper folder in a txt
 
 
