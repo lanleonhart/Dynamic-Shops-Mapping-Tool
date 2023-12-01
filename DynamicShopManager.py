@@ -109,7 +109,7 @@ categories = {
                 "Weapon_Laser_LargeLaser_1-ExoStar": [1, 7],
                 "Weapon_Laser_LargeLaser_1-Intek": [1, 7],
                 "Weapon_Laser_LargeLaser_2-Diverse_Optics": [1, 6],
-                "Weapon_Laser_LargeLaser_2-ExoStar": [1, 6]
+                "Weapon_Laser_LargeLaser_2-ExoStar": [1, 6],
                 "Weapon_Laser_LargeLaser_2-Intek": [1, 6],
                 "Weapon_Laser_LargeLaser_2-Magna": [1, 6],
                 "Weapon_Laser_MediumLaser_0-STOCK": [1, 8],
@@ -284,7 +284,7 @@ categories = {
                 "Weapon_SRM_SRM2_2-Valiant": [1, 6],
                 "Weapon_SRM_SRM2_3-Valiant": [1, 5],
                 "Weapon_SRM_SRM4_0-STOCK": [1, 8],
-                "Weapon_SRM_SRM4_1-Holly" [1, 7],
+                "Weapon_SRM_SRM4_1-Holly": [1, 7],
                 "Weapon_SRM_SRM4_1-Irian": [1, 7],
                 "Weapon_SRM_SRM4_2-Holly": [1, 6],
                 "Weapon_SRM_SRM4_2-Irian": [1, 6],
@@ -378,7 +378,7 @@ categories = {
                 "Weapon_TAG_Standard_2-Ceres_Arms": [1, 5],
                 "Weapon_Narc_Standard_0-STOCK": [1, 6],
                 "Weapon_Narc_Standard_1-Ceres_Arms": [1, 5],
-                "Weapon_Narc_Standard_2-Kali_Yama": [1, 15,
+                "Weapon_Narc_Standard_2-Kali_Yama": [1, 15],
             },
         },
         "AmmunitionBox": {
@@ -595,7 +595,12 @@ item_Collection = {
     "Faction_Valkyrate": {},
     "Faction_WordOfBlake": {},
     "Faction_Rim": {},
-    "Ammo_all": {},
+    "Ammo_all": {
+     "Ammo_Common": ["Reference",4, 5],
+     "Ammo_CommonII": ["Reference",4, 5],
+     "Ammo_Uncommon": ["Reference",3, 2],
+     "Ammo_Rare": ["Reference",1, 1],
+    },  #Vanilla CSV's Below
     "Battlefield": {},
     "Industrial": {},
     "Research": {},
@@ -745,11 +750,18 @@ for main_category, subcategories in categories.items():
 data_folder = os.path.join(output_directory, "itemCollections")
 os.makedirs(data_folder, exist_ok=True)
 
+
+# Assuming 'data_folder' and 'item_Collection' are already defined
+
 for main_category, subcategories in item_Collection.items():
-    file_path = f"{data_folder}/GN_itemCollection_{main_category}.csv"
+    file_path = os.path.join(data_folder, f"GN_itemCollection_{main_category}.csv")
     with open(file_path, 'w', newline='') as csvfile:
         csvwriter = csv.writer(csvfile)
-        csvwriter.writerow([f"GN_item_Collections_{main_category}", '', '', ''])
+        csvwriter.writerow(["GN_item_Collections_Ammo_all", "", "", ""])
+
         for subcategory, values in subcategories.items():
-            for mech, stats in values.items():
-                csvwriter.writerow([f"GN_{subcategory}"])  # Ensure writing a list here
+            csvwriter.writerow([f"GN_{subcategory}"] + values)
+            
+            
+            
+
