@@ -551,50 +551,55 @@ categories = {
         }
 }
 item_Collection = {
-    "Faction_Comstar": {},
-    "Faction_Davion": {},
-    "Faction_Steiner": {},
-    "Faction_TaurianConcordat": {},
-    "Faction_MagistracyOfCanopus": {},
-    "Faction_AuriganDirectorate": {},
-    "Faction_AuriganRestoration": {},
-    "Faction_ComStar": {},
-    "Faction_Axumite": {},
-    "Faction_Castile": {},
-    "Faction_Chainelane": {},
-    "Faction_Circinus": {},
-    "Faction_ClanBurrock": {},
-    "Faction_ClanCloudCobra": {},
-    "Faction_ClanCoyote": {},
-    "Faction_ClanDiamondShark": {},
-    "Faction_ClanFireMandrill": {},
-    "Faction_ClanGhostBear": {},
-    "Faction_ClanGoliathScorpion": {},
-    "Faction_ClanHellsHorses": {},
-    "Faction_ClanIceHellion": {},
-    "Faction_ClanJadeFalcon": {},
-    "Faction_ClanNovaCat": {},
-    "Faction_ClansGeneric": {},
-    "Faction_ClanSmokeJaguar": {},
-    "Faction_ClanSnowRaven": {},
-    "Faction_ClanStarAdder": {},
-    "Faction_ClanSteelViper": {},
-    "Faction_ClanWolf": {},
-    "Faction_Delphi": {},
-    "Faction_Elysia": {},
-    "Faction_Hanse": {},
-    "Faction_Illyrian": {},
-    "Faction_Ives": {},
-    "Faction_JarnFolk": {},
-    "Faction_Lothian": {},
-    "Faction_Marian": {},
-    "Faction_Oberon": {},
-    "Faction_Outworld": {},
-    "Faction_Rasalhague": {},
-    "Faction_Tortuga": {},
-    "Faction_Valkyrate": {},
-    "Faction_WordOfBlake": {},
-    "Faction_Rim": {},
+    "faction_ComStar": {
+    "mechdef_GN-000": ["Mech",1, 1],
+    "mechdef_GN-000-FA": ["Mech",1, 1],
+    "mechdef_GN-000-FA-P": ["Mech",1, 1],
+    "mechdef_GN-002": ["Mech",1, 1],
+    "mechdef_GN-005": ["Mech",1, 1],
+    },
+    "faction_Davion": {},
+    "faction_Steiner": {},
+    "faction_TaurianConcordat": {},
+    "faction_MagistracyOfCanopus": {},
+    "faction_AuriganDirectorate": {},
+    "faction_AuriganRestoration": {},
+    "faction_Axumite": {},
+    "faction_Castile": {},
+    "faction_Chainelane": {},
+    "faction_Circinus": {},
+    "faction_ClanBurrock": {},
+    "faction_ClanCloudCobra": {},
+    "faction_ClanCoyote": {},
+    "faction_ClanDiamondShark": {},
+    "faction_ClanFireMandrill": {},
+    "faction_ClanGhostBear": {},
+    "faction_ClanGoliathScorpion": {},
+    "faction_ClanHellsHorses": {},
+    "faction_ClanIceHellion": {},
+    "faction_ClanJadeFalcon": {},
+    "faction_ClanNovaCat": {},
+    "faction_ClansGeneric": {},
+    "faction_ClanSmokeJaguar": {},
+    "faction_ClanSnowRaven": {},
+    "faction_ClanStarAdder": {},
+    "faction_ClanSteelViper": {},
+    "faction_ClanWolf": {},
+    "faction_Delphi": {},
+    "faction_Elysia": {},
+    "faction_Hanse": {},
+    "faction_Illyrian": {},
+    "faction_Ives": {},
+    "faction_JarnFolk": {},
+    "faction_Lothian": {},
+    "faction_Marian": {},
+    "faction_Oberon": {},
+    "faction_Outworld": {},
+    "faction_Rasalhague": {},
+    "faction_Tortuga": {},
+    "faction_Valkyrate": {},
+    "faction_WordOfBlake": {},
+    "faction_Rim": {},
     "Ammo_all": {
      "Ammo_Common": ["Reference",4, 5],
      "Ammo_CommonII": ["Reference",4, 5],
@@ -750,18 +755,11 @@ for main_category, subcategories in categories.items():
 data_folder = os.path.join(output_directory, "itemCollections")
 os.makedirs(data_folder, exist_ok=True)
 
-
-# Assuming 'data_folder' and 'item_Collection' are already defined
-
 for main_category, subcategories in item_Collection.items():
-    file_path = os.path.join(data_folder, f"GN_itemCollection_{main_category}.csv")
-    with open(file_path, 'w', newline='') as csvfile:
-        csvwriter = csv.writer(csvfile)
-        csvwriter.writerow(["GN_item_Collections_Ammo_all", "", "", ""])
-
-        for subcategory, values in subcategories.items():
-            csvwriter.writerow([f"GN_{subcategory}"] + values)
-            
-            
-            
-
+    if isinstance(subcategories, dict) and len(subcategories) > 0:
+        file_path = f"{data_folder}\\itemCollection_{main_category}.csv"
+        with open(file_path, 'w', newline='') as csvfile:
+            csvwriter = csv.writer(csvfile)
+            csvwriter.writerow([f"itemCollection_{main_category}", '', '', ''])  # Write the main category as the first line
+            for subcategory, values in subcategories.items():
+                csvwriter.writerow([subcategory] + values)  # Write subcategory and its associated values
