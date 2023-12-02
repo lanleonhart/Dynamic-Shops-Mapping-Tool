@@ -555,10 +555,15 @@ item_Collection = {
     "mechdef_GN-000": ["Mech",1, 1],
     "mechdef_GN-000-FA": ["Mech",1, 1],
     "mechdef_GN-000-FA-P": ["Mech",1, 1],
-    "mechdef_GN-002": ["Mech",1, 1],
-    "Weapons_uncommon": ["Reference",1, 1],
+    "mechdef_GN-002": ["Mech",1, 1]
     },
-    "faction_Davion": {},
+    "faction_Davion": {
+    "systemStores_MechParts_Davion_Assault": ["Reference",1, 2],
+    "systemStores_MechParts_Davion_Medium": ["Reference",1, 2],
+    "systemStores_MechParts_Davion_Light": ["Reference",1, 2],
+    "Ammo_Common": ["Reference",0, 1],
+    "Ammo_CommonII": ["Reference",0, 1]
+    },
     "faction_Steiner": {},
     "faction_Liao": {},
     "faction_Kurita": {},
@@ -608,9 +613,13 @@ item_Collection = {
      "Ammo_CommonII": ["Reference",4, 5],
      "Ammo_Uncommon": ["Reference",3, 2],
      "Ammo_Rare": ["Reference",1, 1],
-    },  #Vanilla CSV's Below
+    },  #StreamingAssets/data/itemCollections CSV's Below
     "minor_AuriganDirectorate": {},
     "minor_AuriganRestoration": {},
+    "major_ComStar": {
+     "Ammo_Common": ["Reference",0, 1],
+    "Ammo_CommonII": ["Reference",0, 1]
+    },
     "minor_Davion": {},
     "minor_Liao": {},
     "minor_Locals": {},
@@ -657,78 +666,290 @@ item_Collection = {
     "MechParts_Liao_rare": {},
     "MechParts_SLDF": {},
     "MechParts_Steiner_rare": {},
-    "systemStores_MechParts_BlackMarket_Assault": {},
-    "systemStores_MechParts_common_Assault": {},
-    "systemStores_MechParts_common_Heavy": {},
-    "systemStores_MechParts_common_Light": {},
-    "systemStores_MechParts_common_Medium": {},
-    "systemStores_MechParts_Davion_Assault": {},
-    "systemStores_MechParts_Davion_Heavy": {},
-    "systemStores_MechParts_Davion_Light": {},
-    "systemStores_MechParts_Davion_Medium": {},
-    "systemStores_MechParts_Directorate_Assault": {},
-    "systemStores_MechParts_Directorate_Heavy": {},
-    "systemStores_MechParts_Directorate_Light": {},
-    "systemStores_MechParts_Directorate_Medium": {},
-    "systemStores_MechParts_Kurita_Assault": {},
-    "systemStores_MechParts_Kurita_Heavy": {},
-    "systemStores_MechParts_Kurita_Light": {},
-    "systemStores_MechParts_Kurita_Medium": {},
-    "systemStores_MechParts_Liao_Assault": {},
-    "systemStores_MechParts_Liao_Heavy": {},
-    "systemStores_MechParts_Liao_Light": {},
-    "systemStores_MechParts_Liao_Medium": {},
-    "systemStores_MechParts_Magistracy_Assault": {},
-    "systemStores_MechParts_Magistracy_Heavy": {},
-    "systemStores_MechParts_Magistracy_Light": {},
-    "systemStores_MechParts_Magistracy_Medium": {},
-    "systemStores_MechParts_Marik_Assault": {},
-    "systemStores_MechParts_Marik_Heavy": {},
-    "systemStores_MechParts_Marik_Light": {},
-    "systemStores_MechParts_Marik_Medium": {},
-    "systemStores_MechParts_Steiner_Assault": {},
-    "systemStores_MechParts_Steiner_Heavy": {},
-    "systemStores_MechParts_Steiner_Light": {},
-    "systemStores_MechParts_Steiner_Medium": {},
-    "systemStores_MechParts_Taurian_Assault": {},
-    "systemStores_MechParts_Taurian_Heavy": {},
-    "systemStores_MechParts_Taurian_Light": {},
-    "systemStores_MechParts_Taurian_Medium": {},
-    "systemStores_Mechs_BlackMarket_Assault": {},
-    "systemStores_Mechs_common_Assault": {},
-    "systemStores_Mechs_common_Heavy": {},
-    "systemStores_Mechs_common_Light": {},
-    "systemStores_Mechs_common_Medium": {},
-    "systemStores_Mechs_Davion_Assault": {},
-    "systemStores_Mechs_Davion_Heavy": {},
-    "systemStores_Mechs_Davion_Light": {},
-    "systemStores_Mechs_Davion_Medium": {},
-    "systemStores_Mechs_Directorate_Assault": {},
-    "systemStores_Mechs_Directorate_Heavy": {},
-    "systemStores_Mechs_Directorate_Light": {},
-    "systemStores_Mechs_Directorate_Medium": {},
-    "systemStores_Mechs_Kurita_Assault": {},
-    "systemStores_Mechs_Kurita_Heavy": {},
-    "systemStores_Mechs_Kurita_Light": {},
-    "systemStores_Mechs_Kurita_Medium": {},
-    "systemStores_Mechs_Liao_Assault": {},
-    "systemStores_Mechs_Liao_Heavy": {},
-    "systemStores_Mechs_Liao_Light": {},
-    "systemStores_Mechs_Liao_Medium": {},
-    "systemStores_Mechs_Magistracy_Assault": {},
-    "systemStores_Mechs_Magistracy_Heavy": {},
-    "systemStores_Mechs_Magistracy_Light": {},
-    "systemStores_Mechs_Magistracy_Medium": {},
-    "systemStores_Mechs_Marik_Assault": {},
-    "systemStores_Mechs_Marik_Heavy": {},
-    "systemStores_Mechs_Marik_Light": {},
-    "systemStores_Mechs_Marik_Medium": {},
-    "systemStores_Mechs_Steiner_Heavy": {},
-    "systemStores_Mechs_Steiner_Light": {},
-    "systemStores_Mechs_Steiner_Medium": {},
-    "systemStores_Mechs_Taurian_Heavy": {},
-    "systemStores_Mechs_Taurian_Light": {},
-    "systemStores_Mechs_Taurian_Medium": {},
+#System Stores cannot have mixed def types   
+   "systemStores_MechParts_BlackMarket_Assault": {
+    "mechdef_stalker_STK-4N": ["MechPart",1, 4],
+    },
+    "systemStores_MechParts_common_Assault": {
+    "mechdef_atlas_AS7-D": ["MechPart",1, 2]
+    },
+    "systemStores_MechParts_common_Heavy": {
+    "mechdef_quickdraw_QKD-5A": ["MechPart",1, 6],
+    "Periphery_Heavy_Mech_Parts": ["Reference",1, 2],
+    "InnerSphere_Heavy_Mech_Parts": ["Reference",1, 2]
+    },
+    "systemStores_MechParts_common_Light": {
+    "mechdef_urbanmech_UM-R60": ["MechPart",1, 8],
+    "Periphery_Light_Mech_Parts": ["Reference",1, 2],
+    "InnerSphere_Light_Mech_Parts": ["Reference",1, 2],
+    },
+    "systemStores_MechParts_common_Medium": {
+    "mechdef_shadowhawk_SHD-2H": ["MechPart",1, 7],
+    "Periphery_Medium_Mech_Parts": ["Reference",1, 2],
+    "InnerSphere_Medium_Mech_Parts": ["Reference",1, 2],
+    },
+    "systemStores_MechParts_Davion_Assault": {
+    "mechdef_banshee_BNC-3S": ["MechPart",1, 2]
+    },
+    "systemStores_MechParts_Davion_Heavy": {
+    "mechdef_thunderbolt_TDR-5D": ["MechPart",1, 6],
+    "InnerSphere_Heavy_Mech_Parts": ["Reference",1, 2],
+    },
+    "systemStores_MechParts_Davion_Light": {
+    "mechdef_panther_PNT-9R": ["MechPart",1, 8],
+    "InnerSphere_Light_Mech_Parts": ["Reference",1, 2],
+    },
+    "systemStores_MechParts_Davion_Medium": {
+    "mechdef_phoenixhawk_PXH-1D": ["MechPart",1, 7],
+    "InnerSphere_Medium_Mech_Parts": ["Reference",1, 2],
+    },
+    "systemStores_MechParts_Directorate_Assault": {
+    "mechdef_banshee_BNC-3S": ["MechPart",1, 2]
+    },
+    "systemStores_MechParts_Directorate_Heavy": {
+    "mechdef_grasshopper_GHR-5H": ["MechPart",1, 6],
+    "Periphery_Heavy_Mech_Parts": ["Reference",1, 2],
+    },
+    "systemStores_MechParts_Directorate_Light": {
+    "mechdef_urbanmech_UM-R90": ["MechPart",1, 8],
+    "Periphery_Light_Mech_Parts": ["Reference",1, 2],
+    },
+    "systemStores_MechParts_Directorate_Medium": {
+    "mechdef_hunchback_HBK-4J": ["MechPart",1, 7],
+    "Periphery_Medium_Mech_Parts": ["Reference",1, 2],
+    },
+    "systemStores_MechParts_Kurita_Assault": {
+    "mechdef_hatamoto-Kaze_HTM-27V": ["MechPart",1, 2]
+    },
+    "systemStores_MechParts_Kurita_Heavy": {
+    "mechdef_catapult_CPLT-K3": ["MechPart",1, 6],
+    "InnerSphere_Heavy_Mech_Parts": ["Reference",1, 2],
+    },
+    "systemStores_MechParts_Kurita_Light": {
+    "mechdef_Hermes_HER-1B": ["MechPart",1, 8],
+     "InnerSphere_Light_Mech_Parts": ["Reference",1]
+    },
+    "systemStores_MechParts_Kurita_Medium": {
+    "mechdef_dragon_DRG-1C": ["MechPart",1, 7],
+    "InnerSphere_Medium_Mech_Parts": ["Reference",1, 2],
+    },
+    "systemStores_MechParts_Liao_Assault": {
+    "mechdef_atlas_AS7-A": ["MechPart",1, 2]
+    },
+    "systemStores_MechParts_Liao_Heavy": {
+    "mechdef_cataphract_CTF-4X": ["MechPart",1, 6],
+    "InnerSphere_Heavy_Mech_Parts": ["Reference",1, 2],
+    },
+    "systemStores_MechParts_Liao_Light": {
+    "mechdef_raven_RVN-3L": ["MechPart",1, 8],
+     "InnerSphere_Light_Mech_Parts": ["Reference",1]
+    },
+    "systemStores_MechParts_Liao_Medium": {
+    "mechdef_vindicator_VND-1R": ["MechPart",1, 7],
+    "InnerSphere_Medium_Mech_Parts": ["Reference",1, 2],
+    },
+    "systemStores_MechParts_Magistracy_Assault": {
+    "mechdef_atlas_AS7-RS": ["MechPart",1, 2]
+    },
+    "systemStores_MechParts_Magistracy_Heavy": {
+    "mechdef_orion_ON1-K": ["MechPart",1, 6],
+    "Periphery_Heavy_Mech_Parts": ["Reference",1, 2],
+    },
+    "systemStores_MechParts_Magistracy_Light": {
+    "mechdef_Ostscout-OTT7J": ["MechPart",1, 8],
+    "Periphery_Light_Mech_Parts": ["Reference",1, 2],
+    },
+    "systemStores_MechParts_Magistracy_Medium": {
+    "mechdef_Wyvern_WVE-6N": ["MechPart",1, 7],
+    "Periphery_Medium_Mech_Parts": ["Reference",1, 2],
+    },
+    "systemStores_MechParts_Marik_Assault": {
+    "mechdef_banshee_BNC-3M": ["MechPart",1, 2]
+    },
+    "systemStores_MechParts_Marik_Heavy": {
+    "mechdef_warhammer_WHM-7M": ["MechPart",1, 6],
+    "InnerSphere_Heavy_Mech_Parts": ["Reference",1, 2],
+    },
+    "systemStores_MechParts_Marik_Light": {
+    "mechdef_flea_FLE-15": ["MechPart",1, 8],
+     "InnerSphere_Light_Mech_Parts": ["Reference",1]
+    },
+    "systemStores_MechParts_Marik_Medium": {
+    "mechdef_phoenixhawk_PXH-3M": ["MechPart",1, 7],
+    "InnerSphere_Medium_Mech_Parts": ["Reference",1, 2],
+    },
+    "systemStores_MechParts_Steiner_Assault": {
+    "mechdef_battlemaster_BLR-1S": ["MechPart",1, 2]
+    },
+    "systemStores_MechParts_Steiner_Heavy": {
+    "mechdef_archer_ARC-2S": ["MechPart",1, 6],
+    "InnerSphere_Heavy_Mech_Parts": ["Reference",1, 2],
+    },
+    "systemStores_MechParts_Steiner_Light": {
+    "mechdef_locust_LCT-1S": ["MechPart",1, 8],
+    
+     "InnerSphere_Light_Mech_Parts": ["Reference",1]
+    },
+    "systemStores_MechParts_Steiner_Medium": {
+    "mechdef_enforcer_ENF-4R": ["MechPart",1, 7],
+    "InnerSphere_Medium_Mech_Parts": ["Reference",1, 2],
+    },
+    "systemStores_MechParts_Taurian_Assault": {
+    "mechdef_battlemaster_BLR-1G": ["MechPart",1, 2]
+    },
+    "systemStores_MechParts_Taurian_Heavy": {
+    "mechdef_archer_ARC-2R": ["MechPart",1, 6],
+    "Periphery_Heavy_Mech_Parts": ["Reference",1, 2],
+    },
+    "systemStores_MechParts_Taurian_Light": {
+    "mechdef_locust_LCT-3V": ["MechPart",1, 8],
+    "Periphery_Light_Mech_Parts": ["Reference",1, 2],
+    },
+    "systemStores_MechParts_Taurian_Medium": {
+    "mechdef_hunchback_HBK-4H": ["MechPart",1, 7],
+    "Periphery_Medium_Mech_Parts": ["Reference",1, 2],
+    },
+    "systemStores_Mechs_BlackMarket_Assault": {
+        "mechdef_awesome_AWS-8Q": ["Mech", 1, 2]
+    },
+    "systemStores_Mechs_common_Assault": {
+        "mechdef_orion_ON1-V": ["Mech", 1, 2]
+    },
+    "systemStores_Mechs_common_Heavy": {
+        "mechdef_rifleman_RFL-3N": ["Mech", 1, 2],
+        "Periphery_Heavy_Mechs": ["Reference", 1, 1],
+        "InnerSphere_Heavy_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_common_Light": {
+        "mechdef_locust_LCT-1V": ["Mech", 1, 2],
+        "Periphery_Light_Mechs": ["Reference", 1, 1],
+        "InnerSphere_Light_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_common_Medium": {
+        "mechdef_cicada_CDA-2A": ["Mech", 1, 2],
+        "Periphery_Medium_Mechs": ["Reference", 1, 1],
+        "InnerSphere_Medium_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_Davion_Assault": {
+        "mechdef_locust_LCT-3V": ["Mech", 1, 2]
+    },
+    "systemStores_Mechs_Davion_Heavy": {
+        "mechdef_zeus_ZEU-6A": ["Mech", 1, 2],
+        "InnerSphere_Heavy_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_Davion_Light": {
+        "mechdef_locust_LCT-1M": ["Mech", 1, 2],
+        "InnerSphere_Light_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_Davion_Medium": {
+        "mechdef_hatchetman_HCT-3F": ["Mech", 1, 2],
+        "InnerSphere_Medium_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_Directorate_Assault": {
+        "mechdef_victor_VTR-9B": ["Mech", 1, 2]
+    },
+    "systemStores_Mechs_Directorate_Heavy": {
+        "mechdef_warhammer_WHM-6R": ["Mech", 1, 2],
+        "Periphery_Heavy_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_Directorate_Light": {
+        "mechdef_spider_SDR-5D": ["Mech", 1, 2],
+        "Periphery_Light_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_Directorate_Medium": {
+        "mechdef_blackjack_BJ-1V": ["Mech", 1, 2],
+        "Periphery_Medium_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_Kurita_Assault": {
+        "mechdef_mauler_MAL-1R": ["Mech", 1, 2]
+    },
+    "systemStores_Mechs_Kurita_Heavy": {
+        "mechdef_archer_ARC-2K": ["Mech", 1, 2],
+        "InnerSphere_Heavy_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_Kurita_Light": {
+        "mechdef_falcon_FLC-4NF": ["Mech", 1, 2],
+        "InnerSphere_Light_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_Kurita_Medium": {
+        "mechdef_HermesII_HER-4K": ["Mech", 1, 2],
+        "InnerSphere_Medium_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_Liao_Assault": {
+        "mechdef_highlander_HGN-733C": ["Mech", 1, 2]
+    },
+    "systemStores_Mechs_Liao_Heavy": {
+        "mechdef_marauder_MAD-3L": ["Mech", 1, 2],
+        "InnerSphere_Heavy_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_Liao_Light": {
+        "mechdef_locust_LCT-1L": ["Mech", 1, 2],
+        "InnerSphere_Light_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_Liao_Medium": {
+        "mechdef_raven_RVN-1X": ["Mech", 1, 2],
+        "InnerSphere_Medium_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_Magistracy_Assault": {
+        "mechdef_awesome_AWS-8V": ["Mech", 1, 2]
+    },
+    "systemStores_Mechs_Magistracy_Heavy": {
+        "mechdef_crusader_CRD-3R": ["Mech", 1, 2],
+        "Periphery_Heavy_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_Magistracy_Light": {
+        "mechdef_jenner_JR7-D": ["Mech", 1, 2],
+        "Periphery_Light_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_Magistracy_Medium": {
+        "mechdef_Chameleon_TRC-4B": ["Mech", 1, 2],
+        "Periphery_Medium_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_Marik_Assault": {
+        "mechdef_atlas_AS7-A": ["Mech", 1, 2]
+    },
+    "systemStores_Mechs_Marik_Heavy": {
+        "mechdef_marauder_MAD-3M": ["Mech", 1, 2],
+        "InnerSphere_Heavy_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_Marik_Light": {
+        "mechdef_Hermes_HER-3S": ["Mech", 1, 2],
+        "InnerSphere_Light_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_Marik_Medium": {
+        "mechdef_HermesII_HER-2M": ["Mech", 1, 2],
+        "InnerSphere_Medium_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_Steiner_Assault": {
+        "mechdef_highlander_HGN-733C": ["Mech", 1, 2]
+    },
+    "systemStores_Mechs_Steiner_Heavy": {
+        "mechdef_thunderbolt_TDR-5SS": ["Mech", 1, 2],
+        "InnerSphere_Heavy_Mechs": ["Reference", 1, 1]
+    },
+     "systemStores_Mechs_Steiner_Light": {
+        "mechdef_Wolfhound_WLF-1A": ["Mech", 1, 2],
+        "InnerSphere_Light_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_Steiner_Medium": {
+        "mechdef_Sentinel_STN-3KA": ["Mech", 1, 2],
+        "InnerSphere_Medium_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_Taurian_Assault": {
+        "mechdef_stalker_STK-3H": ["Mech", 1, 2]
+    },
+    "systemStores_Mechs_Taurian_Heavy": {
+        "mechdef_quickdraw_QKD-5A": ["Mech", 1, 2],
+        "Periphery_Heavy_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_Taurian_Light": {
+        "mechdef_javelin_JVN-10N": ["Mech", 1, 2],
+        "Periphery_Light_Mechs": ["Reference", 1, 1]
+    },
+    "systemStores_Mechs_Taurian_Medium": {
+        "mechdef_trebuchet_TBT-5N": ["Mech", 1, 2],
+        "Periphery_Medium_Mechs": ["Reference", 1, 1]
+    },
     "Weapons_common": {
                 "Weapon_Laser_LargeLaser_0-STOCK": ["Weapon",1, 8],
                 "Weapon_Laser_LargeLaser_1-Diverse_Optics": ["Weapon",1, 7],
@@ -787,7 +1008,7 @@ item_Collection = {
                  "Weapon_Gauss_Gauss_0-STOCK": ["Weapon",1, 5],
     },
      "Weapons_uncommon": {
-                "Weapon_Autocannon_UAC2_0-STOCK": [1, 5],
+                "Weapon_Autocannon_UAC2_0-STOCK": ["Weapon",1, 5],
                 "Weapon_Autocannon_UAC2_1-Imperator": ["Weapon",1, 4],
                  "Weapon_Autocannon_UAC5_0-STOCK": ["Weapon",1, 5],
                 "Weapon_Autocannon_UAC5_1-Mydron": ["Weapon",1, 4],
@@ -854,9 +1075,12 @@ item_Collection = {
      
                
     },
+    "Honored_ComStar": {
+      "Periphery_Medium_Mechs": ["Reference", 6, 10]
+               
+    },
+    
 }
-
-
 script_dir = os.path.dirname(os.path.abspath(__file__))
 new_folder = "Output"
 output_directory = os.path.join(script_dir, new_folder)
@@ -866,14 +1090,16 @@ os.makedirs(output_directory, exist_ok=True)
 for category, subcategories in categories.items():
     # Loop through subcategories
     for subcategory, items in subcategories.items():
-        # Create a CSV file for each subcategory
-        file_path = f"{output_directory}/GN_{category}_{subcategory}.csv"
-        with open(file_path, 'w', newline='') as csvfile:
-            csvwriter = csv.writer(csvfile)
-            csvwriter.writerow([f"GN_{category}_{subcategory}", '', '', ''])
-            # Write the items within the current subcategory into the corresponding CSV file
-            for item, values in items.items():
-                csvwriter.writerow([item, category] + values)
+        # Check if the subcategory is not empty
+        if items:
+            # Create a CSV file for each non-empty subcategory
+            file_path = f"{output_directory}/GN_{category}_{subcategory}.csv"
+            with open(file_path, 'w', newline='') as csvfile:
+                csvwriter = csv.writer(csvfile)
+                csvwriter.writerow([f"GN_{category}_{subcategory}", '', '', ''])
+                # Write the items within the current subcategory into the corresponding CSV file
+                for item, values in items.items():
+                    csvwriter.writerow([item, category] + values)
             
 
 # Second loop output in a subfolder inside the first loop's output directory
@@ -882,7 +1108,7 @@ os.makedirs(data_folder, exist_ok=True)
 
 for main_category, subcategories in item_Collection.items():
     if isinstance(subcategories, dict) and len(subcategories) > 0:
-        if main_category in ["Liked_InnerSphere", "Liked_Periphery", "Liked_Clans"]:
+        if main_category in ["Liked_InnerSphere", "Liked_Periphery", "Liked_Clans","Honored_ComStar"]:
             file_path = f"{output_directory}\\GN_{main_category}.csv"
         else:
             file_path = f"{data_folder}\\itemCollection_{main_category}.csv"
@@ -892,7 +1118,7 @@ for main_category, subcategories in item_Collection.items():
             if main_category in ["Liked_InnerSphere", "Liked_Periphery", "Liked_Clans"]:
                 csvwriter.writerow([f"GN_{main_category}", '', '', ''])
             else:
-                csvwriter.writerow([f"itemCollection_{category}", '', '', ''])
+                csvwriter.writerow([f"itemCollection_{main_category}", '', '', ''])
                 
             for item, values in subcategories.items():
                 csvwriter.writerow([item] + values)
