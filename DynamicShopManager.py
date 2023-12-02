@@ -3,14 +3,6 @@ import os
 
 # Below is the data set up in nested categories.The top level determines the DEF type to be output into the CSV file on creation.The next level down# Values below in the pair ie[1, 1] = [Quantity, Frequency] Frequency 1 - 10 with 10 being always# This script is designed
 
-def write_to_csv(category, subcategory, items):
-    filename = f"Output/{category}_{subcategory}.csv"
-    with open(filename, mode='w', newline='') as file:
-        writer = csv.writer(file)
-        writer.writerow(['Item', 'Value1', 'Value2'])  # Header
-        for item, values in items.items():
-            writer.writerow([item] + values)
-
 categories = {
      "HeatSink": {
                 "Engines": {
@@ -557,14 +549,14 @@ categories = {
             "Clan_Medium_Tank_Parts": {},
             "Clan_Heavy_Tank_Parts": {}
         }
-}
+}# NOTE: item_Collections switches to a different format due to item_Collections have mixed types in the CSV's. reference is used when calling another csv file, instead of a specific JSON
 item_Collection = {
     "faction_ComStar": {
     "mechdef_GN-000": ["Mech",1, 1],
     "mechdef_GN-000-FA": ["Mech",1, 1],
     "mechdef_GN-000-FA-P": ["Mech",1, 1],
     "mechdef_GN-002": ["Mech",1, 1],
-    "mechdef_GN-005": ["Mech",1, 1],
+    "Weapons_uncommon": ["Reference",1, 1],
     },
     "faction_Davion": {},
     "faction_Steiner": {},
@@ -841,27 +833,8 @@ item_Collection = {
                 "Weapon_Gauss_Heavy_0-STOCK": ["Weapon",1, 3],
                 "Weapon_Gauss_ImprovedHeavy_0-STOCK": ["Weapon",1, 2],
     },
-    "Liked_InnerSphere": {
-                "Weapons_common": ["Reference",1, 5],
-                "Weapons_uncommon": ["Reference",1, 3],
-                "Weapons_rare": ["Reference",1, 2],
-                "Ammo_Common": ["Reference",1, 3],
-                "Ammo_CommonII": ["Reference",1, 3],
-                "Ammo_Uncommon": ["Reference",1, 5],
-                "Ammo_Rare": ["Reference",1, 1],
-    },
-    "Liked_Periphery": {
-                "Weapons_common": ["Reference",1, 4],
-                "Weapons_uncommon": ["Reference",1, 2],
-                "Weapons_rare": ["Reference",1, 1],
-                "Ammo_Common": ["Reference",1, 3],
-                "Ammo_CommonII": ["Reference",1, 3],
-                "Ammo_Uncommon": ["Reference",1, 5],
-    },
-    "Liked_Clans": {
-     
-               
-    },
+}
+
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
 new_folder = "Output"
@@ -869,10 +842,19 @@ output_directory = os.path.join(script_dir, new_folder)
 os.makedirs(output_directory, exist_ok=True)
 
 # Loop through the categories
-for main_category, subcategories in categories.items():
+for category, subcategories in categories.items():
+    # Loop through subcategories
     for subcategory, items in subcategories.items():
-        write_to_csv(main_category, subcategory, items)
-                
+        # Create a CSV file for each subcategory
+        file_path = f"{output_directory}/GN_{category}_{subcategory}.csv"
+        with open(file_path, 'w', newline='') as csvfile:
+            csvwriter = csv.writer(csvfile)
+            csvwriter.writerow([f"GN_{category}_{subcategory}", '', '', ''])
+            # Write the items within the current subcategory into the corresponding CSV file
+            for item, values in items.items():
+                csvwriter.writerow([item, category] + values)
+            
+
 # Second loop output in a subfolder inside the first loop's output directory
 data_folder = os.path.join(output_directory, "itemCollections")
 os.makedirs(data_folder, exist_ok=True)
@@ -882,6 +864,6 @@ for main_category, subcategories in item_Collection.items():
         file_path = f"{data_folder}\\itemCollection_{main_category}.csv"
         with open(file_path, 'w', newline='') as csvfile:
             csvwriter = csv.writer(csvfile)
-            csvwriter.writerow([f"itemCollection_{main_category}", '', '', ''])  # Write the main category as the first line
-            for subcategory, values in subcategories.items():
-                csvwriter.writerow([subcategory] + values)  # Write subcategory and its associated values
+            csvwriter.writerow([f"itemCollection_{category}", '', '', ''])  # Write the main category as the first line
+            for item, values in subcategories.items():  # Iterate through the subcategories
+                csvwriter.writerow([item] + values)
