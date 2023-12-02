@@ -3,6 +3,14 @@ import os
 
 # Below is the data set up in nested categories.The top level determines the DEF type to be output into the CSV file on creation.The next level down# Values below in the pair ie[1, 1] = [Quantity, Frequency] Frequency 1 - 10 with 10 being always# This script is designed
 
+def write_to_csv(category, subcategory, items):
+    filename = f"Output/{category}_{subcategory}.csv"
+    with open(filename, mode='w', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(['Item', 'Value1', 'Value2'])  # Header
+        for item, values in items.items():
+            writer.writerow([item] + values)
+
 categories = {
      "HeatSink": {
                 "Engines": {
@@ -13,8 +21,8 @@ categories = {
                     "emod_engineslots_xl_center": [1, 4]
                 },
                 "HeatSinks": {
-                    "Gear_HeatSink_Generic_Double": [1, 1],
-                    "Gear_HeatSink_Generic_Standard": [1, 1]
+                    "Gear_HeatSink_Generic_Double": [1, 2],
+                    "Gear_HeatSink_Generic_Standard": [1, 8]
                 },
                 "EngineCore": {
                     "emod_engine_010": [1, 4],
@@ -560,6 +568,10 @@ item_Collection = {
     },
     "faction_Davion": {},
     "faction_Steiner": {},
+    "faction_Liao": {},
+    "faction_Kurita": {},
+    "faction_Ives": {},
+    "faction_WordOfBlake": {},
     "faction_TaurianConcordat": {},
     "faction_MagistracyOfCanopus": {},
     "faction_AuriganDirectorate": {},
@@ -568,6 +580,20 @@ item_Collection = {
     "faction_Castile": {},
     "faction_Chainelane": {},
     "faction_Circinus": {},
+    "faction_Delphi": {},
+    "faction_Elysia": {},
+    "faction_Hanse": {},
+    "faction_Illyrian": {},
+    "faction_Ives": {},
+    "faction_JarnFolk": {},
+    "faction_Lothian": {},
+    "faction_Marian": {},
+    "faction_Oberon": {},
+    "faction_Outworld": {},
+    "faction_Rasalhague": {},
+    "faction_Tortuga": {},
+    "faction_Valkyrate": {},
+    "faction_Rim": {},
     "faction_ClanBurrock": {},
     "faction_ClanCloudCobra": {},
     "faction_ClanCoyote": {},
@@ -585,33 +611,12 @@ item_Collection = {
     "faction_ClanStarAdder": {},
     "faction_ClanSteelViper": {},
     "faction_ClanWolf": {},
-    "faction_Delphi": {},
-    "faction_Elysia": {},
-    "faction_Hanse": {},
-    "faction_Illyrian": {},
-    "faction_Ives": {},
-    "faction_JarnFolk": {},
-    "faction_Lothian": {},
-    "faction_Marian": {},
-    "faction_Oberon": {},
-    "faction_Outworld": {},
-    "faction_Rasalhague": {},
-    "faction_Tortuga": {},
-    "faction_Valkyrate": {},
-    "faction_WordOfBlake": {},
-    "faction_Rim": {},
     "Ammo_all": {
      "Ammo_Common": ["Reference",4, 5],
      "Ammo_CommonII": ["Reference",4, 5],
      "Ammo_Uncommon": ["Reference",3, 2],
      "Ammo_Rare": ["Reference",1, 1],
     },  #Vanilla CSV's Below
-    "Battlefield": {},
-    "Industrial": {},
-    "Research": {},
-    "shop_research": {},
-    "SLDF": {},
-    "Smuggler": {},
     "minor_AuriganDirectorate": {},
     "minor_AuriganRestoration": {},
     "minor_Davion": {},
@@ -628,6 +633,12 @@ item_Collection = {
     "major_MagistracyOfCanopus": {},
     "major_Marik": {},
     "major_TaurianConcordat": {},
+    "Battlefield": {},
+    "Industrial": {},
+    "Research": {},
+    "shop_research": {},
+    "SLDF": {},
+    "Smuggler": {},
     "shopItems_battlefield": {},
     "shopItems_battlefieldProgression": {},
     "shopItems_blackmarket": {},
@@ -726,31 +737,142 @@ item_Collection = {
     "systemStores_Mechs_Taurian_Heavy": {},
     "systemStores_Mechs_Taurian_Light": {},
     "systemStores_Mechs_Taurian_Medium": {},
-}
+    "Weapons_common": {
+                "Weapon_Laser_LargeLaser_0-STOCK": ["Weapon",1, 8],
+                "Weapon_Laser_LargeLaser_1-Diverse_Optics": ["Weapon",1, 7],
+                "Weapon_Laser_LargeLaser_1-ExoStar": ["Weapon",1, 7],
+                "Weapon_Laser_LargeLaser_1-Intek": ["Weapon",1, 7],
+                "Weapon_PPC_PPCSnub_0-STOCK": ["Weapon",1, 6],
+                "Weapon_PPC_PPCSnub_1-Ceres_Arms": ["Weapon",1, 6],
+                "Weapon_PPC_PPCSnub_1-Donal": ["Weapon",1, 6],
+                "Weapon_PPC_PPCSnub_1-Magna": ["Weapon",1, 6],
+                "Weapon_PPC_PPC_0-STOCK": ["Weapon",1, 7],
+                "Weapon_PPC_PPC_1-Ceres_Arms": ["Weapon",1, 6],
+                "Weapon_PPC_PPC_1-Donal": ["Weapon",1, 6],
+                "Weapon_PPC_PPC_1-Tiegart": ["Weapon",1, 6],
+                "Weapon_Autocannon_AC2_0-STOCK": ["Weapon",1, 8],
+                "Weapon_Autocannon_AC2_1-Defiance": ["Weapon",1, 7],
+                "Weapon_Autocannon_AC2_1-Federated": ["Weapon",1, 7],
+                "Weapon_Autocannon_AC2_1-Kali_Yama": ["Weapon",1, 7],
+                "Weapon_Autocannon_AC10_0-STOCK": ["Weapon",1, 7],
+                "Weapon_Autocannon_AC10_1-Defiance": ["Weapon",1, 6],
+                "Weapon_Autocannon_AC10_1-Imperator": ["Weapon",1, 6],
+                "Weapon_Autocannon_AC10_1-Kali_Yama": ["Weapon",1, 6],
+                "Weapon_Autocannon_AC10_1-Mydron": ["Weapon",1, 6],
+                "Weapon_Autocannon_AC5_1-Defiance": ["Weapon",1, 7],
+                "Weapon_Autocannon_AC5_1-Federated": ["Weapon",1, 7],
+                "Weapon_Autocannon_AC5_1-Imperator": ["Weapon",1, 7],
+                "Weapon_Autocannon_AC5_1-Kali_Yama": ["Weapon",1, 7],
+                "Weapon_Autocannon_AC20_1-Defiance": ["Weapon",1, 6],
+                "Weapon_Autocannon_AC20_1-Federated": ["Weapon",1, 6],
+                "Weapon_Autocannon_AC20_1-Imperator": ["Weapon",1, 6],
+                "Weapon_Autocannon_AC20_1-Mydron": ["Weapon",1, 6],
+                "Weapon_MachineGun_MachineGun_0-STOCK": ["Weapon",1, 9],
+                "Weapon_MachineGun_MachineGun_1-Brigadier": ["Weapon",1, 8],
+                "Weapon_MachineGun_MachineGun_1-VMI": ["Weapon",1, 8],
+                "Weapon_SRM_SRM2_0-STOCK": ["Weapon",1, 8],
+                "Weapon_SRM_SRM2_1-Holly": ["Weapon",1, 7],
+                "Weapon_SRM_SRM4_0-STOCK": ["Weapon",1, 8],
+                "Weapon_SRM_SRM4_1-Holly": ["Weapon",1, 7],
+                "Weapon_SRM_SRM6_0-STOCK": ["Weapon",1, 8],
+                "Weapon_SRM_SRM6_1-Holly": ["Weapon",1, 7],
+                "Weapon_LRM_LRM5_0-STOCK": ["Weapon",1, 7],
+                "Weapon_LRM_LRM5_1-Delta": ["Weapon",1, 6],
+                "Weapon_LRM_LRM10_0-STOCK": ["Weapon",1,7],
+                "Weapon_LRM_LRM10_1-Delta": ["Weapon",1, 6],
+                "Weapon_LRM_LRM15_0-STOCK": ["Weapon",1, 7],
+                "Weapon_LRM_LRM15_1-Delta": ["Weapon",1, 6],
+                "Weapon_LRM_LRM20_0-STOCK": ["Weapon",1, 7],
+                "Weapon_LRM_LRM20_1-Delta": ["Weapon",1, 6],
+                "Weapon_Flamer_Flamer_0-STOCK": ["Weapon",1, 9],
+                "Weapon_Flamer_Flamer_1-Hotshot": ["Weapon",1, 8],
+                "Weapon_AMS": ["Weapon",1, 6],
+                "Weapon_TAG_Standard_0-STOCK": ["Weapon",1, 6],
+                "Weapon_TAG_Standard_1-Mendham": ["Weapon",1, 5],
+                "Weapon_TAG_Standard_2-Ceres_Arms": ["Weapon",1, 5],
+                "Weapon_Narc_Standard_0-STOCK": ["Weapon",1, 6],
+                "Weapon_Narc_Standard_1-Ceres_Arms": ["Weapon",1, 5],
+                 "Weapon_Gauss_Gauss_0-STOCK": ["Weapon",1, 5],
+    },
+     "Weapons_uncommon": {
+                "Weapon_Autocannon_UAC2_0-STOCK": [1, 5],
+                "Weapon_Autocannon_UAC2_1-Imperator": ["Weapon",1, 4],
+                 "Weapon_Autocannon_UAC5_0-STOCK": ["Weapon",1, 5],
+                "Weapon_Autocannon_UAC5_1-Mydron": ["Weapon",1, 4],
+                "Weapon_Autocannon_UAC10_0-STOCK": ["Weapon",1, 5],
+                "Weapon_Autocannon_UAC10_1-Federated": ["Weapon",1, 4],
+                "Weapon_Autocannon_UAC20_0-STOCK": ["Weapon",1, 5],
+                "Weapon_Autocannon_UAC20_1-Kali_Yama": ["Weapon",1, 4],
+                "Weapon_Autocannon_LB2X_0-STOCK": ["Weapon",1, 6],
+                "Weapon_Autocannon_LB2X_1-Defiance": ["Weapon",1, 5],
+                "Weapon_Autocannon_LB5X_0-STOCK": ["Weapon",1, 6],
+                "Weapon_Autocannon_LB5X_1-GM": ["Weapon",1, 5],
+                "Weapon_Autocannon_LB10X_0-STOCK": ["Weapon",1, 6],
+                "Weapon_Autocannon_LB10X_1-Western": ["Weapon",1, 5],
+                "Weapon_Autocannon_LB20X_0-STOCK": ["Weapon",1, 6],
+                "Weapon_Autocannon_LB20X_1-Shengli_Arms": ["Weapon",1, 5],
+                 "Weapon_Autocannon_HeavyRifle": ["Weapon",1, 6],
+                "Weapon_Autocannon_MediumRifle": ["Weapon",1, 6],
+                "Weapon_Autocannon_LightRifle": ["Weapon",1, 6],
+                "Weapon_MRM_MRM10": ["Weapon",1, 5],
+                "Weapon_MRM_MRM20": ["Weapon",1, 5],
+                "Weapon_MRM_MRM30": ["Weapon",1, 5],
+                "Weapon_MRM_MRM40": ["Weapon",1, 5],
+                "Weapon_LRM_Thunderbolt5": ["Weapon",1, 5],
+                "Weapon_LRM_Thunderbolt10": ["Weapon",1, 5],
+                "Weapon_LRM_Thunderbolt15": ["Weapon",1, 4],
+                "Weapon_LRM_Thunderbolt20": ["Weapon",1, 4],
+                 "Weapon_Mortar4": ["Weapon",1, 6],
+                "Weapon_Mortar6": ["Weapon",1, 5],
+                "Weapon_Mortar8": ["Weapon",1, 5],
+                "Weapon_Autocannon_LONGTOM": ["Weapon",1, 3],
+                "Weapon_Autocannon_SNIPER": ["Weapon",1, 3],
+                "Weapon_Autocannon_THUMPER": ["Weapon",1, 3],
+                "Weapon_Gauss_Gauss_1-M7": ["Weapon",1, 3],
+                "Weapon_Gauss_Gauss_2-M9": ["Weapon",1, 2],
+    }
+     "Weapons_rare": {
+     "Weapon_Autocannon_HVAC2_0-STOCK": ["Weapon",1, 3],
+                "Weapon_Autocannon_HVAC5_0-STOCK": ["Weapon",1, 3],
+                "Weapon_Autocannon_HVAC10_0-STOCK": ["Weapon",1, 3],
+                "Weapon_Autocannon_HVAC20_0-STOCK": ["Weapon",1, 3],
+                "Weapon_Laser_AMS": ["Weapon",1, 2],
+                "Weapon_Gauss_Gauss_Silverbullet": ["Weapon",1, 2],
+                "Weapon_Gauss_Heavy_0-STOCK": ["Weapon",1, 3],
+                "Weapon_Gauss_ImprovedHeavy_0-STOCK": ["Weapon",1, 2],
+    },
+    "Liked_InnerSphere": {
+                "Weapons_common": ["Reference",1, 5],
+                "Weapons_uncommon": ["Reference",1, 3],
+                "Weapons_rare": ["Reference",1, 2],
+                "Ammo_Common": ["Reference",1, 3],
+                "Ammo_CommonII": ["Reference",1, 3],
+                "Ammo_Uncommon": ["Reference",1, 5],
+                "Ammo_Rare": ["Reference",1, 1],
+    },
+    "Liked_Periphery": {
+                "Weapons_common": ["Reference",1, 4],
+                "Weapons_uncommon": ["Reference",1, 2],
+                "Weapons_rare": ["Reference",1, 1],
+                "Ammo_Common": ["Reference",1, 3],
+                "Ammo_CommonII": ["Reference",1, 3],
+                "Ammo_Uncommon": ["Reference",1, 5],
+    },
+    "Liked_Clans": {
+     
+               
+    },
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
 new_folder = "Output"
 output_directory = os.path.join(script_dir, new_folder)
 os.makedirs(output_directory, exist_ok=True)
 
+# Loop through the categories
 for main_category, subcategories in categories.items():
-    for subcategory, values in subcategories.items():
-        file_path = f"{output_directory}/GN_{subcategory}.csv"
-        with open(file_path, 'w', newline='') as csvfile:
-            csvwriter = csv.writer(csvfile)
-            csvwriter.writerow([f"GN_{subcategory}", '', '', ''])
-            if isinstance(values, dict):
-                for item, value in values.items():
-                    if isinstance(value, dict):
-                        value = list(value.values())  # Use values of the inner dictionary
-                    elif isinstance(value, set):
-                        value = list(value)  # Convert set to list
-                    csvwriter.writerow([item, f"{main_category}"] + value)
-            else:
-                for item in values:
-                    csvwriter.writerow([item, f"{main_category}", '', ''])
-            
-
+    for subcategory, items in subcategories.items():
+        write_to_csv(main_category, subcategory, items)
+                
 # Second loop output in a subfolder inside the first loop's output directory
 data_folder = os.path.join(output_directory, "itemCollections")
 os.makedirs(data_folder, exist_ok=True)
