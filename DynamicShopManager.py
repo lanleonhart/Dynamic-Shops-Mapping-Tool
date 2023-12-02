@@ -547,8 +547,8 @@ categories = {
             "InnerSphere_Heavy_Tank_Parts": {},
             "Clan_Light_Tank_Parts": {},
             "Clan_Medium_Tank_Parts": {},
-            "Clan_Heavy_Tank_Parts": {}
-        }
+            "Clan_Heavy_Tank_Parts": {},
+        },
 }# NOTE: item_Collections switches to a different format due to item_Collections have mixed types in the CSV's. reference is used when calling another csv file, instead of a specific JSON
 item_Collection = {
     "faction_ComStar": {
@@ -822,7 +822,7 @@ item_Collection = {
                 "Weapon_Autocannon_THUMPER": ["Weapon",1, 3],
                 "Weapon_Gauss_Gauss_1-M7": ["Weapon",1, 3],
                 "Weapon_Gauss_Gauss_2-M9": ["Weapon",1, 2],
-    }
+    },
      "Weapons_rare": {
      "Weapon_Autocannon_HVAC2_0-STOCK": ["Weapon",1, 3],
                 "Weapon_Autocannon_HVAC5_0-STOCK": ["Weapon",1, 3],
@@ -832,6 +832,27 @@ item_Collection = {
                 "Weapon_Gauss_Gauss_Silverbullet": ["Weapon",1, 2],
                 "Weapon_Gauss_Heavy_0-STOCK": ["Weapon",1, 3],
                 "Weapon_Gauss_ImprovedHeavy_0-STOCK": ["Weapon",1, 2],
+    },
+    "Liked_InnerSphere": {
+                "Weapons_common": ["Reference",1, 5],
+                "Weapons_uncommon": ["Reference",1, 3],
+                "Weapons_rare": ["Reference",1, 2],
+                "Ammo_Common": ["Reference",1, 3],
+                "Ammo_CommonII": ["Reference",1, 3],
+                "Ammo_Uncommon": ["Reference",1, 5],
+                "Ammo_Rare": ["Reference",1, 1],
+    },
+    "Liked_Periphery": {
+                "Weapons_common": ["Reference",1, 4],
+                "Weapons_uncommon": ["Reference",1, 2],
+                "Weapons_rare": ["Reference",1, 1],
+                "Ammo_Common": ["Reference",1, 3],
+                "Ammo_CommonII": ["Reference",1, 3],
+                "Ammo_Uncommon": ["Reference",1, 5],
+    },
+    "Liked_Clans": {
+     
+               
     },
 }
 
@@ -861,9 +882,17 @@ os.makedirs(data_folder, exist_ok=True)
 
 for main_category, subcategories in item_Collection.items():
     if isinstance(subcategories, dict) and len(subcategories) > 0:
-        file_path = f"{data_folder}\\itemCollection_{main_category}.csv"
+        if main_category in ["Liked_InnerSphere", "Liked_Periphery", "Liked_Clans"]:
+            file_path = f"{output_directory}\\GN_{main_category}.csv"
+        else:
+            file_path = f"{data_folder}\\itemCollection_{main_category}.csv"
+            
         with open(file_path, 'w', newline='') as csvfile:
             csvwriter = csv.writer(csvfile)
-            csvwriter.writerow([f"itemCollection_{category}", '', '', ''])  # Write the main category as the first line
-            for item, values in subcategories.items():  # Iterate through the subcategories
+            if main_category in ["Liked_InnerSphere", "Liked_Periphery", "Liked_Clans"]:
+                csvwriter.writerow([f"GN_{main_category}", '', '', ''])
+            else:
+                csvwriter.writerow([f"itemCollection_{category}", '', '', ''])
+                
+            for item, values in subcategories.items():
                 csvwriter.writerow([item] + values)
