@@ -13,8 +13,8 @@ categories = {
                     "emod_engineslots_xl_center": [1, 4]
                 },
                 "HeatSinks": {
-                    "Gear_HeatSink_Generic_Double": [1, 2],
-                    "Gear_HeatSink_Generic_Standard": [1, 8]
+                    "Gear_HeatSink_Generic_Double": [1, 1],
+                    "Gear_HeatSink_Generic_Standard": [1, 9]
                 },
                 "EngineCore": {
                     "emod_engine_010": [1, 4],
@@ -100,8 +100,78 @@ categories = {
                 "HSKits": {
                     "emod_kit_dhs": [1, 2],
                     "emod_kit_shs": [1, 6]
+                }
                 },
-        },
+        "JumpJet": {
+        "JumpJets": {
+        "Gear_JumpJet_Generic_Assault": [1, 1],
+        "Gear_JumpJet_Generic_Heavy": [1, 1],
+        "Gear_JumpJet_Generic_Standard": [1, 1]
+        }
+},        
+   "Upgrade": {
+    "Actuators": {
+        "Gear_Arm_Acc_EnhancedMount": [1, 5],
+        "Gear_Arm_Acc_Mount": [1, 5],
+        "Gear_Arm_Armor_ArmoredActuator": [1, 6],
+        "Gear_Arm_Armor_ReinforcedActuator": [1, 6],
+        "Gear_Arm_Armor_Stripped": [1, 7],
+        "Gear_Arm_Armor_Stripped-Lower": [1, 7],
+        "Gear_Arm_Heat_AdvCoolingCircuit": [1, 3],
+        "Gear_Arm_Heat_CoolingCircuit": [1, 1],
+        "Gear_Arm_LOS_WideRangeActuators": [1, 2],
+        "Gear_Leg_JJ_EnhancedVectorMotors": [1, 3],
+        "Gear_Leg_JJ_VectorMotors": [1, 4],
+        "Gear_Leg_STAB_Clamp": [1, 4],
+        "Gear_Leg_STAB_ReinforcedJoints": [1, 5],
+        "Gear_Leg_STAB_ReinforcedJoints_L": [1, 5],
+        "Gear_Leg_WT_ScarecrowLegs": [1, 5]
+    },
+    "Armor": {
+        "emod_armorslots_ferrosfibrous": [1, 7],
+        "emod_armorslots_ferrosfibrousheavy": [1, 5],
+        "emod_armorslots_ferrosfibrouslight": [1, 4]
+    },
+    "Structure": {
+        "emod_structureslots_endosteel": [1, 5],
+        "emod_structureslots_endocomposite": [1, 4],
+        "emod_structureslots_reinforced": [1, 4],
+        "emod_structureslots_composite": [1, 4]
+    },
+    "Cockpit": {
+        "Gear_Cockpit_CommandConsole": [1, 4],
+        "Gear_Cockpit_Small": [1, 6]
+    },
+    "Life_Support": {
+        "Gear_Cockpit_LifeSupportA_Piloting": [1, 6],
+        "Gear_Cockpit_LifeSupportA_Tactics": [1, 6],
+        "Gear_Cockpit_LifeSupportB_Gunnery": [1, 6],
+        "Gear_Cockpit_LifeSupportB_Guts": [1, 6],
+        "Gear_Cockpit_LifeSupportB_Piloting": [1, 6],
+        "Gear_Cockpit_LifeSupportB_Tactics": [1, 6],
+        "Gear_Cockpit_LifeSupportA_Gunnery": [1, 6],
+        "Gear_Cockpit_LifeSupportA_Guts": [1, 6]
+    },
+    "ECM": {
+        "Gear_ECM_Angel": [1, 2],
+        "Gear_ECM_BAP": [1, 3],
+        "Gear_ECM_EWS": [1, 2],
+        "Gear_ECM_Guardian": [1, 2]
+    },
+    "Gyro": {
+        "Gear_Gyro_Compact": [1, 5],
+        "Gear_Gyro_Hardened": [1, 6],
+        "Gear_Gyro_Light": [1, 6],
+        "Gear_Gyro_Stabilized": [1, 4],
+        "Gear_Gyro_UltraLight": [1, 3]
+    },
+    "Upgrades": {
+        "Gear_ForcedCooler": [1, 2],
+        "Gear_MASC": [1, 4],
+        "Gear_Supercharger": [1, 5],
+        "Gear_TSM": [1, 5]
+    }
+    },
         "Weapon": {
             "Lasers": {
                 "Weapon_Laser_LargeLaser_0-STOCK": [1, 8],
@@ -419,147 +489,20 @@ categories = {
                 "Ammo_AmmunitionBox_Generic_UAC20": [1, 4],
                 "Ammo_AmmunitionBox_ArrowIV": [1, 4]
             },
-
             "Ammo_Rare": {
                 "Ammo_AmmunitionBox_SBGauss": [1, 2],
             },
             "Ammo_Special": {},
-        },
-        "Mech": {
-                "ComStar_Light_Mechs": {
-                "mechdef_hussar_HSR-200-D": [1, 1],
-                "mechdef_firefly_FFL-4C": [1, 1]
-                },
-                "ComStar_Medium_Mechs": {
-                 "mechdef_Sentinel_STN-3L":[1, 1],
-                 "mechdef_Crab_CRB-27": [1, 1]
-                },
-                "ComStar_Heavy_Mechs": {
-                "mechdef_exterminator_EXT-4D": [1, 1],
-                "mechdef_lancelot_LNC25-01": [1, 1],
-                
-                },
-                "Periphery_Light_Mechs": {
-                "mechdef_Ostscout-OTT7J": [1, 1],
-                "mechdef_jenner_JR7-F": [1, 1],
-                "mechdef_firestarter_FS9-H": [1, 1],
-                "mechdef_javelin_JVN-10A": [1, 1]
-                },
-                "Periphery_Medium_Mechs": {
-                "mechdef_Whitworth_WTH-1": [1, 1],
-                "mechdef_hunchback_HBK-4N": [1, 1],
-                "mechdef_enforcer_ENF-4R": [1, 1],
-                "mechdef_centurion_CN9-AL": [1, 1]
-                },
-                "Periphery_Heavy_Mechs": {
-                "mechdef_thunderbolt_TDR-5S": [1, 1],
-                "mechdef_rifleman_RFL-3N": [1, 1],
-                "mechdef_catapult_CPLT-C1": [1, 1],
-                "mechdef_grasshopper_GHR-5H": [1, 1]
-                },
-                "InnerSphere_Light_Mechs": {
-                "mechdef_javelin_JVN-10N": [1, 1],
-                "mechdef_spider_SDR-5V": [1, 1],
-                "mechdef_locust_LCT-1V": [1, 1],
-                "mechdef_jenner_JR7-D": [1, 1]
-                },
-                "InnerSphere_Medium_Mechs": {
-                "mechdef_Whitworth_WTH-1": [1, 1],
-                "mechdef_hunchback_HBK-4N": [1, 1],
-                "mechdef_kintaro_KTO-18": [1, 1],
-                "mechdef_centurion_CN9-A": [1, 1]
-                },
-                "InnerSphere_Heavy_Mechs": {
-                "mechdef_quickdraw_QKD-5A": [1, 1],
-                "mechdef_warhammer_WHM-6R": [1, 1],
-                "mechdef_orion_ON1-K": [1, 1],
-                "mechdef_griffin_GRF-1N": [1, 1]
-                },
-                "Clan_Light_Mechs": {},
-                "Clan_Medium_Mechs": {},
-                "Clan_Heavy_Mechs": {},
-            },
-        },
-}# NOTE: item_Collections switches to a different format due to item_Collections have mixed types in the CSV's. reference is used when calling another csv file, instead of a specific JSON
+        }
+    }
+# NOTE: item_Collections switches to a different format due to item_Collections have mixed types in the CSV's. reference is used when calling another csv file, instead of a specific JSON
 item_Collection = {
-    "faction_ComStar": {
-    "mechdef_GN-000": ["Mech",1, 1],
-    "mechdef_GN-000-FA": ["Mech",1, 1],
-    "mechdef_GN-000-FA-P": ["Mech",1, 1],
-    "mechdef_GN-002": ["Mech",1, 1]
-},
-    "faction_Davion": {
-    },
-    "faction_Steiner": {},
-    "faction_Liao": {},
-    "faction_Kurita": {},
-    "faction_Ives": {},
-    "faction_WordOfBlake": {},
-    "faction_TaurianConcordat": {},
-    "faction_MagistracyOfCanopus": {},
-    "faction_AuriganDirectorate": {},
-    "faction_AuriganRestoration": {},
-    "faction_Axumite": {},
-    "faction_Castile": {},
-    "faction_Chainelane": {},
-    "faction_Circinus": {},
-    "faction_Delphi": {},
-    "faction_Elysia": {},
-    "faction_Hanse": {},
-    "faction_Illyrian": {},
-    "faction_Ives": {},
-    "faction_JarnFolk": {},
-    "faction_Lothian": {},
-    "faction_Marian": {},
-    "faction_Oberon": {},
-    "faction_Outworld": {},
-    "faction_Rasalhague": {},
-    "faction_Tortuga": {},
-    "faction_Valkyrate": {},
-    "faction_Rim": {},
-    "faction_ClanBurrock": {},
-    "faction_ClanCloudCobra": {},
-    "faction_ClanCoyote": {},
-    "faction_ClanDiamondShark": {},
-    "faction_ClanFireMandrill": {},
-    "faction_ClanGhostBear": {},
-    "faction_ClanGoliathScorpion": {},
-    "faction_ClanHellsHorses": {},
-    "faction_ClanIceHellion": {},
-    "faction_ClanJadeFalcon": {},
-    "faction_ClanNovaCat": {},
-    "faction_ClansGeneric": {},
-    "faction_ClanSmokeJaguar": {},
-    "faction_ClanSnowRaven": {},
-    "faction_ClanStarAdder": {},
-    "faction_ClanSteelViper": {},
-    "faction_ClanWolf": {},
     "Ammo_all": {
-     "Ammo_Common": ["Reference",4, 5],
-     "Ammo_CommonII": ["Reference",4, 5],
-     "Ammo_Uncommon": ["Reference",3, 2],
-     "Ammo_Rare": ["Reference",1, 1],
+     "GN_Ammo_Common": ["Reference",4, 5],
+     "GN_Ammo_CommonII": ["Reference",4, 5],
+     "GN_Ammo_Uncommon": ["Reference",2, 2],
+     "GN_Ammo_Rare": ["Reference",1, 1]
     },  #StreamingAssets/data/itemCollections CSV's Below
-    "minor_AuriganDirectorate": {},
-    "minor_AuriganRestoration": {},
-    "major_ComStar": {
-     "Ammo_Common": ["Reference",0, 1],
-    "Ammo_CommonII": ["Reference",0, 1]
-    },
-    "minor_Davion": {},
-    "minor_Liao": {},
-    "minor_Locals": {},
-    "minor_MagistracyOfCanopus": {},
-    "minor_Marik": {},
-    "minor_TaurianConcordat": {},
-    "major_AuriganDirectorate": {},
-    "major_AuriganRestoration": {},
-    "major_Davion": {},
-    "major_Liao": {},
-    "major_Locals": {},
-    "major_MagistracyOfCanopus": {},
-    "major_Marik": {},
-    "major_TaurianConcordat": {},
     "Battlefield": {},
     "Industrial": {},
     "Research": {},
@@ -591,10 +534,9 @@ item_Collection = {
     "MechParts_Kurita_rare": {},
     "MechParts_Liao_rare": {},
     "MechParts_SLDF": {},
-    "MechParts_Steiner_rare": {},
-#System Stores cannot have mixed def types   
-   "systemStores_MechParts_BlackMarket_Assault": {
-    "mechdef_stalker_STK-4N": ["MechPart",1, 4],
+    "MechParts_Steiner_rare": {},  #------------------------------------MechParts------------------------------------
+    "systemStores_MechParts_BlackMarket_Assault": {
+    "mechdef_stalker_STK-4N": ["MechPart",1, 4]
     },
     "systemStores_MechParts_common_Assault": {
     "mechdef_atlas_AS7-D": ["MechPart",1, 2]
@@ -624,10 +566,10 @@ item_Collection = {
     "mechdef_banshee_BNC-3S": ["MechPart",1, 2]
     },
     "systemStores_MechParts_Directorate_Heavy": {
-    "mechdef_grasshopper_GHR-5H": ["MechPart",1, 6],
+    "mechdef_grasshopper_GHR-5H": ["MechPart",1, 6]
     },
     "systemStores_MechParts_Directorate_Light": {
-    "mechdef_urbanmech_UM-R90": ["MechPart",1, 8],
+    "mechdef_urbanmech_UM-R90": ["MechPart",1, 8]
     },
     "systemStores_MechParts_Directorate_Medium": {
     "mechdef_hunchback_HBK-4J": ["MechPart",1, 7]
@@ -666,7 +608,7 @@ item_Collection = {
     "mechdef_Ostscout-OTT7J": ["MechPart",1, 8]
     },
     "systemStores_MechParts_Magistracy_Medium": {
-    "mechdef_Wyvern_WVE-6N": ["MechPart",1, 7],
+    "mechdef_Wyvern_WVE-6N": ["MechPart",1, 7]
     },
     "systemStores_MechParts_Marik_Assault": {
     "mechdef_banshee_BNC-3M": ["MechPart",1, 2]
@@ -704,8 +646,90 @@ item_Collection = {
     "systemStores_MechParts_Taurian_Medium": {
     "mechdef_hunchback_HBK-4H": ["MechPart",1, 7]
     },
+    "Periphery_Light_Mech_Parts": {
+    "mechdef_Clint_CLNT-1-2R": ["MechPart",1,3],
+    "mechdef_falcon_FLC-4NF": ["MechPart",1,4],
+    "mechdef_Hermes_HER-1A": ["MechPart",1,3],
+    "mechdef_Hornet_HNT-151": ["MechPart",1,1],
+    "mechdef_locust_LCT-1M": ["MechPart",1,5]
+},
+"Periphery_Medium_Mech_Parts": {
+    "mechdef_shadowhawk_SHD-2H": ["MechPart",1,2],
+    "mechdef_wolverine_WVR-6M": ["MechPart",1,3],
+    "mechdef_blackjack_BJ-1": ["MechPart",1,3],
+    "mechdef_phoenixhawk_PXH-1": ["MechPart",1,2]
+},
+"Periphery_Heavy_Mech_Parts": {
+    "mechdef_Ostroc_OSR-3C": ["MechPart",1,2],
+    "mechdef_crusader_CRD-3R": ["MechPart",1,1],
+    "mechdef_Ostsol_OTL-4D": ["MechPart",1,2],
+    "mechdef_quickdraw_QKD-4H": ["MechPart",1,3]
+},
+"InnerSphere_Light_Mech_Parts": {
+    "mechdef_Clint_CLNT-2-4T": ["MechPart",1,4],
+    "mechdef_commando_COM-1D": ["MechPart",1,5],
+    "mechdef_commando_COM-2D": ["MechPart",1,4],
+    "mechdef_falcon_FLC-4NF": ["MechPart",1,6]
+},
+"InnerSphere_Medium_Mech_Parts": {
+    "mechdef_raven_RVN-3L": ["MechPart",1,2],
+    "mechdef_dervish_DV-6M": ["MechPart",1,4],
+    "mechdef_phoenixhawk_PXH-1": ["MechPart",1,3],
+    "mechdef_Chameleon_TRC-4B": ["MechPart",1,4]
+},
+"InnerSphere_Heavy_Mech_Parts": {
+    "mechdef_marauder_MAD-3R": ["MechPart",1,2],
+    "mechdef_thunderbolt_TDR-5S": ["MechPart",1,4],
+    "mechdef_orion_ON1-K": ["MechPart",1,3],
+    "mechdef_orion_ON1-V": ["MechPart",1,2]
+},
+"ComStar_Light_Mech_Parts": {
+    "mechdef_firefly_FFL-4C": ["MechPart",2,4],
+    "mechdef_hussar_HSR-200-D": ["MechPart",2,5],
+    "mechdef_thorn_THE-N": ["MechPart",2,4],
+    "mechdef_Hermes_HER-1S": ["MechPart",2,6]
+},
+"ComStar_Medium_Mech_Parts": {
+    "mechdef_Sentinel_STN-3L": ["MechPart",2,2],
+    "mechdef_Crab_CRB-27": ["MechPart",2,4],
+    "mechdef_Kintaro_KTO-19": ["MechPart",2,3],
+    "mechdef_assassin_ASN-21": ["MechPart",2,4]
+},
+"ComStar_Heavy_Mech_Parts": {
+    "mechdef_champion_CHP-1N": ["MechPart",2,2],
+    "mechdef_exterminator_EXT-4D": ["MechPart",2,4],
+    "mechdef_marauder_MAD-1R": ["MechPart",2,3],
+    "mechdef_thug_THG-11E": ["MechPart",2,2]
+},
+    "Clan_Light_Mech_Parts": {},
+    "Clan_Medium_Mech_Parts": {},
+    "Clan_Heavy_Mech_Parts": {},
+    "ComStar_Light_Tanks": {}, #------------------------------------Tank Parts------------------------------------
+    "ComStar_Medium_Tanks": {},
+    "ComStar_Heavy_Tanks": {},
+    "Periphery_Light_Tanks": {},
+    "Periphery_Medium_Tanks": {},
+    "Periphery_Heavy_Tanks": {},
+    "InnerSphere_Light_Tanks": {},
+    "InnerSphere_Medium_Tanks": {},
+    "InnerSphere_Heavy_Tanks": {},
+    "Clan_Light_Tanks": {},
+    "Clan_Medium_Tanks": {},
+    "Clan_Heavy_Tanks": {},
+    "ComStar_Light_Tank_Parts": {},
+    "ComStar_Medium_Tank_Parts": {},
+    "ComStar_Heavy_Tank_Parts": {},
+    "Periphery_Light_Tank_Parts": {},
+    "Periphery_Medium_Tank_Parts": {},
+    "Periphery_Heavy_Tank_Parts": {},
+    "InnerSphere_Light_Tank_Parts": {},
+    "InnerSphere_Medium_Tank_Parts": {},
+    "InnerSphere_Heavy_Tank_Parts": {},
+    "Clan_Light_Tank_Parts": {},
+    "Clan_Medium_Tank_Parts": {},
+    "Clan_Heavy_Tank_Parts": {},
     "systemStores_Mechs_BlackMarket_Assault": {
-        "mechdef_awesome_AWS-8Q": ["Mech", 1, 2]
+        "mechdef_awesome_AWS-8Q": ["Mech", 1, 2]  #------------------------------------Mechs------------------------------------
     },
     "systemStores_Mechs_common_Assault": {
         "mechdef_orion_ON1-V": ["Mech", 1, 2]
@@ -815,11 +839,70 @@ item_Collection = {
     "systemStores_Mechs_Taurian_Medium": {
         "mechdef_trebuchet_TBT-5N": ["Mech", 1, 2]
         },
+    "ComStar_Light_Mechs": {
+        "mechdef_hussar_HSR-200-D": ["Mech", 1, 5],
+        "mechdef_firefly_FFL-4C": ["Mech", 1, 6]
+    },
+    "ComStar_Medium_Mechs": {
+        "mechdef_Sentinel_STN-3L": ["Mech", 1, 5],
+        "mechdef_Crab_CRB-27": ["Mech", 1, 6]
+},
+"ComStar_Heavy_Mechs": {
+    "mechdef_exterminator_EXT-4D": ["Mech", 1, 5],
+    "mechdef_lancelot_LNC25-01": ["Mech", 1, 6]
+},
+"Periphery_Light_Mechs": {
+    "mechdef_Ostscout-OTT7J": ["Mech", 1, 1],
+    "mechdef_jenner_JR7-F": ["Mech", 1, 1],
+    "mechdef_firestarter_FS9-H": ["Mech", 1, 1],
+    "mechdef_javelin_JVN-10A": ["Mech", 1, 1]
+},
+"Periphery_Medium_Mechs": {
+    "mechdef_Whitworth_WTH-1": ["Mech", 1, 1],
+    "mechdef_hunchback_HBK-4N": ["Mech", 1, 1],
+    "mechdef_enforcer_ENF-4R": ["Mech", 1, 1],
+    "mechdef_centurion_CN9-AL": ["Mech", 1, 1]
+},
+"Periphery_Heavy_Mechs": {
+    "mechdef_thunderbolt_TDR-5S": ["Mech", 1, 1],
+    "mechdef_rifleman_RFL-3N": ["Mech", 1, 1],
+    "mechdef_catapult_CPLT-C1": ["Mech", 1, 1],
+    "mechdef_grasshopper_GHR-5H": ["Mech", 1, 1]
+},
+"InnerSphere_Light_Mechs": {
+    "mechdef_javelin_JVN-10N": ["Mech", 1, 1],
+    "mechdef_spider_SDR-5V": ["Mech", 1, 1],
+    "mechdef_locust_LCT-1V": ["Mech", 1, 1],
+    "mechdef_jenner_JR7-D": ["Mech", 1, 1]
+},
+"InnerSphere_Medium_Mechs": {
+    "mechdef_Whitworth_WTH-1": ["Mech", 1, 1],
+    "mechdef_hunchback_HBK-4N": ["Mech", 1, 1],
+    "mechdef_kintaro_KTO-18": ["Mech", 1, 1],
+    "mechdef_centurion_CN9-A": ["Mech", 1, 1]
+},
+"InnerSphere_Heavy_Mechs": {
+    "mechdef_quickdraw_QKD-5A": ["Mech", 1, 1],
+    "mechdef_warhammer_WHM-6R": ["Mech", 1, 1],
+    "mechdef_orion_ON1-K": ["Mech", 1, 1],
+    "mechdef_griffin_GRF-1N": ["Mech", 1, 1]
+},
+"Clan_Light_Mechs": {},
+"Clan_Medium_Mechs": {},
+"Clan_Heavy_Mechs": {},#------------------------------------Weapon Collections------------------------------------
     "Weapons_common": {
                 "Weapon_Laser_LargeLaser_0-STOCK": ["Weapon",1, 8],
-                "Weapon_Laser_LargeLaser_1-Diverse_Optics": ["Weapon",1, 7],
-                "Weapon_Laser_LargeLaser_1-ExoStar": ["Weapon",1, 7],
-                "Weapon_Laser_LargeLaser_1-Intek": ["Weapon",1, 7],
+                "Weapon_Laser_LargeLaser_1-Diverse_Optics": ["Weapon",1, 5],
+                "Weapon_Laser_LargeLaser_1-ExoStar": ["Weapon",1, 5],
+                "Weapon_Laser_LargeLaser_1-Intek": ["Weapon",1, 5],
+                "Weapon_Laser_MediumLaser_0-STOCK": [1, 8],
+                "Weapon_Laser_MediumLaser_1-ExoStar": [1, 5],
+                "Weapon_Laser_MediumLaser_1-Intek": [1, 5],
+                "Weapon_Laser_MediumLaser_1-Magna": [1, 5],
+                "Weapon_Laser_SmallLaser_0-STOCK": [1, 8],
+                "Weapon_Laser_SmallLaser_1-Diverse_Optics": [1, 5],
+                "Weapon_Laser_SmallLaser_1-ExoStar": [1, 5],
+                "Weapon_Laser_SmallLaser_1-Magna": [1, 5],
                 "Weapon_PPC_PPCSnub_0-STOCK": ["Weapon",1, 6],
                 "Weapon_PPC_PPCSnub_1-Ceres_Arms": ["Weapon",1, 6],
                 "Weapon_PPC_PPCSnub_1-Donal": ["Weapon",1, 6],
@@ -870,12 +953,12 @@ item_Collection = {
                 "Weapon_TAG_Standard_2-Ceres_Arms": ["Weapon",1, 5],
                 "Weapon_Narc_Standard_0-STOCK": ["Weapon",1, 6],
                 "Weapon_Narc_Standard_1-Ceres_Arms": ["Weapon",1, 5],
-                 "Weapon_Gauss_Gauss_0-STOCK": ["Weapon",1, 5],
+                "Weapon_Gauss_Gauss_0-STOCK": ["Weapon",1, 5],
     },
      "Weapons_uncommon": {
                 "Weapon_Autocannon_UAC2_0-STOCK": ["Weapon",1, 5],
                 "Weapon_Autocannon_UAC2_1-Imperator": ["Weapon",1, 4],
-                 "Weapon_Autocannon_UAC5_0-STOCK": ["Weapon",1, 5],
+                "Weapon_Autocannon_UAC5_0-STOCK": ["Weapon",1, 5],
                 "Weapon_Autocannon_UAC5_1-Mydron": ["Weapon",1, 4],
                 "Weapon_Autocannon_UAC10_0-STOCK": ["Weapon",1, 5],
                 "Weapon_Autocannon_UAC10_1-Federated": ["Weapon",1, 4],
@@ -900,128 +983,341 @@ item_Collection = {
                 "Weapon_LRM_Thunderbolt10": ["Weapon",1, 5],
                 "Weapon_LRM_Thunderbolt15": ["Weapon",1, 4],
                 "Weapon_LRM_Thunderbolt20": ["Weapon",1, 4],
-                 "Weapon_Mortar4": ["Weapon",1, 6],
+                "Weapon_Mortar4": ["Weapon",1, 6],
                 "Weapon_Mortar6": ["Weapon",1, 5],
                 "Weapon_Mortar8": ["Weapon",1, 5],
                 "Weapon_Autocannon_LONGTOM": ["Weapon",1, 3],
                 "Weapon_Autocannon_SNIPER": ["Weapon",1, 3],
                 "Weapon_Autocannon_THUMPER": ["Weapon",1, 3],
                 "Weapon_Gauss_Gauss_1-M7": ["Weapon",1, 3],
-                "Weapon_Gauss_Gauss_2-M9": ["Weapon",1, 2],
+                "Weapon_Gauss_Gauss_2-M9": ["Weapon",1, 2]
     },
-     "Weapons_rare": {
-     "Weapon_Autocannon_HVAC2_0-STOCK": ["Weapon",1, 3],
+    "Weapons_rare": {
+                "Weapon_Autocannon_HVAC2_0-STOCK": ["Weapon",1, 3],
                 "Weapon_Autocannon_HVAC5_0-STOCK": ["Weapon",1, 3],
                 "Weapon_Autocannon_HVAC10_0-STOCK": ["Weapon",1, 3],
                 "Weapon_Autocannon_HVAC20_0-STOCK": ["Weapon",1, 3],
                 "Weapon_Laser_AMS": ["Weapon",1, 2],
                 "Weapon_Gauss_Gauss_Silverbullet": ["Weapon",1, 2],
                 "Weapon_Gauss_Heavy_0-STOCK": ["Weapon",1, 3],
-                "Weapon_Gauss_ImprovedHeavy_0-STOCK": ["Weapon",1, 2],
+                "Weapon_Gauss_ImprovedHeavy_0-STOCK": ["Weapon",1, 2]
+    },
+     #------------------------------------Upgrade Collections------------------------------------
+"HighEndEngines": {
+    "emod_engine_350": ["HeatSink", 1, 3],
+    "emod_engine_355": ["HeatSink", 1, 4],
+    "emod_engine_360": ["HeatSink", 1, 5],
+    "emod_engine_365": ["HeatSink", 1, 7],
+    "emod_engine_370": ["HeatSink", 1, 7],
+    "emod_engine_375": ["HeatSink", 1, 7],
+    "emod_engine_380": ["HeatSink", 1, 7],
+    "emod_engine_390": ["HeatSink", 1, 7],
+    "emod_engine_395": ["HeatSink", 1, 5],
+    "emod_engine_400": ["HeatSink", 1, 4]
+},
+    "EquipmentCommon": {
+    "GN_HeatSinks": ["Reference",10,7],
+    "GN_Engines": ["Reference",2,5],
+    "GN_Structure": ["Reference",1,5],
+    "GN_Armor": ["Reference",1,5],
+    "GN_JumpJets": ["Reference",10,6]
+    },
+    "EquipmentUncommon": {
+    "GN_Armor": ["Reference",2,1],
+    "GN_Actuators": ["Reference",2,1],
+    "GN_Structure": ["Reference",1,1],
+    "GN_Cockpit": ["Reference",1,1],
+    "GN_Life_Support": ["Reference",2,1],
+    "GN_ECM": ["Reference",1,1],
+    "GN_HeatSinks": ["Reference",4,1],
+    "GN_HSKits": ["Reference",1,1],
+    },
+    "EquipmentRare": {
+    "GN_Actuators": ["Reference",2,1],
+    "GN_Structure": ["Reference",1,1],
+    "GN_Cockpit": ["Reference",1,1],
+    "GN_Life_Support": ["Reference",2,1],
+    "GN_ECM": ["Reference",1,1],
+    "GN_HSKits": ["Reference",1,1],
+    "GN_Gyro": ["Reference",2,1],
+    "GN_Upgrades": ["Reference",2,1]
     },
     "Liked_InnerSphere": {
-                "itemCollection_Weapons_common": ["Reference",1, 5],
-                "itemCollection_Weapons_uncommon": ["Reference",1, 3],
+                "itemCollection_Weapons_common": ["Reference",8, 5],
+                "itemCollection_Weapons_uncommon": ["Reference",4, 3],
                 "itemCollection_Weapons_rare": ["Reference",1, 2],
-                "itemCollection_Ammo_Common": ["Reference",1, 3],
-                "itemCollection_Ammo_CommonII": ["Reference",1, 3],
-                "itemCollection_Ammo_Uncommon": ["Reference",1, 5],
-                "itemCollection_Ammo_Rare": ["Reference",1, 1],
+                "ItemCollection_EquipmentCommon": ["Reference",2, 2],
+                "ItemCollection_EquipmentUncommon": ["Reference",2, 2],
+                "ItemCollection_EquipmentRare": ["Reference",1, 2]
+                
     },
     "Liked_Periphery": {
                 "itemCollection_Weapons_common": ["Reference",1, 4],
                 "itemCollection_Weapons_uncommon": ["Reference",1, 2],
                 "itemCollection_Weapons_rare": ["Reference",1, 1],
-                "itemCollection_Ammo_Common": ["Reference",1, 3],
-                "itemCollection_Ammo_CommonII": ["Reference",1, 3],
-                "itemCollection_Ammo_Uncommon": ["Reference",1, 5],
+                "ItemCollection_EquipmentCommon": ["Reference",3, 8],
+                "ItemCollection_EquipmentUncommon": ["Reference",5, 6],
+                "ItemCollection_EquipmentRare": ["Reference",4, 5],
+                
     },
     "Liked_Clans": {
      
                
     },
+    #------------------------------------Faction Lists------------------------------------NOTE: faction_ list cannot use reference list. I needs to be correct DEF Type
+    "faction_ComStar": {
+    "mechdef_GN-000": ["Mech",1, 1],
+    "mechdef_GN-000-FA": ["Mech",1, 1],
+    "mechdef_GN-000-FA-P": ["Mech",1, 1],
+    "mechdef_GN-002": ["Mech",1, 1]
+},
     "Honored_ComStar": {
-                "itemCollection_Periphery_Medium_Mechs": ["Reference",1, 4],
-                "itemCollection_Weapons_rare": ["Reference",2, 10],
-                "itemCollection_systemStores_MechParts_common_Heavy": ["Reference",1, 6],
-                "itemCollection_systemStores_MechParts_common_Medium": ["Reference",2, 10]
-               
+                "itemCollection_ComStar_Heavy_Mech_Parts": ["Reference",1, 3],
+                "itemCollection_ComStar_Medium_Mech_Parts": ["Reference",1, 4],
+                "itemCollection_ComStar_Light_Mech_Parts": ["Reference",1, 7],
+                "itemCollection_Weapons_rare": ["Reference",2, 6],
+                "ItemCollection_EquipmentCommon": ["Reference",2, 8]
+                },
+    "major_ComStar": {
+                "GN_Ammo_Common": ["Reference",4, 1],
+                "GN_Ammo_CommonII": ["Reference",4, 1],
+                "itemCollection_ComStar_Medium_Mechs": ["Reference",1, 5],
+                "itemCollection_ComStar_Light_Mechs": ["Reference",1, 6],
+                "itemCollection_HighEndEngines": ["Reference",2, 7],
+                "itemCollection_Weapons_common": ["Reference",3, 6],
+                "itemCollection_Weapons_uncommon": ["Reference",3, 6],
+                "itemCollection_EquipmentRare": ["Reference",2, 4],
+                "itemCollection_EquipmentUncommon": ["Reference",2, 5],
+                "itemCollection_EquipmentCommon": ["Reference",4, 8]                
     },
-    "Periphery_Light_Mech_Parts": {
-                "mechdef_Clint_CLNT-1-2R": ["Mech",1 3],
-                "mechdef_falcon_FLC-4NF": ["Mech",1 4],
-                "mechdef_Hermes_HER-1A": ["Mech",1 3],
-                "mechdef_Hornet_HNT-151": ["Mech",1 1],
-                "mechdef_locust_LCT-1M": ["Mech",1 5]
-                },
-    "Periphery_Medium_Mech_Parts": {
-                "mechdef_shadowhawk_SHD-2H": ["Mech",1 2],
-                "mechdef_wolverine_WVR-6M": ["Mech",1 3],
-                "mechdef_blackjack_BJ-1": ["Mech",1 3],
-                "mechdef_phoenixhawk_PXH-1": ["Mech",1 2],
-                },
-    "Periphery_Heavy_Mech_Parts": {
-                "mechdef_Ostroc_OSR-3C": ["Mech",1 2],
-                "mechdef_crusader_CRD-3R": ["Mech",1 1],
-                "mechdef_Ostsol_OTL-4D": ["Mech",1 2],
-                "mechdef_quickdraw_QKD-4H": ["Mech",1 3]
-            },
-    "InnerSphere_Light_Mech_Parts": {
-                "mechdef_Clint_CLNT-2-4T": ["Mech",1 4],
-                "mechdef_commando_COM-1D": ["Mech",1 5],
-                "mechdef_commando_COM-2D": ["Mech",1 4],
-                "mechdef_falcon_FLC-4NF": ["Mech",1 6]
-            },
-    "InnerSphere_Medium_Mech_Parts": {
-                "mechdef_raven_RVN-3L": ["Mech",1 2],
-                "mechdef_dervish_DV-6M": ["Mech",1 4],
-                "mechdef_phoenixhawk_PXH-1": ["Mech",1 3],
-                "mechdef_Chameleon_TRC-4B": ["Mech",1 4]
-            },
-    "InnerSphere_Heavy_Mech_Parts": {
-                "mechdef_marauder_MAD-3R": ["Mech",1 2],
-                "mechdef_thunderbolt_TDR-5S": ["Mech",1 4],
-                "mechdef_orion_ON1-K": ["Mech",1 3],
-                "mechdef_orion_ON1-V": ["Mech",1 2]
-            },
-            "Clan_Light_Mech_Parts": {},
-            "Clan_Medium_Mech_Parts": {},
-            "Clan_Heavy_Mech_Parts": {
-            },
-            "ComStar_Light_Tanks": {},
-            "ComStar_Medium_Tanks": {},
-            "ComStar_Heavy_Tanks": {},
-            "Periphery_Light_Tanks": {},
-            "Periphery_Medium_Tanks": {},
-            "Periphery_Heavy_Tanks": {},
-            "InnerSphere_Light_Tanks": {},
-            "InnerSphere_Medium_Tanks": {},
-            "InnerSphere_Heavy_Tanks": {},
-            "Clan_Light_Tanks": {},
-            "Clan_Medium_Tanks": {},
-            "Clan_Heavy_Tanks": {},
-            "ComStar_Light_Tank_Parts": {},
-            "ComStar_Medium_Tank_Parts": {},
-            "ComStar_Heavy_Tank_Parts": {},
-            "Periphery_Light_Tank_Parts": {},
-            "Periphery_Medium_Tank_Parts": {},
-            "Periphery_Heavy_Tank_Parts": {},
-            "InnerSphere_Light_Tank_Parts": {},
-            "InnerSphere_Medium_Tank_Parts": {},
-            "InnerSphere_Heavy_Tank_Parts": {},
-            "Clan_Light_Tank_Parts": {},
-            "Clan_Medium_Tank_Parts": {},
-            "Clan_Heavy_Tank_Parts": {}
-            
+    "minor_ComStar": {},
+    
+    "faction_Davion": {},
+    "Honored_Davion": {},
+    "major_Davion": {},
+    "minor_Davion": {},
+
+    "faction_Steiner": {},
+    "Honored_Steiner": {},
+    "major_Steiner": {},
+    "minor_Steiner": {},
+
+    "faction_Liao": {},
+    "Honored_Liao": {},
+    "major_Liao": {},
+    "minor_Liao": {},
+
+    "faction_Kurita": {},
+    "Honored_Kurita": {},
+    "major_Kurita": {},
+    "minor_Kurita": {},
+
+    "faction_Ives": {},
+    "Honored_Ives": {},
+    "major_Ives": {},
+    "minor_Ives": {},
+
+    "faction_WordOfBlake": {},
+    "Honored_WordOfBlake": {},
+    "major_WordOfBlake": {},
+    "minor_WordOfBlake": {},
+
+    "faction_TaurianConcordat": {},
+    "Honored_TaurianConcordat": {},
+    "major_TaurianConcordat": {},
+    "minor_TaurianConcordat": {},
+
+    "faction_MagistracyOfCanopus": {},
+    "Honored_MagistracyOfCanopus": {},
+    "major_MagistracyOfCanopus": {},
+    "minor_MagistracyOfCanopus": {},
+
+    "faction_AuriganDirectorate": {},
+    "Honored_AuriganDirectorate": {},
+    "major_AuriganDirectorate": {},
+    "minor_AuriganDirectorate": {},
+
+    "faction_AuriganRestoration": {},
+    "Honored_AuriganRestoration": {},
+    "major_AuriganRestoration": {},
+    "minor_AuriganRestoration": {},
+
+    "faction_Axumite": {},
+    "Honored_Axumite": {},
+    "major_Axumite": {},
+    "minor_Axumite": {},
+    "faction_Castile": {},
+    "Honored_Castile": {},
+    "major_Castile": {},
+    "minor_Castile": {},
+
+    "faction_Chainelane": {},
+    "Honored_Chainelane": {},
+    "major_Chainelane": {},
+    "minor_Chainelane": {},
+
+    "faction_Circinus": {},
+    "Honored_Circinus": {},
+    "major_Circinus": {},
+    "minor_Circinus": {},
+
+    "faction_Delphi": {},
+    "Honored_Delphi": {},
+    "major_Delphi": {},
+    "minor_Delphi": {},
+
+    "faction_Elysia": {},
+    "Honored_Elysia": {},
+    "major_Elysia": {},
+    "minor_Elysia": {},
+
+    "faction_Hanse": {},
+    "Honored_Hanse": {},
+    "major_Hanse": {},
+    "minor_Hanse": {},
+
+    "faction_Illyrian": {},
+    "Honored_Illyrian": {},
+    "major_Illyrian": {},
+    "minor_Illyrian": {},
+
+    "faction_JarnFolk": {},
+    "Honored_JarnFolk": {},
+    "major_JarnFolk": {},
+    "minor_JarnFolk": {},
+
+    "faction_Lothian": {},
+    "Honored_Lothian": {},
+    "major_Lothian": {},
+    "minor_Lothian": {},
+
+    "faction_Marian": {},
+    "Honored_Marian": {},
+    "major_Marian": {},
+    "minor_Marian": {},
+
+    "faction_Oberon": {},
+    "Honored_Oberon": {},
+    "major_Oberon": {},
+    "minor_Oberon": {},
+
+    "faction_Outworld": {},
+    "Honored_Outworld": {},
+    "major_Outworld": {},
+    "minor_Outworld": {},
+
+    "faction_Rasalhague": {},
+    "Honored_Rasalhague": {},
+    "major_Rasalhague": {},
+    "minor_Rasalhague": {},
+
+    "faction_Tortuga": {},
+    "Honored_Tortuga": {},
+    "major_Tortuga": {},
+    "minor_Tortuga": {},
+
+    "faction_Valkyrate": {},
+    "Honored_Valkyrate": {},
+    "major_Valkyrate": {},
+    "minor_Valkyrate": {},
+
+    "faction_Rim": {},
+    "Honored_Rim": {},
+    "major_Rim": {},
+    "minor_Rim": {},
+
+    "faction_ClanBurrock": {},
+    "Honored_ClanBurrock": {},
+    "major_ClanBurrock": {},
+    "minor_ClanBurrock": {},
+
+    "faction_ClanCloudCobra": {},
+    "Honored_ClanCloudCobra": {},
+    "major_ClanCloudCobra": {},
+    "minor_ClanCloudCobra": {},
+
+    "faction_ClanCoyote": {},
+    "Honored_ClanCoyote": {},
+    "major_ClanCoyote": {},
+    "minor_ClanCoyote": {},
+
+    "faction_ClanDiamondShark": {},
+    "Honored_ClanDiamondShark": {},
+    "major_ClanDiamondShark": {},
+    "minor_ClanDiamondShark": {},
+
+    "faction_ClanFireMandrill": {},
+    "Honored_ClanFireMandrill": {},
+    "major_ClanFireMandrill": {},
+    "minor_ClanFireMandrill": {},
+
+    "faction_ClanGhostBear": {},
+    "Honored_ClanGhostBear": {},
+    "major_ClanGhostBear": {},
+    "minor_ClanGhostBear": {},
+
+    "faction_ClanGoliathScorpion": {},
+    "Honored_ClanGoliathScorpion": {},
+    "major_ClanGoliathScorpion": {},
+    "minor_ClanGoliathScorpion": {},
+
+    "faction_ClanHellsHorses": {},
+    "Honored_ClanHellsHorses": {},
+    "major_ClanHellsHorses": {},
+    "minor_ClanHellsHorses": {},
+
+    "faction_ClanIceHellion": {},
+    "Honored_ClanIceHellion": {},
+    "major_ClanIceHellion": {},
+    "minor_ClanIceHellion": {},
+
+    "faction_ClanJadeFalcon": {},
+    "Honored_ClanJadeFalcon": {},
+    "major_ClanJadeFalcon": {},
+    "minor_ClanJadeFalcon": {},
+
+    "faction_ClanNovaCat": {},
+    "Honored_ClanNovaCat": {},
+    "major_ClanNovaCat": {},
+    "minor_ClanNovaCat": {},
+
+    "faction_ClansGeneric": {},
+    "Honored_ClansGeneric": {},
+    "major_ClansGeneric": {},
+    "minor_ClansGeneric": {},
+
+    "faction_ClanSmokeJaguar": {},
+    "Honored_ClanSmokeJaguar": {},
+    "major_ClanSmokeJaguar": {},
+    "minor_ClanSmokeJaguar": {},
+
+    "faction_ClanSnowRaven": {},
+    "Honored_ClanSnowRaven": {},
+    "major_ClanSnowRaven": {},
+    "minor_ClanSnowRaven": {},
+
+    "faction_ClanStarAdder": {},
+    "Honored_ClanStarAdder": {},
+    "major_ClanStarAdder": {},
+    "minor_ClanStarAdder": {},
+
+    "faction_ClanSteelViper": {},
+    "Honored_ClanSteelViper": {},
+    "major_ClanSteelViper": {},
+    "minor_ClanSteelViper": {},
+
+    "faction_ClanWolf": {},
+    "Honored_ClanWolf": {},
+    "major_ClanWolf": {},
+    "minor_ClanWolf": {}
     }
-    },
 script_dir = os.path.dirname(os.path.abspath(__file__))
 new_folder = "Output"
 output_directory = os.path.join(script_dir, new_folder)
 os.makedirs(output_directory, exist_ok=True)
-
+for category in categories:
 # Loop through the categories
-for category, subcategories in categories.items():
+  for category, subcategories in categories.items():
     # Loop through subcategories
     for subcategory, items in subcategories.items():
         # Check if the subcategory is not empty
