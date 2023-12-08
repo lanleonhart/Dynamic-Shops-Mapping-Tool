@@ -14,7 +14,7 @@ categories = {
                     "emod_engineslots_tunedlight": [1, 1],
                     "emod_engineslots_light": [1, 2]
                 },
-                "HeatSinks": {
+                "HeatSinks-T1": {
                     "Gear_HeatSink_Generic_Standard": [1, 9]
                 },
                 "HeatSinks-T2": {
@@ -104,7 +104,7 @@ categories = {
                 },
                 "HSKits": {
                     "emod_kit_dhs": [1, 2],
-                    "emod_kit_shs": [1, 6]
+                    "emod_kit_shs": [1, 8]
                 }
                 },
         "JumpJet": {
@@ -133,7 +133,7 @@ categories = {
         "Gear_Leg_WT_ScarecrowLegs": [1, 5]
     },
     "Armor-T1": {
-        "emod_armorslots_ferrosfibrous": [1, 7],
+        "emod_armorslots_ferrosfibrous": [1, 7]
     },
     "Armor-T2": {
         "emod_armorslots_ferrosfibrousheavy": [1, 5],
@@ -461,6 +461,11 @@ categories = {
             },
         },
         "AmmunitionBox": {
+            "Ammo_Periphery": {
+             "Ammo_AmmunitionBox_Rifle_L": [1, 7],
+             "Ammo_AmmunitionBox_Rifle_M": [1, 6],
+             "Ammo_AmmunitionBox_Rifle_H": [1, 5],
+            },
             "Ammo_Common": {
                 "Ammo_AmmunitionBox_Generic_MRM": [1, 5],
                 "Ammo_AmmunitionBox_Generic_AC2": [1, 8],
@@ -480,7 +485,6 @@ categories = {
                 "Ammo_AmmunitionBox_Generic_LB10X": [1, 4],
                 "Ammo_AmmunitionBox_Generic_LB20X": [1, 4],
                 "Ammo_AmmunitionBox_Generic_LRM": [1, 8]
-
             },
             "Ammo_Uncommon": {
                 "Ammo_AmmunitionBox_HVAC2": [1, 4],
@@ -505,27 +509,20 @@ categories = {
         }
     }
 # NOTE: item_Collections switches to a different format due to item_Collections have mixed types in the CSV's. reference is used when calling another csv file, instead of a specific JSON
-item_Collection = {"Armor": {
-        "emod_armorslots_ferrosfibrous": [1, 7],
-        "emod_armorslots_ferrosfibrousheavy": [1, 5],
-        "emod_armorslots_ferrosfibrouslight": [1, 4]
-    },
+item_Collection = {
     "Ammo_all": {
      "GN_Ammo_Common": ["Reference",4, 5],
      "GN_Ammo_CommonII": ["Reference",4, 5],
      "GN_Ammo_Uncommon": ["Reference",2, 2],
      "GN_Ammo_Rare": ["Reference",1, 1]
-    },  #StreamingAssets/data/itemCollections CSV's Below
-    "Battlefield": {
-    },
+     },  #StreamingAssets/data/itemCollections CSV's Below
+    "Battlefield": {},
     "Industrial": {},
     "Research": {},
     "shop_research": {},
     "SLDF": {},
     "Smuggler": {},
-    "shopItems_battlefield": {
-    "GN_Ammo_Common": ["Reference",4, 10]
-    },
+    "shopItems_battlefield": {},
     "shopItems_battlefieldProgression": {},
     "shopItems_blackmarket": {},
     "shopItems_blackmarket_gaussandammo": {},
@@ -664,7 +661,7 @@ item_Collection = {"Armor": {
     },
     "Periphery_Light_Mech_Parts": {
     "mechdef_Clint_CLNT-1-2R": ["MechPart",1,3],
-    "mechdef_falcon_FLC-4NF": ["MechPart",1,4],
+    "mechdef_falcon_FLC-4N": ["MechPart",1,4],
     "mechdef_Hermes_HER-1A": ["MechPart",1,3],
     "mechdef_Hornet_HNT-151": ["MechPart",1,1],
     "mechdef_locust_LCT-1M": ["MechPart",1,5]
@@ -685,7 +682,7 @@ item_Collection = {"Armor": {
     "mechdef_Clint_CLNT-2-4T": ["MechPart",1,4],
     "mechdef_commando_COM-1D": ["MechPart",1,5],
     "mechdef_commando_COM-2D": ["MechPart",1,4],
-    "mechdef_falcon_FLC-4NF": ["MechPart",1,6]
+    "mechdef_falcon_FLC-4N": ["MechPart",1,6]
 },
 "InnerSphere_Medium_Mech_Parts": {
     "mechdef_raven_RVN-3L": ["MechPart",1,2],
@@ -720,6 +717,8 @@ item_Collection = {"Armor": {
     "Clan_Light_Mech_Parts": {},
     "Clan_Medium_Mech_Parts": {},
     "Clan_Heavy_Mech_Parts": {},
+    
+    
     "ComStar_Light_Tanks": {}, #------------------------------------Tank Parts------------------------------------
     "ComStar_Medium_Tanks": {},
     "ComStar_Heavy_Tanks": {},
@@ -790,7 +789,7 @@ item_Collection = {"Armor": {
         "mechdef_archer_ARC-2K": ["Mech", 1, 2]
     },
     "systemStores_Mechs_Kurita_Light": {
-        "mechdef_falcon_FLC-4NF": ["Mech", 1, 2]
+        "mechdef_falcon_FLC-4N": ["Mech", 1, 2]
     },
     "systemStores_Mechs_Kurita_Medium": {
         "mechdef_HermesII_HER-4K": ["Mech", 1, 2]
@@ -1059,28 +1058,54 @@ item_Collection = {"Armor": {
     "GN_Engines-T2": ["Reference",1,5],
     "GN_HeatSinks-T2": ["Reference",2,4]
     },
+    "EquipmentPeripheryCommon": {
+    "GN_Engines-T1": ["Reference",1,5],
+    "GN_HeatSinks-T1": ["Reference",4,8],
+    "GN_JumpJets": ["Reference",10,6],
+    "GN_Structure-T1": ["Reference",1,5],
+    "GN_Armor-T1": ["Reference",1,5]
+    },
+    "EquipmentPeripheryUncommon": {
+    "GN_Cockpit": ["Reference",1,6],
+    "GN_Life_Support": ["Reference",2,5],
+    "GN_HSKits": ["Reference",1,5],
+    "GN_Armor-T2": ["Reference",1,5]
+    },
+    "EquipmentPeripheryRare": {
+    "GN_Gyro": ["Reference",1,6],
+    "GN_Upgrades": ["Reference",2,5],
+    "GN_HeatSinks-T2": ["Reference",2,1],
+    "GN_Actuators": ["Reference",1,4],
+    "GN_ECM": ["Reference",1,1],
+    },
+    "Weapons_Periphery": {
+    "GN_Lasers": ["Reference",1,6],
+    "GN_PPC": ["Reference",1,4],
+    "GN_Autocannon": ["Reference",1,6],
+    "GN_Autocannon_Large": ["Reference",1,6],
+    "GN_MachineGun": ["Reference",1,8],
+    "GN_SRM": ["Reference",1,7],
+    "GN_LRM": ["Reference",1,7],
+    "GN_Flamer": ["Reference",1,6],
+    "GN_Rifle": ["Reference",1,9]
+    },
     "Liked_InnerSphere": {
                 "itemCollection_Weapons_common": ["Reference",3, 5],
                 "itemCollection_Weapons_uncommon": ["Reference",2, 3],
                 "itemCollection_Weapons_rare": ["Reference",1, 2],
-                "ItemCollection_EquipmentCommon": ["Reference",2, 2],
-                "ItemCollection_ComStar_Medium_Mech_Parts": ["Reference",2, 5],
-                "ItemCollection_ComStar_Light_Mech_Parts": ["Reference",2, 5]
-                
+                "itemCollection_EquipmentCommon": ["Reference",2, 2],
+                "itemCollection_ComStar_Medium_Mech_Parts": ["Reference",2, 5],
+                "itemCollection_ComStar_Light_Mech_Parts": ["Reference",2, 5]             
     },
     "Liked_Periphery": {
-                "itemCollection_Weapons_common": ["Reference",1, 4],
-                "itemCollection_Weapons_uncommon": ["Reference",1, 2],
-                "itemCollection_Weapons_rare": ["Reference",1, 1],
-                "ItemCollection_EquipmentCommon": ["Reference",3, 8],
-                "ItemCollection_EquipmentUncommon": ["Reference",5, 6],
-                "ItemCollection_EquipmentRare": ["Reference",4, 5],
-                
+                "itemCollection_Weapons_Periphery": ["Reference",3, 8],
+                "itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+                "itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+                "itemCollection_EquipmentPeripheryRare": ["Reference",1, 2],
+                "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",2, 5],
+                "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 5]                    
     },
-    "Liked_Clans": {
-     
-               
-    },
+    "Liked_Clans": {},
     #------------------------------------Faction Lists------------------------------------NOTE: faction_ list cannot use reference list. I needs to be correct DEF Type
     "faction_ComStar": {},
     "Honored_ComStar": {
@@ -1110,60 +1135,104 @@ item_Collection = {"Armor": {
                 "itemCollection_Weapons_common": ["Reference",4, 6],
                 "itemCollection_Weapons_uncommon": ["Reference",2, 6],
                 "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                "itemCollection_ComStar_Light_Mech_Parts": ["Reference",1, 5],
-                "itemCollection_ComStar_Medium_Mech_Parts": ["Reference",2, 5],
-                "itemCollection_InnerSphere_Light_Mech_Parts": ["Reference",2, 5]
+                "itemCollection_EquipmentCommon": ["Reference",2, 8]
     },
     
     "faction_Davion": {},
     "Honored_Davion": {},
-    "major_Davion": {},
+    "major_Davion":{
+        "GN_Ammo_Common": ["Reference",2, 1],
+        "GN_Ammo_CommonII": ["Reference",2, 1],
+        "itemCollection_HighEndEngines": ["Reference",2, 7],
+        "itemCollection_Weapons_common": ["Reference",2, 6],
+        "itemCollection_Weapons_uncommon": ["Reference",2, 6],
+        "itemCollection_EquipmentRare": ["Reference",2, 4],
+        "itemCollection_EquipmentUncommon": ["Reference",2, 5],
+        "itemCollection_EquipmentCommon": ["Reference",2, 8],
+        "itemCollection_InnerSphere_Medium_Mech_Parts": ["Reference",2, 5],
+        "itemCollection_InnerSphere_Medium_Mechs": ["Reference",2, 5],
+        "GN_Ammo_CommonII": ["Reference",2, 1],
+        "itemCollection_HighEndEngines": ["Reference",2, 7],
+        "itemCollection_Weapons_common": ["Reference",2, 6],
+        "itemCollection_Weapons_uncommon": ["Reference",2, 6],
+        "itemCollection_EquipmentRare": ["Reference",2, 4],
+        "itemCollection_EquipmentUncommon": ["Reference",2, 5],
+        "itemCollection_EquipmentCommon": ["Reference",2, 8],
+        "itemCollection_InnerSphere_Medium_Mech_Parts": ["Reference",2, 5],
+        "itemCollection_InnerSphere_Medium_Mechs": ["Reference",2, 5]  
+    },
     "minor_Davion": {
-    "GN_Ammo_Common": ["Reference",2, 1],
+                "GN_Ammo_Common": ["Reference",2, 1],
                 "GN_Ammo_CommonII": ["Reference",2, 1],
                 "GN_EngineCore": ["Reference",3, 1],
                 "itemCollection_Weapons_common": ["Reference",4, 6],
                 "itemCollection_Weapons_uncommon": ["Reference",2, 6],
                 "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                "itemCollection_InnerSphere_Medium_Mech_Parts": ["Reference",1, 5],
-                 "itemCollection_InnerSphere_Light_Mech_Parts": ["Reference",2, 5]
+                "itemCollection_EquipmentCommon": ["Reference",2, 8]
     },
 
     "faction_Steiner": {},
     "Honored_Steiner": {},
-    "major_Steiner": {},
+    "major_Steiner":{
+        "GN_Ammo_Common": ["Reference",2, 1],
+        "GN_Ammo_CommonII": ["Reference",2, 1],
+        "itemCollection_HighEndEngines": ["Reference",2, 7],
+        "itemCollection_Weapons_common": ["Reference",2, 6],
+        "itemCollection_Weapons_uncommon": ["Reference",2, 6],
+        "itemCollection_EquipmentRare": ["Reference",2, 4],
+        "itemCollection_EquipmentUncommon": ["Reference",2, 5],
+        "itemCollection_EquipmentCommon": ["Reference",2, 8],
+        "itemCollection_InnerSphere_Medium_Mech_Parts": ["Reference",2, 5],
+        "itemCollection_InnerSphere_Medium_Mechs": ["Reference",2, 5]
+    },
     "minor_Steiner": {
-    "GN_Ammo_Common": ["Reference",2, 1],
+                "GN_Ammo_Common": ["Reference",2, 1],
                 "GN_Ammo_CommonII": ["Reference",2, 1],
                 "GN_EngineCore": ["Reference",3, 1],
                 "itemCollection_Weapons_common": ["Reference",4, 6],
                 "itemCollection_Weapons_uncommon": ["Reference",2, 6],
                 "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                "itemCollection_InnerSphere_Medium_Mech_Parts": ["Reference",1, 5],
-                 "itemCollection_InnerSphere_Light_Mech_Parts": ["Reference",2, 5]
+                "itemCollection_EquipmentCommon": ["Reference",2, 8]
     },
 
     "faction_Liao": {},
     "Honored_Liao": {},
-    "major_Liao": {},
+    "major_Liao":{
+        "GN_Ammo_Common": ["Reference",2, 1],
+        "GN_Ammo_CommonII": ["Reference",2, 1],
+        "itemCollection_HighEndEngines": ["Reference",2, 7],
+        "itemCollection_Weapons_common": ["Reference",2, 6],
+        "itemCollection_Weapons_uncommon": ["Reference",2, 6],
+        "itemCollection_EquipmentRare": ["Reference",2, 4],
+        "itemCollection_EquipmentUncommon": ["Reference",2, 5],
+        "itemCollection_EquipmentCommon": ["Reference",2, 8],
+        "itemCollection_InnerSphere_Medium_Mech_Parts": ["Reference",2, 5],
+        "itemCollection_InnerSphere_Medium_Mechs": ["Reference",2, 5]
+    },
     "minor_Liao": {
-    "GN_Ammo_Common": ["Reference",2, 1],
+            "GN_Ammo_Common": ["Reference",2, 1],
                 "GN_Ammo_CommonII": ["Reference",2, 1],
                 "GN_EngineCore": ["Reference",3, 1],
                 "itemCollection_Weapons_common": ["Reference",4, 6],
                 "itemCollection_Weapons_uncommon": ["Reference",2, 6],
                 "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                "itemCollection_InnerSphere_Medium_Mech_Parts": ["Reference",1, 5],
-                 "itemCollection_InnerSphere_Light_Mech_Parts": ["Reference",2, 5]
+                "itemCollection_EquipmentCommon": ["Reference",2, 8]
     },
 
     "faction_Kurita": {},
     "Honored_Kurita": {},
-    "major_Kurita": {},
+    "major_Kurita":{
+        "GN_Ammo_Common": ["Reference",2, 1],
+        "GN_Ammo_CommonII": ["Reference",2, 1],
+        "itemCollection_HighEndEngines": ["Reference",2, 7],
+        "itemCollection_Weapons_common": ["Reference",2, 6],
+        "itemCollection_Weapons_uncommon": ["Reference",2, 6],
+        "itemCollection_EquipmentRare": ["Reference",2, 4],
+        "itemCollection_EquipmentUncommon": ["Reference",2, 5],
+        "itemCollection_EquipmentCommon": ["Reference",2, 8],
+        "itemCollection_InnerSphere_Medium_Mech_Parts": ["Reference",2, 5],
+        "itemCollection_InnerSphere_Medium_Mechs": ["Reference",2, 5]
+    },
     "minor_Kurita": {
                 "GN_Ammo_Common": ["Reference",2, 1],
                 "GN_Ammo_CommonII": ["Reference",2, 1],
@@ -1171,14 +1240,23 @@ item_Collection = {"Armor": {
                 "itemCollection_Weapons_common": ["Reference",4, 6],
                 "itemCollection_Weapons_uncommon": ["Reference",2, 6],
                 "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                "itemCollection_InnerSphere_Medium_Mech_Parts": ["Reference",1, 5],
-                "itemCollection_InnerSphere_Light_Mech_Parts": ["Reference",2, 5]
+                "itemCollection_EquipmentCommon": ["Reference",2, 8]
     },
 
     "faction_Ives": {},
     "Honored_Ives": {},
-    "major_Ives": {},
+    "major_Ives":{
+        "GN_Ammo_Common": ["Reference",2, 1],
+        "GN_Ammo_CommonII": ["Reference",2, 1],
+        "itemCollection_HighEndEngines": ["Reference",2, 7],
+        "itemCollection_Weapons_common": ["Reference",2, 6],
+        "itemCollection_Weapons_uncommon": ["Reference",2, 6],
+        "itemCollection_EquipmentRare": ["Reference",2, 4],
+        "itemCollection_EquipmentUncommon": ["Reference",2, 5],
+        "itemCollection_EquipmentCommon": ["Reference",2, 8],
+        "itemCollection_InnerSphere_Medium_Mech_Parts": ["Reference",2, 5],
+        "itemCollection_InnerSphere_Medium_Mechs": ["Reference",2, 5]
+    },
     "minor_Ives": {
     "GN_Ammo_Common": ["Reference",2, 1],
                 "GN_Ammo_CommonII": ["Reference",2, 1],
@@ -1186,13 +1264,22 @@ item_Collection = {"Armor": {
                 "itemCollection_Weapons_common": ["Reference",4, 6],
                 "itemCollection_Weapons_uncommon": ["Reference",2, 6],
                 "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                "itemCollection_InnerSphere_Medium_Mech_Parts": ["Reference",1, 5],
-                 "itemCollection_InnerSphere_Light_Mech_Parts": ["Reference",2, 5]
+                "itemCollection_EquipmentCommon": ["Reference",2, 8]
     },
  "faction_Rasalhague": {},
     "Honored_Rasalhague": {},
-    "major_Rasalhague": {},
+    "major_Rasalhague":{
+        "GN_Ammo_Common": ["Reference",2, 1],
+        "GN_Ammo_CommonII": ["Reference",2, 1],
+        "itemCollection_HighEndEngines": ["Reference",2, 7],
+        "itemCollection_Weapons_common": ["Reference",2, 6],
+        "itemCollection_Weapons_uncommon": ["Reference",2, 6],
+        "itemCollection_EquipmentRare": ["Reference",2, 4],
+        "itemCollection_EquipmentUncommon": ["Reference",2, 5],
+        "itemCollection_EquipmentCommon": ["Reference",2, 8],
+        "itemCollection_InnerSphere_Medium_Mech_Parts": ["Reference",2, 5],
+        "itemCollection_InnerSphere_Medium_Mechs": ["Reference",2, 5]
+    },
     "minor_Rasalhague": {
      "GN_Ammo_Common": ["Reference",2, 1],
                 "GN_Ammo_CommonII": ["Reference",2, 1],
@@ -1200,14 +1287,23 @@ item_Collection = {"Armor": {
                 "itemCollection_Weapons_common": ["Reference",4, 6],
                 "itemCollection_Weapons_uncommon": ["Reference",2, 6],
                 "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                "itemCollection_InnerSphere_Medium_Mech_Parts": ["Reference",1, 5],
-                 "itemCollection_InnerSphere_Light_Mech_Parts": ["Reference",2, 5]
+                "itemCollection_EquipmentCommon": ["Reference",2, 8]
     },
 
     "faction_WordOfBlake": {},
     "Honored_WordOfBlake": {},
-    "major_WordOfBlake": {},
+    "major_WordOfBlake":{
+        "GN_Ammo_Common": ["Reference",2, 1],
+        "GN_Ammo_CommonII": ["Reference",2, 1],
+        "itemCollection_HighEndEngines": ["Reference",2, 7],
+        "itemCollection_Weapons_common": ["Reference",2, 6],
+        "itemCollection_Weapons_uncommon": ["Reference",2, 6],
+        "itemCollection_EquipmentRare": ["Reference",2, 4],
+        "itemCollection_EquipmentUncommon": ["Reference",2, 5],
+        "itemCollection_EquipmentCommon": ["Reference",2, 8],
+        "itemCollection_InnerSphere_Medium_Mech_Parts": ["Reference",2, 5],
+        "itemCollection_InnerSphere_Medium_Mechs": ["Reference",2, 5]
+    },
     "minor_WordOfBlake": {
      "GN_Ammo_Common": ["Reference",2, 1],
                 "GN_Ammo_CommonII": ["Reference",2, 1],
@@ -1215,415 +1311,696 @@ item_Collection = {"Armor": {
                 "itemCollection_Weapons_common": ["Reference",4, 6],
                 "itemCollection_Weapons_uncommon": ["Reference",2, 6],
                 "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                "itemCollection_ComStar_Light_Mech_Parts": ["Reference",1, 5],
-                "itemCollection_ComStar_Medium_Mech_Parts": ["Reference",2, 5],
-                "itemCollection_InnerSphere_Light_Mech_Parts": ["Reference",2, 5]
+                "itemCollection_EquipmentCommon": ["Reference",2, 8]
     },
+                                   #-------------------------Periphery Factions--------------------
+#-------------------------Periphery Factions--------------------
+"faction_TaurianConcordat": {},
+"Honored_TaurianConcordat": {
+"itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+"itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+"itemCollection_EquipmentPeripheryRare": ["Reference",1, 8],
+"GN_Ammo_Common": ["Reference",1, 1],
+"item_Collection_InnerSphere_Light_Mechs": ["Reference",1, 8],
+"item_Collection_InnerSphere_Medium_Mechs": ["Reference",1, 8]
+},
+"major_TaurianConcordat": {
+      "itemCollection_Periphery_Light_Mechs": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mechs": ["Reference",1, 8],
+      "itemCollection_Weapons_Periphery": ["Reference",3, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",1, 8],
+      "GN_Ammo_Common": ["Reference",3, 1]
+},
+"minor_TaurianConcordat": {
+"GN_Ammo_Common": ["Reference",2, 1],
+      "GN_Ammo_CommonII": ["Reference",2, 1],
+      "GN_EngineCore": ["Reference",3, 1],
+      "itemCollection_Weapons_Periphery": ["Reference",6, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",1, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",2, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",2, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 8],
+},
+"faction_MagistracyOfCanopus": {},
+"Honored_MagistracyOfCanopus": {
+"itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+"itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+"itemCollection_EquipmentPeripheryRare": ["Reference",1, 8],
+"GN_Ammo_Common": ["Reference",1, 1],
+"item_Collection_InnerSphere_Light_Mechs": ["Reference",1, 8],
+"item_Collection_InnerSphere_Medium_Mechs": ["Reference",1, 8]
+},
+"major_MagistracyOfCanopus": {
+"itemCollection_Periphery_Light_Mechs": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mechs": ["Reference",1, 8],
+      "itemCollection_Weapons_Periphery": ["Reference",3, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",1, 8],
+      "GN_Ammo_Common": ["Reference",3, 1]
+},
+"minor_MagistracyOfCanopus": {
+"GN_Ammo_Common": ["Reference",2, 1],
+      "GN_Ammo_CommonII": ["Reference",2, 1],
+      "GN_EngineCore": ["Reference",3, 1],
+      "itemCollection_Weapons_Periphery": ["Reference",6, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",1, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",2, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",2, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 8],
+},
+"faction_AuriganDirectorate": {},
+"Honored_AuriganDirectorate": {
+"itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+"itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+"itemCollection_EquipmentPeripheryRare": ["Reference",1, 8],
+"GN_Ammo_Common": ["Reference",1, 1],
+"item_Collection_InnerSphere_Light_Mechs": ["Reference",1, 8],
+"item_Collection_InnerSphere_Medium_Mechs": ["Reference",1, 8]
+},
+"major_AuriganDirectorate": {
+"itemCollection_Periphery_Light_Mechs": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mechs": ["Reference",1, 8],
+      "itemCollection_Weapons_Periphery": ["Reference",3, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",1, 8],
+      "GN_Ammo_Common": ["Reference",3, 1]
+},
+"minor_AuriganDirectorate": {
+"GN_Ammo_Common": ["Reference",2, 1],
+      "GN_Ammo_CommonII": ["Reference",2, 1],
+      "GN_EngineCore": ["Reference",3, 1],
+      "itemCollection_Weapons_Periphery": ["Reference",6, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",1, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",2, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",2, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 8],
+},
+"faction_AuriganRestoration": {},
+"Honored_AuriganRestoration": {
+"itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+"itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+"itemCollection_EquipmentPeripheryRare": ["Reference",1, 8],
+"GN_Ammo_Common": ["Reference",1, 1],
+"item_Collection_InnerSphere_Light_Mechs": ["Reference",1, 8],
+"item_Collection_InnerSphere_Medium_Mechs": ["Reference",1, 8]
+},
+"major_AuriganRestoration": {
+"itemCollection_Periphery_Light_Mechs": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mechs": ["Reference",1, 8],
+      "itemCollection_Weapons_Periphery": ["Reference",3, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",1, 8],
+      "GN_Ammo_Common": ["Reference",3, 1]
+},
+"minor_AuriganRestoration": {
+"GN_Ammo_Common": ["Reference",2, 1],
+      "GN_Ammo_CommonII": ["Reference",2, 1],
+      "GN_EngineCore": ["Reference",3, 1],
+      "itemCollection_Weapons_Periphery": ["Reference",6, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",1, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",2, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",2, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 8],
+},
+"faction_Axumite": {},
+"Honored_Axumite": {
+"itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+"itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+"itemCollection_EquipmentPeripheryRare": ["Reference",1, 8],
+"GN_Ammo_Common": ["Reference",1, 1],
+"item_Collection_InnerSphere_Light_Mechs": ["Reference",1, 8],
+"item_Collection_InnerSphere_Medium_Mechs": ["Reference",1, 8]
+},
+"major_Axumite": {
+"itemCollection_Periphery_Light_Mechs": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mechs": ["Reference",1, 8],
+      "itemCollection_Weapons_Periphery": ["Reference",3, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",1, 8],
+      "GN_Ammo_Common": ["Reference",3, 1]
+},
+"minor_Axumite": {  "GN_Ammo_Common": ["Reference",2, 1],
+      "GN_Ammo_CommonII": ["Reference",2, 1],
+      "GN_EngineCore": ["Reference",3, 1],
+      "itemCollection_Weapons_Periphery": ["Reference",6, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",1, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",2, 8],
+      "Periphery_Medium_Mech_Parts": ["Reference",2, 8],
+      "Periphery_Light_Mech_Parts": ["Reference",2, 8]
+       },
 
-    "faction_TaurianConcordat": {},
-    "Honored_TaurianConcordat": {},
-    "major_TaurianConcordat": {},
-    "minor_TaurianConcordat": {
-     "GN_Ammo_Common": ["Reference",2, 1],
-                "GN_Ammo_CommonII": ["Reference",2, 1],
-                "GN_EngineCore": ["Reference",3, 1],
-                "itemCollection_Weapons_common": ["Reference",4, 6],
-                "itemCollection_Weapons_uncommon": ["Reference",2, 6],
-                "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                 "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 5],
-                "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 5]
-    },
+"faction_Castile": {},
+"Honored_Castile": {
+"itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+"itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+"itemCollection_EquipmentPeripheryRare": ["Reference",1, 8],
+"GN_Ammo_Common": ["Reference",1, 1],
+"item_Collection_InnerSphere_Light_Mechs": ["Reference",1, 8],
+"item_Collection_InnerSphere_Medium_Mechs": ["Reference",1, 8]
+},
+"major_Castile": {
+"itemCollection_Periphery_Light_Mechs": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mechs": ["Reference",1, 8],
+      "itemCollection_Weapons_Periphery": ["Reference",3, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",1, 8],
+      "GN_Ammo_Common": ["Reference",3, 1]
+},
+"minor_Castile": {
+"GN_Ammo_Common": ["Reference",2, 1],
+      "GN_Ammo_CommonII": ["Reference",2, 1],
+      "GN_EngineCore": ["Reference",3, 1],
+      "itemCollection_Weapons_Periphery": ["Reference",6, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",1, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",2, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",2, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 8],
+},
+"faction_Chainelane": {},
+"Honored_Chainelane": {
+"itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+"itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+"itemCollection_EquipmentPeripheryRare": ["Reference",1, 8],
+"GN_Ammo_Common": ["Reference",1, 1],
+"item_Collection_InnerSphere_Light_Mechs": ["Reference",1, 8],
+"item_Collection_InnerSphere_Medium_Mechs": ["Reference",1, 8]
+},
+"major_Chainelane": {
+"itemCollection_Periphery_Light_Mechs": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mechs": ["Reference",1, 8],
+      "itemCollection_Weapons_Periphery": ["Reference",3, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",1, 8],
+      "GN_Ammo_Common": ["Reference",3, 1]
+},
+"minor_Chainelane": {
+"GN_Ammo_Common": ["Reference",2, 1],
+      "GN_Ammo_CommonII": ["Reference",2, 1],
+      "GN_EngineCore": ["Reference",3, 1],
+      "itemCollection_Weapons_Periphery": ["Reference",6, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",1, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",2, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",2, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 8],
+},
+"faction_Circinus": {},
+"Honored_Circinus": {
+"itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+"itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+"itemCollection_EquipmentPeripheryRare": ["Reference",1, 8],
+"GN_Ammo_Common": ["Reference",1, 1],
+"item_Collection_InnerSphere_Light_Mechs": ["Reference",1, 8],
+"item_Collection_InnerSphere_Medium_Mechs": ["Reference",1, 8]
+},
+"major_Circinus": {
+"itemCollection_Periphery_Light_Mechs": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mechs": ["Reference",1, 8],
+      "itemCollection_Weapons_Periphery": ["Reference",3, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",1, 8],
+      "GN_Ammo_Common": ["Reference",3, 1]
+},
+"minor_Circinus": {
+"GN_Ammo_Common": ["Reference",2, 1],
+      "GN_Ammo_CommonII": ["Reference",2, 1],
+      "GN_EngineCore": ["Reference",3, 1],
+      "itemCollection_Weapons_Periphery": ["Reference",6, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",1, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",2, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",2, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 8],
+},
+"faction_Delphi": {},
+"Honored_Delphi": {
+"itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+"itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+"itemCollection_EquipmentPeripheryRare": ["Reference",1, 8],
+"GN_Ammo_Common": ["Reference",1, 1],
+"item_Collection_InnerSphere_Light_Mechs": ["Reference",1, 8],
+"item_Collection_InnerSphere_Medium_Mechs": ["Reference",1, 8]
+},
+"major_Delphi": {
+"itemCollection_Periphery_Light_Mechs": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mechs": ["Reference",1, 8],
+      "itemCollection_Weapons_Periphery": ["Reference",3, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",1, 8],
+      "GN_Ammo_Common": ["Reference",3, 1]
+},
+"minor_Delphi": {
+"GN_Ammo_Common": ["Reference",2, 1],
+      "GN_Ammo_CommonII": ["Reference",2, 1],
+      "GN_EngineCore": ["Reference",3, 1],
+      "itemCollection_Weapons_Periphery": ["Reference",6, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",1, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",2, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",2, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 8],
+},
+"faction_Elysia": {},
+"Honored_Elysia": {
+"itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+"itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+"itemCollection_EquipmentPeripheryRare": ["Reference",1, 8],
+"GN_Ammo_Common": ["Reference",1, 1],
+"item_Collection_InnerSphere_Light_Mechs": ["Reference",1, 8],
+"item_Collection_InnerSphere_Medium_Mechs": ["Reference",1, 8]
+},
+"major_Elysia": {
+"itemCollection_Periphery_Light_Mechs": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mechs": ["Reference",1, 8],
+      "itemCollection_Weapons_Periphery": ["Reference",3, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",1, 8],
+      "GN_Ammo_Common": ["Reference",3, 1]
+},
+"minor_Elysia": {
+"GN_Ammo_Common": ["Reference",2, 1],
+      "GN_Ammo_CommonII": ["Reference",2, 1],
+      "GN_EngineCore": ["Reference",3, 1],
+      "itemCollection_Weapons_Periphery": ["Reference",6, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",1, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",2, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",2, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 8],
+},
+"faction_Hanse": {},
+"Honored_Hanse": {
+"itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+"itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+"itemCollection_EquipmentPeripheryRare": ["Reference",1, 8],
+"GN_Ammo_Common": ["Reference",1, 1],
+"item_Collection_InnerSphere_Light_Mechs": ["Reference",1, 8],
+"item_Collection_InnerSphere_Medium_Mechs": ["Reference",1, 8]
+},
+"major_Hanse": {
+"itemCollection_Periphery_Light_Mechs": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mechs": ["Reference",1, 8],
+      "itemCollection_Weapons_Periphery": ["Reference",3, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",1, 8],
+      "GN_Ammo_Common": ["Reference",3, 1]
+},
+"minor_Hanse": {
+"GN_Ammo_Common": ["Reference",2, 1],
+      "GN_Ammo_CommonII": ["Reference",2, 1],
+      "GN_EngineCore": ["Reference",3, 1],
+      "itemCollection_Weapons_Periphery": ["Reference",6, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",1, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",2, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",2, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 8],
+},
+"faction_Illyrian": {},
+"Honored_Illyrian": {
+"itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+"itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+"itemCollection_EquipmentPeripheryRare": ["Reference",1, 8],
+"GN_Ammo_Common": ["Reference",1, 1],
+"item_Collection_InnerSphere_Light_Mechs": ["Reference",1, 8],
+"item_Collection_InnerSphere_Medium_Mechs": ["Reference",1, 8]
+},
+"major_Illyrian": {
+"itemCollection_Periphery_Light_Mechs": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mechs": ["Reference",1, 8],
+      "itemCollection_Weapons_Periphery": ["Reference",3, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",1, 8],
+      "GN_Ammo_Common": ["Reference",3, 1]
+},
+"minor_Illyrian": {
+"GN_Ammo_Common": ["Reference",2, 1],
+      "GN_Ammo_CommonII": ["Reference",2, 1],
+      "GN_EngineCore": ["Reference",3, 1],
+      "itemCollection_Weapons_Periphery": ["Reference",6, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",1, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",2, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",2, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 8],
+},
+"faction_JarnFolk": {},
+"Honored_JarnFolk": {
+"itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+"itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+"itemCollection_EquipmentPeripheryRare": ["Reference",1, 8],
+"GN_Ammo_Common": ["Reference",1, 1],
+"item_Collection_InnerSphere_Light_Mechs": ["Reference",1, 8],
+"item_Collection_InnerSphere_Medium_Mechs": ["Reference",1, 8]
+},
+"major_JarnFolk": {
+"itemCollection_Periphery_Light_Mechs": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mechs": ["Reference",1, 8],
+      "itemCollection_Weapons_Periphery": ["Reference",3, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",1, 8],
+      "GN_Ammo_Common": ["Reference",3, 1]
+},
+"minor_JarnFolk": {
+"GN_Ammo_Common": ["Reference",2, 1],
+      "GN_Ammo_CommonII": ["Reference",2, 1],
+      "GN_EngineCore": ["Reference",3, 1],
+      "itemCollection_Weapons_Periphery": ["Reference",6, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",1, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",2, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",2, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 8],
+},
+"faction_Lothian": {},
+"Honored_Lothian": {
+"itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+"itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+"itemCollection_EquipmentPeripheryRare": ["Reference",1, 8],
+"GN_Ammo_Common": ["Reference",1, 1],
+"item_Collection_InnerSphere_Light_Mechs": ["Reference",1, 8],
+"item_Collection_InnerSphere_Medium_Mechs": ["Reference",1, 8]
+},
+"major_Lothian": {
+"itemCollection_Periphery_Light_Mechs": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mechs": ["Reference",1, 8],
+      "itemCollection_Weapons_Periphery": ["Reference",3, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",1, 8],
+      "GN_Ammo_Common": ["Reference",3, 1]
+},
+"minor_Lothian": {
+"GN_Ammo_Common": ["Reference",2, 1],
+      "GN_Ammo_CommonII": ["Reference",2, 1],
+      "GN_EngineCore": ["Reference",3, 1],
+      "itemCollection_Weapons_Periphery": ["Reference",6, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",1, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",2, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",2, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 8],
+},
+"faction_Marian": {},
+"Honored_Marian": {
+"itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+"itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+"itemCollection_EquipmentPeripheryRare": ["Reference",1, 8],
+"GN_Ammo_Common": ["Reference",1, 1],
+"item_Collection_InnerSphere_Light_Mechs": ["Reference",1, 8],
+"item_Collection_InnerSphere_Medium_Mechs": ["Reference",1, 8]
+},
+"major_Marian": {
+"itemCollection_Periphery_Light_Mechs": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mechs": ["Reference",1, 8],
+      "itemCollection_Weapons_Periphery": ["Reference",3, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",1, 8],
+      "GN_Ammo_Common": ["Reference",3, 1]
+},
+"minor_Marian": {
+"GN_Ammo_Common": ["Reference",2, 1],
+      "GN_Ammo_CommonII": ["Reference",2, 1],
+      "GN_EngineCore": ["Reference",3, 1],
+      "itemCollection_Weapons_Periphery": ["Reference",6, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",1, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",2, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",2, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 8],
+},
+"faction_Oberon": {},
+"Honored_Oberon": {
+"itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+"itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+"itemCollection_EquipmentPeripheryRare": ["Reference",1, 8],
+"GN_Ammo_Common": ["Reference",1, 1],
+"item_Collection_InnerSphere_Light_Mechs": ["Reference",1, 8],
+"item_Collection_InnerSphere_Medium_Mechs": ["Reference",1, 8]
+},
+"major_Oberon": {
+"itemCollection_Periphery_Light_Mechs": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mechs": ["Reference",1, 8],
+      "itemCollection_Weapons_Periphery": ["Reference",3, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",1, 8],
+      "GN_Ammo_Common": ["Reference",3, 1]
+},
+"minor_Oberon": {
+"GN_Ammo_Common": ["Reference",2, 1],
+      "GN_Ammo_CommonII": ["Reference",2, 1],
+      "GN_EngineCore": ["Reference",3, 1],
+      "itemCollection_Weapons_Periphery": ["Reference",6, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",1, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",2, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",2, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 8],
+},
+"faction_Outworld": {},
+"Honored_Outworld": {
+"itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+"itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+"itemCollection_EquipmentPeripheryRare": ["Reference",1, 8],
+"GN_Ammo_Common": ["Reference",1, 1],
+"item_Collection_InnerSphere_Light_Mechs": ["Reference",1, 8],
+"item_Collection_InnerSphere_Medium_Mechs": ["Reference",1, 8]
+},
+"major_Outworld": {
+"itemCollection_Periphery_Light_Mechs": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mechs": ["Reference",1, 8],
+      "itemCollection_Weapons_Periphery": ["Reference",3, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",1, 8],
+      "GN_Ammo_Common": ["Reference",3, 1]
+},
+"minor_Outworld": {
+"GN_Ammo_Common": ["Reference",2, 1],
+      "GN_Ammo_CommonII": ["Reference",2, 1],
+      "GN_EngineCore": ["Reference",3, 1],
+      "itemCollection_Weapons_Periphery": ["Reference",6, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",1, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",2, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",2, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 8],
+},
+"faction_Tortuga": {},
+"Honored_Tortuga": {
+"itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+"itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+"itemCollection_EquipmentPeripheryRare": ["Reference",1, 8],
+"GN_Ammo_Common": ["Reference",1, 1],
+"item_Collection_InnerSphere_Light_Mechs": ["Reference",1, 8],
+"item_Collection_InnerSphere_Medium_Mechs": ["Reference",1, 8]
+},
+"major_Tortuga": {
+"itemCollection_Periphery_Light_Mechs": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mechs": ["Reference",1, 8],
+      "itemCollection_Weapons_Periphery": ["Reference",3, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",1, 8],
+      "GN_Ammo_Common": ["Reference",3, 1]
+},
+"minor_Tortuga": {
+"GN_Ammo_Common": ["Reference",2, 1],
+      "GN_Ammo_CommonII": ["Reference",2, 1],
+      "GN_EngineCore": ["Reference",3, 1],
+      "itemCollection_Weapons_Periphery": ["Reference",6, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",1, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",2, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",2, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 8],
+},
+"faction_Valkyrate": {},
+"Honored_Valkyrate": {
+"itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+"itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+"itemCollection_EquipmentPeripheryRare": ["Reference",1, 8],
+"GN_Ammo_Common": ["Reference",1, 1],
+"item_Collection_InnerSphere_Light_Mechs": ["Reference",1, 8],
+"item_Collection_InnerSphere_Medium_Mechs": ["Reference",1, 8]
+},
+"major_Valkyrate": {
+"itemCollection_Periphery_Light_Mechs": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mechs": ["Reference",1, 8],
+      "itemCollection_Weapons_Periphery": ["Reference",3, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",1, 8],
+      "GN_Ammo_Common": ["Reference",3, 1]
+},
+"minor_Valkyrate": {
+"GN_Ammo_Common": ["Reference",2, 1],
+      "GN_Ammo_CommonII": ["Reference",2, 1],
+      "GN_EngineCore": ["Reference",3, 1],
+      "itemCollection_Weapons_Periphery": ["Reference",6, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",1, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",2, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",2, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 8],
+},
+"faction_Rim": {},
+"Honored_Rim": {
+"itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+"itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+"itemCollection_EquipmentPeripheryRare": ["Reference",1, 8],
+"GN_Ammo_Common": ["Reference",1, 1],
+"item_Collection_InnerSphere_Light_Mechs": ["Reference",1, 8],
+"item_Collection_InnerSphere_Medium_Mechs": ["Reference",1, 8]
+},
+"major_Rim": {
+"itemCollection_Periphery_Light_Mechs": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mechs": ["Reference",1, 8],
+      "itemCollection_Weapons_Periphery": ["Reference",3, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",2, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",1, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",1, 8],
+      "GN_Ammo_Common": ["Reference",3, 1]
+},
+"minor_Rim": {
+"GN_Ammo_Common": ["Reference",2, 1],
+      "GN_Ammo_CommonII": ["Reference",2, 1],
+      "GN_EngineCore": ["Reference",3, 1],
+      "itemCollection_Weapons_Periphery": ["Reference",6, 6],
+      "itemCollection_EquipmentPeripheryUncommon": ["Reference",1, 5],
+      "itemCollection_EquipmentPeripheryCommon": ["Reference",2, 8],
+      "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",2, 8],
+      "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 8],
+},
 
-    "faction_MagistracyOfCanopus": {},
-    "Honored_MagistracyOfCanopus": {},
-    "major_MagistracyOfCanopus": {},
-    "minor_MagistracyOfCanopus": {
-     "GN_Ammo_Common": ["Reference",2, 1],
-                "GN_Ammo_CommonII": ["Reference",2, 1],
-                "GN_EngineCore": ["Reference",3, 1],
-                "itemCollection_Weapons_common": ["Reference",4, 6],
-                "itemCollection_Weapons_uncommon": ["Reference",2, 6],
-                "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                 "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 5],
-                "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 5]
-    },
+   "faction_ClanBurrock": {},
+"Honored_ClanBurrock": {},
+"major_ClanBurrock": {},
+"minor_ClanBurrock": {},
 
-    "faction_AuriganDirectorate": {},
-    "Honored_AuriganDirectorate": {},
-    "major_AuriganDirectorate": {},
-    "minor_AuriganDirectorate": {
-     "GN_Ammo_Common": ["Reference",2, 1],
-                "GN_Ammo_CommonII": ["Reference",2, 1],
-                "GN_EngineCore": ["Reference",3, 1],
-                "itemCollection_Weapons_common": ["Reference",4, 6],
-                "itemCollection_Weapons_uncommon": ["Reference",2, 6],
-                "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                 "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 5],
-                "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 5]
-    },
+"faction_ClanCloudCobra": {},
+"Honored_ClanCloudCobra": {},
+"major_ClanCloudCobra": {},
+"minor_ClanCloudCobra": {},
 
-    "faction_AuriganRestoration": {},
-    "Honored_AuriganRestoration": {},
-    "major_AuriganRestoration": {},
-    "minor_AuriganRestoration": {
-     "GN_Ammo_Common": ["Reference",2, 1],
-                "GN_Ammo_CommonII": ["Reference",2, 1],
-                "GN_EngineCore": ["Reference",3, 1],
-                "itemCollection_Weapons_common": ["Reference",4, 6],
-                "itemCollection_Weapons_uncommon": ["Reference",2, 6],
-                "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                 "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 5],
-                "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 5]
-    },
+"faction_ClanCoyote": {},
+"Honored_ClanCoyote": {},
+"major_ClanCoyote": {},
+"minor_ClanCoyote": {},
 
-    "faction_Axumite": {},
-    "Honored_Axumite": {},
-    "major_Axumite": {},
-    "minor_Axumite": { "GN_Ammo_Common": ["Reference",2, 1],
-                "GN_Ammo_CommonII": ["Reference",2, 1],
-                "GN_EngineCore": ["Reference",3, 1],
-                "itemCollection_Weapons_common": ["Reference",4, 6],
-                "itemCollection_Weapons_uncommon": ["Reference",2, 6],
-                "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                 "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 5],
-                "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 5]
-                 },
-    
-    "faction_Castile": {},
-    "Honored_Castile": {},
-    "major_Castile": {},
-    "minor_Castile": {
-     "GN_Ammo_Common": ["Reference",2, 1],
-                "GN_Ammo_CommonII": ["Reference",2, 1],
-                "GN_EngineCore": ["Reference",3, 1],
-                "itemCollection_Weapons_common": ["Reference",4, 6],
-                "itemCollection_Weapons_uncommon": ["Reference",2, 6],
-                "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                 "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 5],
-                "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 5]
-    },
+"faction_ClanDiamondShark": {},
+"Honored_ClanDiamondShark": {},
+"major_ClanDiamondShark": {},
+"minor_ClanDiamondShark": {},
 
-    "faction_Chainelane": {},
-    "Honored_Chainelane": {},
-    "major_Chainelane": {},
-    "minor_Chainelane": {
-     "GN_Ammo_Common": ["Reference",2, 1],
-                "GN_Ammo_CommonII": ["Reference",2, 1],
-                "GN_EngineCore": ["Reference",3, 1],
-                "itemCollection_Weapons_common": ["Reference",4, 6],
-                "itemCollection_Weapons_uncommon": ["Reference",2, 6],
-                "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                 "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 5],
-                "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 5]
-    },
+"faction_ClanFireMandrill": {},
+"Honored_ClanFireMandrill": {},
+"major_ClanFireMandrill": {},
+"minor_ClanFireMandrill": {},
 
-    "faction_Circinus": {},
-    "Honored_Circinus": {},
-    "major_Circinus": {},
-    "minor_Circinus": {
-     "GN_Ammo_Common": ["Reference",2, 1],
-                "GN_Ammo_CommonII": ["Reference",2, 1],
-                "GN_EngineCore": ["Reference",3, 1],
-                "itemCollection_Weapons_common": ["Reference",4, 6],
-                "itemCollection_Weapons_uncommon": ["Reference",2, 6],
-                "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                 "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 5],
-                "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 5]
-    },
+"faction_ClanGhostBear": {},
+"Honored_ClanGhostBear": {},
+"major_ClanGhostBear": {},
+"minor_ClanGhostBear": {},
 
-    "faction_Delphi": {},
-    "Honored_Delphi": {},
-    "major_Delphi": {},
-    "minor_Delphi": {
-     "GN_Ammo_Common": ["Reference",2, 1],
-                "GN_Ammo_CommonII": ["Reference",2, 1],
-                "GN_EngineCore": ["Reference",3, 1],
-                "itemCollection_Weapons_common": ["Reference",4, 6],
-                "itemCollection_Weapons_uncommon": ["Reference",2, 6],
-                "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                 "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 5],
-                "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 5]
-    },
+"faction_ClanGoliathScorpion": {},
+"Honored_ClanGoliathScorpion": {},
+"major_ClanGoliathScorpion": {},
+"minor_ClanGoliathScorpion": {},
 
-    "faction_Elysia": {},
-    "Honored_Elysia": {},
-    "major_Elysia": {},
-    "minor_Elysia": {
-     "GN_Ammo_Common": ["Reference",2, 1],
-                "GN_Ammo_CommonII": ["Reference",2, 1],
-                "GN_EngineCore": ["Reference",3, 1],
-                "itemCollection_Weapons_common": ["Reference",4, 6],
-                "itemCollection_Weapons_uncommon": ["Reference",2, 6],
-                "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                 "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 5],
-                "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 5]
-    },
+"faction_ClanHellsHorses": {},
+"Honored_ClanHellsHorses": {},
+"major_ClanHellsHorses": {},
+"minor_ClanHellsHorses": {},
 
-    "faction_Hanse": {},
-    "Honored_Hanse": {},
-    "major_Hanse": {},
-    "minor_Hanse": {
-     "GN_Ammo_Common": ["Reference",2, 1],
-                "GN_Ammo_CommonII": ["Reference",2, 1],
-                "GN_EngineCore": ["Reference",3, 1],
-                "itemCollection_Weapons_common": ["Reference",4, 6],
-                "itemCollection_Weapons_uncommon": ["Reference",2, 6],
-                "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                 "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 5],
-                "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 5]
-    },
+"faction_ClanIceHellion": {},
+"Honored_ClanIceHellion": {},
+"major_ClanIceHellion": {},
+"minor_ClanIceHellion": {},
 
-    "faction_Illyrian": {},
-    "Honored_Illyrian": {},
-    "major_Illyrian": {},
-    "minor_Illyrian": {
-     "GN_Ammo_Common": ["Reference",2, 1],
-                "GN_Ammo_CommonII": ["Reference",2, 1],
-                "GN_EngineCore": ["Reference",3, 1],
-                "itemCollection_Weapons_common": ["Reference",4, 6],
-                "itemCollection_Weapons_uncommon": ["Reference",2, 6],
-                "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                 "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 5],
-                "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 5]
-    },
+"faction_ClanJadeFalcon": {},
+"Honored_ClanJadeFalcon": {},
+"major_ClanJadeFalcon": {},
+"minor_ClanJadeFalcon": {},
 
-    "faction_JarnFolk": {},
-    "Honored_JarnFolk": {},
-    "major_JarnFolk": {},
-    "minor_JarnFolk": {
-     "GN_Ammo_Common": ["Reference",2, 1],
-                "GN_Ammo_CommonII": ["Reference",2, 1],
-                "GN_EngineCore": ["Reference",3, 1],
-                "itemCollection_Weapons_common": ["Reference",4, 6],
-                "itemCollection_Weapons_uncommon": ["Reference",2, 6],
-                "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                 "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 5],
-                "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 5]
-    },
+"faction_ClanNovaCat": {},
+"Honored_ClanNovaCat": {},
+"major_ClanNovaCat": {},
+"minor_ClanNovaCat": {},
 
-    "faction_Lothian": {},
-    "Honored_Lothian": {},
-    "major_Lothian": {},
-    "minor_Lothian": {
-     "GN_Ammo_Common": ["Reference",2, 1],
-                "GN_Ammo_CommonII": ["Reference",2, 1],
-                "GN_EngineCore": ["Reference",3, 1],
-                "itemCollection_Weapons_common": ["Reference",4, 6],
-                "itemCollection_Weapons_uncommon": ["Reference",2, 6],
-                "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                 "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 5],
-                "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 5]
-    },
+"faction_ClansGeneric": {},
+"Honored_ClansGeneric": {},
+"major_ClansGeneric": {},
+"minor_ClansGeneric": {},
 
-    "faction_Marian": {},
-    "Honored_Marian": {},
-    "major_Marian": {},
-    "minor_Marian": {
-     "GN_Ammo_Common": ["Reference",2, 1],
-                "GN_Ammo_CommonII": ["Reference",2, 1],
-                "GN_EngineCore": ["Reference",3, 1],
-                "itemCollection_Weapons_common": ["Reference",4, 6],
-                "itemCollection_Weapons_uncommon": ["Reference",2, 6],
-                "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                 "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 5],
-                "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 5]
-    },
+"faction_ClanSmokeJaguar": {},
+"Honored_ClanSmokeJaguar": {},
+"major_ClanSmokeJaguar": {},
+"minor_ClanSmokeJaguar": {},
 
-    "faction_Oberon": {},
-    "Honored_Oberon": {},
-    "major_Oberon": {},
-    "minor_Oberon": {
-     "GN_Ammo_Common": ["Reference",2, 1],
-                "GN_Ammo_CommonII": ["Reference",2, 1],
-                "GN_EngineCore": ["Reference",3, 1],
-                "itemCollection_Weapons_common": ["Reference",4, 6],
-                "itemCollection_Weapons_uncommon": ["Reference",2, 6],
-                "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                 "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 5],
-                "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 5]
-    },
+"faction_ClanSnowRaven": {},
+"Honored_ClanSnowRaven": {},
+"major_ClanSnowRaven": {},
+"minor_ClanSnowRaven": {},
 
-    "faction_Outworld": {},
-    "Honored_Outworld": {},
-    "major_Outworld": {},
-    "minor_Outworld": {
-     "GN_Ammo_Common": ["Reference",2, 1],
-                "GN_Ammo_CommonII": ["Reference",2, 1],
-                "GN_EngineCore": ["Reference",3, 1],
-                "itemCollection_Weapons_common": ["Reference",4, 6],
-                "itemCollection_Weapons_uncommon": ["Reference",2, 6],
-                "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                 "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 5],
-                "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 5]
-    },
-    "faction_Tortuga": {},
-    "Honored_Tortuga": {},
-    "major_Tortuga": {},
-    "minor_Tortuga": {
-     "GN_Ammo_Common": ["Reference",2, 1],
-                "GN_Ammo_CommonII": ["Reference",2, 1],
-                "GN_EngineCore": ["Reference",3, 1],
-                "itemCollection_Weapons_common": ["Reference",4, 6],
-                "itemCollection_Weapons_uncommon": ["Reference",2, 6],
-                "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                 "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 5],
-                "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 5]
-    },
+"faction_ClanStarAdder": {},
+"Honored_ClanStarAdder": {},
+"major_ClanStarAdder": {},
+"minor_ClanStarAdder": {},
 
-    "faction_Valkyrate": {},
-    "Honored_Valkyrate": {},
-    "major_Valkyrate": {},
-    "minor_Valkyrate": {
-     "GN_Ammo_Common": ["Reference",2, 1],
-                "GN_Ammo_CommonII": ["Reference",2, 1],
-                "GN_EngineCore": ["Reference",3, 1],
-                "itemCollection_Weapons_common": ["Reference",4, 6],
-                "itemCollection_Weapons_uncommon": ["Reference",2, 6],
-                "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                 "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 5],
-                "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 5]
-    },
+"faction_ClanSteelViper": {},
+"Honored_ClanSteelViper": {},
+"major_ClanSteelViper": {},
+"minor_ClanSteelViper": {},
 
-    "faction_Rim": {},
-    "Honored_Rim": {},
-    "major_Rim": {},
-    "minor_Rim": {
-     "GN_Ammo_Common": ["Reference",2, 1],
-                "GN_Ammo_CommonII": ["Reference",2, 1],
-                "GN_EngineCore": ["Reference",3, 1],
-                "itemCollection_Weapons_common": ["Reference",4, 6],
-                "itemCollection_Weapons_uncommon": ["Reference",2, 6],
-                "itemCollection_EquipmentUncommon": ["Reference",1, 5],
-                "itemCollection_EquipmentCommon": ["Reference",2, 8],
-                 "itemCollection_Periphery_Medium_Mech_Parts": ["Reference",1, 5],
-                "itemCollection_Periphery_Light_Mech_Parts": ["Reference",2, 5]
-    },
-
-    "faction_ClanBurrock": {},
-    "Honored_ClanBurrock": {},
-    "major_ClanBurrock": {},
-    "minor_ClanBurrock": {},
-
-    "faction_ClanCloudCobra": {},
-    "Honored_ClanCloudCobra": {},
-    "major_ClanCloudCobra": {},
-    "minor_ClanCloudCobra": {},
-
-    "faction_ClanCoyote": {},
-    "Honored_ClanCoyote": {},
-    "major_ClanCoyote": {},
-    "minor_ClanCoyote": {},
-
-    "faction_ClanDiamondShark": {},
-    "Honored_ClanDiamondShark": {},
-    "major_ClanDiamondShark": {},
-    "minor_ClanDiamondShark": {},
-
-    "faction_ClanFireMandrill": {},
-    "Honored_ClanFireMandrill": {},
-    "major_ClanFireMandrill": {},
-    "minor_ClanFireMandrill": {},
-
-    "faction_ClanGhostBear": {},
-    "Honored_ClanGhostBear": {},
-    "major_ClanGhostBear": {},
-    "minor_ClanGhostBear": {},
-
-    "faction_ClanGoliathScorpion": {},
-    "Honored_ClanGoliathScorpion": {},
-    "major_ClanGoliathScorpion": {},
-    "minor_ClanGoliathScorpion": {},
-
-    "faction_ClanHellsHorses": {},
-    "Honored_ClanHellsHorses": {},
-    "major_ClanHellsHorses": {},
-    "minor_ClanHellsHorses": {},
-
-    "faction_ClanIceHellion": {},
-    "Honored_ClanIceHellion": {},
-    "major_ClanIceHellion": {},
-    "minor_ClanIceHellion": {},
-
-    "faction_ClanJadeFalcon": {},
-    "Honored_ClanJadeFalcon": {},
-    "major_ClanJadeFalcon": {},
-    "minor_ClanJadeFalcon": {},
-
-    "faction_ClanNovaCat": {},
-    "Honored_ClanNovaCat": {},
-    "major_ClanNovaCat": {},
-    "minor_ClanNovaCat": {},
-
-    "faction_ClansGeneric": {},
-    "Honored_ClansGeneric": {},
-    "major_ClansGeneric": {},
-    "minor_ClansGeneric": {},
-
-    "faction_ClanSmokeJaguar": {},
-    "Honored_ClanSmokeJaguar": {},
-    "major_ClanSmokeJaguar": {},
-    "minor_ClanSmokeJaguar": {},
-
-    "faction_ClanSnowRaven": {},
-    "Honored_ClanSnowRaven": {},
-    "major_ClanSnowRaven": {},
-    "minor_ClanSnowRaven": {},
-
-    "faction_ClanStarAdder": {},
-    "Honored_ClanStarAdder": {},
-    "major_ClanStarAdder": {},
-    "minor_ClanStarAdder": {},
-
-    "faction_ClanSteelViper": {},
-    "Honored_ClanSteelViper": {},
-    "major_ClanSteelViper": {},
-    "minor_ClanSteelViper": {},
-
-    "faction_ClanWolf": {},
-    "Honored_ClanWolf": {},
-    "major_ClanWolf": {},
-    "minor_ClanWolf": {}
-    }
+"faction_ClanWolf": {},
+"Honored_ClanWolf": {},
+"major_ClanWolf": {},
+"minor_ClanWolf": {}
+}
 script_dir = os.path.dirname(os.path.abspath(__file__))
 new_folder = "data"
 output_directory = os.path.join(script_dir, new_folder)
 os.makedirs(output_directory, exist_ok=True)
 for category in categories:
-# Loop through the categories
-  for category, subcategories in categories.items():
-    # Loop through subcategories
-    for subcategory, items in subcategories.items():
-        # Check if the subcategory is not empty
-        if items:
-            # Create a CSV file for each non-empty subcategory
-            file_path = f"{output_directory}/GN_{subcategory}.csv"
-            with open(file_path, 'w', newline='') as csvfile:
-                csvwriter = csv.writer(csvfile)
-                csvwriter.writerow([f"GN_{category}_{subcategory}", '', '', ''])
-                # Write the items within the current subcategory into the corresponding CSV file
-                for item, values in items.items():
-                    csvwriter.writerow([item, category] + values)
-            
+    # Loop through the categories
+    for category, subcategories in categories.items():
+        # Loop through subcategories
+        for subcategory, items in subcategories.items():
+            # Check if the subcategory is not empty
+            if items:
+                # Create a CSV file for each non-empty subcategory
+                file_path = f"{output_directory}/GN_{subcategory}.csv"
+                with open(file_path, 'w', newline='') as csvfile:
+                    csvwriter = csv.writer(csvfile)
+                    csvwriter.writerow([f"GN_{category}_{subcategory}", '', '', ''])
+                    # Write the items within the current subcategory into the corresponding CSV file
+                    for item, values in items.items():
+                        csvwriter.writerow([item, category] + values)
+
 
 # Second loop output in a subfolder inside the first loop's output directory
 data_folder = os.path.join(output_directory)
@@ -1631,7 +2008,7 @@ os.makedirs(data_folder, exist_ok=True)
 
 for main_category, subcategories in item_Collection.items():
     if isinstance(subcategories, dict) and len(subcategories) > 0:
-        if main_category in ["Liked_InnerSphere","Liked_Periphery", "Liked_Clans","Honored_ComStar"]:
+        if main_category in ["Liked_InnerSphere", "Liked_Periphery", "Liked_Clans", "Honored_ComStar"]:
             file_path = f"{output_directory}\\GN_{main_category}.csv"
         else:
             file_path = f"{data_folder}\\itemCollection_{main_category}.csv"
@@ -1645,3 +2022,4 @@ for main_category, subcategories in item_Collection.items():
                 
             for item, values in subcategories.items():
                 csvwriter.writerow([item] + values)
+
